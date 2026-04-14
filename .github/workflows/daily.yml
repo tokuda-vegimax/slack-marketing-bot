@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'   # 毎日 00:00 UTC = 09:00 JST
   workflow_dispatch:        # 手動実行ボタンも有効化
 
+permissions:
+  contents: write           # docs/ と sent_articles.json をコミットするため
+
 jobs:
   notify:
     runs-on: ubuntu-latest
@@ -24,5 +27,15 @@ jobs:
       - name: Run bot
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
         run: npm start
+
+      - name: Commit dashboard and sent_articles
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html docs/.nojekyll sent_articles.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "🤖 Update dashboard $(date -u '+%Y-%m-%d')"
+          git push
