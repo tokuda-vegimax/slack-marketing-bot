@@ -399,6 +399,13 @@ async function postParentMessage(count) {
             text: `${today} ｜ 運用型広告実務担当者向け厳選記事 スコア上位${count}件`,
           }],
         },
+        {
+          type: 'section',
+          text: {
+            type: 'mrkdwn',
+            text: `詳細はダッシュボードで確認→ <https://tokuda-vegimax.github.io/slack-marketing-bot/|📊 Marketing News Dashboard>`,
+          },
+        },
       ],
     },
     { headers: slackHeaders(), timeout: 10000 }
