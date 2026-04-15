@@ -6,161 +6,87 @@
 <title>マーケティングニュース ダッシュボード</title>
 <style>
   :root {
-    --bg: #f0f2f5; --card: #ffffff; --text: #1a1a2e; --sub: #555;
-    --accent: #4361ee; --border: #e0e0e0;
-    --score-high: #22c55e; --score-mid: #f59e0b; --score-low: #ef4444;
-    --header-bg: #1a1a2e; --header-text: #fff;
-    --filter-bg: #e8ecff; --filter-active: #4361ee; --filter-active-text: #fff;
+    --bg:#f0f2f5;--card:#fff;--text:#1a1a2e;--sub:#555;--accent:#4361ee;--border:#e0e0e0;
+    --score-high:#22c55e;--score-mid:#f59e0b;--score-low:#ef4444;
+    --header-bg:#1a1a2e;--header-text:#fff;
+    --filter-bg:#e8ecff;--filter-active:#4361ee;--filter-active-text:#fff;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #0f0f1a; --card: #1e1e30; --text: #e8e8f0; --sub: #9090b0;
-      --accent: #7b93ff; --border: #2e2e48;
-      --header-bg: #0a0a18; --header-text: #e8e8f0;
-      --filter-bg: #2a2a44; --filter-active: #7b93ff; --filter-active-text: #0f0f1a;
-    }
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif;
-         background: var(--bg); color: var(--text); min-height: 100vh; }
-  header { background: var(--header-bg); color: var(--header-text); padding: 20px 24px;
-           display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
-  header h1 { font-size: 1.3rem; font-weight: 700; }
-  header p  { font-size: 0.85rem; opacity: 0.7; }
-  .dark-toggle { background: transparent; border: 1px solid rgba(255,255,255,0.3);
-                 color: var(--header-text); padding: 6px 12px; border-radius: 20px;
-                 cursor: pointer; font-size: 0.8rem; }
-  .controls { padding: 16px 24px; background: var(--card); border-bottom: 1px solid var(--border);
-              display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-  .controls span { font-size: 0.8rem; color: var(--sub); margin-right: 4px; }
-  .filter-btn { padding: 5px 14px; border-radius: 20px; border: 1px solid var(--border);
-                background: var(--filter-bg); color: var(--text); cursor: pointer;
-                font-size: 0.8rem; transition: all 0.15s; white-space: nowrap; }
-  .filter-btn.active { background: var(--filter-active); color: var(--filter-active-text);
-                       border-color: var(--filter-active); }
-  .stats { margin-left: auto; font-size: 0.8rem; color: var(--sub); }
-  .grid { display: grid; padding: 20px 24px; gap: 16px;
-          grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
-  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
-          padding: 18px; display: flex; flex-direction: column; gap: 10px;
-          transition: box-shadow 0.2s; }
-  .card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.12); }
-  .card-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
-  .source-badge { font-size: 0.72rem; font-weight: 600; padding: 3px 10px; border-radius: 12px;
-                  background: var(--filter-bg); color: var(--accent); white-space: nowrap; max-width: 160px;
-                  overflow: hidden; text-overflow: ellipsis; }
-  .score-badge { font-size: 0.8rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; color: #fff;
-                 white-space: nowrap; flex-shrink: 0; }
-  .score-high { background: var(--score-high); }
-  .score-mid  { background: var(--score-mid); }
-  .score-low  { background: var(--score-low); }
-  .card-title { font-size: 0.95rem; font-weight: 600; line-height: 1.4; }
-  .card-title a { color: var(--text); text-decoration: none; }
-  .card-title a:hover { color: var(--accent); text-decoration: underline; }
-  .card-stars { font-size: 0.85rem; color: #f59e0b; letter-spacing: 1px; }
-  .card-reason { font-size: 0.78rem; color: var(--sub); font-style: italic; }
-  .card-summary { font-size: 0.82rem; color: var(--sub); line-height: 1.6;
-                  border-left: 3px solid var(--border); padding-left: 10px; }
-  .card-footer { display: flex; justify-content: space-between; align-items: center;
-                 font-size: 0.75rem; color: var(--sub); margin-top: 4px; }
-  .card-footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
-  .card-footer a:hover { text-decoration: underline; }
-  .empty { text-align: center; padding: 60px; color: var(--sub); grid-column: 1/-1; }
-  @media (max-width: 600px) {
-    header { padding: 14px 16px; }
-    .controls, .grid { padding: 12px 16px; }
-    .grid { grid-template-columns: 1fr; }
-  }
+  @media (prefers-color-scheme:dark){:root{
+    --bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;--accent:#7b93ff;--border:#2e2e48;
+    --header-bg:#0a0a18;--header-text:#e8e8f0;
+    --filter-bg:#2a2a44;--filter-active:#7b93ff;--filter-active-text:#0f0f1a;
+  }}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+  header{background:var(--header-bg);color:var(--header-text);padding:20px 24px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;}
+  header h1{font-size:1.3rem;font-weight:700;}
+  header p{font-size:.85rem;opacity:.7;}
+  .dark-toggle{background:transparent;border:1px solid rgba(255,255,255,.3);color:var(--header-text);padding:6px 12px;border-radius:20px;cursor:pointer;font-size:.8rem;}
+  .controls{padding:16px 24px;background:var(--card);border-bottom:1px solid var(--border);display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
+  .controls span{font-size:.8rem;color:var(--sub);margin-right:4px;}
+  .filter-btn{padding:5px 14px;border-radius:20px;border:1px solid var(--border);background:var(--filter-bg);color:var(--text);cursor:pointer;font-size:.8rem;transition:all .15s;white-space:nowrap;}
+  .filter-btn.active{background:var(--filter-active);color:var(--filter-active-text);border-color:var(--filter-active);}
+  .stats{margin-left:auto;font-size:.8rem;color:var(--sub);}
+  .grid{display:grid;padding:20px 24px;gap:16px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px;transition:box-shadow .2s;}
+  .card:hover{box-shadow:0 4px 20px rgba(0,0,0,.12);}
+  .card-top{display:flex;align-items:center;justify-content:space-between;gap:8px;}
+  .source-badge{font-size:.72rem;font-weight:600;padding:3px 10px;border-radius:12px;background:var(--filter-bg);color:var(--accent);white-space:nowrap;max-width:160px;overflow:hidden;text-overflow:ellipsis;}
+  .score-badge{font-size:.8rem;font-weight:700;padding:3px 10px;border-radius:12px;color:#fff;white-space:nowrap;flex-shrink:0;}
+  .score-high{background:var(--score-high);}.score-mid{background:var(--score-mid);}.score-low{background:var(--score-low);}
+  .card-title{font-size:.95rem;font-weight:600;line-height:1.4;}
+  .card-title a{color:var(--text);text-decoration:none;}
+  .card-title a:hover{color:var(--accent);text-decoration:underline;}
+  .card-stars{font-size:.85rem;color:#f59e0b;letter-spacing:1px;}
+  .card-reason{font-size:.78rem;color:var(--sub);font-style:italic;}
+  .card-summary{font-size:.82rem;color:var(--sub);line-height:1.6;border-left:3px solid var(--border);padding-left:10px;}
+  .card-footer{display:flex;justify-content:space-between;align-items:center;font-size:.75rem;color:var(--sub);margin-top:4px;}
+  .card-footer a{color:var(--accent);text-decoration:none;font-weight:600;}
+  .card-footer a:hover{text-decoration:underline;}
+  .empty{text-align:center;padding:60px;color:var(--sub);grid-column:1/-1;}
+  @media(max-width:600px){header,.controls,.grid{padding:12px 16px;}.grid{grid-template-columns:1fr;}}
 </style>
 </head>
 <body>
 <header>
-  <div>
-    <h1>📊 マーケティングニュース ダッシュボード</h1>
-    <p>運用型広告実務担当者向け 直近30日間の記事</p>
-  </div>
+  <div><h1>📊 マーケティングニュース ダッシュボード</h1><p>運用型広告実務担当者向け 直近30日間の記事</p></div>
   <button class="dark-toggle" onclick="toggleDark()">🌙 ダークモード切替</button>
 </header>
 <div class="controls" id="controls">
   <span>ソース:</span>
-  <button class="filter-btn active" onclick="setSource('all', this)">すべて</button>
-  <button class="filter-btn" onclick="setSource("Google広告", this)">Google広告</button>
-  <button class="filter-btn" onclick="setSource("Meta for Business", this)">Meta for Business</button>
-  <button class="filter-btn" onclick="setSource("Yahoo!広告 (LYCBiz)", this)">Yahoo!広告 (LYCBiz)</button>
-  <button class="filter-btn" onclick="setSource("アイレップ (ONEDER)", this)">アイレップ (ONEDER)</button>
-  <button class="filter-btn" onclick="setSource("アナグラム", this)">アナグラム</button>
+  <button class="filter-btn active" onclick="setSource('all',this)">すべて</button>
+  <button class="filter-btn" onclick="setSource("LINE for Business (LYCBiz)",this)">LINE for Business (LYCBiz)</button>
+  <button class="filter-btn" onclick="setSource("TikTok for Business",this)">TikTok for Business</button>
+  <button class="filter-btn" onclick="setSource("Yahoo!広告 (LYCBiz)",this)">Yahoo!広告 (LYCBiz)</button>
+  <button class="filter-btn" onclick="setSource("アナグラム",this)">アナグラム</button>
   <div class="stats" id="stats"></div>
 </div>
 <div class="grid" id="grid"></div>
 <script>
-const DATA = [{"source":"アナグラム","title":"【2026年3月】運用型広告アップデートまとめ","link":"https://anagrams.jp/blog/update-summary-2026-03/","summary":"・運用型広告の主要プラットフォームにおける2026年3月のアップデート情報をまとめた記事\n・最大のトピックはMeta広告のクリックアトリビューション定義変更でリンククリックのみが対象に\n・アナグラム株式会社が発信する月次の広告運用者向け最新アップデート情報である","score":10,"reason":"主要媒体の月次アップデート総まとめで必読","date":"2026-04-14"},{"source":"Yahoo!広告 (LYCBiz)","title":"ゴールデンウィークの広告運用で差がつく！今すぐ見直すべき3つのポイント","link":"https://www.lycbiz.com/jp/column/ly-ads/creative/goldenweek_ad_strategy/?list=23496","summary":"・ゴールデンウィーク期間の広告運用で成果を出すために見直すべき3つのポイントを紹介\n・LINEヤフーの法人向けサービスの最新情報や具体的な活用ノウハウを提供している\n・大型連休中のユーザー行動変化を踏まえた広告戦略の最適化が競合との差別化に直結する","score":9,"reason":"GW広告運用の具体的見直しポイント3選","date":"2026-04-14"},{"source":"Google広告","title":"Upgrade your creative performance with March’s Demand Gen Drop.","link":"https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/","summary":"・Googleが3月のDemand Genドロップとして最新のクリエイティブ機能アップデートを発表した\n・Demand Genキャンペーンのパフォーマンスを最大化するための新たな手法や推奨事項を紹介している\n・広告主はクリエイティブの最適化を通じて需要喚起キャンペーンの成果向上が期待できる","score":8,"reason":"Demand Gen最新機能アップデートで実務直結","date":"2026-04-14"},{"source":"Meta for Business","title":"New AI-powered tools to scale creator and brand partnerships","link":"https://ja-jp.facebook.com/business/news/new-ai-powered-tools-to-scale-creator-and-brand-partnerships","summary":"・Metaがクリエイターとブランドの連携を強化する新たなAI搭載ツールを発表した\n・FacebookやInstagramのオーガニッククリエイターコンテンツの発見・評価が容易になる\n・発見したコンテンツをパートナーシップ広告へ効率的に変換する機能も提供される","score":8,"reason":"Metaクリエイター広告の新AIツール発表","date":"2026-04-14"},{"source":"アナグラム","title":"広告の費用対効果を引き上げる LINE×ストック型マーケティングの全体設計","link":"https://anagrams.jp/blog/line-stock-marketing-strategy/","summary":"・広告経由で獲得した見込み客がCV未達で離脱し接点が途切れる課題を指摘している\n・LINE公式アカウントを活用し見込み客をストックして継続的に接触する設計を提案\n・広告費の再投下に頼らず既存リードを育成し費用対効果を高める全体戦略を解説","score":8,"reason":"広告×LINE活用のストック型設計で実践的","date":"2026-04-14"},{"source":"アナグラム","title":"不正クリック対策、本当に必要？アドフラウドの専門家と広告運用者に率直に聞いてみた","link":"https://anagrams.jp/blog/interview-with-spideraf/","summary":"・運用型広告の改善努力はデータの正確性が前提であり不正クリック問題が根底を揺るがす可能性を指摘\n・アドフラウド専門家と広告運用者が不正クリック対策の必要性について率直に議論した内容を紹介\n・アナグラム株式会社が広告運用における不正クリック対策の重要性を問題提起する記事を公開","score":8,"reason":"不正クリック・アドフラウド対策の実務知見","date":"2026-04-14"},{"source":"Google広告","title":"5 ways to collaborate with our agentic advisors","link":"https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/","summary":"・Google広告とアナリティクスのAIエージェント型アドバイザーとの効果的な協働方法を5つ紹介\n・Ads AdvisorとAnalytics Advisorを活用する際のベストプラクティスと実践的なヒントを解説\n・AIアドバイザーとの連携により広告運用や分析業務の効率化と成果向上を目指す内容となっている","score":7,"reason":"Google広告AIアドバイザー活用の実践的Tips","date":"2026-04-14"},{"source":"Yahoo!広告 (LYCBiz)","title":"【LINE広告をご利用中の方へ】LINEヤフー広告 ディスプレイ広告への移行ガイド","link":"https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/migration-guide/?list=23496","summary":"・LINE広告からLINEヤフー広告ディスプレイ広告への移行ガイドが公開された\n・LINEヤフー統合に伴い法人向け広告プラットフォームの移行手順を案内している\n・移行に関する最新情報や活用方法・ノウハウなどを広告主向けに提供している","score":7,"reason":"LINE広告からLYC広告への移行実務ガイド","date":"2026-04-14"},{"source":"アナグラム","title":"アルコール商材の広告運用前に知っておきたい媒体別の制限","link":"https://anagrams.jp/blog/alcohol-advertising-restrictions/","summary":"・アルコール商材のWeb広告はリターゲティング等の一般的な施策が制限される場合がある\n・Google・Yahoo!・Meta・LINEなど主要媒体ごとにアルコール広告の配信制限が異なる\n・広告運用前に各媒体のポリシーやターゲティング制約を正確に把握することが重要である","score":7,"reason":"アルコール商材の媒体別広告制限の実務情報","date":"2026-04-14"},{"source":"アイレップ (ONEDER)","title":"【データクリーンルーム活用】ブランドリフト調査の課題を解決！媒体横断比較・柔軟な調査設計が可能に","link":"https://oneder.hakuhodody-one.co.jp/blog/dcr_brand_lift","summary":"・データクリーンルームはプライバシー保護とデータ活用を両立する安全なクラウド分析環境である\n・Cookie規制強化を背景に個人特定せず広告効果測定が可能な手法として注目が高まっている\n・Hakuhodo DY ONEが主要媒体社と連携し媒体横断のブランドリフト調査を支援している","score":7,"reason":"DCR活用ブランドリフト調査の実践的解説","date":"2026-04-14"}];
-let currentSource = 'all';
-
-function scoreClass(s) {
-  return s >= 8 ? 'score-high' : s >= 5 ? 'score-mid' : 'score-low';
-}
-function stars(n) {
-  return '★'.repeat(n) + '☆'.repeat(10 - n);
-}
-function fmt(dateStr) {
-  if (!dateStr) return '';
-  return dateStr.replace(/-/g, '/');
-}
-function esc(s) {
-  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-
-function render() {
-  const items = DATA
-    .filter(a => currentSource === 'all' || a.source === currentSource)
-    .sort((a, b) => {
-      if (b.date !== a.date) return b.date.localeCompare(a.date);
-      return b.score - a.score;
-    });
-  document.getElementById('stats').textContent = items.length + '件';
-  const grid = document.getElementById('grid');
-  if (items.length === 0) {
-    grid.innerHTML = '<div class="empty">該当する記事がありません</div>';
-    return;
-  }
-  grid.innerHTML = items.map(a => `
-<div class="card" data-source="${esc(a.source)}">
-  <div class="card-top">
-    <span class="source-badge">${esc(a.source)}</span>
-    <span class="score-badge ${scoreClass(a.score)}">${a.score}/10</span>
-  </div>
+const DATA=[{"source":"Yahoo!広告 (LYCBiz)","title":"【LINE広告をご利用中の方へ】LINEヤフー広告 ディスプレイ広告への移行ガイド","link":"https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/migration-guide/?list=23496","summary":"・LINE広告利用者向けにLINEヤフー広告ディスプレイ広告への移行ガイドが公開された\n・LINEヤフー統合に伴い広告プラットフォームの移行手順や注意点が案内されている\n・法人向けに移行後の活用方法やノウハウなど最新情報も併せて提供されている","score":9,"reason":"LINE広告→LYディスプレイ広告移行は実務に重大な影響","date":"2026-04-15"},{"source":"アナグラム","title":"Google広告のアカウント切り替えで配信が止まる？隠れた制限「DSL」の仕組みと対策","link":"https://anagrams.jp/blog/google-ads-dsl-limit/","summary":"・Google広告でアカウント切り替え後に配信が停止する原因として隠れた制限「DSL」の存在を解説\n・DSLはドメイン単位で課される非公開の配信制限で、アカウント移行時に影響が出やすい仕組み\n・アナグラムが実体験をもとにDSLの具体的な発動条件と配信停止を防ぐ対策方法を紹介している","score":9,"reason":"Google広告DSL制限の解説は実務で遭遇しうる重要知見","date":"2026-04-15"},{"source":"Yahoo!広告 (LYCBiz)","title":"ゴールデンウィークの広告運用で差がつく！今すぐ見直すべき3つのポイント","link":"https://www.lycbiz.com/jp/column/ly-ads/creative/goldenweek_ad_strategy/?list=23496","summary":"・ゴールデンウィーク期間の広告運用で成果に差をつけるための3つの見直しポイントを紹介\n・LINEヤフーの法人向けサービスの最新情報や具体的な活用ノウハウを提供する内容\n・大型連休中のユーザー行動変化を踏まえた広告戦略の最適化が重要と提唱している","score":8,"reason":"GW期間の広告運用見直しポイントで実践的ノウハウ","date":"2026-04-15"},{"source":"Yahoo!広告 (LYCBiz)","title":"おすすめの広告文と配信を自動設定！LINEヤフー広告 検索広告「初期設定サポート」で即日出稿","link":"https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/initial_setup_support/?list=23496","summary":"・LINEヤフー広告の検索広告に初心者向け「初期設定サポート」が提供開始された\n・広告文や配信設定を自動で行い、初めての利用者でも即日出稿が可能になる\n・初回利用者全員に自動適用される無償サポートで導入ハードルを大幅に低減する","score":7,"reason":"Yahoo!検索広告の新機能紹介で初期設定の効率化に直結","date":"2026-04-15"},{"source":"アナグラム","title":"広告の費用対効果を引き上げる LINE×ストック型マーケティングの全体設計","link":"https://anagrams.jp/blog/line-stock-marketing-strategy/","summary":"・広告で集客してもCV未達時に接点が途切れ再度広告費が必要になる課題を提起している\n・LINE公式アカウントを活用し見込み顧客をストックする仕組みで広告費の無駄を削減する\n・検討期間が長い商材に有効なLINE×ストック型マーケティングの全体設計を解説している","score":7,"reason":"広告×LINE連携のストック型設計で費用対効果改善に有用","date":"2026-04-15"},{"source":"TikTok for Business","title":"TikTok Creator Suitability Report: Strategies and tactics for brands","link":"https://ads.tiktok.com/business/en/blog/tiktok-creator-suitability-report","summary":"・TikTokがブランド向けクリエイター適合性レポートを公開しクリエイター連携の新指針を提示した\n・ブランドセーフティと適合性を維持しつつクリエイター施策を拡大する戦略と戦術を解説している\n・広告の信頼性とオーディエンスの信頼を損なわない責任あるパートナーシップ構築法を提唱している","score":5,"reason":"ブランド安全性の知見だが海外向けで即実務影響は限定的","date":"2026-04-15"},{"source":"TikTok for Business","title":"Ebiquity x TikTok 2026 Research","link":"https://ads.tiktok.com/business/en/blog/tiktok-ebiquity","summary":"・EbiquityとTikTokが共同で2026年に向けた広告効果に関する調査研究を発表した\n・高インパクトな広告フォーマットがビジネス成果をより低コストで実現できることを実証\n・プレミアム広告枠への投資が費用対効果の面で優位であるという知見を提示している","score":4,"reason":"TikTok広告効果の調査レポートで直接的な運用改善には遠い","date":"2026-04-15"},{"source":"LINE for Business (LYCBiz)","title":"【LINEミニアプリ】デジタルコンテンツ「課金機能」本格提供を開始","link":"https://www.lycbiz.com/jp/column/line-mini-app/service-information/in-app-purchase/","summary":"・LINEミニアプリでデジタルコンテンツのアプリ内課金機能が本格提供開始された\n・課金機能の概要や仕組み、導入フロー、利用条件などが公式に解説されている\n・LINE経済圏内で完結する課金導線により事業者の収益化手段が拡大する見込み","score":3,"reason":"LINEミニアプリ課金機能で広告運用とは直接関係が薄い","date":"2026-04-15"},{"source":"LINE for Business (LYCBiz)","title":"【2026年】LINEリサーチ ライトコース機能アップデートまとめ","link":"https://www.lycbiz.com/jp/column/line-research/service-information/lite-update-2026/","summary":"・LINEリサーチのライトコースが2026年に向けて機能アップデートを実施した\n・LINEヤフーが法人向けサービスの最新情報や活用ノウハウを公式に紹介している\n・調査機能の改善により企業のマーケティングリサーチがより効率的に実施可能となる","score":3,"reason":"LINEリサーチのアップデートで広告運用との関連は低い","date":"2026-04-15"},{"source":"LINE for Business (LYCBiz)","title":"LINE公式アカウント「認証済アカウント」申請の注意点とよくある質問","link":"https://www.lycbiz.com/jp/column/line-official-account/guideline/20190829/","summary":"・LINE公式アカウントの「認証済アカウント」申請時の注意点を解説する記事が公開された\n・LINEヤフーが法人向けに認証済アカウントの申請手順やよくある質問をまとめている\n・認証済アカウント取得により信頼性向上や検索表示など企業活用のメリットが得られる","score":3,"reason":"LINE認証済アカウント申請の注意点で運用実務とは間接的","date":"2026-04-15"}];
+let cur='all';
+const sc=n=>n>=8?'score-high':n>=5?'score-mid':'score-low';
+const st=n=>'★'.repeat(n)+'☆'.repeat(10-n);
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+function render(){
+  const items=DATA.filter(a=>cur==='all'||a.source===cur).sort((a,b)=>b.date.localeCompare(a.date)||b.score-a.score);
+  document.getElementById('stats').textContent=items.length+'件';
+  const g=document.getElementById('grid');
+  if(!items.length){g.innerHTML='<div class="empty">該当する記事がありません</div>';return;}
+  g.innerHTML=items.map(a=>`<div class="card">
+  <div class="card-top"><span class="source-badge">${esc(a.source)}</span><span class="score-badge ${sc(a.score)}">${a.score}/10</span></div>
   <div class="card-title"><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
-  <div class="card-stars">${stars(a.score)}</div>
-  ${a.reason ? `<div class="card-reason">💡 ${esc(a.reason)}</div>` : ''}
-  ${a.summary ? `<div class="card-summary">${esc(a.summary).replace(/\n/g,'<br>')}</div>` : ''}
-  <div class="card-footer">
-    <span>📅 ${fmt(a.date)}</span>
-    <a href="${esc(a.link)}" target="_blank" rel="noopener">記事を読む →</a>
-  </div>
+  <div class="card-stars">${st(a.score)}</div>
+  ${a.reason?`<div class="card-reason">💡 ${esc(a.reason)}</div>`:''}
+  ${a.summary?`<div class="card-summary">${esc(a.summary).replace(/\n/g,'<br>')}</div>`:''}
+  <div class="card-footer"><span>📅 ${a.date.replace(/-/g,'/')}</span><a href="${esc(a.link)}" target="_blank" rel="noopener">記事を読む →</a></div>
 </div>`).join('');
 }
-
-function setSource(src, btn) {
-  currentSource = src;
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  render();
-}
-
-function toggleDark() {
-  document.documentElement.classList.toggle('force-dark');
-}
-
-// 手動ダークモード
-const style = document.createElement('style');
-style.textContent = `
-  html.force-dark { filter: none; }
-  html.force-dark body { --bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;
-    --accent:#7b93ff;--border:#2e2e48;--header-bg:#0a0a18;--header-text:#e8e8f0;
-    --filter-bg:#2a2a44;--filter-active:#7b93ff;--filter-active-text:#0f0f1a; }
-`;
-document.head.appendChild(style);
-
+function setSource(s,btn){cur=s;document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');render();}
+function toggleDark(){document.body.classList.toggle('force-dark');}
+const ds=document.createElement('style');
+ds.textContent='.force-dark{--bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;--accent:#7b93ff;--border:#2e2e48;--header-bg:#0a0a18;--header-text:#e8e8f0;--filter-bg:#2a2a44;--filter-active:#7b93ff;--filter-active-text:#0f0f1a;}';
+document.head.appendChild(ds);
 render();
 </script>
 </body>
