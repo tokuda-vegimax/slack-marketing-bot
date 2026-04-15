@@ -481,104 +481,280 @@ async function postArticleToThread(article, threadTs, rank) {
 }
 
 // ─── GitHub Pages ダッシュボード生成 ─────────────────────────
-function generateDashboard(allArticles) {
-  const sources  = [...new Set(allArticles.map(a => a.source))].sort();
-  const dataJson = JSON.stringify(allArticles);
-  const html = `<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>マーケティングニュース ダッシュボード</title>
-<style>
-  :root {
-    --bg:#f0f2f5;--card:#fff;--text:#1a1a2e;--sub:#555;--accent:#4361ee;--border:#e0e0e0;
-    --score-high:#22c55e;--score-mid:#f59e0b;--score-low:#ef4444;
-    --header-bg:#1a1a2e;--header-text:#fff;
-    --filter-bg:#e8ecff;--filter-active:#4361ee;--filter-active-text:#fff;
-  }
-  @media (prefers-color-scheme:dark){:root{
-    --bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;--accent:#7b93ff;--border:#2e2e48;
-    --header-bg:#0a0a18;--header-text:#e8e8f0;
-    --filter-bg:#2a2a44;--filter-active:#7b93ff;--filter-active-text:#0f0f1a;
-  }}
-  *{box-sizing:border-box;margin:0;padding:0;}
-  body{font-family:-apple-system,'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
-  header{background:var(--header-bg);color:var(--header-text);padding:20px 24px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;}
-  header h1{font-size:1.3rem;font-weight:700;}
-  header p{font-size:.85rem;opacity:.7;}
-  .dark-toggle{background:transparent;border:1px solid rgba(255,255,255,.3);color:var(--header-text);padding:6px 12px;border-radius:20px;cursor:pointer;font-size:.8rem;}
-  .controls{padding:16px 24px;background:var(--card);border-bottom:1px solid var(--border);display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
-  .controls span{font-size:.8rem;color:var(--sub);margin-right:4px;}
-  .filter-btn{padding:5px 14px;border-radius:20px;border:1px solid var(--border);background:var(--filter-bg);color:var(--text);cursor:pointer;font-size:.8rem;transition:all .15s;white-space:nowrap;}
-  .filter-btn.active{background:var(--filter-active);color:var(--filter-active-text);border-color:var(--filter-active);}
-  .stats{margin-left:auto;font-size:.8rem;color:var(--sub);}
-  .grid{display:grid;padding:20px 24px;gap:16px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));}
-  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px;transition:box-shadow .2s;}
-  .card:hover{box-shadow:0 4px 20px rgba(0,0,0,.12);}
-  .card-top{display:flex;align-items:center;justify-content:space-between;gap:8px;}
-  .source-badge{font-size:.72rem;font-weight:600;padding:3px 10px;border-radius:12px;background:var(--filter-bg);color:var(--accent);white-space:nowrap;max-width:160px;overflow:hidden;text-overflow:ellipsis;}
-  .score-badge{font-size:.8rem;font-weight:700;padding:3px 10px;border-radius:12px;color:#fff;white-space:nowrap;flex-shrink:0;}
-  .score-high{background:var(--score-high);}.score-mid{background:var(--score-mid);}.score-low{background:var(--score-low);}
-  .card-title{font-size:.95rem;font-weight:600;line-height:1.4;}
-  .card-title a{color:var(--text);text-decoration:none;}
-  .card-title a:hover{color:var(--accent);text-decoration:underline;}
-  .card-stars{font-size:.85rem;color:#f59e0b;letter-spacing:1px;}
-  .card-reason{font-size:.78rem;color:var(--sub);font-style:italic;}
-  .card-summary{font-size:.82rem;color:var(--sub);line-height:1.6;border-left:3px solid var(--border);padding-left:10px;}
-  .card-footer{display:flex;justify-content:space-between;align-items:center;font-size:.75rem;color:var(--sub);margin-top:4px;}
-  .card-footer a{color:var(--accent);text-decoration:none;font-weight:600;}
-  .card-footer a:hover{text-decoration:underline;}
-  .empty{text-align:center;padding:60px;color:var(--sub);grid-column:1/-1;}
-  @media(max-width:600px){header,.controls,.grid{padding:12px 16px;}.grid{grid-template-columns:1fr;}}
-</style>
-</head>
-<body>
-<header>
-  <div><h1>📊 マーケティングニュース ダッシュボード</h1><p>運用型広告実務担当者向け 直近${HISTORY_DAYS}日間の記事</p></div>
-  <button class="dark-toggle" onclick="toggleDark()">🌙 ダークモード切替</button>
-</header>
-<div class="controls" id="controls">
-  <span>ソース:</span>
-  <button class="filter-btn active" onclick="setSource('all',this)">すべて</button>
-  ${sources.map(s => `<button class="filter-btn" onclick="setSource(${JSON.stringify(s)},this)">${s}</button>`).join('\n  ')}
-  <div class="stats" id="stats"></div>
-</div>
-<div class="grid" id="grid"></div>
-<script>
-const DATA=${dataJson};
-let cur='all';
-const sc=n=>n>=8?'score-high':n>=5?'score-mid':'score-low';
-const st=n=>'★'.repeat(n)+'☆'.repeat(10-n);
-const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-function render(){
-  const items=DATA.filter(a=>cur==='all'||a.source===cur).sort((a,b)=>b.date.localeCompare(a.date)||b.score-a.score);
-  document.getElementById('stats').textContent=items.length+'件';
-  const g=document.getElementById('grid');
-  if(!items.length){g.innerHTML='<div class="empty">該当する記事がありません</div>';return;}
-  g.innerHTML=items.map(a=>\`<div class="card">
-  <div class="card-top"><span class="source-badge">\${esc(a.source)}</span><span class="score-badge \${sc(a.score)}">\${a.score}/10</span></div>
-  <div class="card-title"><a href="\${esc(a.link)}" target="_blank" rel="noopener">\${esc(a.title)}</a></div>
-  <div class="card-stars">\${st(a.score)}</div>
-  \${a.reason?\`<div class="card-reason">💡 \${esc(a.reason)}</div>\`:''}
-  \${a.summary?\`<div class="card-summary">\${esc(a.summary).replace(/\\n/g,'<br>')}</div>\`:''}
-  <div class="card-footer"><span>📅 \${a.date.replace(/-/g,'/')}</span><a href="\${esc(a.link)}" target="_blank" rel="noopener">記事を読む →</a></div>
-</div>\`).join('');
-}
-function setSource(s,btn){cur=s;document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');render();}
-function toggleDark(){document.body.classList.toggle('force-dark');}
-const ds=document.createElement('style');
-ds.textContent='.force-dark{--bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;--accent:#7b93ff;--border:#2e2e48;--header-bg:#0a0a18;--header-text:#e8e8f0;--filter-bg:#2a2a44;--filter-active:#7b93ff;--filter-active-text:#0f0f1a;}';
-document.head.appendChild(ds);
-render();
-</script>
-</body>
-</html>`;
+// articles.json に追記保存し、静的 HTML + articles.js を生成する
+function generateDashboard(todayArticles) {
   if (!fs.existsSync(DOCS_DIR)) fs.mkdirSync(DOCS_DIR, { recursive: true });
-  fs.writeFileSync(DOCS_INDEX, html, 'utf8');
+
+  // 既存 articles.json を読み込んで新着をマージ（独立蓄積）
+  const articlesJsonPath = path.join(DOCS_DIR, 'articles.json');
+  let existing = [];
+  try { existing = JSON.parse(fs.readFileSync(articlesJsonPath, 'utf8')); } catch {}
+
+  const seenUrls = new Set(existing.map(a => a.link));
+  const toAdd    = todayArticles.filter(a => a.link && !seenUrls.has(a.link));
+  const cutoff   = daysAgo(HISTORY_DAYS);
+  const merged   = [...toAdd, ...existing].filter(a => a.date >= cutoff);
+
+  // articles.json（人間可読・外部参照用）
+  fs.writeFileSync(articlesJsonPath, JSON.stringify(merged, null, 2), 'utf8');
+
+  // articles.js（HTML から <script src> で読み込む）
+  const articlesJsPath = path.join(DOCS_DIR, 'articles.js');
+  fs.writeFileSync(articlesJsPath, 'window.ARTICLES_DATA=' + JSON.stringify(merged) + ';', 'utf8');
+
+  // index.html（データを埋め込まない静的シェル）
+  fs.writeFileSync(DOCS_INDEX, buildDashboardHTML(), 'utf8');
+
   const nojekyll = path.join(DOCS_DIR, '.nojekyll');
   if (!fs.existsSync(nojekyll)) fs.writeFileSync(nojekyll, '');
-  console.log(`  📄 docs/index.html を更新しました（${allArticles.length}件）`);
+
+  console.log('  📄 docs/ を更新しました（累計' + merged.length + '件 / 今回' + toAdd.length + '件追加）');
+}
+
+// ─── ダッシュボード HTML 生成（データ非埋め込み・articles.js を参照）────
+function buildDashboardHTML() {
+  // NOTE: このテンプレートリテラル内の ${...} は全てリテラル文字列として出力される
+  //       JS補間が必要な箇所は文字列結合で記述している
+  return '<!DOCTYPE html>\n' +
+'<html lang="ja">\n' +
+'<head>\n' +
+'<meta charset="UTF-8">\n' +
+'<meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
+'<title>マーケティングニュース ダッシュボード</title>\n' +
+'<style>\n' +
+':root{\n' +
+'  --bg:#f0f2f5;--card:#fff;--text:#1a1a2e;--sub:#666;--accent:#4361ee;--border:#e0e0e0;\n' +
+'  --score-high:#22c55e;--score-mid:#f59e0b;--score-low:#ef4444;\n' +
+'  --hd-bg:#1a1a2e;--hd-text:#fff;\n' +
+'  --tag-bg:#e8ecff;--btn-active:#4361ee;--btn-active-text:#fff;\n' +
+'}\n' +
+'body.dark{\n' +
+'  --bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;--accent:#7b93ff;--border:#2e2e48;\n' +
+'  --hd-bg:#0a0a18;--hd-text:#e8e8f0;\n' +
+'  --tag-bg:#2a2a44;--btn-active:#7b93ff;--btn-active-text:#0f0f1a;\n' +
+'}\n' +
+'@media(prefers-color-scheme:dark){body:not(.light){\n' +
+'  --bg:#0f0f1a;--card:#1e1e30;--text:#e8e8f0;--sub:#9090b0;--accent:#7b93ff;--border:#2e2e48;\n' +
+'  --hd-bg:#0a0a18;--hd-text:#e8e8f0;\n' +
+'  --tag-bg:#2a2a44;--btn-active:#7b93ff;--btn-active-text:#0f0f1a;\n' +
+'}}\n' +
+'*{box-sizing:border-box;margin:0;padding:0;}\n' +
+'body{font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}\n' +
+'header{background:var(--hd-bg);color:var(--hd-text);padding:18px 24px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;}\n' +
+'header h1{font-size:1.25rem;font-weight:700;}\n' +
+'header p{font-size:.8rem;opacity:.65;margin-top:2px;}\n' +
+'.hd-right{display:flex;gap:8px;align-items:center;}\n' +
+'.dark-btn{background:transparent;border:1px solid rgba(255,255,255,.3);color:var(--hd-text);padding:5px 12px;border-radius:20px;cursor:pointer;font-size:.8rem;}\n' +
+'.toolbar{background:var(--card);border-bottom:1px solid var(--border);padding:12px 24px;display:flex;flex-direction:column;gap:10px;}\n' +
+'.toolbar-top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;}\n' +
+'.sort-group{display:flex;gap:4px;flex-wrap:wrap;}\n' +
+'.sort-btn{padding:5px 14px;border-radius:20px;border:1px solid var(--border);background:var(--tag-bg);color:var(--text);cursor:pointer;font-size:.8rem;transition:all .15s;white-space:nowrap;}\n' +
+'.sort-btn.active{background:var(--btn-active);color:var(--btn-active-text);border-color:var(--btn-active);}\n' +
+'.search-box{margin-left:auto;padding:5px 12px;border-radius:20px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:.82rem;min-width:200px;outline:none;}\n' +
+'.search-box:focus{border-color:var(--accent);}\n' +
+'.filter-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;}\n' +
+'.filter-row-label{font-size:.78rem;color:var(--sub);margin-right:2px;}\n' +
+'.filter-btn{padding:4px 12px;border-radius:20px;border:1px solid var(--border);background:var(--tag-bg);color:var(--text);cursor:pointer;font-size:.78rem;transition:all .15s;white-space:nowrap;}\n' +
+'.filter-btn.active{background:var(--btn-active);color:var(--btn-active-text);border-color:var(--btn-active);}\n' +
+'.stats-row{font-size:.78rem;color:var(--sub);}\n' +
+'.content{padding:20px 24px;}\n' +
+'.section-header{font-size:1rem;font-weight:700;color:var(--text);margin:0 0 12px;padding:8px 0;border-bottom:2px solid var(--border);display:flex;align-items:baseline;gap:8px;}\n' +
+'.section-count{font-size:.75rem;font-weight:400;color:var(--sub);}\n' +
+'.date-section{margin-bottom:28px;}\n' +
+'.cards-grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));}\n' +
+'.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:9px;transition:box-shadow .2s;}\n' +
+'.card:hover{box-shadow:0 4px 18px rgba(0,0,0,.1);}\n' +
+'.card-top{display:flex;align-items:center;justify-content:space-between;gap:8px;}\n' +
+'.source-badge{font-size:.7rem;font-weight:600;padding:2px 9px;border-radius:10px;background:var(--tag-bg);color:var(--accent);white-space:nowrap;max-width:160px;overflow:hidden;text-overflow:ellipsis;}\n' +
+'.score-badge{font-size:.78rem;font-weight:700;padding:2px 9px;border-radius:10px;color:#fff;white-space:nowrap;flex-shrink:0;}\n' +
+'.score-high{background:var(--score-high);}.score-mid{background:var(--score-mid);}.score-low{background:var(--score-low);}\n' +
+'.card-title{font-size:.92rem;font-weight:600;line-height:1.45;}\n' +
+'.card-title a{color:var(--text);text-decoration:none;}\n' +
+'.card-title a:hover{color:var(--accent);text-decoration:underline;}\n' +
+'.card-stars{font-size:.82rem;color:#f59e0b;letter-spacing:.5px;}\n' +
+'.card-reason{font-size:.76rem;color:var(--sub);font-style:italic;}\n' +
+'.card-summary{font-size:.8rem;color:var(--sub);line-height:1.65;border-left:3px solid var(--border);padding-left:10px;}\n' +
+'.card-footer{display:flex;justify-content:space-between;align-items:center;font-size:.73rem;color:var(--sub);margin-top:2px;}\n' +
+'.card-footer a{color:var(--accent);text-decoration:none;font-weight:600;}\n' +
+'.card-footer a:hover{text-decoration:underline;}\n' +
+'.empty{text-align:center;padding:60px;color:var(--sub);}\n' +
+'.loading{text-align:center;padding:60px;color:var(--sub);font-size:1rem;}\n' +
+'@media(max-width:640px){\n' +
+'  header,.toolbar,.content{padding:12px 14px;}\n' +
+'  .search-box{min-width:140px;}\n' +
+'  .cards-grid{grid-template-columns:1fr;}\n' +
+'}\n' +
+'</style>\n' +
+'</head>\n' +
+'<body>\n' +
+'<header>\n' +
+'  <div><h1>📊 マーケティングニュース ダッシュボード</h1><p>運用型広告実務担当者向け 直近30日間の厳選記事</p></div>\n' +
+'  <div class="hd-right"><button class="dark-btn" id="darkBtn">🌙 ダーク</button></div>\n' +
+'</header>\n' +
+'<div class="toolbar">\n' +
+'  <div class="toolbar-top">\n' +
+'    <div class="sort-group">\n' +
+'      <button class="sort-btn active" data-sort="date">📅 日付順</button>\n' +
+'      <button class="sort-btn" data-sort="score">⭐ スコア順</button>\n' +
+'      <button class="sort-btn" data-sort="source">📁 ソース別</button>\n' +
+'    </div>\n' +
+'    <input class="search-box" id="searchBox" type="search" placeholder="🔍 タイトル・要約を検索...">\n' +
+'  </div>\n' +
+'  <div class="filter-row" id="sourceFilters">\n' +
+'    <span class="filter-row-label">ソース:</span>\n' +
+'  </div>\n' +
+'  <div class="stats-row" id="statsRow">読み込み中...</div>\n' +
+'</div>\n' +
+'<div class="content" id="content"><div class="loading">📰 記事を読み込み中...</div></div>\n' +
+'<script src="articles.js"></script>\n' +
+'<script>\n' +
+'var state = { source: "all", sort: "date", search: "" };\n' +
+'\n' +
+'function esc(s) {\n' +
+'  return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");\n' +
+'}\n' +
+'function sc(n) { return n >= 8 ? "score-high" : n >= 5 ? "score-mid" : "score-low"; }\n' +
+'function stars(n) { return "★".repeat(n) + "☆".repeat(10 - n); }\n' +
+'function dateLabel(d) {\n' +
+'  var today = new Date().toISOString().slice(0,10);\n' +
+'  var yest  = new Date(Date.now()-86400000).toISOString().slice(0,10);\n' +
+'  if (d === today) return "今日";\n' +
+'  if (d === yest)  return "昨日";\n' +
+'  var p = d.split("-"); return parseInt(p[1]) + "月" + parseInt(p[2]) + "日";\n' +
+'}\n' +
+'\n' +
+'function cardHTML(a) {\n' +
+'  return "<div class=\\"card\\">" +\n' +
+'    "<div class=\\"card-top\\">" +\n' +
+'      "<span class=\\"source-badge\\">" + esc(a.source) + "</span>" +\n' +
+'      "<span class=\\"score-badge " + sc(a.score) + "\\">" + a.score + "/10</span>" +\n' +
+'    "</div>" +\n' +
+'    "<div class=\\"card-title\\"><a href=\\"" + esc(a.link) + "\\" target=\\"_blank\\" rel=\\"noopener\\">" + esc(a.title) + "</a></div>" +\n' +
+'    "<div class=\\"card-stars\\">" + stars(a.score) + "</div>" +\n' +
+'    (a.reason ? "<div class=\\"card-reason\\">💡 " + esc(a.reason) + "</div>" : "") +\n' +
+'    (a.summary ? "<div class=\\"card-summary\\">" + esc(a.summary).replace(/\\n/g,"<br>") + "</div>" : "") +\n' +
+'    "<div class=\\"card-footer\\">" +\n' +
+'      "<span>📅 " + a.date.replace(/-/g,"/") + "</span>" +\n' +
+'      "<a href=\\"" + esc(a.link) + "\\" target=\\"_blank\\" rel=\\"noopener\\">記事を読む →</a>" +\n' +
+'    "</div>" +\n' +
+'  "</div>";\n' +
+'}\n' +
+'\n' +
+'function applyFilters(data) {\n' +
+'  var items = data;\n' +
+'  if (state.source !== "all") items = items.filter(function(a){ return a.source === state.source; });\n' +
+'  if (state.search) {\n' +
+'    var q = state.search.toLowerCase();\n' +
+'    items = items.filter(function(a){\n' +
+'      return a.title.toLowerCase().indexOf(q) >= 0 || (a.summary||"").toLowerCase().indexOf(q) >= 0;\n' +
+'    });\n' +
+'  }\n' +
+'  return items;\n' +
+'}\n' +
+'\n' +
+'function renderByDate(items) {\n' +
+'  var sorted = items.slice().sort(function(a,b){ return b.date.localeCompare(a.date)||b.score-a.score; });\n' +
+'  var groups = {}; var order = [];\n' +
+'  sorted.forEach(function(a){\n' +
+'    if (!groups[a.date]){ groups[a.date]=[]; order.push(a.date); }\n' +
+'    groups[a.date].push(a);\n' +
+'  });\n' +
+'  return order.map(function(d){\n' +
+'    return "<section class=\\"date-section\\">" +\n' +
+'      "<h2 class=\\"section-header\\">" + dateLabel(d) +\n' +
+'        "<span class=\\"section-count\\">" + groups[d].length + "件</span></h2>" +\n' +
+'      "<div class=\\"cards-grid\\">" + groups[d].map(cardHTML).join("") + "</div>" +\n' +
+'    "</section>";\n' +
+'  }).join("");\n' +
+'}\n' +
+'\n' +
+'function renderByScore(items) {\n' +
+'  var sorted = items.slice().sort(function(a,b){ return b.score-a.score||b.date.localeCompare(a.date); });\n' +
+'  return "<div class=\\"cards-grid\\">" + sorted.map(cardHTML).join("") + "</div>";\n' +
+'}\n' +
+'\n' +
+'function renderBySource(items) {\n' +
+'  var groups = {}; var order = [];\n' +
+'  items.slice().sort(function(a,b){ return a.source.localeCompare(b.source)||b.date.localeCompare(a.date); })\n' +
+'    .forEach(function(a){\n' +
+'      if (!groups[a.source]){ groups[a.source]=[]; order.push(a.source); }\n' +
+'      groups[a.source].push(a);\n' +
+'    });\n' +
+'  return order.map(function(s){\n' +
+'    return "<section class=\\"date-section\\">" +\n' +
+'      "<h2 class=\\"section-header\\">" + esc(s) +\n' +
+'        "<span class=\\"section-count\\">" + groups[s].length + "件</span></h2>" +\n' +
+'      "<div class=\\"cards-grid\\">" + groups[s].map(cardHTML).join("") + "</div>" +\n' +
+'    "</section>";\n' +
+'  }).join("");\n' +
+'}\n' +
+'\n' +
+'function render() {\n' +
+'  var data  = window.ARTICLES_DATA || [];\n' +
+'  var items = applyFilters(data);\n' +
+'  document.getElementById("statsRow").textContent = items.length + "件 / 全" + data.length + "件";\n' +
+'  var content = document.getElementById("content");\n' +
+'  if (!items.length) { content.innerHTML = "<div class=\\"empty\\">該当する記事がありません</div>"; return; }\n' +
+'  switch (state.sort) {\n' +
+'    case "date":   content.innerHTML = renderByDate(items);   break;\n' +
+'    case "score":  content.innerHTML = renderByScore(items);  break;\n' +
+'    case "source": content.innerHTML = renderBySource(items); break;\n' +
+'  }\n' +
+'}\n' +
+'\n' +
+'function buildSourceFilters() {\n' +
+'  var data    = window.ARTICLES_DATA || [];\n' +
+'  var sources = data.map(function(a){ return a.source; })\n' +
+'    .filter(function(s,i,arr){ return arr.indexOf(s)===i; }).sort();\n' +
+'  var container = document.getElementById("sourceFilters");\n' +
+'  function makeBtn(src, label, active) {\n' +
+'    var btn = document.createElement("button");\n' +
+'    btn.className = "filter-btn" + (active ? " active" : "");\n' +
+'    btn.dataset.source = src;\n' +
+'    btn.textContent = label;\n' +
+'    container.appendChild(btn);\n' +
+'  }\n' +
+'  makeBtn("all", "すべて", true);\n' +
+'  sources.forEach(function(s){ makeBtn(s, s, false); });\n' +
+'  // イベント委譲（inline onclickを使わない → ソース名の文字コード問題を回避）\n' +
+'  container.addEventListener("click", function(e) {\n' +
+'    var btn = e.target.closest(".filter-btn");\n' +
+'    if (!btn) return;\n' +
+'    container.querySelectorAll(".filter-btn").forEach(function(b){ b.classList.remove("active"); });\n' +
+'    btn.classList.add("active");\n' +
+'    state.source = btn.dataset.source;\n' +
+'    render();\n' +
+'  });\n' +
+'}\n' +
+'\n' +
+'// ダークモード: OS設定優先、ボタンで手動切替\n' +
+'document.getElementById("darkBtn").addEventListener("click", function() {\n' +
+'  var b = document.body;\n' +
+'  if (b.classList.contains("dark")) { b.classList.remove("dark"); b.classList.add("light"); }\n' +
+'  else { b.classList.remove("light"); b.classList.add("dark"); }\n' +
+'});\n' +
+'\n' +
+'// ソートボタン\n' +
+'document.querySelectorAll(".sort-btn").forEach(function(btn) {\n' +
+'  btn.addEventListener("click", function() {\n' +
+'    document.querySelectorAll(".sort-btn").forEach(function(b){ b.classList.remove("active"); });\n' +
+'    btn.classList.add("active");\n' +
+'    state.sort = btn.dataset.sort;\n' +
+'    render();\n' +
+'  });\n' +
+'});\n' +
+'\n' +
+'// 検索ボックス（リアルタイム）\n' +
+'document.getElementById("searchBox").addEventListener("input", function(e) {\n' +
+'  state.search = e.target.value.trim();\n' +
+'  render();\n' +
+'});\n' +
+'\n' +
+'buildSourceFilters();\n' +
+'render();\n' +
+'</script>\n' +
+'</body>\n' +
+'</html>';
 }
 
 // ─── メイン処理 ───────────────────────────────────────────────

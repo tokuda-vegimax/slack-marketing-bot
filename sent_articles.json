@@ -9,7 +9,17 @@
     "https://ads.tiktok.com/business/en/blog/tiktok-ebiquity": "2026-04-15",
     "https://www.lycbiz.com/jp/column/line-mini-app/service-information/in-app-purchase/": "2026-04-15",
     "https://www.lycbiz.com/jp/column/line-research/service-information/lite-update-2026/": "2026-04-15",
-    "https://www.lycbiz.com/jp/column/line-official-account/guideline/20190829/": "2026-04-15"
+    "https://www.lycbiz.com/jp/column/line-official-account/guideline/20190829/": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/line-official-account/technique/takashimaya-fp/": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/line-official-account/technique/panasonic/": "2026-04-15",
+    "https://dentsudigital.co.jp/news/release/services/2026-0415-000312": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/line-official-account/technique/line-jpki/": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/yahoo_ads_matome_202601/?list=23496": "2026-04-15",
+    "https://anagrams.jp/blog/update-summary-2026-03/": "2026-04-15",
+    "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/": "2026-04-15",
+    "https://anagrams.jp/blog/interview-with-spideraf/": "2026-04-15",
+    "https://anagrams.jp/blog/meta-ads-creative-spec-guide/": "2026-04-15",
+    "https://ja-jp.facebook.com/business/news/more-quality-leads-this-q5-with-metas-latest-ai-enabled-updates": "2026-04-15"
   },
   "titles": [
     {
@@ -50,6 +60,46 @@
     },
     {
       "title": "LINE公式アカウント「認証済アカウント」申請の注意点とよくある質問",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "LINE APIを活用した未入金ユーザーへの取り組み",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "調理家電×AIで日常の料理がもっと楽しく～パナソニック「Bistroアシスタント」のLINE活用",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "企業の海外進出においてAIによる海外市場インサイト導出と戦略立案を支援するサービス「LOCAL ZOOM」を提供開始",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "コロナ禍、災害対応からデジタルクーポン、おこめ券まで。LINEを起点にした行政手続きと本人確認の現在地",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "【2025年10～12月】Yahoo!広告のアップデートまとめ",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "【2026年3月】運用型広告アップデートまとめ",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Upgrade your creative performance with March’s Demand Gen Drop.",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "不正クリック対策、本当に必要？アドフラウドの専門家と広告運用者に率直に聞いてみた",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Meta広告で結局どの画像サイズを用意すればいい？押さえるべきアスペクト比の考え方",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "More quality leads this Q5 with Meta's latest AI-enabled updates",
       "date": "2026-04-15"
     }
   ],
@@ -142,6 +192,96 @@
       "summary": "・LINE公式アカウントの「認証済アカウント」申請時の注意点を解説する記事が公開された\n・LINEヤフーが法人向けに認証済アカウントの申請手順やよくある質問をまとめている\n・認証済アカウント取得により信頼性向上や検索表示など企業活用のメリットが得られる",
       "score": 3,
       "reason": "LINE認証済アカウント申請の注意点で運用実務とは間接的",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "LINE APIを活用した未入金ユーザーへの取り組み",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/technique/takashimaya-fp/",
+      "summary": "・LINE APIを活用し未入金ユーザーへの督促や決済促進を行う取り組みが紹介されている\n・LINEヤフーが法人向けサービスの最新情報や具体的な活用ノウハウを公開している\n・LINE公式アカウントとAPI連携により未入金対応の自動化・効率化を目指す内容である",
+      "score": 4,
+      "reason": "LINE API活用のCRM施策事例で間接的に参考になる",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "調理家電×AIで日常の料理がもっと楽しく～パナソニック「Bistroアシスタント」のLINE活用",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/technique/panasonic/",
+      "summary": "・パナソニックが調理家電BistroシリーズにAIを活用した「Bistroアシスタント」を展開している\n・LINEを活用しユーザーとの接点を強化、日常の料理体験をより楽しくする仕組みを構築\n・LINEヤフーの法人向けサービスと連携し顧客エンゲージメント向上を図っている",
+      "score": 3,
+      "reason": "LINE活用事例だが広告運用への直接的示唆は薄い",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "企業の海外進出においてAIによる海外市場インサイト導出と戦略立案を支援するサービス「LOCAL ZOOM」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0415-000312",
+      "summary": "・電通デジタルがAI活用の海外進出支援サービス「LOCAL ZOOM」の提供を開始した\n・SNSや商品レビューなどの公開データをAIで解析し海外市場のインサイトを導出する\n・解析結果に基づき海外進出時の市場理解と顧客視点での戦略立案を支援する",
+      "score": 3,
+      "reason": "電通デジタル新サービスのプレスリリース",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "コロナ禍、災害対応からデジタルクーポン、おこめ券まで。LINEを起点にした行政手続きと本人確認の現在地",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/technique/line-jpki/",
+      "summary": "・LINEを活用した行政手続きがコロナ禍や災害対応を契機に急速に拡大している\n・デジタルクーポンやおこめ券など住民向け給付施策にもLINE起点の仕組みが導入されている\n・LINEヤフーが法人向けに本人確認機能を含む行政DX支援の最新活用法を紹介している",
+      "score": 2,
+      "reason": "行政向けLINE活用事例で広告運用と無関係",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "【2025年10～12月】Yahoo!広告のアップデートまとめ",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/yahoo_ads_matome_202601/?list=23496",
+      "summary": "・2025年10〜12月に実施されたYahoo!広告の主要アップデート情報をまとめた記事\n・四半期単位でのYahoo!広告における機能改善や仕様変更を網羅的に紹介している\n・広告運用担当者が最新の変更点を効率よく把握できる構成となっている",
+      "score": 9,
+      "reason": "Yahoo!広告の主要アップデートまとめ、必読",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アナグラム",
+      "title": "【2026年3月】運用型広告アップデートまとめ",
+      "link": "https://anagrams.jp/blog/update-summary-2026-03/",
+      "summary": "・運用型広告の主要プラットフォームにおける2026年3月のアップデート情報をまとめた記事\n・最大トピックはMeta広告のクリックアトリビューション定義変更でリンククリックのみが対象に\n・アナグラム株式会社が発信する広告運用者向けの月次アップデート情報である",
+      "score": 9,
+      "reason": "主要媒体の月次アップデートまとめ、必読情報",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Google広告",
+      "title": "Upgrade your creative performance with March’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/",
+      "summary": "・Google広告が3月のDemand Gen Dropとしてクリエイティブ性能向上の新機能や手法を発表した\n・Demand Genキャンペーンの成果を最大化するための最新ベストプラクティスが紹介されている\n・広告主はクリエイティブ最適化を通じて需要喚起型キャンペーンのパフォーマンス改善が可能になる",
+      "score": 8,
+      "reason": "Demand Gen最新機能アップデート、実務直結",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アナグラム",
+      "title": "不正クリック対策、本当に必要？アドフラウドの専門家と広告運用者に率直に聞いてみた",
+      "link": "https://anagrams.jp/blog/interview-with-spideraf/",
+      "summary": "・運用型広告の改善努力はデータの正確性が前提であり不正クリックがその基盤を揺るがす問題として提起されている\n・アドフラウド専門家と広告運用者への取材を通じ不正クリック対策の必要性を率直に検証する内容となっている\n・アナグラム株式会社が広告運用者向けにアドフラウド対策の重要性を啓発する記事を公開した",
+      "score": 8,
+      "reason": "アドフラウド対策の実務的議論、運用者必見",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アナグラム",
+      "title": "Meta広告で結局どの画像サイズを用意すればいい？押さえるべきアスペクト比の考え方",
+      "link": "https://anagrams.jp/blog/meta-ads-creative-spec-guide/",
+      "summary": "・Meta広告では配信面ごとに推奨画像サイズが異なり、準備すべきサイズに迷う広告運用者が多い\n・公式ヘルプの情報が分散しているため、アスペクト比の基本的な考え方を整理する必要がある\n・アナグラムが配信面別に押さえるべきアスペクト比の選び方と優先順位を解説している",
+      "score": 8,
+      "reason": "Meta広告画像サイズの実践ガイド、即活用可能",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "More quality leads this Q5 with Meta's latest AI-enabled updates",
+      "link": "https://ja-jp.facebook.com/business/news/more-quality-leads-this-q5-with-metas-latest-ai-enabled-updates",
+      "summary": "・MetaがQ5期間中のリード獲得を強化するAI搭載の新機能アップデートを発表した\n・広告主が見落としがちなQ5（年末年始後の広告低競争期間）の活用を促進する狙い\n・リード獲得ツールの機能改善により、より質の高いリード創出が可能になる",
+      "score": 7,
+      "reason": "Metaリード獲得AI新機能、実務活用可能",
       "date": "2026-04-15"
     }
   ]
