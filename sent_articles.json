@@ -19,7 +19,17 @@
     "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/": "2026-04-15",
     "https://anagrams.jp/blog/interview-with-spideraf/": "2026-04-15",
     "https://anagrams.jp/blog/meta-ads-creative-spec-guide/": "2026-04-15",
-    "https://ja-jp.facebook.com/business/news/more-quality-leads-this-q5-with-metas-latest-ai-enabled-updates": "2026-04-15"
+    "https://ja-jp.facebook.com/business/news/more-quality-leads-this-q5-with-metas-latest-ai-enabled-updates": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/add_campaign/?list=23496": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search-behavior-in-the-age-of-ai/?list=23496": "2026-04-15",
+    "https://anagrams.jp/blog/alcohol-advertising-restrictions/": "2026-04-15",
+    "https://oneder.hakuhodody-one.co.jp/blog/dcr_brand_lift": "2026-04-15",
+    "https://oneder.hakuhodody-one.co.jp/blog/youtube-ctv-co-viewing-efficiency": "2026-04-15",
+    "https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/": "2026-04-15",
+    "https://www.facebook.com/business/news/cyber-5-2025-what-worked": "2026-04-15",
+    "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/instream-ad/?list=23496": "2026-04-15",
+    "https://anagrams.jp/blog/banner-design-preparation/": "2026-04-15",
+    "https://anagrams.jp/blog/seminar-report-2026-02-25/": "2026-04-15"
   },
   "titles": [
     {
@@ -100,6 +110,46 @@
     },
     {
       "title": "More quality leads this Q5 with Meta's latest AI-enabled updates",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "追加キャンペーンおまかせパック【無料】",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "生成AI時代、検索はどう使われているのか？｜ユーザー調査で見えた“使い分け”",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "アルコール商材の広告運用前に知っておきたい媒体別の制限",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "【データクリーンルーム活用】ブランドリフト調査の課題を解決！媒体横断比較・柔軟な調査設計が可能に",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "YouTube広告のコスト効率が20%以上改善？「共視聴」データから見直すコネクテッドテレビの真価",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "5 ways to collaborate with our agentic advisors",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Cyber 5 2025: What Worked, What Changed, and How to Win Q5",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "動画配信サービスで広がる新たなユーザー接点｜LINEヤフーのインストリーム広告が生み出す新しい効果",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "バナー制作のクオリティとスピードを両立する、「作り始める前」の準備術",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "商品への想いを広告で届ける「インタビュー動画広告」設計と制作のポイント",
       "date": "2026-04-15"
     }
   ],
@@ -282,6 +332,96 @@
       "summary": "・MetaがQ5期間中のリード獲得を強化するAI搭載の新機能アップデートを発表した\n・広告主が見落としがちなQ5（年末年始後の広告低競争期間）の活用を促進する狙い\n・リード獲得ツールの機能改善により、より質の高いリード創出が可能になる",
       "score": 7,
       "reason": "Metaリード獲得AI新機能、実務活用可能",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "追加キャンペーンおまかせパック【無料】",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/add_campaign/?list=23496",
+      "summary": "・LINEヤフーが追加キャンペーンおまかせパックを無料で提供開始した\n・法人向けサービスの最新情報や活用ノウハウを併せて紹介している\n・企業のデジタル広告運用を支援する無料パッケージとして活用可能である",
+      "score": 4,
+      "reason": "Yahoo!広告の無料サービス紹介で宣伝寄り",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "生成AI時代、検索はどう使われているのか？｜ユーザー調査で見えた“使い分け”",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search-behavior-in-the-age-of-ai/?list=23496",
+      "summary": "・2,005名対象の調査で生成AI普及後も検索エンジンが継続利用されている実態が判明\n・ユーザーは目的に応じて検索と生成AIを使い分けており購買前行動に顕著な傾向あり\n・今後の検索トレンドとしてAIと検索の併用が定着し役割の棲み分けが進む見通し",
+      "score": 8,
+      "reason": "生成AI時代の検索行動調査、広告戦略立案に有用",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アナグラム",
+      "title": "アルコール商材の広告運用前に知っておきたい媒体別の制限",
+      "link": "https://anagrams.jp/blog/alcohol-advertising-restrictions/",
+      "summary": "・アルコール商材のWeb広告はリターゲティング等が制限される場合があり事前確認が必須\n・Google・Yahoo!・Meta・LINEなど主要媒体ごとにアルコール広告の配信制限が異なる\n・媒体別の制約を正しく理解し運用設計することで法令遵守と効果的な広告展開が可能になる",
+      "score": 8,
+      "reason": "アルコール商材の媒体別広告制限、実務で即役立つ",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "【データクリーンルーム活用】ブランドリフト調査の課題を解決！媒体横断比較・柔軟な調査設計が可能に",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/dcr_brand_lift",
+      "summary": "・データクリーンルームはプライバシー保護とデータ統合・分析を両立する安全なクラウド環境である\n・Cookie規制強化を背景に個人特定せず広告効果測定が可能な手法として注目が高まっている\n・Hakuhodo DY ONEが主要媒体社と連携し媒体横断のブランドリフト調査を支援している",
+      "score": 8,
+      "reason": "データクリーンルームでブランドリフト調査、実務に有用",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "YouTube広告のコスト効率が20%以上改善？「共視聴」データから見直すコネクテッドテレビの真価",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/youtube-ctv-co-viewing-efficiency",
+      "summary": "・共視聴とは複数人で映像を同時視聴する行為で、コネクテッドテレビ経由のYouTube視聴でも拡大している\n・YouTube広告の1回の表示が複数人に届くため、実質的な広告コスト効率が20%以上改善する可能性がある\n・共視聴データを活用することでコネクテッドテレビ広告のリーチ価値を正確に再評価できると示唆されている",
+      "score": 8,
+      "reason": "YouTube CTV共視聴データでコスト効率20%改善の知見",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Google広告",
+      "title": "5 ways to collaborate with our agentic advisors",
+      "link": "https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/",
+      "summary": "・Google広告とアナリティクスのAIエージェント型アドバイザーとの効果的な協働方法を5つ紹介する記事\n・Ads AdvisorとAnalytics Advisorを活用する際のベストプラクティスや実践的なヒントを解説\n・AIアドバイザーとの連携を最適化し広告運用や分析業務の効率と成果を向上させることが狙い",
+      "score": 7,
+      "reason": "Google広告AIアドバイザー活用の実践Tips",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Cyber 5 2025: What Worked, What Changed, and How to Win Q5",
+      "link": "https://www.facebook.com/business/news/cyber-5-2025-what-worked",
+      "summary": "・2025年のサイバー5（感謝祭～サイバーマンデー）が従来の買い物戦略を大きく塗り替えた\n・年間最大の商戦期で効果があった施策と変化したトレンドを分析し知見を共有している\n・Q5（年末年始の追い込み期間）で成果を最大化するための戦略的対応策を提示している",
+      "score": 7,
+      "reason": "年末商戦の実践的広告戦略とQ5勝ち筋の解説",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "動画配信サービスで広がる新たなユーザー接点｜LINEヤフーのインストリーム広告が生み出す新しい効果",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/instream-ad/?list=23496",
+      "summary": "・LINEヤフーが動画配信サービス上で展開するインストリーム広告の仕組みと特徴を解説する記事\n・動画視聴中に自然に挿入される広告形式で、新たなユーザー接点を創出し高い広告効果を実現\n・配信フローや活用メリットを具体的に紹介し、広告主のブランド認知や購買促進への貢献を提示",
+      "score": 7,
+      "reason": "LINEヤフーのインストリーム広告の仕組みと活用法",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アナグラム",
+      "title": "バナー制作のクオリティとスピードを両立する、「作り始める前」の準備術",
+      "link": "https://anagrams.jp/blog/banner-design-preparation/",
+      "summary": "・バナー制作に時間がかかりすぎる課題に対し「作り始める前」の準備段階を見直す重要性を提唱\n・制作プロセスを振り返り、時間を浪費している原因を特定することが効率化の第一歩と指摘\n・アナグラム社が実践するバナー制作のクオリティとスピードを両立させる準備術を解説",
+      "score": 7,
+      "reason": "バナー制作の効率化ノウハウ、クリエイティブ実務に有用",
+      "date": "2026-04-15"
+    },
+    {
+      "source": "アナグラム",
+      "title": "商品への想いを広告で届ける「インタビュー動画広告」設計と制作のポイント",
+      "link": "https://anagrams.jp/blog/seminar-report-2026-02-25/",
+      "summary": "・商品の機能や品質だけでは差別化が難しい中、作り手の想いやストーリーを伝える手法が注目されている\n・インタビュー動画広告は開発背景やこだわりを語ることでブランドへの共感と信頼を醸成できる\n・設計時には伝えたいメッセージの絞り込みと視聴者目線の構成が制作の重要ポイントとなる",
+      "score": 7,
+      "reason": "インタビュー動画広告の設計・制作ポイント解説",
       "date": "2026-04-15"
     }
   ]
