@@ -39,7 +39,17 @@
     "https://oneder.hakuhodody-one.co.jp/blog/aidiver08": "2026-04-16",
     "https://www.facebook.com/business/news/manus-joins-meta-accelerating-ai-innovation-for-businesses": "2026-04-16",
     "https://anagrams.jp/blog/creatorzine-2021-03-11/": "2026-04-16",
-    "https://oneder.hakuhodody-one.co.jp/blog/dooh_live-board": "2026-04-16"
+    "https://oneder.hakuhodody-one.co.jp/blog/dooh_live-board": "2026-04-16",
+    "https://dentsudigital.co.jp/news/release/services/2026-0416-000314": "2026-04-16",
+    "https://blog.google/products/ads-commerce/retail-sales-ai/": "2026-04-16",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/20231219/?list=23496": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/aidiver07": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/nikkeibp-one-aigent02": "2026-04-16",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/contact/?list=23496": "2026-04-16",
+    "https://www.lycbiz.com/jp/column/line-official-account/service-information/line-touch/": "2026-04-16",
+    "https://dentsudigital.co.jp/news/release/services/2026-0401-000311": "2026-04-16",
+    "https://www.facebook.com/business/news/safety-and-integrity-highlights-from-2025": "2026-04-16",
+    "https://dentsudigital.co.jp/news/release/services/2026-0325-000310": "2026-04-16"
   },
   "titles": [
     {
@@ -200,6 +210,46 @@
     },
     {
       "title": "デジタル広告×DOOHで実現する新たな広告戦略 〜データドリブンなDOOHが叶えるリーチ拡張と成果最大化〜",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "2035年のトレンドを予測し、未来起点の経営戦略に生かす「電通未来曼荼羅2026」発表",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "AI is changing retail. Here’s how businesses can keep up.",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "LINEヤフー広告のアカウント作成方法｜申し込みから設定、始め方",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "AI時代、「ググる」はなくなる？ 検索と対話が共存する世界で、最後に問われる「言語化力」",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "データは「渡さない」からこそ、連携できる。 Zero Data Sharingが破壊する「企業のカベ」とマーケティングの速度論",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "LINEヤフー広告が初めてでも安心！専門スタッフが出稿前のお悩みを解決",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "店頭での顧客体験をアップデート！「LINEタッチ」とは",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "対話型AI開発ソリューション「∞AI Chat」を「AI For Growth Canvas」にリブランディング",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "Safety and Integrity Highlights from 2025",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "AIエージェントがデータ統合から業務実行まで一括代行する「Amazon Quick」導入支援サービスを提供開始",
       "date": "2026-04-16"
     }
   ],
@@ -562,6 +612,96 @@
       "summary": "・LIVE BOARDを軸にデジタル広告とDOOHを連携しリーチ拡張と成果最大化を目指す新戦略が注目されている\n・2025年9月に日本OOHメジャメント協会が設立されOOH広告の効果指標統一と客観的データの可視化が進行中\n・デジタルサイネージ広告市場は右肩上がりで成長しデータドリブンな取引基盤の整備が加速している",
       "score": 6,
       "reason": "DOOH×デジタル広告連携の戦略解説、実務参考になる",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "2035年のトレンドを予測し、未来起点の経営戦略に生かす「電通未来曼荼羅2026」発表",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0416-000314",
+      "summary": "・電通デジタルと国内電通グループ5社が共同で中期未来予測ツール「電通未来曼荼羅2026」の提供を開始した\n・2035年までに起こり得るトレンドを体系的にまとめた未来予測フレームワークである\n・企業の未来起点の経営戦略立案や新規事業開発、サービス設計などへの活用を想定している",
+      "score": 3,
+      "reason": "企業向け中期予測ツールのプレスリリース",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "Google広告",
+      "title": "AI is changing retail. Here’s how businesses can keep up.",
+      "link": "https://blog.google/products/ads-commerce/retail-sales-ai/",
+      "summary": "・AIの進化が小売業界の広告戦略やマーケティング手法を大きく変革しつつある\n・Ads Decodedポッドキャストで小売企業が急変する広告環境へ適応する方法を議論\n・小売業者はAI活用によるデジタル広告の最適化と迅速な対応が今後の競争力の鍵となる",
+      "score": 5,
+      "reason": "小売業向けAI活用の概論的ポッドキャスト紹介",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告のアカウント作成方法｜申し込みから設定、始め方",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/20231219/?list=23496",
+      "summary": "・LINEヤフー広告の出稿にはまず広告アカウントの作成が必須であり事前準備が重要となる\n・アカウント申し込み手順として必要書類や情報の準備から登録完了までの流れを解説している\n・アカウント作成後の広告設定・審査プロセス・実際の出稿開始までの一連の手順を紹介している",
+      "score": 5,
+      "reason": "LINEヤフー広告の開設手順で初心者に実用的",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AI時代、「ググる」はなくなる？ 検索と対話が共存する世界で、最後に問われる「言語化力」",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/aidiver07",
+      "summary": "・AI普及により従来の「ググる」検索行動が変容しAI対話型検索との共存時代が到来しつつある\n・検索と対話が併存する環境では情報の探し方や届け方についてマーケターの戦略再構築が求められる\n・AI活用の成果を左右するのは的確な問いを立てニーズを言語化する「言語化力」であると提起している",
+      "score": 5,
+      "reason": "AI検索時代の考察で広告戦略の背景知識になる",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "データは「渡さない」からこそ、連携できる。 Zero Data Sharingが破壊する「企業のカベ」とマーケティングの速度論",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/nikkeibp-one-aigent02",
+      "summary": "・Hakuhodo DY ONEが専門AIエージェント群によるマーケティングプロセス全体の再構築に着手した\n・戦略立案からクリエイティブ作成まで業務特化型AIエージェントを開発しA2A連携を次段階に据える\n・自社エージェント間だけでなくクライアント企業のエージェントとも連携し自律的運用を目指す",
+      "score": 5,
+      "reason": "マーケプロセス再構築の概念的議論で示唆あり",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告が初めてでも安心！専門スタッフが出稿前のお悩みを解決",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/contact/?list=23496",
+      "summary": "・LINEヤフーがYahoo!広告・LINE広告の出稿前相談サポート窓口を提供開始\n・専門スタッフが広告の仕組みや料金体系など初心者の疑問に無料で対応する\n・広告出稿が初めての企業でも安心して始められる支援体制を整備している",
+      "score": 4,
+      "reason": "広告相談窓口の案内で初心者向け情報に留まる",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "店頭での顧客体験をアップデート！「LINEタッチ」とは",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/service-information/line-touch/",
+      "summary": "・LINEヤフーが店頭での顧客体験を向上させる新サービス「LINEタッチ」を提供開始した\n・LINEタッチは店頭端末にスマホをかざすだけで情報取得や会員連携が可能な仕組みである\n・法人向けに活用方法やノウハウを公開しオフライン接点のデジタル化を推進している",
+      "score": 4,
+      "reason": "LINEタッチは店頭施策で広告運用との関連薄い",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "対話型AI開発ソリューション「∞AI Chat」を「AI For Growth Canvas」にリブランディング",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0401-000311",
+      "summary": "・電通デジタルが「∞AI Chat」を「AI For Growth Canvas」にリブランディングしUIを全面刷新した\n・マーケティング実務に特化した10種類のAIエージェント群の本格提供を開始する\n・新エージェント群は「AI for Growth Marketing Agents」として実務支援を強化する方針",
+      "score": 4,
+      "reason": "電通デジタル自社ツールのリブランディング発表",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Safety and Integrity Highlights from 2025",
+      "link": "https://www.facebook.com/business/news/safety-and-integrity-highlights-from-2025",
+      "summary": "・Metaが2025年の安全性とインテグリティに関する取り組みの成果を総括した\n・責任あるメディア運営を支える4つの主要な柱を軸に活動を推進してきたと報告\n・広告の安全性やプラットフォームの健全性向上に向けた年間の進捗を振り返った",
+      "score": 3,
+      "reason": "Meta安全性の年次振り返りで実務影響は限定的",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AIエージェントがデータ統合から業務実行まで一括代行する「Amazon Quick」導入支援サービスを提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0325-000310",
+      "summary": "・電通デジタルがAWS提供のエンタープライズプラットフォーム「Amazon Quick」の導入支援サービスを開始した\n・Amazon Quickはデータ統合・リサーチ・業務フロー自動化をワークスペースに一元化するAIエージェント基盤である\n・AIエージェントがデータ統合から業務実行までを一括代行し企業の業務効率化を支援する",
+      "score": 3,
+      "reason": "Amazon Quick導入支援で広告運用との直接関連薄",
       "date": "2026-04-16"
     }
   ]
