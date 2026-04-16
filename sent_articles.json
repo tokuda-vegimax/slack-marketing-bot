@@ -29,7 +29,17 @@
     "https://www.facebook.com/business/news/cyber-5-2025-what-worked": "2026-04-15",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/instream-ad/?list=23496": "2026-04-15",
     "https://anagrams.jp/blog/banner-design-preparation/": "2026-04-15",
-    "https://anagrams.jp/blog/seminar-report-2026-02-25/": "2026-04-15"
+    "https://anagrams.jp/blog/seminar-report-2026-02-25/": "2026-04-15",
+    "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-wise-ads-integration": "2026-04-16",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0416-000313": "2026-04-16",
+    "https://anagrams.jp/blog/swipeable-lp-benefits-and-results/": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202603": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/nikkeibp-one-aigent03": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202602": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/aidiver08": "2026-04-16",
+    "https://www.facebook.com/business/news/manus-joins-meta-accelerating-ai-innovation-for-businesses": "2026-04-16",
+    "https://anagrams.jp/blog/creatorzine-2021-03-11/": "2026-04-16",
+    "https://oneder.hakuhodody-one.co.jp/blog/dooh_live-board": "2026-04-16"
   },
   "titles": [
     {
@@ -151,6 +161,46 @@
     {
       "title": "商品への想いを広告で届ける「インタビュー動画広告」設計と制作のポイント",
       "date": "2026-04-15"
+    },
+    {
+      "title": "多種多様なメディアをシームレスにつなぐ画期的な広告配信ソリューション ──「WISE Ads」が変えるデジタル広告の常識",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "「Salesforce Japan Partner Award 2026」を2部門受賞",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "「スワイプLPって結局どうなの？」制作ツールの選び方やメリット、検証結果を解説",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "検索エンジン順位変動と動向（2026年3月）",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "究極のパーソナライゼーションは実現できるか Hakuhodo DY ONE「ONE-AIGENT」×メルカリに見るマーケティング実装最前線",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年2月）",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "AI検索でブランドは消える？SEOの延長線上にある本質的な対応「AIO（AI最適化）」の重要性",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "Manus Joins Meta: Accelerating AI Innovation for Businesses",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "[CreatorZine]運用型広告代理店がデザインを内製する意義とは アナグラム仙波さんがクリエイティブチーム立ち上げを語る",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "デジタル広告×DOOHで実現する新たな広告戦略 〜データドリブンなDOOHが叶えるリーチ拡張と成果最大化〜",
+      "date": "2026-04-16"
     }
   ],
   "articles": [
@@ -423,6 +473,96 @@
       "score": 7,
       "reason": "インタビュー動画広告の設計・制作ポイント解説",
       "date": "2026-04-15"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "多種多様なメディアをシームレスにつなぐ画期的な広告配信ソリューション ──「WISE Ads」が変えるデジタル広告の常識",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-wise-ads-integration",
+      "summary": "・Hakuhodo DY ONEが開発・提供する広告配信ソリューション「WISE Ads」が紹介されている\n・多種多様なメディアをシームレスに接続しデジタル広告の常識を変える画期的な仕組みである\n・組織横断型プロジェクトとして開発・運用・営業の各メンバーが製販一体で推進している",
+      "score": 3,
+      "reason": "自社ソリューション紹介の企業PR記事",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "「Salesforce Japan Partner Award 2026」を2部門受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0416-000313",
+      "summary": "・電通デジタルが「Salesforce Japan Partner Award 2026」で2部門を受賞した\n・受賞部門は「Retail & Consumer Goods」と「Agentforce Marketing」の2つ\n・Salesforceパートナーとしての小売・消費財およびマーケティング領域での実績が評価された",
+      "score": 2,
+      "reason": "受賞報告のプレスリリースで実務に無関係",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アナグラム",
+      "title": "「スワイプLPって結局どうなの？」制作ツールの選び方やメリット、検証結果を解説",
+      "link": "https://anagrams.jp/blog/swipeable-lp-benefits-and-results/",
+      "summary": "・スワイプLPの概要と従来LPとの違い、情報設計上のメリットを解説している\n・制作ツールの選び方についてポイントや比較観点を具体的に紹介している\n・実際のABテスト等の検証結果をもとにスワイプLPの効果と活用法を考察",
+      "score": 8,
+      "reason": "スワイプLP検証結果と制作手法、LP改善に直結",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "検索エンジン順位変動と動向（2026年3月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202603",
+      "summary": "・2026年3月の検索順位変動をモバイル・PC版それぞれ20位まで調査し動向を報告している\n・Googleはスパム・コアアップデートを同時展開し、検索Liveを日本含む全対応地域に拡大した\n・BingはAI Performanceレポートを強化、GoogleはDiscover用サムネイル画像の推奨仕様を更新した",
+      "score": 7,
+      "reason": "検索エンジン変動・コアアプデ情報でSEO/広告に有用",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "究極のパーソナライゼーションは実現できるか Hakuhodo DY ONE「ONE-AIGENT」×メルカリに見るマーケティング実装最前線",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/nikkeibp-one-aigent03",
+      "summary": "・メルカリはAIエージェント時代に「究極のパーソナライゼーション」実現を目標に掲げている\n・従来のセグメント単位から顧客一人ひとりに最適化したメッセージ配信への転換を目指す\n・アプリ外の広告やオフライン施策では媒体機能の制約があり完全な個別対応に課題が残る",
+      "score": 7,
+      "reason": "AIパーソナライゼーション×広告運用の実装事例",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年2月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202602",
+      "summary": "・国内AI検索エンジンシェアはChatGPTが約67%で首位だが前月比2.76pt減と微減傾向にある\n・Geminiは3カ月連続でシェア上昇中で前月比0.88pt増と着実に存在感を拡大している\n・データはStatCounterのウェブアクセス推定値であり実ユーザー数とは乖離の可能性がある",
+      "score": 7,
+      "reason": "AI検索シェア推移データ、広告戦略立案に有用",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AI検索でブランドは消える？SEOの延長線上にある本質的な対応「AIO（AI最適化）」の重要性",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/aidiver08",
+      "summary": "・AI検索の普及により検索が「探す」から「対話で答えを得る」形へ変化しブランド露出が減少するリスクが指摘されている\n・AEO・GEO・LLMOを包括する新概念「AIO（AI最適化）」が提唱されSEOの延長線上の対応として重要性が高まっている\n・従来のSEO施策だけでは不十分でありAI検索時代に合わせたブランド戦略の再構築が急務となっている",
+      "score": 7,
+      "reason": "AIO概念の解説、AI検索時代のSEO/広告戦略に重要",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Manus Joins Meta: Accelerating AI Innovation for Businesses",
+      "link": "https://www.facebook.com/business/news/manus-joins-meta-accelerating-ai-innovation-for-businesses",
+      "summary": "・AIエージェント企業ManusがMetaへの参画を正式発表し業界に大きなインパクトを与えた\n・Metaの製品群を通じて数十億人規模のユーザーに先進的なAIエージェントを提供する方針\n・企業向けのビジネス機会創出を加速しMeta全体のAIイノベーション強化を目指す",
+      "score": 6,
+      "reason": "ManusのMeta統合はビジネス向けAI進化で今後影響あり",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アナグラム",
+      "title": "[CreatorZine]運用型広告代理店がデザインを内製する意義とは アナグラム仙波さんがクリエイティブチーム立ち上げを語る",
+      "link": "https://anagrams.jp/blog/creatorzine-2021-03-11/",
+      "summary": "・アナグラム社が運用型広告代理店としてクリエイティブチームを社内に立ち上げた背景を紹介\n・広告運用とデザインを内製化することで施策のスピードや品質向上につなげる意義を解説\n・仙波氏がチーム構築の過程や運用担当との連携についてCreatorZineで詳しく語っている",
+      "score": 6,
+      "reason": "運用型広告代理店のクリエイティブ内製化の実践知見",
+      "date": "2026-04-16"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "デジタル広告×DOOHで実現する新たな広告戦略 〜データドリブンなDOOHが叶えるリーチ拡張と成果最大化〜",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/dooh_live-board",
+      "summary": "・LIVE BOARDを軸にデジタル広告とDOOHを連携しリーチ拡張と成果最大化を目指す新戦略が注目されている\n・2025年9月に日本OOHメジャメント協会が設立されOOH広告の効果指標統一と客観的データの可視化が進行中\n・デジタルサイネージ広告市場は右肩上がりで成長しデータドリブンな取引基盤の整備が加速している",
+      "score": 6,
+      "reason": "DOOH×デジタル広告連携の戦略解説、実務参考になる",
+      "date": "2026-04-16"
     }
   ]
 }
