@@ -49,7 +49,16 @@
     "https://www.lycbiz.com/jp/column/line-official-account/service-information/line-touch/": "2026-04-16",
     "https://dentsudigital.co.jp/news/release/services/2026-0401-000311": "2026-04-16",
     "https://www.facebook.com/business/news/safety-and-integrity-highlights-from-2025": "2026-04-16",
-    "https://dentsudigital.co.jp/news/release/services/2026-0325-000310": "2026-04-16"
+    "https://dentsudigital.co.jp/news/release/services/2026-0325-000310": "2026-04-16",
+    "https://anagrams.jp/blog/seminar-report-2026-03-31/": "2026-04-17",
+    "https://dentsudigital.co.jp/news/release/services/2026-0417-000315": "2026-04-17",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0324-000309": "2026-04-17",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0317-000307": "2026-04-17",
+    "https://dentsudigital.co.jp/news/release/management/2026-0326-000311": "2026-04-17",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0319-000308": "2026-04-17",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcWE3YzZ1b2lRallZS29FRTRfQ3l4MkI0eldUYktNNjdJb0owcG9EVmk4czVVd1pwWUUyc3VEWTZ5aDhidnR1XzhUdEJBeU1VaWhZZVU1MXJaaHZi?oc=5": "2026-04-17",
+    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-04-17",
+    "https://news.yahoo.co.jp/articles/f948f7742eea4334d26fedd4afed6072e6f5405a": "2026-04-17"
   },
   "titles": [
     {
@@ -251,6 +260,46 @@
     {
       "title": "AIエージェントがデータ統合から業務実行まで一括代行する「Amazon Quick」導入支援サービスを提供開始",
       "date": "2026-04-16"
+    },
+    {
+      "title": "店舗集客の運用型広告はエリアを絞るだけじゃない。成果を最大化する商圏の考え方と実践ポイント",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "dentsu Japan、AI時代の新たなクリエイティブ供給サービス「AI For Growth Creative Lines」を始動",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "IAS主催「IAS AWARD 2026」において「Agency of the Year」の最高位ゴールドを4年連続受賞",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Braze主催の「Braze Alloys Partner Network 2026, Japan」にて「Creative Partner of the year」を受賞",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "役員および業務執行体制変更に関するお知らせ",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "「iF Design Award 2026」においてBranding & Communication Design部門で受賞",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "LINEヤフーの運用型広告において、新たにリニューアルされた「LINE」内の「ホームタブ」での広告配信を開始 - lycorp.co.jp",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…6%改善し、クリエイティブの改善機会を発見するまでの期間を半減させた。運用型広告は膨大なアカウントやキャンペーン、クリエイティブを並行管理しながら効果…Web担当者ForumIT総合4/7(火) 7:01",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…析には広告主企業の計測ツールによる計測データを用いることもできる。「Meta広告」(Facebook/Instagram)を対象に始めるが、段階的に機…Web担当者ForumIT総合4/7(火) 7:01",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "AI時代のデジタル広告は「運用しない」が新常識？ 成果を左右するデータ設計とクッキー規制への備え…erformance Max：パフォーマンス最大化キャンペーン） ・Meta広告における「Advantage+（アドバンテージプラス）」シリーズ > …Web担当者ForumIT総合2/5(木) 7:16",
+      "date": "2026-04-17"
     }
   ],
   "articles": [
@@ -703,6 +752,96 @@
       "score": 3,
       "reason": "Amazon Quick導入支援で広告運用との直接関連薄",
       "date": "2026-04-16"
+    },
+    {
+      "source": "アナグラム",
+      "title": "店舗集客の運用型広告はエリアを絞るだけじゃない。成果を最大化する商圏の考え方と実践ポイント",
+      "link": "https://anagrams.jp/blog/seminar-report-2026-03-31/",
+      "summary": "・店舗型ビジネスの広告運用では商圏設計が成果を左右する重要な要素である\n・エリアを絞って配信するだけでは来店につながらないという課題が多く存在する\n・商圏の考え方を見直し実践的なポイントを押さえることで広告成果を最大化できる",
+      "score": 8,
+      "reason": "店舗集客の商圏設計と広告運用の実践ノウハウ",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "dentsu Japan、AI時代の新たなクリエイティブ供給サービス「AI For Growth Creative Lines」を始動",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0417-000315",
+      "summary": "・電通デジタルがdentsu Japan傘下4社およびTag Japanと連携しAI活用の新クリエイティブサービスを開始\n・サービス名は「AI For Growth Creative Lines」でAI時代に対応したクリエイティブ供給を目指す\n・グループ横断の連携体制により広告クリエイティブの制作効率と品質の向上を図る構え",
+      "score": 4,
+      "reason": "電通グループの新サービス発表プレスリリース",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "IAS主催「IAS AWARD 2026」において「Agency of the Year」の最高位ゴールドを4年連続受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0324-000309",
+      "summary": "・電通デジタルがIAS主催「IAS AWARD 2026」のAgency of the Yearでゴールドを受賞した\n・同賞の最高位ゴールドを4年連続で獲得し、継続的な実績が評価された\n・IASはメディア品質インテリジェンス分野のグローバルリーダーとして知られる企業である",
+      "score": 4,
+      "reason": "受賞報告だがIAS活用の重要性を示唆する程度",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "Braze主催の「Braze Alloys Partner Network 2026, Japan」にて「Creative Partner of the year」を受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0317-000307",
+      "summary": "・電通デジタルがBraze主催「Braze Alloys Partner Network 2026, Japan」で受賞した\n・2026年度パートナー表彰プログラムにおいて「Creative Partner of the year」を獲得\n・Brazeパートナーアワードの受賞は3年連続の快挙となった",
+      "score": 3,
+      "reason": "Braze連携の受賞報告でCRM施策に若干関連",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "役員および業務執行体制変更に関するお知らせ",
+      "link": "https://dentsudigital.co.jp/news/release/management/2026-0326-000311",
+      "summary": "・電通デジタルが役員および業務執行体制の変更を正式に発表した\n・組織のガバナンス強化や事業推進力向上を目的とした体制刷新とみられる\n・具体的な人事異動や新任役員の詳細は本文中では明らかにされていない",
+      "score": 2,
+      "reason": "人事異動の社内通知で広告運用実務に無関係",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "「iF Design Award 2026」においてBranding & Communication Design部門で受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0319-000308",
+      "summary": "・電通デジタルが世界的デザイン賞「iF Design Award 2026」で受賞を発表した\n・受賞部門はBranding & Communication Designで電通との共同制作作品が対象\n・電通グループのクリエイティブ力とデジタル領域の連携が国際的に評価された",
+      "score": 2,
+      "reason": "デザイン賞受賞で広告運用実務との関連が薄い",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "Google News",
+      "title": "LINEヤフーの運用型広告において、新たにリニューアルされた「LINE」内の「ホームタブ」での広告配信を開始 - lycorp.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcWE3YzZ1b2lRallZS29FRTRfQ3l4MkI0eldUYktNNjdJb0owcG9EVmk4czVVd1pwWUUyc3VEWTZ5aDhidnR1XzhUdEJBeU1VaWhZZVU1MXJaaHZi?oc=5",
+      "summary": "・LINEヤフーがLINEアプリ内「ホームタブ」のリニューアルに伴い運用型広告の配信面として新たに追加した\n・リニューアルされたホームタブはユーザーの利用頻度が高く広告接触機会の拡大が期待される\n・LINE広告の配信面拡充により広告主はより多くのLINEユーザーへリーチ可能になる",
+      "score": 9,
+      "reason": "LINE広告の新配信面追加、即実務影響あり",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…6%改善し、クリエイティブの改善機会を発見するまでの期間を半減させた。運用型広告は膨大なアカウントやキャンペーン、クリエイティブを並行管理しながら効果…Web担当者ForumIT総合4/7(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
+      "summary": "・サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」の提供を開始した\n・導入により広告効果が6%改善しクリエイティブ改善機会の発見期間を半減させた\n・運用型広告の膨大なアカウントやキャンペーン・クリエイティブの並行管理を自動化する",
+      "score": 9,
+      "reason": "CA製AIエージェント、広告運用自動化の実践ツール",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…析には広告主企業の計測ツールによる計測データを用いることもできる。「Meta広告」(Facebook/Instagram)を対象に始めるが、段階的に機…Web担当者ForumIT総合4/7(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
+      "summary": "・サイバーエージェントが広告配信運用を自動化するAIエージェント「効果おまかせAI」の提供を開始した\n・広告主企業の計測ツールによる計測データを活用した分析にも対応し精度の高い運用が可能\n・まずMeta広告（Facebook/Instagram）を対象に開始し今後対応媒体を段階的に拡大予定",
+      "score": 9,
+      "reason": "CA効果おまかせAI詳細、Meta広告運用に直結",
+      "date": "2026-04-17"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI時代のデジタル広告は「運用しない」が新常識？ 成果を左右するデータ設計とクッキー規制への備え…erformance Max：パフォーマンス最大化キャンペーン） ・Meta広告における「Advantage+（アドバンテージプラス）」シリーズ > …Web担当者ForumIT総合2/5(木) 7:16",
+      "link": "https://news.yahoo.co.jp/articles/f948f7742eea4334d26fedd4afed6072e6f5405a",
+      "summary": "・AI活用の自動化広告が主流となり従来の手動運用から「運用しない」スタイルへ転換が進んでいる\n・Google P-MAXやMeta Advantage+など自動最適化キャンペーンが広告成果の鍵を握っている\n・クッキー規制強化に備えたファーストパーティデータの設計と活用戦略が今後の成果を左右する",
+      "score": 9,
+      "reason": "PMax・Advantage+の運用設計論、即実践的",
+      "date": "2026-04-17"
     }
   ]
 }
