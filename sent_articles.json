@@ -68,7 +68,17 @@
     "https://news.yahoo.co.jp/articles/a8626c2eca763274a5a6adb96c64dd891e160dbc": "2026-04-18",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnWGpUa0YtVzJiMzVzc0E4bEUzU2F0eVJDTlBQMllPZ2pBQVFGS0t3Q2tzMFEzZXplZlJZV0hGTldNLTQ5ZXdLSTNDcll4NldqZUJudW5tbXVGRWZ1djB0ZHpySGZ4eUphWk5YUw?oc=5": "2026-04-18",
     "https://news.yahoo.co.jp/articles/b47dc328b3ff2b6a936fedd50730c01ea255e543": "2026-04-18",
-    "https://news.yahoo.co.jp/articles/ae9b48940ad0d01bc7d0f97a823561fb3d1fe437": "2026-04-18"
+    "https://news.yahoo.co.jp/articles/ae9b48940ad0d01bc7d0f97a823561fb3d1fe437": "2026-04-18",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWXRYOTlVWTlqcnJpZ2tMV2ZuclpINU5DNkNMd3pGOWdYcHBxemZMUXdPQ2lCUVk2VzhiMVc1Z2QxdXVDenNLVU5JTUZWNEswWW5tWnFNSDNkTnd3SGpVTTdVbHhnRmc3Um9zZ3dFeDVZZnRfNkl5QzhmajNUQnM?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWxyMDViMTVEOGs0TXBSWVdjcWpQOHA5VDJreko1aEp0bU56Z1M5Y3RjaUw2SHFWZldZZlJEbm1WdDVKLWh5bW8xNjd0cXNOUmdfVzZad1FyNXFlMHQ1ZTdwZUlzaEZOb3hhNW00eXJ0ZHpjSkR2NUpwTGRQTWFMVkJuMmlDU216MHJYRW8weTZ5Zzg?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RYmhta2tESHVxbGJrNlFhRTZPUU4wc2JwVER2aTllTTdaM0tTb3VSbk1uZmloUDlfdGQycVVuSHhnb0hjSTBSOFF6eXRqLVRtMFRpZ1NOeF9yV2x1OEppTDlSZzVUYUJEMm9UZVJBMmxLV3JCUDFRXzZR?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUUzZ3ZWSVI0N20zMVlmTmRqSWdTaVVOZy1NNnZmU2hhTm5XNnkyUlQyRkoyNENRbm9VRWpLV0dWODk5WXRmYjFWZ2owbkIwTXJsMHppZEFYNzZLQlNDTVdGcTRINmsxLWZXaktYSzVBcnFrOHQwV3Y3UXROWmRXdUppY2NSSWNkZjdFRA?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWmN6cUVfelFLQl90Rm1hdWF6RXo1T2ZHNVZoYWF5RlRkRW1teXRkcmxWT2Nud0NMZE51ZFVFNjhST0V6NUlyXzhVZ1hJM2wxUGFoMVEtRUFQWGM1cmROeUczR3o1bnNjZmFBMA?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pa1d1OWhCYTlZYWxWQS0xOUhaZG5YYmxvaTUxVW9wNzJtUDhoakZDUjF2eVF4cTQtcjRENlJXeVBDTy1BaVJJUDh2dWhZcGFKWDI5M3dQLThPWkI1Z0NIZWxaSzR0OVlES25OYQ?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsczd3YzZTUG5CMEdqaFQ2LVRId0pHSFUwQ0d2V2VGRXZ1V0NlREZKRXFBZGNiaGdjUjNCWFFtR0xURkpQQTMwM3VIRXdpTkkwRFNNckFvOWFWcU5xQ2VJNXJyRk4wcVhzbkE?oc=5": "2026-04-19",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCMHFHUC1BNXlvbzlLVzVtOEttMEFSVDJrcExVdFg1ZVdCRFBoOGFfOEFlYU1XSWpuOTd2MnE4d0d2UllzV05zaUJnamRCd2lnbDV6RGV0dFQ2N0lrVUlQSjB3TGFnb29Dbmc?oc=5": "2026-04-19",
+    "https://news.yahoo.co.jp/expert/articles/5207802973787cbdb036a62605699f25c06ac92b": "2026-04-19",
+    "https://news.yahoo.co.jp/articles/1d23e7951bd20bf3301e1273b0549575734c7a97": "2026-04-19"
   },
   "titles": [
     {
@@ -350,6 +360,46 @@
     {
       "title": "デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション…ューション「DV Authentic Attention(R)」をTikTok広告へも適用。直接的なインプレッションレベルのシグナルを統合することで、…ウォーカープラス経済総合4/2(木) 14:00",
       "date": "2026-04-18"
+    },
+    {
+      "title": "LINEヤフーが新たな広告プラットフォーム「LINEヤフー広告 ディスプレイ広告」の提供開始（Web担当者Forum） - Yahoo!ニュース",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "「まさか」の検索を捉える、インテント マッチによる広告効果最大化 - Google Business Profile",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "デジタル広告の「成果が出なくなった」本当の理由―― 消えたCVを取り戻す“次の一手” - Web担当者Forum",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "メタ、26年デジタル広告純収入でグーグル抜き世界首位へ＝調査会社 - Reuters",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "メタ、デジタル広告売上高で初のGoogle超えへ AIと縦型動画で攻勢 - 日本経済新聞",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "実はAIで大成功していたMeta、広告売上高がGoogle超えとの予測も - 日経クロステック",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "Linyの広告連携機能に「Meta広告連携機能」を追加 - PR TIMES",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "TikTok広告の活用実績を称える「TikTok for Business Japan Agency Awards 2026」にて14賞を表彰、2026年の戦略と受賞代理店向けサポートプログラムを発表 - PR TIMES",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "メディア考論『父親“殺害の関与』中継に群がる報道陣 テレビのアイボールは、なぜSNSに負けるのか？…広告の世界では長らく、『何人に見せたか』が価値の基準だった。 しかしデジタル広告の時代、基準は変わった。『誰に・どんな状態で・何秒見せたか』が問われている。神田敏晶IT総合4/16(木) 14:03",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "米メタ、26年に初の世界首位 デジタル広告売上高で 民間予測 【シリコンバレー時事】米メタ（旧フェイスブック）の2026年のデジタル広告売上高が、米グーグルを上回り初めて世界首位になる見込みだ。 米調査会社…時事通信北米4/14(火) 17:39",
+      "date": "2026-04-19"
     }
   ],
   "articles": [
@@ -982,6 +1032,96 @@
       "score": 7,
       "reason": "DV Attention指標のTikTok対応は計測実務に有用",
       "date": "2026-04-18"
+    },
+    {
+      "source": "Google News",
+      "title": "LINEヤフーが新たな広告プラットフォーム「LINEヤフー広告 ディスプレイ広告」の提供開始（Web担当者Forum） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWXRYOTlVWTlqcnJpZ2tMV2ZuclpINU5DNkNMd3pGOWdYcHBxemZMUXdPQ2lCUVk2VzhiMVc1Z2QxdXVDenNLVU5JTUZWNEswWW5tWnFNSDNkTnd3SGpVTTdVbHhnRmc3Um9zZ3dFeDVZZnRfNkl5QzhmajNUQnM?oc=5",
+      "summary": "・LINEヤフーが新広告プラットフォーム「LINEヤフー広告 ディスプレイ広告」の提供を開始した\n・LINEとヤフーの統合基盤を活かしたディスプレイ広告配信サービスとして展開される\n・広告主はLINEヤフーの広大なユーザー基盤へ横断的にリーチ可能になる見込み",
+      "score": 9,
+      "reason": "LINEヤフー新広告PF提供開始、即実務影響大",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "「まさか」の検索を捉える、インテント マッチによる広告効果最大化 - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWxyMDViMTVEOGs0TXBSWVdjcWpQOHA5VDJreko1aEp0bU56Z1M5Y3RjaUw2SHFWZldZZlJEbm1WdDVKLWh5bW8xNjd0cXNOUmdfVzZad1FyNXFlMHQ1ZTdwZUlzaEZOb3hhNW00eXJ0ZHpjSkR2NUpwTGRQTWFMVkJuMmlDU216MHJYRW8weTZ5Zzg?oc=5",
+      "summary": "・Googleのインテントマッチ機能で予想外の検索クエリにも広告を表示し機会損失を防止する手法を紹介\n・ユーザーの検索意図を高精度に解析し従来のキーワード一致では捉えられなかった需要を獲得可能に\n・Google Business Profileと連携した広告運用で検索広告の効果最大化を図る戦略を解説",
+      "score": 9,
+      "reason": "Google広告インテントマッチ活用解説、実務直結",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "デジタル広告の「成果が出なくなった」本当の理由―― 消えたCVを取り戻す“次の一手” - Web担当者Forum",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RYmhta2tESHVxbGJrNlFhRTZPUU4wc2JwVER2aTllTTdaM0tTb3VSbk1uZmloUDlfdGQycVVuSHhnb0hjSTBSOFF6eXRqLVRtMFRpZ1NOeF9yV2x1OEppTDlSZzVUYUJEMm9UZVJBMmxLV3JCUDFRXzZR?oc=5",
+      "summary": "・デジタル広告の成果悪化はCookie規制や計測環境の変化が主な原因と指摘\n・従来のCV計測手法では捕捉できないコンバージョンが増加し成果が見えにくくなっている\n・失われたCVを回復するための新たな計測・運用手法の導入が急務と提言",
+      "score": 8,
+      "reason": "CV減少の原因と対策、実務直結の運用知見",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "メタ、26年デジタル広告純収入でグーグル抜き世界首位へ＝調査会社 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUUzZ3ZWSVI0N20zMVlmTmRqSWdTaVVOZy1NNnZmU2hhTm5XNnkyUlQyRkoyNENRbm9VRWpLV0dWODk5WXRmYjFWZ2owbkIwTXJsMHppZEFYNzZLQlNDTVdGcTRINmsxLWZXaktYSzVBcnFrOHQwV3Y3UXROWmRXdUppY2NSSWNkZjdFRA?oc=5",
+      "summary": "・調査会社の予測によりメタが2026年にデジタル広告純収入で世界首位になる見通し\n・長年デジタル広告市場を支配してきたグーグルをメタが初めて逆転する見込み\n・SNS広告の成長がメタの収益拡大を後押しし業界の勢力図が変化する構図",
+      "score": 6,
+      "reason": "広告市場シェア変動の業界動向情報",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "メタ、デジタル広告売上高で初のGoogle超えへ AIと縦型動画で攻勢 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWmN6cUVfelFLQl90Rm1hdWF6RXo1T2ZHNVZoYWF5RlRkRW1teXRkcmxWT2Nud0NMZE51ZFVFNjhST0V6NUlyXzhVZ1hJM2wxUGFoMVEtRUFQWGM1cmROeUczR3o1bnNjZmFBMA?oc=5",
+      "summary": "・メタがデジタル広告売上高で初めてGoogleを超える見通しとなり業界の勢力図が変化している\n・AIを活用した広告配信の最適化と縦型動画フォーマットの強化が成長の主な原動力となっている\n・リールズなど短尺動画への広告主の出稿増加がメタの広告収益拡大を大きく後押ししている",
+      "score": 6,
+      "reason": "Meta対Google広告市場予測、業界動向",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "実はAIで大成功していたMeta、広告売上高がGoogle超えとの予測も - 日経クロステック",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pa1d1OWhCYTlZYWxWQS0xOUhaZG5YYmxvaTUxVW9wNzJtUDhoakZDUjF2eVF4cTQtcjRENlJXeVBDTy1BaVJJUDh2dWhZcGFKWDI5M3dQLThPWkI1Z0NIZWxaSzR0OVlES25OYQ?oc=5",
+      "summary": "・MetaがAI活用により広告事業で大きな成功を収めていることが明らかになった\n・AI技術の広告配信への導入が奏功し広告売上高でGoogle超えとの予測が浮上\n・Meta社のAI戦略が収益面で着実に成果を上げ業界の勢力図に変化の兆しがある",
+      "score": 6,
+      "reason": "MetaのAI活用と広告成長の分析、業界動向",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "Linyの広告連携機能に「Meta広告連携機能」を追加 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsczd3YzZTUG5CMEdqaFQ2LVRId0pHSFUwQ0d2V2VGRXZ1V0NlREZKRXFBZGNiaGdjUjNCWFFtR0xURkpQQTMwM3VIRXdpTkkwRFNNckFvOWFWcU5xQ2VJNXJyRk4wcVhzbkE?oc=5",
+      "summary": "・LINE公式アカウント拡張ツール「Liny」がMeta広告との連携機能を新たに追加した\n・FacebookやInstagram広告からの友だち追加経路を自動で判別・計測可能になる\n・広告効果の可視化により、LINE集客における広告運用の最適化を支援する",
+      "score": 6,
+      "reason": "LINE×Meta広告連携の新機能、実務参考",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok広告の活用実績を称える「TikTok for Business Japan Agency Awards 2026」にて14賞を表彰、2026年の戦略と受賞代理店向けサポートプログラムを発表 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCMHFHUC1BNXlvbzlLVzVtOEttMEFSVDJrcExVdFg1ZVdCRFBoOGFfOEFlYU1XSWpuOTd2MnE4d0d2UllzV05zaUJnamRCd2lnbDV6RGV0dFQ2N0lrVUlQSjB3TGFnb29Dbmc?oc=5",
+      "summary": "・TikTok for Business Japan Agency Awards 2026が開催され、広告活用実績に優れた代理店に14賞が授与された\n・2026年のTikTok広告における戦略方針が発表され、今後の広告展開の方向性が示された\n・受賞した代理店向けに特別サポートプログラムが提供され、さらなる広告活用促進を図る方針が明らかになった",
+      "score": 6,
+      "reason": "TikTok広告2026年戦略発表、業界動向",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メディア考論『父親“殺害の関与』中継に群がる報道陣 テレビのアイボールは、なぜSNSに負けるのか？…広告の世界では長らく、『何人に見せたか』が価値の基準だった。 しかしデジタル広告の時代、基準は変わった。『誰に・どんな状態で・何秒見せたか』が問われている。神田敏晶IT総合4/16(木) 14:03",
+      "link": "https://news.yahoo.co.jp/expert/articles/5207802973787cbdb036a62605699f25c06ac92b",
+      "summary": "・父親殺害関与の中継に報道陣が殺到しテレビの視聴者獲得競争の問題点が浮き彫りになった\n・広告業界では従来の「リーチ数」重視からデジタル時代の質的指標へと評価基準が転換している\n・SNSは「誰に・どんな状態で・何秒見せたか」を可視化しテレビのアイボール戦略を凌駕しつつある",
+      "score": 5,
+      "reason": "広告指標変化の考察だが具体的実務性は薄い",
+      "date": "2026-04-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米メタ、26年に初の世界首位 デジタル広告売上高で 民間予測 【シリコンバレー時事】米メタ（旧フェイスブック）の2026年のデジタル広告売上高が、米グーグルを上回り初めて世界首位になる見込みだ。 米調査会社…時事通信北米4/14(火) 17:39",
+      "link": "https://news.yahoo.co.jp/articles/1d23e7951bd20bf3301e1273b0549575734c7a97",
+      "summary": "・米メタが2026年にデジタル広告売上高で米グーグルを抜き初の世界首位になると予測された\n・米調査会社の民間予測に基づく見通しでメタの広告事業の急成長が示された\n・長年グーグルが独占してきたデジタル広告市場の勢力図が大きく変わる可能性がある",
+      "score": 5,
+      "reason": "Meta広告市場予測、id0,1と重複する業界動向",
+      "date": "2026-04-19"
     }
   ]
 }
