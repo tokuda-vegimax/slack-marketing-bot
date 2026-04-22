@@ -98,7 +98,17 @@
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iM3dTSDIybkJRYUhILVNSeC1yenQyRk84ZkdyeWlKQ3B0czJUNjl5WmprYWN1bXR6YjZUVHRIb094SnNOVFFtcy1GemFDN1U?oc=5": "2026-04-21",
     "https://news.yahoo.co.jp/articles/d2904fdf15866bdaf994fefd36ab9ff1a93e0092": "2026-04-21",
     "https://news.yahoo.co.jp/articles/9b56386a53b82d1049e82138228cf6ee69b2894b": "2026-04-21",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96UUZWcm5EZ2NrVmM5M01SQ0l4LXlON1U1YTlodDVPRlJQSGJFUVRoNVA3aTl3UEtrWXU2cXEwREVIdGlIYVFLV05xYlVIaWZMLXZVZ2VrZklKT2ZPRjAw?oc=5": "2026-04-21"
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96UUZWcm5EZ2NrVmM5M01SQ0l4LXlON1U1YTlodDVPRlJQSGJFUVRoNVA3aTl3UEtrWXU2cXEwREVIdGlIYVFLV05xYlVIaWZMLXZVZ2VrZklKT2ZPRjAw?oc=5": "2026-04-21",
+    "https://blog.google/products/ads-commerce/ads-advisor-google-ads/": "2026-04-22",
+    "https://anagrams.jp/blog/youtube-ads-cpa-improvement/": "2026-04-22",
+    "https://ads.tiktok.com/business/en/blog/tiktok-product-preview": "2026-04-22",
+    "https://oneder.hakuhodody-one.co.jp/blog/webtan-aio-optimization-202603": "2026-04-22",
+    "https://oneder.hakuhodody-one.co.jp/blog/bing-webmaster-tools-ai-performance-mapping-update": "2026-04-22",
+    "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/": "2026-04-22",
+    "https://news.yahoo.co.jp/articles/30112c8226863cddd7117f7ed2f8519308933fe0": "2026-04-22",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeW93ZVJhSDlERzZWMmZOT0kwZXdDX1ctREZNeVNPeF92LUNuSVZSVmNDZUczMk5xM0NmU1RvSG5BZDdlaHhvY2NRdnVmbXBGTXJDQVRCRS1Ya2VhRkpHX2RScTNwanp1Ymc?oc=5": "2026-04-22",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVVcza2F5NU5WZzByOWUzYTg2VVh1TUl3Z2RXRDRraTJBcFZMbzN2aTRXWTB2X2hXRnlEMjlnRG9lSlprT200RlZCRmdzVGdSczk2bzhxVU5fUnJ6eGg4VzlJN3oxamlf?oc=5": "2026-04-22",
+    "https://news.yahoo.co.jp/articles/d2bd04f59dd11ee646ce90f1bb422bdb21140f4c": "2026-04-22"
   },
   "titles": [
     {
@@ -500,6 +510,46 @@
     {
       "title": "Hakuhodo DY ONEが描く次世代クリエイティブの現在地 デジタルネイティブと統合発想で切り拓く - AdverTimes.（アドタイ） by 宣伝会議",
       "date": "2026-04-21"
+    },
+    {
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "YouTube動画広告で「機能訴求」をやめたらCPAが1/4になった話",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "TikTok Product Preview: What's new for brands in Q2 2026",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "2026年、今までのSEOは通用するのか？ 「AIO（AI最適化）」の最前線と、AIがWebサイトに与える真の影響",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Microsoft、Bing Webmaster Toolsの「AI Performanceレポート」に新機能を追加",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "デジタル経由の獲得件数は2年で5倍、20代の若年層開拓に成功したAI活用によるGoogle広告運用3つのポイント…日本生命グループで医療保険の販売などを手がける、はなさく生命はAIを活用したGoogle広告の運用で成果を上げている。デジタル広告経由の獲得件数は2年で5倍とな…ネットショップ担当者フォーラムIT総合2/25(水) 9:01",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.4.8 - PR TIMES",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ（PR TIMES） - 毎日新聞",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "SNSが好きな人も、そうでない人も知っておきたい「SNS周辺で今起きていること」 そして、このような問題は、SNSとその事業者だけに限られるものではありません。デジタル広告に関する問題、「ダークパターン」とも呼ばれるユーザーを知らない間に不利…INTERNET WatchIT総合4/22(水) 7:00",
+      "date": "2026-04-22"
     }
   ],
   "articles": [
@@ -1402,6 +1452,96 @@
       "score": 4,
       "reason": "代理店のクリエイティブ方針紹介で実務性低い",
       "date": "2026-04-21"
+    },
+    {
+      "source": "Google広告",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "summary": "・Google Ads Advisorに3つの新しいエージェント型安全・ポリシー機能が統合された\n・これらの機能はGoogle Ads アカウントの保護と運用効率化を同時に実現する\n・広告主のアカウント管理をより安全かつ迅速にすることを目的とした改善である",
+      "score": 9,
+      "reason": "Google Ads主要機能追加で実務に即影響",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "アナグラム",
+      "title": "YouTube動画広告で「機能訴求」をやめたらCPAが1/4になった話",
+      "link": "https://anagrams.jp/blog/youtube-ads-cpa-improvement/",
+      "summary": "・YouTube動画広告で機能訴求から転換しCPAを従来の4分の1に削減した成功事例を紹介\n・広告動画制作の経験がなくクライアントも過去のYouTube広告で苦戦していた背景がある\n・機能よりもユーザーの感情や課題に寄り添うクリエイティブ戦略が成果改善の鍵となった",
+      "score": 9,
+      "reason": "YouTube広告のCPA改善事例で実践的知見が豊富",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "TikTok for Business",
+      "title": "TikTok Product Preview: What's new for brands in Q2 2026",
+      "link": "https://ads.tiktok.com/business/en/blog/tiktok-product-preview",
+      "summary": "・TikTokが2026年第2四半期のブランド向け新プロダクトを公式プレビューとして発表した\n・広告主や代理店のビジネス成果向上を目的とした最新機能や製品革新が紹介されている\n・四半期ごとの定例アップデートとしてTikTok広告プラットフォームの進化の方向性を提示した",
+      "score": 8,
+      "reason": "TikTok広告の最新プロダクト情報で運用に直結",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "2026年、今までのSEOは通用するのか？ 「AIO（AI最適化）」の最前線と、AIがWebサイトに与える真の影響",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/webtan-aio-optimization-202603",
+      "summary": "・Hakuhodo DY ONEの登章良氏がAIO（AI最適化）の最前線について解説する講演が紹介されている\n・2026年に向け従来型SEOの有効性が問われ、AIが検索やWebサイトに与える影響が焦点となっている\n・登氏は2010年からSEO領域に従事し、現在はSEO部門統括とAIO研究所の所長を兼任している",
+      "score": 4,
+      "reason": "SEO/AIO中心で広告運用との直接関連は薄い",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Microsoft、Bing Webmaster Toolsの「AI Performanceレポート」に新機能を追加",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/bing-webmaster-tools-ai-performance-mapping-update",
+      "summary": "・MicrosoftがBing Webmaster ToolsのAI Performanceレポートに新機能を追加した\n・グラウンディングクエリのマッピング機能により参照元ページの確認が容易になった\n・AI回答生成時に使用されたキーフレーズと引用Webページの関係を素早く把握できる",
+      "score": 3,
+      "reason": "Bing SEOツール更新で広告運用とは別領域",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "Google広告",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "summary": "・Googleが夏の旅行をより快適にする7つのスマートな活用法を紹介した\n・旅行計画の立案・お得な情報の発見・目的地探索を支援する最新ツールを提供\n・Google検索やマップなど複数サービスを活用し旅行体験の最適化を促進する内容",
+      "score": 1,
+      "reason": "消費者向け旅行ツール紹介で広告運用と無関係",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "デジタル経由の獲得件数は2年で5倍、20代の若年層開拓に成功したAI活用によるGoogle広告運用3つのポイント…日本生命グループで医療保険の販売などを手がける、はなさく生命はAIを活用したGoogle広告の運用で成果を上げている。デジタル広告経由の獲得件数は2年で5倍とな…ネットショップ担当者フォーラムIT総合2/25(水) 9:01",
+      "link": "https://news.yahoo.co.jp/articles/30112c8226863cddd7117f7ed2f8519308933fe0",
+      "summary": "・はなさく生命がAI活用のGoogle広告運用でデジタル経由の獲得件数を2年間で5倍に拡大した\n・従来リーチが難しかった20代の若年層の新規顧客開拓にデジタル広告で成功している\n・日本生命グループの医療保険販売においてAI活用の広告運用が3つのポイントで成果を創出",
+      "score": 8,
+      "reason": "Google広告AI活用の実践事例、運用ポイント具体的で有用",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "Google News",
+      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.4.8 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeW93ZVJhSDlERzZWMmZOT0kwZXdDX1ctREZNeVNPeF92LUNuSVZSVmNDZUczMk5xM0NmU1RvSG5BZDdlaHhvY2NRdnVmbXBGTXJDQVRCRS1Ya2VhRkpHX2RScTNwanp1Ymc?oc=5",
+      "summary": "・薬機法・景品表示法に抵触する恐れのある広告表現の実例を定期調査として公開した\n・PR TIMESを通じて2025年4月8日付で調査結果が発表された内容である\n・法令違反リスクのある広告配信事例を具体的に示し注意喚起を行っている",
+      "score": 6,
+      "reason": "薬機法・景表法違反の広告実例、配信時の表現注意に有用",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "Google News",
+      "title": "Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ（PR TIMES） - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVVcza2F5NU5WZzByOWUzYTg2VVh1TUl3Z2RXRDRraTJBcFZMbzN2aTRXWTB2X2hXRnlEMjlnRG9lSlprT200RlZCRmdzVGdSczk2bzhxVU5fUnJ6eGg4VzlJN3oxamlf?oc=5",
+      "summary": "・Picaro.aiが有料プランにAIエージェント機能を新たに実装し、広告運用の自動化・高度化を推進する\n・戦略立案から実際の広告運用までをAIと協働で行える体制を提供し業務効率化を図る\n・AI活用によるマーケティング支援の新時代を打ち出し、広告運用者の意思決定を強力にサポートする",
+      "score": 6,
+      "reason": "AI広告運用ツール新機能、実務効率化の参考になり得る",
+      "date": "2026-04-22"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SNSが好きな人も、そうでない人も知っておきたい「SNS周辺で今起きていること」 そして、このような問題は、SNSとその事業者だけに限られるものではありません。デジタル広告に関する問題、「ダークパターン」とも呼ばれるユーザーを知らない間に不利…INTERNET WatchIT総合4/22(水) 7:00",
+      "link": "https://news.yahoo.co.jp/articles/d2bd04f59dd11ee646ce90f1bb422bdb21140f4c",
+      "summary": "・SNS周辺で起きている問題はSNS事業者だけでなくデジタル広告全般に波及している\n・ユーザーを無意識に不利な選択へ誘導する「ダークパターン」が広く問題視されている\n・SNSの利用有無にかかわらず知るべきデジタル広告の課題をINTERNET Watchが解説",
+      "score": 4,
+      "reason": "SNS・デジタル広告の規制動向、間接的な業界知識",
+      "date": "2026-04-22"
     }
   ]
 }
