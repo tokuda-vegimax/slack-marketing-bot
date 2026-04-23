@@ -108,7 +108,17 @@
     "https://news.yahoo.co.jp/articles/30112c8226863cddd7117f7ed2f8519308933fe0": "2026-04-22",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIeW93ZVJhSDlERzZWMmZOT0kwZXdDX1ctREZNeVNPeF92LUNuSVZSVmNDZUczMk5xM0NmU1RvSG5BZDdlaHhvY2NRdnVmbXBGTXJDQVRCRS1Ya2VhRkpHX2RScTNwanp1Ymc?oc=5": "2026-04-22",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVVcza2F5NU5WZzByOWUzYTg2VVh1TUl3Z2RXRDRraTJBcFZMbzN2aTRXWTB2X2hXRnlEMjlnRG9lSlprT200RlZCRmdzVGdSczk2bzhxVU5fUnJ6eGg4VzlJN3oxamlf?oc=5": "2026-04-22",
-    "https://news.yahoo.co.jp/articles/d2bd04f59dd11ee646ce90f1bb422bdb21140f4c": "2026-04-22"
+    "https://news.yahoo.co.jp/articles/d2bd04f59dd11ee646ce90f1bb422bdb21140f4c": "2026-04-22",
+    "https://anagrams.jp/blog/dsa-is-migrating-to-ai-max/": "2026-04-23",
+    "https://www.lycbiz.com/jp/column/line-mini-app/service-information/mini_matome_202604/": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbzJiV3RvMGhFbEpNNGJXMjExeDZFYldXVWlRQTgwOXhDb1pRZ2NqQ2ZWT2RCRjB2LWx0bWFlRFRheUJvZU81a0V5Y3hFLXhDT3R5TjFPNmVla0QzVWptOW5zal9pdHVFQWJ1QTZCdTBBZUtjS29xLWE4amp4QdIBgwFBVV95cUxNMTVKMjc4bkNJeGxnTEFmOVRlWVY0T2ROa2hXV1NsM2ltTXhsaVFJQlhNYnZZQm5fazJLcTR1Y0FIb3BPcENzRlZSNlZ4Qzk4dHE0UVR3dDl3S2FNWDNncWtNN2xnNWs2N1hqb1Q5VFpTMk9zWG5JSVRGVS0zcFZjUzV6cw?oc=5": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLYkNpdDk4QVlIdmpJQTFWbWdMcDM1S1Q1T3FNMG9KbHFYUlJQVjRMSW5sY0dBYWRsX3JHaThjT1FUUlpJanpFemJTdkFxYlZFQ0RRQWVkNVU5LXBCTVY3QkpsMA?oc=5": "2026-04-23",
+    "https://news.yahoo.co.jp/articles/e58b16bf9632d6607b065e52dda5154632c79cd9": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ia0lMX3ZZYTVDd0FjMUJsc0pkcGk4SUpfY2RUZ2xvb2wxMzdhR3dZbE5yWGZ0MTB3WG0tVnFVdHRnZzM4LU5SalE0cHF1WEJXVGFkRDlWdTJ0OEo1cWpv?oc=5": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qMVBCMFkzUENHc0tVWkVXdU9waWFlbF9Qek5VcU1FSWhUMWRzSVpmVzhPeWRvTG40QjItckhrTjJodExWRFRnTlFldElrUVdOeVE?oc=5": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pejJiaWxOMUk2VEpwQ05FSnRUcHAzUEwzMnFIUENLV2NmMlFwQmxCbnNjN3hXZWFjY05sem9UYWppM1dMLUZQU3dmNVJiRGlXWmxnWVI2eDBlSWp3ejlwbE5FMXV1TnFwb1E?oc=5": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdHlIMktVUTktZW83VzF4RHhzeDMzaXNYWl9aTElDNDhhYkVzU0UzWGEtUG83Q3ZGT1JoeHFlQXZId0NLMWZOM0JaNlI0dmJDZDBseXNoYVhLMDFpQUNUalJzaWNDY1diV0E?oc=5": "2026-04-23",
+    "https://news.google.com/rss/articles/CBMiREFVX3lxTE90YXBUNkZHd1d5WXhYa0s4ZmVDUHp6Z1NzYXlueUZPYXUtb2prSFBVbFFKMkplSm85QXVhNGdnNDRoVzhU?oc=5": "2026-04-23"
   },
   "titles": [
     {
@@ -550,6 +560,46 @@
     {
       "title": "SNSが好きな人も、そうでない人も知っておきたい「SNS周辺で今起きていること」 そして、このような問題は、SNSとその事業者だけに限られるものではありません。デジタル広告に関する問題、「ダークパターン」とも呼ばれるユーザーを知らない間に不利…INTERNET WatchIT総合4/22(水) 7:00",
       "date": "2026-04-22"
+    },
+    {
+      "title": "Google広告のDSAがAI Maxへ移行へ。広告運用者が押さえるべき変化",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "【2026年1～3月】LINEミニアプリのアップデートまとめ",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "Meta、広告代理店の功績を称える「Meta Agency First Awards 2025 Japan」を開催し、「Brand Growing Star」など新カテゴリを含む各賞の受賞者を発表 - meta.com",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "スイッチメディア、テレビCM×デジタル広告売上効果をメディア横断で可視化する新サービス「デジタルセールスインパクト」を提供開始 - Excite エキサイト",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "ヒカキン「日本の麦茶、変えるぞ！」と豪語も、「ONICHA」が“普通の味”だった驚く背景…元広告マンが断言「苦戦は必然」のワケ…事実」が必要になるし、開発、生産コストも上がる。薬機法(旧・薬事法)、景品表示法(景表法)、食品表示法といった法律、規制の網の目もあり、それをクリアするのは難しい。東洋経済オンライン経済総合4/22(水) 11:56",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "広告業界の健全かつ持続可能な発展を実現―JAAが2026年度事業説明会を開催 - AdverTimes.（アドタイ） by 宣伝会議",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "ニュース「消費者庁がダイユーエイトに措置命令、原産国等の表示規制について」 - corporate-legal.jp",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "【広告代理店の構造的課題を解決】sembear、現場の「提案力」と「創造性」を引き上げる組織開発プログラムを提供開始。 - PR TIMES",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "従業員1名でGoogle広告国内上位3％代理店に！？株式会社テスティファイ、AI時代のデジタル広告運用で3年連続「Google 広告 Premier Partner」認定の快挙を達成 - PR TIMES",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "CyberZ、TikTok広告で「App Growth Award」を受賞 - Koubo",
+      "date": "2026-04-23"
     }
   ],
   "articles": [
@@ -1542,6 +1592,96 @@
       "score": 4,
       "reason": "SNS・デジタル広告の規制動向、間接的な業界知識",
       "date": "2026-04-22"
+    },
+    {
+      "source": "アナグラム",
+      "title": "Google広告のDSAがAI Maxへ移行へ。広告運用者が押さえるべき変化",
+      "link": "https://anagrams.jp/blog/dsa-is-migrating-to-ai-max/",
+      "summary": "・GoogleはDSA（ダイナミック検索広告）を2026年4月15日よりAI Maxへ段階的に移行すると発表した\n・AI MaxはAIを活用した次世代の広告配信機能でDSAの後継として位置づけられる\n・広告運用者はDSAからAI Maxへの移行スケジュールと仕様変更を早期に把握し対応準備が必要",
+      "score": 9,
+      "reason": "Google検索広告の重大な仕様変更で即実務に影響",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "【2026年1～3月】LINEミニアプリのアップデートまとめ",
+      "link": "https://www.lycbiz.com/jp/column/line-mini-app/service-information/mini_matome_202604/",
+      "summary": "・2026年1〜3月のLINEミニアプリ主要アップデート内容をまとめた記事である\n・チャネル同意フローの簡略化が必須化されユーザー体験の改善が図られた\n・アプリ内課金機能の追加やLIFF v2.28.0の新機能など開発者向け更新も多数紹介",
+      "score": 3,
+      "reason": "広告運用ではなくLINEミニアプリ開発向け情報",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta、広告代理店の功績を称える「Meta Agency First Awards 2025 Japan」を開催し、「Brand Growing Star」など新カテゴリを含む各賞の受賞者を発表 - meta.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbzJiV3RvMGhFbEpNNGJXMjExeDZFYldXVWlRQTgwOXhDb1pRZ2NqQ2ZWT2RCRjB2LWx0bWFlRFRheUJvZU81a0V5Y3hFLXhDT3R5TjFPNmVla0QzVWptOW5zal9pdHVFQWJ1QTZCdTBBZUtjS29xLWE4amp4QdIBgwFBVV95cUxNMTVKMjc4bkNJeGxnTEFmOVRlWVY0T2ROa2hXV1NsM2ltTXhsaVFJQlhNYnZZQm5fazJLcTR1Y0FIb3BPcENzRlZSNlZ4Qzk4dHE0UVR3dDl3S2FNWDNncWtNN2xnNWs2N1hqb1Q5VFpTMk9zWG5JSVRGVS0zcFZjUzV6cw?oc=5",
+      "summary": "・Metaが日本の広告代理店の功績を表彰する「Meta Agency First Awards 2025 Japan」を開催した\n・新カテゴリ「Brand Growing Star」を含む複数の賞が設けられ各受賞者が発表された\n・Meta広告プラットフォームにおける代理店パートナーとの協業強化を目的とした取り組みである",
+      "score": 6,
+      "reason": "Meta広告の受賞事例で業界動向・戦略の参考",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "スイッチメディア、テレビCM×デジタル広告売上効果をメディア横断で可視化する新サービス「デジタルセールスインパクト」を提供開始 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLYkNpdDk4QVlIdmpJQTFWbWdMcDM1S1Q1T3FNMG9KbHFYUlJQVjRMSW5sY0dBYWRsX3JHaThjT1FUUlpJanpFemJTdkFxYlZFQ0RRQWVkNVU5LXBCTVY3QkpsMA?oc=5",
+      "summary": "・スイッチメディアがテレビCMとデジタル広告の売上効果をメディア横断で可視化する新サービスを開始した\n・新サービス名は「デジタルセールスインパクト」で広告投資と売上の関係を統合的に分析できる\n・テレビとデジタルを横断した広告効果測定により最適な予算配分の意思決定を支援する",
+      "score": 5,
+      "reason": "TV×デジタル横断効果測定の新サービス紹介",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヒカキン「日本の麦茶、変えるぞ！」と豪語も、「ONICHA」が“普通の味”だった驚く背景…元広告マンが断言「苦戦は必然」のワケ…事実」が必要になるし、開発、生産コストも上がる。薬機法(旧・薬事法)、景品表示法(景表法)、食品表示法といった法律、規制の網の目もあり、それをクリアするのは難しい。東洋経済オンライン経済総合4/22(水) 11:56",
+      "link": "https://news.yahoo.co.jp/articles/e58b16bf9632d6607b065e52dda5154632c79cd9",
+      "summary": "・ヒカキンが「日本の麦茶を変える」と宣言し新ブランド「ONICHA」を発売したが味は普通と話題に\n・元広告マンは飲料市場での差別化の難しさと開発・生産コストの高さから苦戦は必然と断言\n・薬機法や景表法など法規制の壁が厚く機能性や効果の訴求によるブランド差別化が極めて困難",
+      "score": 5,
+      "reason": "景表法・薬機法の広告表現規制に実務示唆あり",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "広告業界の健全かつ持続可能な発展を実現―JAAが2026年度事業説明会を開催 - AdverTimes.（アドタイ） by 宣伝会議",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ia0lMX3ZZYTVDd0FjMUJsc0pkcGk4SUpfY2RUZ2xvb2wxMzdhR3dZbE5yWGZ0MTB3WG0tVnFVdHRnZzM4LU5SalE0cHF1WEJXVGFkRDlWdTJ0OEo1cWpv?oc=5",
+      "summary": "・日本アドバタイザーズ協会(JAA)が2026年度の事業説明会を開催し活動方針を発表した\n・広告業界の健全かつ持続可能な発展の実現を重点テーマとして掲げている\n・業界全体の透明性や信頼性向上に向けた取り組み強化の方向性が示された",
+      "score": 4,
+      "reason": "JAA事業説明会の報告で業界動向寄り",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "ニュース「消費者庁がダイユーエイトに措置命令、原産国等の表示規制について」 - corporate-legal.jp",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qMVBCMFkzUENHc0tVWkVXdU9waWFlbF9Qek5VcU1FSWhUMWRzSVpmVzhPeWRvTG40QjItckhrTjJodExWRFRnTlFldElrUVdOeVE?oc=5",
+      "summary": "・消費者庁がホームセンター大手ダイユーエイトに対し景品表示法に基づく措置命令を発出した\n・商品の原産国表示に関する不当表示が問題とされ、消費者に誤認を与えたと判断された\n・企業は原産国等の表示規制を正しく理解し、適切な表示管理体制の整備が求められる",
+      "score": 4,
+      "reason": "景表法措置命令で広告表現注意喚起になる程度",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "【広告代理店の構造的課題を解決】sembear、現場の「提案力」と「創造性」を引き上げる組織開発プログラムを提供開始。 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pejJiaWxOMUk2VEpwQ05FSnRUcHAzUEwzMnFIUENLV2NmMlFwQmxCbnNjN3hXZWFjY05sem9UYWppM1dMLUZQU3dmNVJiRGlXWmxnWVI2eDBlSWp3ejlwbE5FMXV1TnFwb1E?oc=5",
+      "summary": "・sembearが広告代理店向けに提案力と創造性を強化する組織開発プログラムの提供を開始した\n・広告代理店が抱える現場人材の構造的課題に対し、組織全体の底上げを図る内容となっている\n・運用や提案の属人化を解消し、代理店の競争力向上と持続的成長を支援することが狙い",
+      "score": 4,
+      "reason": "代理店向け組織開発プログラムのプレスリリース",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "従業員1名でGoogle広告国内上位3％代理店に！？株式会社テスティファイ、AI時代のデジタル広告運用で3年連続「Google 広告 Premier Partner」認定の快挙を達成 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdHlIMktVUTktZW83VzF4RHhzeDMzaXNYWl9aTElDNDhhYkVzU0UzWGEtUG83Q3ZGT1JoeHFlQXZId0NLMWZOM0JaNlI0dmJDZDBseXNoYVhLMDFpQUNUalJzaWNDY1diV0E?oc=5",
+      "summary": "・株式会社テスティファイが従業員1名体制でGoogle広告の最上位認定「Premier Partner」を3年連続で取得した\n・Premier Partnerは国内上位3％の代理店のみに与えられる認定であり少数精鋭での達成は異例の快挙となる\n・AI活用によるデジタル広告運用の効率化が少人数でも高い成果を上げられる時代の到来を示している",
+      "score": 4,
+      "reason": "Google Premier Partner認定のPRリリース",
+      "date": "2026-04-23"
+    },
+    {
+      "source": "Google News",
+      "title": "CyberZ、TikTok広告で「App Growth Award」を受賞 - Koubo",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE90YXBUNkZHd1d5WXhYa0s4ZmVDUHp6Z1NzYXlueUZPYXUtb2prSFBVbFFKMkplSm85QXVhNGdnNDRoVzhU?oc=5",
+      "summary": "・CyberZがTikTok広告における優れた実績を評価され「App Growth Award」を受賞した\n・同賞はアプリ成長促進に貢献した広告パートナーに贈られるTikTokの公式表彰である\n・CyberZのTikTok広告運用によるアプリインストール施策の成果が高く評価された形となる",
+      "score": 4,
+      "reason": "TikTok広告受賞報告でプレスリリース寄り",
+      "date": "2026-04-23"
     }
   ]
 }
