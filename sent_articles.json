@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://anagrams.jp/blog/seminar-report-2026-03-31/": "2026-04-17",
-    "https://dentsudigital.co.jp/news/release/services/2026-0417-000315": "2026-04-17",
-    "https://dentsudigital.co.jp/news/release/prizes/2026-0324-000309": "2026-04-17",
-    "https://dentsudigital.co.jp/news/release/prizes/2026-0317-000307": "2026-04-17",
-    "https://dentsudigital.co.jp/news/release/management/2026-0326-000311": "2026-04-17",
-    "https://dentsudigital.co.jp/news/release/prizes/2026-0319-000308": "2026-04-17",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcWE3YzZ1b2lRallZS29FRTRfQ3l4MkI0eldUYktNNjdJb0owcG9EVmk4czVVd1pwWUUyc3VEWTZ5aDhidnR1XzhUdEJBeU1VaWhZZVU1MXJaaHZi?oc=5": "2026-04-17",
-    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-04-17",
-    "https://news.yahoo.co.jp/articles/f948f7742eea4334d26fedd4afed6072e6f5405a": "2026-04-17",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/yda_Recommended_settings/?list=23496": "2026-04-18",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qdzNnZnNpd2Y5NkNhbldLd0NnU2dJck5zUHdaaEhVSVI2UEkxTlY0T0V3bXJPOVQ1SXQzMlR5SnlrNnlMdzdPYjhMWWgtRDNCakRkNW5UcTVyY3U0cmc?oc=5": "2026-04-18",
     "https://news.yahoo.co.jp/articles/edb8e0809a07635e915e33b05a8126c725411fc2": "2026-04-18",
@@ -267,49 +258,19 @@
     "https://blog.google/products/ads-commerce/ai-max-new-features/": "2026-05-17",
     "https://blog.google/products/ads-commerce/ai-max-for-travel/": "2026-05-17",
     "https://www.lycbiz.com/jp/column/ly-ads/creative/goldenweek_ad_strategy/?list=23496": "2026-05-17",
-    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search-behavior-in-the-age-of-ai/?list=23496": "2026-05-17"
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search-behavior-in-the-age-of-ai/?list=23496": "2026-05-17",
+    "https://anagrams.jp/blog/update-summary-2026-04/": "2026-05-18",
+    "https://anagrams.jp/blog/google-demand-gen-channel-optimization/": "2026-05-18",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0518-000318": "2026-05-18",
+    "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/": "2026-05-18",
+    "https://www.facebook.com/business/news/meta-ads-ai-connectors": "2026-05-18",
+    "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202604": "2026-05-18",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/add_campaign/?list=23496": "2026-05-18",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/initial_setup_support/?list=23496": "2026-05-18",
+    "https://dentsudigital.co.jp/news/release/services/2026-0401-000311": "2026-05-18",
+    "https://dentsudigital.co.jp/news/release/services/2026-0416-000314": "2026-05-18"
   },
   "titles": [
-    {
-      "title": "店舗集客の運用型広告はエリアを絞るだけじゃない。成果を最大化する商圏の考え方と実践ポイント",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "dentsu Japan、AI時代の新たなクリエイティブ供給サービス「AI For Growth Creative Lines」を始動",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "IAS主催「IAS AWARD 2026」において「Agency of the Year」の最高位ゴールドを4年連続受賞",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "Braze主催の「Braze Alloys Partner Network 2026, Japan」にて「Creative Partner of the year」を受賞",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "役員および業務執行体制変更に関するお知らせ",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "「iF Design Award 2026」においてBranding & Communication Design部門で受賞",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "LINEヤフーの運用型広告において、新たにリニューアルされた「LINE」内の「ホームタブ」での広告配信を開始 - lycorp.co.jp",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…6%改善し、クリエイティブの改善機会を発見するまでの期間を半減させた。運用型広告は膨大なアカウントやキャンペーン、クリエイティブを並行管理しながら効果…Web担当者ForumIT総合4/7(火) 7:01",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…析には広告主企業の計測ツールによる計測データを用いることもできる。「Meta広告」(Facebook/Instagram)を対象に始めるが、段階的に機…Web担当者ForumIT総合4/7(火) 7:01",
-      "date": "2026-04-17"
-    },
-    {
-      "title": "AI時代のデジタル広告は「運用しない」が新常識？ 成果を左右するデータ設計とクッキー規制への備え…erformance Max：パフォーマンス最大化キャンペーン） ・Meta広告における「Advantage+（アドバンテージプラス）」シリーズ > …Web担当者ForumIT総合2/5(木) 7:16",
-      "date": "2026-04-17"
-    },
     {
       "title": "ディスプレイ広告：まず押さえたい“王道の設計”",
       "date": "2026-04-18"
@@ -1349,99 +1310,49 @@
     {
       "title": "生成AI時代、検索はどう使われているのか？｜ユーザー調査で見えた“使い分け”",
       "date": "2026-05-17"
+    },
+    {
+      "title": "【2026年4月】運用型広告アップデートまとめ",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Googleデマンドジェネレーションの配信面の偏り、どう対処する？成果が2.4倍になった事例をご紹介",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "「LINEヤフー Partner Award 2025 H2」において「Best Brand Award」「Best Ads Account Growth Award」を受賞",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Introducing Meta Ads AI Connectors: Manage Your Meta Ads From the AI Tools You Already Use",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "検索エンジン順位変動と動向（2026年4月）",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "追加キャンペーンおまかせパック【無料】",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "おすすめの広告文と配信を自動設定！LINEヤフー広告 検索広告「初期設定サポート」で即日出稿",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "対話型AI開発ソリューション「∞AI Chat」を「AI For Growth Canvas」にリブランディング",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "2035年のトレンドを予測し、未来起点の経営戦略に生かす「電通未来曼荼羅2026」発表",
+      "date": "2026-05-18"
     }
   ],
   "articles": [
-    {
-      "source": "アナグラム",
-      "title": "店舗集客の運用型広告はエリアを絞るだけじゃない。成果を最大化する商圏の考え方と実践ポイント",
-      "link": "https://anagrams.jp/blog/seminar-report-2026-03-31/",
-      "summary": "・店舗型ビジネスの広告運用では商圏設計が成果を左右する重要な要素である\n・エリアを絞って配信するだけでは来店につながらないという課題が多く存在する\n・商圏の考え方を見直し実践的なポイントを押さえることで広告成果を最大化できる",
-      "score": 8,
-      "reason": "店舗集客の商圏設計と広告運用の実践ノウハウ",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "dentsu Japan、AI時代の新たなクリエイティブ供給サービス「AI For Growth Creative Lines」を始動",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0417-000315",
-      "summary": "・電通デジタルがdentsu Japan傘下4社およびTag Japanと連携しAI活用の新クリエイティブサービスを開始\n・サービス名は「AI For Growth Creative Lines」でAI時代に対応したクリエイティブ供給を目指す\n・グループ横断の連携体制により広告クリエイティブの制作効率と品質の向上を図る構え",
-      "score": 4,
-      "reason": "電通グループの新サービス発表プレスリリース",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "IAS主催「IAS AWARD 2026」において「Agency of the Year」の最高位ゴールドを4年連続受賞",
-      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0324-000309",
-      "summary": "・電通デジタルがIAS主催「IAS AWARD 2026」のAgency of the Yearでゴールドを受賞した\n・同賞の最高位ゴールドを4年連続で獲得し、継続的な実績が評価された\n・IASはメディア品質インテリジェンス分野のグローバルリーダーとして知られる企業である",
-      "score": 4,
-      "reason": "受賞報告だがIAS活用の重要性を示唆する程度",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "Braze主催の「Braze Alloys Partner Network 2026, Japan」にて「Creative Partner of the year」を受賞",
-      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0317-000307",
-      "summary": "・電通デジタルがBraze主催「Braze Alloys Partner Network 2026, Japan」で受賞した\n・2026年度パートナー表彰プログラムにおいて「Creative Partner of the year」を獲得\n・Brazeパートナーアワードの受賞は3年連続の快挙となった",
-      "score": 3,
-      "reason": "Braze連携の受賞報告でCRM施策に若干関連",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "役員および業務執行体制変更に関するお知らせ",
-      "link": "https://dentsudigital.co.jp/news/release/management/2026-0326-000311",
-      "summary": "・電通デジタルが役員および業務執行体制の変更を正式に発表した\n・組織のガバナンス強化や事業推進力向上を目的とした体制刷新とみられる\n・具体的な人事異動や新任役員の詳細は本文中では明らかにされていない",
-      "score": 2,
-      "reason": "人事異動の社内通知で広告運用実務に無関係",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "「iF Design Award 2026」においてBranding & Communication Design部門で受賞",
-      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0319-000308",
-      "summary": "・電通デジタルが世界的デザイン賞「iF Design Award 2026」で受賞を発表した\n・受賞部門はBranding & Communication Designで電通との共同制作作品が対象\n・電通グループのクリエイティブ力とデジタル領域の連携が国際的に評価された",
-      "score": 2,
-      "reason": "デザイン賞受賞で広告運用実務との関連が薄い",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "Google News",
-      "title": "LINEヤフーの運用型広告において、新たにリニューアルされた「LINE」内の「ホームタブ」での広告配信を開始 - lycorp.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcWE3YzZ1b2lRallZS29FRTRfQ3l4MkI0eldUYktNNjdJb0owcG9EVmk4czVVd1pwWUUyc3VEWTZ5aDhidnR1XzhUdEJBeU1VaWhZZVU1MXJaaHZi?oc=5",
-      "summary": "・LINEヤフーがLINEアプリ内「ホームタブ」のリニューアルに伴い運用型広告の配信面として新たに追加した\n・リニューアルされたホームタブはユーザーの利用頻度が高く広告接触機会の拡大が期待される\n・LINE広告の配信面拡充により広告主はより多くのLINEユーザーへリーチ可能になる",
-      "score": 9,
-      "reason": "LINE広告の新配信面追加、即実務影響あり",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…6%改善し、クリエイティブの改善機会を発見するまでの期間を半減させた。運用型広告は膨大なアカウントやキャンペーン、クリエイティブを並行管理しながら効果…Web担当者ForumIT総合4/7(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
-      "summary": "・サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」の提供を開始した\n・導入により広告効果が6%改善しクリエイティブ改善機会の発見期間を半減させた\n・運用型広告の膨大なアカウントやキャンペーン・クリエイティブの並行管理を自動化する",
-      "score": 9,
-      "reason": "CA製AIエージェント、広告運用自動化の実践ツール",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…析には広告主企業の計測ツールによる計測データを用いることもできる。「Meta広告」(Facebook/Instagram)を対象に始めるが、段階的に機…Web担当者ForumIT総合4/7(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
-      "summary": "・サイバーエージェントが広告配信運用を自動化するAIエージェント「効果おまかせAI」の提供を開始した\n・広告主企業の計測ツールによる計測データを活用した分析にも対応し精度の高い運用が可能\n・まずMeta広告（Facebook/Instagram）を対象に開始し今後対応媒体を段階的に拡大予定",
-      "score": 9,
-      "reason": "CA効果おまかせAI詳細、Meta広告運用に直結",
-      "date": "2026-04-17"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "AI時代のデジタル広告は「運用しない」が新常識？ 成果を左右するデータ設計とクッキー規制への備え…erformance Max：パフォーマンス最大化キャンペーン） ・Meta広告における「Advantage+（アドバンテージプラス）」シリーズ > …Web担当者ForumIT総合2/5(木) 7:16",
-      "link": "https://news.yahoo.co.jp/articles/f948f7742eea4334d26fedd4afed6072e6f5405a",
-      "summary": "・AI活用の自動化広告が主流となり従来の手動運用から「運用しない」スタイルへ転換が進んでいる\n・Google P-MAXやMeta Advantage+など自動最適化キャンペーンが広告成果の鍵を握っている\n・クッキー規制強化に備えたファーストパーティデータの設計と活用戦略が今後の成果を左右する",
-      "score": 9,
-      "reason": "PMax・Advantage+の運用設計論、即実践的",
-      "date": "2026-04-17"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "ディスプレイ広告：まず押さえたい“王道の設計”",
@@ -3781,6 +3692,96 @@
       "score": 7,
       "reason": "検索vs生成AIの使い分け調査、広告戦略判断に有用",
       "date": "2026-05-17"
+    },
+    {
+      "source": "アナグラム",
+      "title": "【2026年4月】運用型広告アップデートまとめ",
+      "link": "https://anagrams.jp/blog/update-summary-2026-04/",
+      "summary": "・2026年4月は対応期限付きの広告アップデートが複数媒体で集中した月となった\n・LINE広告の統合移行やGoogle DSA廃止スケジュールが正式に確定した\n・放置すると配信停止やパフォーマンス低下を招くため早急な対応が必要とされる",
+      "score": 9,
+      "reason": "複数媒体の重要アップデートを網羅的に整理",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "アナグラム",
+      "title": "Googleデマンドジェネレーションの配信面の偏り、どう対処する？成果が2.4倍になった事例をご紹介",
+      "link": "https://anagrams.jp/blog/google-demand-gen-channel-optimization/",
+      "summary": "・Googleデマンドジェネレーションは YouTube・Discover・Gmailに横断配信できるキャンペーン形式\n・配信面の偏りが課題となりやすく、適切な対処法の実施が成果改善の鍵となる\n・配信面の偏りに対処した結果、成果が2.4倍に向上した事例をアナグラムが紹介",
+      "score": 8,
+      "reason": "デマンドジェネレーションの実践的運用改善事例",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "「LINEヤフー Partner Award 2025 H2」において「Best Brand Award」「Best Ads Account Growth Award」を受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0518-000318",
+      "summary": "・電通デジタルが「LINEヤフー Partner Award 2025 H2」で2部門を受賞した\n・受賞部門は「Best Brand Award」と「Best Ads Account Growth Award」の2つ\n・LINEヤフーの広告パートナーとしてブランド力と広告成長の両面で高く評価された",
+      "score": 3,
+      "reason": "企業の受賞報告であり実務への示唆が薄い",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "Google広告",
+      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
+      "link": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/",
+      "summary": "・Google検索とショッピング広告向けにAI活用の入札・予算管理ツールが新たに発表された\n・広告主の目標達成と予算管理を効率化し、変化する消費者行動への迅速な対応を支援する\n・AI自動最適化により入札戦略と予算配分の精度向上が期待されるアップデートとなっている",
+      "score": 9,
+      "reason": "Google広告の入札・予算管理AI新機能、即実務影響大",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Introducing Meta Ads AI Connectors: Manage Your Meta Ads From the AI Tools You Already Use",
+      "link": "https://www.facebook.com/business/news/meta-ads-ai-connectors",
+      "summary": "・MetaがAI広告コネクターをオープンベータとして発表し既存AIツールとの連携を開始した\n・あらゆる規模の企業が普段使うAIツール上で直接Meta広告の作成・管理・分析が可能になる\n・地域を問わず利用可能で広告運用ワークフローの効率化と簡素化を目指す新機能である",
+      "score": 9,
+      "reason": "Meta広告のAIコネクタ新機能、運用効率に直結",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "検索エンジン順位変動と動向（2026年4月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202604",
+      "summary": "・2026年4月の検索エンジン順位変動をモバイル・PC版それぞれ20位まで集計し動向を報告\n・Googleが「戻るボタンのハイジャック」をスパムポリシー違反に追加し取り締まりを強化\n・米国で「AIモードinChrome」をリリースし検索結果の「続きを読む」表示のベストプラクティスも公開",
+      "score": 6,
+      "reason": "検索順位変動レポート、SEO寄りだが広告にも参考",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "追加キャンペーンおまかせパック【無料】",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/add_campaign/?list=23496",
+      "summary": "・LINEヤフーが追加キャンペーンおまかせパックを無料で提供開始した\n・法人向けサービスの最新情報や活用ノウハウを併せて紹介している\n・広告運用の効率化を支援する無料パッケージとして企業の利用を促進する",
+      "score": 5,
+      "reason": "Yahoo!広告の無料サポートパック紹介、初心者向け",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "おすすめの広告文と配信を自動設定！LINEヤフー広告 検索広告「初期設定サポート」で即日出稿",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/initial_setup_support/?list=23496",
+      "summary": "・LINEヤフー広告の検索広告に初心者向け「初期設定サポート」が提供開始された\n・広告文や配信設定を自動で行い、即日出稿が可能になる無償サポートである\n・はじめて検索広告を利用する全ユーザーに自動適用され申請手続きは不要である",
+      "score": 5,
+      "reason": "検索広告の初期設定自動化機能、新規利用者向け",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "対話型AI開発ソリューション「∞AI Chat」を「AI For Growth Canvas」にリブランディング",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0401-000311",
+      "summary": "・電通デジタルが対話型AI開発ソリューション「∞AI Chat」を「AI For Growth Canvas」にリブランディングした\n・UIを全面的にアップデートし、マーケティング実務に特化した新機能群を本格提供開始する\n・新たに10種類のAIエージェント「AI for Growth Marketing Agents」を展開しマーケ業務を支援する",
+      "score": 5,
+      "reason": "マーケティング特化AIエージェント、実務活用の可能性",
+      "date": "2026-05-18"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "2035年のトレンドを予測し、未来起点の経営戦略に生かす「電通未来曼荼羅2026」発表",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0416-000314",
+      "summary": "・電通デジタルと国内電通グループ5社が中期未来予測ツール「電通未来曼荼羅2026」の提供を開始した\n・2035年までに起こり得るトレンドを体系的にまとめた未来予測フレームワークである\n・企業の未来起点の経営戦略立案や新規事業開発・サービス開発への活用を目的としている",
+      "score": 4,
+      "reason": "中長期未来予測ツール、広告運用実務と距離あり",
+      "date": "2026-05-18"
     }
   ]
 }
