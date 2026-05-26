@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OFFTbkdhd1NfbUIwNkstcGVxdG1tc0xlYmZEWGROcGNzYm5oc3lpZUNndUZkMVR1RnRvLWVib3FWOGlucEZMWFg1TUhWdGduY2lLbkR1UjRWOXM?oc=5": "2026-04-25",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3TFhmd255aFdiQ0Z2MUVlX3JsY1FDeGRLVFFzak1TU1Y2cExsdEZsakxtYnpUdVF4T1N3ZEVnbjNERmRPcjVPUEpMYy1EMmtwSlR3c053?oc=5": "2026-04-25",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZDJTRTJjY21ZTlF0azM0d3p5SGFOQXYyNTA1d045cDM0T0l0bnY1OXB1TlVPTzdycTU2bzMzSlcxYzg4QmQ3LWRjY3pvd2staE5XVXRoYzZESTk4?oc=5": "2026-04-25",
-    "https://news.yahoo.co.jp/articles/03335e4b866d4a9c467d85ce638084aeeba65a8b": "2026-04-25",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ydWZZbUtydGE1ZkFqV3piS0pXT3p5ZHVUZFlrQUJ2N3BWN3BhTFItbl8yelYyeFZCN2Itd2FmNFJGdWMxUldtTWhYR05KaTZHdjZ4U0NiZkw?oc=5": "2026-04-25",
-    "https://news.yahoo.co.jp/articles/f47b13c9bde564cfdb58a7e943f11baf9bca5df0": "2026-04-25",
-    "https://news.yahoo.co.jp/articles/46bcf92017bd4de5d71a6d67370686f50d93c965": "2026-04-25",
-    "https://news.yahoo.co.jp/articles/8b3c8568e808e687a0aa7ae74193c8d43028b512": "2026-04-25",
-    "https://news.yahoo.co.jp/articles/99fec4739de5d663b99c092ba48e614efaa26a20": "2026-04-25",
-    "https://news.yahoo.co.jp/articles/0d125b537341c537b06f466f9eed065c701da47c": "2026-04-25",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VVWhVV0E3NmFVb0tFV3lmVHNvd1M1VWs4aXllaHhKdE5nZ3g1aGo5NlJQWk5qUHg2Q0p0YnlwLWdOSVJnSGh0a1Z1QWN2N01DZWUzaE9ESk9Jelh4Mk90NW5OQ2JrM01VeUE?oc=5": "2026-04-26",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IT0xCMlZDNU5TOEgxc0pIMzJ4MzFkRmVscEx3TTc1OTdUNnAzZUFJNllDeG1TSy1FZmpWX0dtUU9hbEo5bjlvTkxoTzJEMHJrZlVNeWNLaTREMG5pd1pvRVdaVQ?oc=5": "2026-04-26",
     "https://news.yahoo.co.jp/articles/63ad59d066057c33749e2b3b3677106b81c3bac2": "2026-04-26",
@@ -268,49 +258,19 @@
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBORVlXVWQ2a2pJMEpreEtJSFNjSzhBV0RlMlFKQUhtWTdjTWVKZXlWb0NTZFRoZHllRk9jQi0zclhsVHNhM0NXVHgxZUdMTTZrdVJj?oc=5": "2026-05-25",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKcGxFZ1FjcmhLUEVmRktsZHo1NUlzekRqb25mcEU5MXVzcFlkeWdRN1dkbVpfNjd0ZzYzNjhxWC1welItUFI5X2FPbDF3WUY5OTFmY2hn?oc=5": "2026-05-25",
     "https://news.yahoo.co.jp/articles/24bce519d614df3d01c8884c8caa1464b7e1a752": "2026-05-25",
-    "https://news.yahoo.co.jp/articles/06c22dc048336c74feeb340482a248dad800d921": "2026-05-25"
+    "https://news.yahoo.co.jp/articles/06c22dc048336c74feeb340482a248dad800d921": "2026-05-25",
+    "https://oneder.hakuhodody-one.co.jp/blog/brain-science-emotional-trigger-creative-for-video-ads": "2026-05-26",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-faq-rich-results-discontinuation-20260507": "2026-05-26",
+    "https://oneder.hakuhodody-one.co.jp/blog/markezine-ai-internal-spread-knowhow-consulting": "2026-05-26",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CX1JkZkNTdlQ5TjFKVXVSNTVQb0Q1Y1oyUlVURTVJRmhOVmx2bTFic1RVWWxNOUpLbzY0ZW5pME1wNnVrOUJMSmNNOWpPcUR3aWdEQU5fcGVzTms4?oc=5": "2026-05-26",
+    "https://news.yahoo.co.jp/articles/2247abdf8eafbcf886bd680c1c2b3957a6ac7d37": "2026-05-26",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVVgwOTN3M2hIWl8xRFZnUE5oMG01MHhqRWdxdm4wcjU1cFFXeERYLWNhZlhTV1RRUVBsTjI2YjM4QWd4QUFqaU44cnZ0UWRZbTBoR2xuWnZsSDM4czJQSG05dHRPVi1vOFFoTkRFa3llN2tMcXVUSElxaVRreXM?oc=5": "2026-05-26",
+    "https://news.yahoo.co.jp/articles/fa33ddaf1a297d3719647bbe6278d0551ad98e1a": "2026-05-26",
+    "https://news.yahoo.co.jp/articles/0050ab62c08be5457f95f9e7b89a35038ebd5714": "2026-05-26",
+    "https://news.yahoo.co.jp/articles/64da96a03fe8a2d2700fd873c2d8147bf02565b1": "2026-05-26",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OExxSmExeVZzclVYSW9NVHpJcTBKRlNZOFpxNzZ6bVYzdEJfQlJLcjUzMmRCd0VXT2M4LUs4YndISmNKZDYybDh3?oc=5": "2026-05-26"
   },
   "titles": [
-    {
-      "title": "Google の「動的検索広告（DSA）」が終了へ。2026年9月に「AI Max for Search」へ自動的に強制移行 - Web担当者Forum",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "SMNとTrue Data、テレビCMとデジタル広告連携でオフライン購買効果を検証 重複接触で購買率41%向上を実証 - コマースピック",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "消費者庁、SNS・チャットなど不意打ち性・誘引性・複雑性の高い広告・勧誘への規制を議論 - ネットショップ担当者フォーラム",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "1.6億回再生の「高市動画」だけではなかった… 自民圧勝を支えた「もう一つのネット戦略」とは…社動画屋」の木村健人代表が言う。 「YouTube広告というのは、Google広告の一部です。Googleで検索すると、検索結果の一番上に『スポンサー…デイリー新潮政治2/10(火) 11:41",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "講談社も含む、有力媒体33社のメディアデータを活用した広告配信事業「FT MediaString」がスタート──プレミアな広告枠とデータが実現する、フィンテックに特化した広告配信 - 講談社Cステーション",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "ＳＮＳ選挙運動「規制を」、政党・候補者への中傷・誤情報拡散や真偽不明動画への対策求める…全国知事会の研究会がまとめた報告書を総務相らに提出…への中傷や偽・誤情報が拡散していると指摘。ネットで多くの閲覧を集めてデジタル広告の収入を得る「アテンション・エコノミー」による収益化や、人工知能（ＡＩ…読売新聞オンライン社会4/24(金) 11:40",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "デジタルアートを放映する「すき間の美術館」を開始 LIVE BOARDとNEORTが連携、街に新たな文化を演出 デジタル広告関連事業を手がけるLIVE BOARD（東京）は、NEORT（東京）と連携し、全国のLIVE BOARDが運用・管理する媒体「LBオウ…オーヴォライフ総合4/24(金) 11:39",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "こどものSNS規制、先駆けて「禁止」した豪州と、議論を進める各国の動向…海外事業、M&Aに従事しつつ業界団体の役員も歴任。総務省、経済産業省、消費者庁などでの通信政策、国際競争、個人情報保護、消費者保護などに関する有識者会議の委員を務める。INTERNET WatchIT総合4/21(火) 7:00",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "1:214期連続黒字のサガン鳥栖 純資産は1億6200万円に「J1昇格へチャレンジ」【佐賀県】…広告料収入が上がったということです。 小柳智之社長は、チラシの配布やデジタル広告、試合の日のイベントなどを通じて、「無関心層が来場する“入り口作り”を…佐賀ニュース サガテレビ佐賀4/22(水) 19:05",
-      "date": "2026-04-25"
-    },
-    {
-      "title": "「みんな投資をやっている」……こんな言葉になぜ私たちは不安になるのか？“焦らないための答え”とは…手遅れになる」と思い込みやすい分野では、不安が高まる表現が増えていく（消費者庁が令和4年度に行った消費者意識基本調査でも、「今後（も）お金をかけたいと…みんかぶマガジン経済総合4/25(土) 12:10",
-      "date": "2026-04-25"
-    },
     {
       "title": "「TikTokクリエイター白書 2026」を公開 — “リアルな共感”が行動を生む、AI時代のクリエイターマーケティング戦略 - PR TIMES",
       "date": "2026-04-26"
@@ -1350,99 +1310,49 @@
     {
       "title": "“血液サラサラ”の遺体…解剖医が語る＜健康そのもの＞だった元ラグビー部の35歳が大型案件終了後に突然死したワケ…き盛りの若い方もいます。 ■「深夜に異様な唸り声…」 私が解剖した、広告代理店勤務の神田宗太さん(35歳・男性・仮名)がまさにそうでした。 大き…東洋経済オンラインヘルス5/25(月) 8:00",
       "date": "2026-05-25"
+    },
+    {
+      "title": "脳科学で読み解く「無視されない動画広告」～感情トリガークリエイティブとは何か～【セミナーレポート】",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Google 、「よくある質問（FAQ）」リッチリザルト機能を廃止",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "社員7割が常時利用！Hakuhodo DY ONE流・AI活用　「一部しか使わない」壁をどう超えたか",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "【Web広告不正クリック対策の実態】広告費の1～20%を搾取されるケースが約8割も、約4割の担当者が\"見かけのCPA悪化\"を恐れ対策なし - ネットショップ担当者フォーラム",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Web広告のクリック不正、担当者の4割が対策を躊躇・中止する理由とは？【かっこ調べ】…現在実施している対策としては「広告代理店に任せている」42.8%が最多ながら、「対策の責任者」については、「広告代理店任せ」17.8%、「明確な担当がいない」16…Web担当者ForumIT総合5/26(火) 6:31",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Proteinum、「ECの売上を最大化するMeta広告完全攻略レポート」を公開（日本ネット経済新聞） - Yahoo!ニュース",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Proteinum、「ECの売上を最大化するMeta広告完全攻略レポート」を公開…5月14日、ECの売上を最大化する「Meta広告完全攻略レポート」を公開した。前編・後編の2部構成で、Meta広告を活用して露出～売上を拡大するための…日本ネット経済新聞経済総合5/26(火) 8:30",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "データ分析基盤構築、メルマガ自動生成などEC事業者のAI活用事例も。「カラーミーショップ byGMOペパボ」の「AIエージェント機能」について聞いた…者さん。「Search Console」、カラーミーAPIデータ、Google広告、自社経営データをClaudeに統合し、横断的なデータ分析基盤を構築…ネットショップ担当者フォーラムIT総合5/26(火) 7:01",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "【メルカリも実行】なぜ後発が先行フリルを追い抜いたのか…勝敗を分けた戦い方…度。ついつい議論が「How論」、つまり「タクシー広告を出すべきか」「Meta広告が効くか」などの手段論に偏りがちなのですが、それ以前に「誰に」「何を」…ビジネス＋IT経済総合5/26(火) 7:20",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "ウェビナー『〜成果が変わるTikTok広告戦略〜UUUMマーケティング × フリークアウトが語る「界隈マーケティング」最前線』を2月3日に開催 - UUUM株式会社",
+      "date": "2026-05-26"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "Google の「動的検索広告（DSA）」が終了へ。2026年9月に「AI Max for Search」へ自動的に強制移行 - Web担当者Forum",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OFFTbkdhd1NfbUIwNkstcGVxdG1tc0xlYmZEWGROcGNzYm5oc3lpZUNndUZkMVR1RnRvLWVib3FWOGlucEZMWFg1TUhWdGduY2lLbkR1UjRWOXM?oc=5",
-      "summary": "・Googleの動的検索広告（DSA）が終了し、2026年9月にAI Max for Searchへ自動的に強制移行される\n・AI Max for SearchはAIを活用した検索広告の新機能で、DSAの後継として位置づけられる\n・広告運用者は強制移行前に早めの対応や移行テストを検討する必要がある",
-      "score": 10,
-      "reason": "Google DSA終了とAI Max強制移行は検索広告運用者必須情報",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Google News",
-      "title": "SMNとTrue Data、テレビCMとデジタル広告連携でオフライン購買効果を検証 重複接触で購買率41%向上を実証 - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3TFhmd255aFdiQ0Z2MUVlX3JsY1FDeGRLVFFzak1TU1Y2cExsdEZsakxtYnpUdVF4T1N3ZEVnbjNERmRPcjVPUEpMYy1EMmtwSlR3c053?oc=5",
-      "summary": "・SMNとTrue DataがテレビCMとデジタル広告の連携によるオフライン購買効果の検証を実施した\n・テレビCMとデジタル広告の重複接触により購買率が41%向上する効果が実証された\n・クロスメディア施策がオフライン購買行動に与える具体的な効果を数値で示した点が注目される",
-      "score": 7,
-      "reason": "テレビCM×デジタル広告の購買効果検証データは実務参考になる",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Google News",
-      "title": "消費者庁、SNS・チャットなど不意打ち性・誘引性・複雑性の高い広告・勧誘への規制を議論 - ネットショップ担当者フォーラム",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZDJTRTJjY21ZTlF0azM0d3p5SGFOQXYyNTA1d045cDM0T0l0bnY1OXB1TlVPTzdycTU2bzMzSlcxYzg4QmQ3LWRjY3pvd2staE5XVXRoYzZESTk4?oc=5",
-      "summary": "・消費者庁がSNSやチャットを通じた広告・勧誘行為に対する新たな規制の在り方を議論している\n・不意打ち性・誘引性・複雑性が高い手法による消費者被害の増加が規制検討の背景にある\n・デジタル広告特有の手法に対応した消費者保護ルールの整備が今後進む見通しである",
-      "score": 6,
-      "reason": "SNS広告規制の議論は今後の広告表現・配信に影響し得る",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "1.6億回再生の「高市動画」だけではなかった… 自民圧勝を支えた「もう一つのネット戦略」とは…社動画屋」の木村健人代表が言う。 「YouTube広告というのは、Google広告の一部です。Googleで検索すると、検索結果の一番上に『スポンサー…デイリー新潮政治2/10(火) 11:41",
-      "link": "https://news.yahoo.co.jp/articles/03335e4b866d4a9c467d85ce638084aeeba65a8b",
-      "summary": "・自民党の選挙戦略で高市氏関連の1.6億回再生動画以外にもネット施策が存在していたことが判明した\n・動画制作会社代表がYouTube広告はGoogle広告の一部でありGoogle検索結果上部に表示される仕組みと解説\n・自民圧勝の背景にはSNS動画拡散に加えYouTube・Google広告を活用した組織的ネット戦略があった",
-      "score": 6,
-      "reason": "YouTube広告の選挙活用事例で動画広告戦略の参考になる",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Google News",
-      "title": "講談社も含む、有力媒体33社のメディアデータを活用した広告配信事業「FT MediaString」がスタート──プレミアな広告枠とデータが実現する、フィンテックに特化した広告配信 - 講談社Cステーション",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ydWZZbUtydGE1ZkFqV3piS0pXT3p5ZHVUZFlrQUJ2N3BWN3BhTFItbl8yelYyeFZCN2Itd2FmNFJGdWMxUldtTWhYR05KaTZHdjZ4U0NiZkw?oc=5",
-      "summary": "・有力媒体33社のメディアデータを活用した広告配信事業「FT MediaString」が新たに開始された\n・講談社を含むプレミアムな広告枠と質の高いデータを組み合わせた配信が特徴である\n・フィンテック領域に特化し、高精度なターゲティング広告の実現を目指す取り組みとなる",
-      "score": 5,
-      "reason": "新広告配信事業の紹介だがフィンテック特化で汎用性は限定的",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ＳＮＳ選挙運動「規制を」、政党・候補者への中傷・誤情報拡散や真偽不明動画への対策求める…全国知事会の研究会がまとめた報告書を総務相らに提出…への中傷や偽・誤情報が拡散していると指摘。ネットで多くの閲覧を集めてデジタル広告の収入を得る「アテンション・エコノミー」による収益化や、人工知能（ＡＩ…読売新聞オンライン社会4/24(金) 11:40",
-      "link": "https://news.yahoo.co.jp/articles/f47b13c9bde564cfdb58a7e943f11baf9bca5df0",
-      "summary": "・全国知事会の研究会がSNS選挙運動の規制を求める報告書を総務相らに提出した\n・政党・候補者への中傷や偽・誤情報の拡散、真偽不明動画への対策を要請している\n・アテンションエコノミーによる収益化やAI悪用など選挙への悪影響に警鐘を鳴らした",
-      "score": 4,
-      "reason": "SNS選挙広告規制の動向で直接的な運用実務への影響は薄い",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "デジタルアートを放映する「すき間の美術館」を開始 LIVE BOARDとNEORTが連携、街に新たな文化を演出 デジタル広告関連事業を手がけるLIVE BOARD（東京）は、NEORT（東京）と連携し、全国のLIVE BOARDが運用・管理する媒体「LBオウ…オーヴォライフ総合4/24(金) 11:39",
-      "link": "https://news.yahoo.co.jp/articles/46bcf92017bd4de5d71a6d67370686f50d93c965",
-      "summary": "・LIVE BOARDとNEORTが連携しデジタルアートを街中のDOOH媒体で放映する「すき間の美術館」を開始した\n・全国のLIVE BOARD運用管理媒体を活用し広告の合間にデジタルアート作品を表示する取り組みである\n・街中の屋外ビジョンに文化的コンテンツを組み込み都市空間に新たな芸術体験を創出する狙いがある",
-      "score": 3,
-      "reason": "DOOH×デジタルアートの取り組み紹介で運用実務と関連薄い",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "こどものSNS規制、先駆けて「禁止」した豪州と、議論を進める各国の動向…海外事業、M&Aに従事しつつ業界団体の役員も歴任。総務省、経済産業省、消費者庁などでの通信政策、国際競争、個人情報保護、消費者保護などに関する有識者会議の委員を務める。INTERNET WatchIT総合4/21(火) 7:00",
-      "link": "https://news.yahoo.co.jp/articles/8b3c8568e808e687a0aa7ae74193c8d43028b512",
-      "summary": "・豪州が世界に先駆けて子どものSNS利用を法的に禁止する措置を導入した\n・各国でも子どものSNS規制に関する議論が活発化し政策検討が進んでいる\n・通信政策や消費者保護の有識者が各国動向を整理し日本への示唆を論じている",
-      "score": 3,
-      "reason": "SNS規制の国際動向で広告運用への直接影響は限定的",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "1:214期連続黒字のサガン鳥栖 純資産は1億6200万円に「J1昇格へチャレンジ」【佐賀県】…広告料収入が上がったということです。 小柳智之社長は、チラシの配布やデジタル広告、試合の日のイベントなどを通じて、「無関心層が来場する“入り口作り”を…佐賀ニュース サガテレビ佐賀4/22(水) 19:05",
-      "link": "https://news.yahoo.co.jp/articles/99fec4739de5d663b99c092ba48e614efaa26a20",
-      "summary": "・サガン鳥栖が14期連続黒字を達成し純資産は1億6200万円に増加した\n・広告料収入の増加が黒字継続の要因となりJ1昇格への挑戦を掲げる\n・チラシやデジタル広告・イベント等で無関心層の来場を促す入り口作りを推進",
-      "score": 2,
-      "reason": "サッカークラブの経営報告で広告運用との関連なし",
-      "date": "2026-04-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「みんな投資をやっている」……こんな言葉になぜ私たちは不安になるのか？“焦らないための答え”とは…手遅れになる」と思い込みやすい分野では、不安が高まる表現が増えていく（消費者庁が令和4年度に行った消費者意識基本調査でも、「今後（も）お金をかけたいと…みんかぶマガジン経済総合4/25(土) 12:10",
-      "link": "https://news.yahoo.co.jp/articles/0d125b537341c537b06f466f9eed065c701da47c",
-      "summary": "・「みんなやっている」という同調圧力的表現が投資分野で増え消費者の焦りや不安を煽っている\n・消費者庁の令和4年度意識基本調査でも今後お金をかけたい分野として投資への関心上昇が確認された\n・「手遅れになる」という思い込みが判断力を鈍らせるため冷静な情報収集と焦らない姿勢が重要である",
-      "score": 2,
-      "reason": "投資不安に関する一般記事で広告運用と無関係",
-      "date": "2026-04-25"
-    },
     {
       "source": "Google News",
       "title": "「TikTokクリエイター白書 2026」を公開 — “リアルな共感”が行動を生む、AI時代のクリエイターマーケティング戦略 - PR TIMES",
@@ -3782,6 +3692,96 @@
       "score": 1,
       "reason": "健康・突然死の記事で広告運用と無関係",
       "date": "2026-05-25"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "脳科学で読み解く「無視されない動画広告」～感情トリガークリエイティブとは何か～【セミナーレポート】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/brain-science-emotional-trigger-creative-for-video-ads",
+      "summary": "・1日1,600件の広告接触により動画広告が認識されにくくなっている現状を脳科学の観点から分析するセミナーが開催された\n・管理画面上ではリーチしていても態度変容や行動変容に結びつかない「届いているのに伝わらない」広告課題が深刻化している\n・感情トリガークリエイティブという手法で広告を無視させず視聴者の感情に訴求する新たなアプローチが提唱された",
+      "score": 7,
+      "reason": "動画広告クリエイティブの実践的知見を提供",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、「よくある質問（FAQ）」リッチリザルト機能を廃止",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-faq-rich-results-discontinuation-20260507",
+      "summary": "・Googleは2026年5月7日をもって検索結果での「よくある質問」リッチリザルトの表示を完全に停止した\n・6月にはSearch Consoleのレポートやテストツール、8月にはAPIでのFAQサポートも順次終了予定\n・FAQ構造化データを活用していたサイトはSEO戦略の見直しや代替施策の検討が急務となる",
+      "score": 5,
+      "reason": "SEO関連で広告運用への直接影響は限定的",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "社員7割が常時利用！Hakuhodo DY ONE流・AI活用　「一部しか使わない」壁をどう超えたか",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/markezine-ai-internal-spread-knowhow-consulting",
+      "summary": "・Hakuhodo DY ONEは社員の7割がAIを常時利用する体制を構築し業界内で高い浸透率を実現した\n・自社開発の「HAKUNEO ONE」とNotion AI、Difyの3種のAIツールを目的別に使い分けている\n・一部社員しか使わないという導入初期の壁を組織的な取り組みで克服した点が注目される",
+      "score": 4,
+      "reason": "社内AI活用事例で広告運用の直接知見は薄い",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Google News",
+      "title": "【Web広告不正クリック対策の実態】広告費の1～20%を搾取されるケースが約8割も、約4割の担当者が\"見かけのCPA悪化\"を恐れ対策なし - ネットショップ担当者フォーラム",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CX1JkZkNTdlQ5TjFKVXVSNTVQb0Q1Y1oyUlVURTVJRmhOVmx2bTFic1RVWWxNOUpLbzY0ZW5pME1wNnVrOUJMSmNNOWpPcUR3aWdEQU5fcGVzTms4?oc=5",
+      "summary": "・Web広告の不正クリックにより広告費の1〜20%が搾取されるケースが全体の約8割を占めることが判明した\n・約4割の広告担当者がCPAの見かけ上の悪化を懸念し不正クリック対策を実施していない実態が明らかに\n・不正クリック放置は広告費の無駄遣いに直結し、正確な効果測定や運用改善を妨げる深刻な課題となっている",
+      "score": 7,
+      "reason": "不正クリック対策の実態調査、運用改善に直結",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Web広告のクリック不正、担当者の4割が対策を躊躇・中止する理由とは？【かっこ調べ】…現在実施している対策としては「広告代理店に任せている」42.8%が最多ながら、「対策の責任者」については、「広告代理店任せ」17.8%、「明確な担当がいない」16…Web担当者ForumIT総合5/26(火) 6:31",
+      "link": "https://news.yahoo.co.jp/articles/2247abdf8eafbcf886bd680c1c2b3957a6ac7d37",
+      "summary": "・Web広告のクリック不正対策について担当者の約4割が対策を躊躇または中止した経験があることが判明した\n・現在の対策は「広告代理店に任せている」が42.8%で最多だが責任体制が曖昧な企業が多い\n・対策責任者は「代理店任せ」17.8%「明確な担当不在」16%と組織的な対応が不十分な実態が浮き彫りに",
+      "score": 7,
+      "reason": "不正クリック対策の実態と課題、実務改善に有用",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Google News",
+      "title": "Proteinum、「ECの売上を最大化するMeta広告完全攻略レポート」を公開（日本ネット経済新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVVgwOTN3M2hIWl8xRFZnUE5oMG01MHhqRWdxdm4wcjU1cFFXeERYLWNhZlhTV1RRUVBsTjI2YjM4QWd4QUFqaU44cnZ0UWRZbTBoR2xuWnZsSDM4czJQSG05dHRPVi1vOFFoTkRFa3llN2tMcXVUSElxaVRreXM?oc=5",
+      "summary": "・ProteинumがEC事業者向けにMeta広告の売上最大化ノウハウをまとめた完全攻略レポートを無料公開した\n・FacebookやInstagramなどMeta広告の運用戦略や最適化手法を体系的に解説した内容とみられる\n・EC売上拡大を目指す事業者や広告運用担当者に向けた実践的な資料として注目されている",
+      "score": 7,
+      "reason": "Meta広告のEC向け攻略レポート、実践的知見",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Proteinum、「ECの売上を最大化するMeta広告完全攻略レポート」を公開…5月14日、ECの売上を最大化する「Meta広告完全攻略レポート」を公開した。前編・後編の2部構成で、Meta広告を活用して露出～売上を拡大するための…日本ネット経済新聞経済総合5/26(火) 8:30",
+      "link": "https://news.yahoo.co.jp/articles/fa33ddaf1a297d3719647bbe6278d0551ad98e1a",
+      "summary": "・Proteinumが5月14日にEC売上最大化を目指すMeta広告完全攻略レポートを公開した\n・レポートは前編・後編の2部構成でMeta広告の露出から売上拡大までを網羅する内容\n・EC事業者向けにMeta広告の実践的な活用ノウハウを体系的にまとめた資料となっている",
+      "score": 7,
+      "reason": "Meta広告EC活用レポート、id7と同内容で実践的",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "データ分析基盤構築、メルマガ自動生成などEC事業者のAI活用事例も。「カラーミーショップ byGMOペパボ」の「AIエージェント機能」について聞いた…者さん。「Search Console」、カラーミーAPIデータ、Google広告、自社経営データをClaudeに統合し、横断的なデータ分析基盤を構築…ネットショップ担当者フォーラムIT総合5/26(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/0050ab62c08be5457f95f9e7b89a35038ebd5714",
+      "summary": "・GMOペパボ「カラーミーショップ」がEC事業者向けAIエージェント機能を提供しデータ活用を支援\n・Search ConsoleやGoogle広告、カラーミーAPIなど複数データをClaudeに統合し横断的分析基盤を構築\n・メルマガ自動生成などAI活用事例を紹介しEC事業者の業務効率化と売上向上を後押しする内容",
+      "score": 6,
+      "reason": "AI活用でGoogle広告データ分析基盤構築の事例",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【メルカリも実行】なぜ後発が先行フリルを追い抜いたのか…勝敗を分けた戦い方…度。ついつい議論が「How論」、つまり「タクシー広告を出すべきか」「Meta広告が効くか」などの手段論に偏りがちなのですが、それ以前に「誰に」「何を」…ビジネス＋IT経済総合5/26(火) 7:20",
+      "link": "https://news.yahoo.co.jp/articles/64da96a03fe8a2d2700fd873c2d8147bf02565b1",
+      "summary": "・メルカリが後発ながら先行サービスのフリルを追い抜いた戦略の分析記事\n・広告手段のHow論に偏りがちだが「誰に」「何を」伝えるかの設計が重要と指摘\n・タクシー広告やMeta広告など手法以前のマーケ戦略の本質を解説する内容",
+      "score": 5,
+      "reason": "マーケ戦略全般の知見、広告手段選定の示唆",
+      "date": "2026-05-26"
+    },
+    {
+      "source": "Google News",
+      "title": "ウェビナー『〜成果が変わるTikTok広告戦略〜UUUMマーケティング × フリークアウトが語る「界隈マーケティング」最前線』を2月3日に開催 - UUUM株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OExxSmExeVZzclVYSW9NVHpJcTBKRlNZOFpxNzZ6bVYzdEJfQlJLcjUzMmRCd0VXT2M4LUs4YndISmNKZDYybDh3?oc=5",
+      "summary": "・UUUMマーケティングとフリークアウトが共催でTikTok広告戦略ウェビナーを2月3日に開催する\n・テーマは「界隈マーケティング」最前線で、TikTok広告の成果向上につながる戦略を解説する\n・両社の知見を掛け合わせ、TikTok活用における最新の広告手法や事例を紹介する内容となっている",
+      "score": 5,
+      "reason": "TikTok広告戦略ウェビナー告知、開催済みで鮮度低",
+      "date": "2026-05-26"
     }
   ]
 }
