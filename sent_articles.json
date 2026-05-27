@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VVWhVV0E3NmFVb0tFV3lmVHNvd1M1VWs4aXllaHhKdE5nZ3g1aGo5NlJQWk5qUHg2Q0p0YnlwLWdOSVJnSGh0a1Z1QWN2N01DZWUzaE9ESk9Jelh4Mk90NW5OQ2JrM01VeUE?oc=5": "2026-04-26",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IT0xCMlZDNU5TOEgxc0pIMzJ4MzFkRmVscEx3TTc1OTdUNnAzZUFJNllDeG1TSy1FZmpWX0dtUU9hbEo5bjlvTkxoTzJEMHJrZlVNeWNLaTREMG5pd1pvRVdaVQ?oc=5": "2026-04-26",
-    "https://news.yahoo.co.jp/articles/63ad59d066057c33749e2b3b3677106b81c3bac2": "2026-04-26",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlyZW4wOHRJaXdVTF80LUo3emh1WHdaTDhnVnRob2RWenZyODhwWDVsbTl5ejU5N1pkUHJSaV9vT1R1RnZvNnJranpxMUd4RFNnTGdLUlQtOGxjd08ta0ZIZXlYUTZpa0dnZTdFM0Y2TDQ3V2ZOcE5NSl9wT2k3dDFudVZzSkJQSkZnM1RidVFlYVpWYXdweWs5eXVOdjJINmxKNDZUYVp2Ylk?oc=5": "2026-04-26",
-    "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-04-26",
-    "https://news.yahoo.co.jp/articles/0bf56f96587f3aaf44b2086beb7ffe4b5fe02102": "2026-04-26",
-    "https://news.yahoo.co.jp/articles/9cc8b790e18adff930650563f282aed4a50da259": "2026-04-26",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDhGZkpqTFZhb2RHU1lCakRFbkxYUnRhc2pJdDhRaVFKUnJQUzBUcVNJbDNTMFMyejB4blhsUUdYd0hZQmI5LTRkdE5mcmdUUG5zdFlOajh6VDVndWExUnFhazctOW9VY0ZlMlhrc0x5VkNOeHFjUzlxejdzdlE?oc=5": "2026-04-26",
-    "https://news.yahoo.co.jp/articles/9de90ee66ce757a65c191357048a827d355d6712": "2026-04-26",
-    "https://news.yahoo.co.jp/articles/b79de62d19e24aa8b9cdbdc2c2803b07e3287cbe": "2026-04-26",
     "https://anagrams.jp/blog/designer-in-advertising/": "2026-04-27",
     "https://www.lycbiz.com/jp/column/line-research/service-information/20180119-02/": "2026-04-27",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhcTloN0dQLWtvcXAtbG1NUDM0Q1phUnFQQTJhMmpyNHVybXFOTy1DZHp3eWVkaWlIVnFxQ0xSNW9FY3pKcWZoSWN0MA?oc=5": "2026-04-27",
@@ -268,49 +258,19 @@
     "https://news.yahoo.co.jp/articles/fa33ddaf1a297d3719647bbe6278d0551ad98e1a": "2026-05-26",
     "https://news.yahoo.co.jp/articles/0050ab62c08be5457f95f9e7b89a35038ebd5714": "2026-05-26",
     "https://news.yahoo.co.jp/articles/64da96a03fe8a2d2700fd873c2d8147bf02565b1": "2026-05-26",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OExxSmExeVZzclVYSW9NVHpJcTBKRlNZOFpxNzZ6bVYzdEJfQlJLcjUzMmRCd0VXT2M4LUs4YndISmNKZDYybDh3?oc=5": "2026-05-26"
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OExxSmExeVZzclVYSW9NVHpJcTBKRlNZOFpxNzZ6bVYzdEJfQlJLcjUzMmRCd0VXT2M4LUs4YndISmNKZDYybDh3?oc=5": "2026-05-26",
+    "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/": "2026-05-27",
+    "https://anagrams.jp/blog/aggregation-media-operational-approach/": "2026-05-27",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/small-budget-advertising/?list=23496": "2026-05-27",
+    "https://dentsudigital.co.jp/news/release/services/2026-0526-000323": "2026-05-27",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0526-000322": "2026-05-27",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlNDlDTVppVlo5c3M2ejItTTlGZGh6RlJZYTB2OFNOd215Vm9kYVlZQXVhY2lPUlF2amhELVVUUU10Y0dlaTQ2X3BBNW5rLUYxV3lWTC1rZmN1VGxqQ3BQSXd2VVZ3R3NuaFBGcGlOYWFBaHhySFNNVw?oc=5": "2026-05-27",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WY3FXaVhwWlFJZi16M1FGaF9BVWtOUHhWTFltdmNSc3M1Q1VYR1BDTW1NamJLSUkzX3Qxa1UtMWZMeDNuaXZQdDU4SHlsUTlBV1U1bDFoN2ZuME1hZkZwUXhpUmtjUkxDMlpBN1oxNGszQUp0akZYYkdSOA?oc=5": "2026-05-27",
+    "https://news.yahoo.co.jp/articles/75e736a520a4f23c92033b4008a42d03a6a48464": "2026-05-27",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDQ4RnllbnVtTTF6RzJZMlAwM1dPOVFKQVpJYzVnV255VWxUNDM5QTNoRTVUdDlyOHRUcEQxSEpRNHZXVmNIWFNmdzk4N1A5ODJIc1I1VlB0R1BmeFdkNXloVjllMHl0VFNCME11QUdJbEY0dWMwTFN6Z0x1alQ1eGNLb3V1MERfUnlxWg?oc=5": "2026-05-27",
+    "https://news.yahoo.co.jp/articles/5192a16b012390f426c241586615dc913b2c8a2e": "2026-05-27"
   },
   "titles": [
-    {
-      "title": "「TikTokクリエイター白書 2026」を公開 — “リアルな共感”が行動を生む、AI時代のクリエイターマーケティング戦略 - PR TIMES",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "Spotify広告、JICDAQより「ブランドセーフティ」および「無効トラフィック対策」の2つの認証を取得 - Spotify Japan — For the Record",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "てんちむが夫へ\"高級時計\"プレゼントは自信の表れ？ 「3.8億円敗訴」裁判の\"控訴資料\"を検証…す。というのも、『3ヵ月でAカップからDカップ』といった表現は、現在の景品表示法の優良誤認の基準に照らせば、アウトに近い表現です。てんちむさんが豊胸を…FRIDAYエンタメ総合4/18(土) 9:00",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "シリコンバレーで活躍するベトナム人：広告専門家からTikTok北米マネージャーへ - Vietnam.vn",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "美容医療の「今日だけ割引」に潜むワナ 断れない空気を作る“即決”の心理トリックとは【元刑事が警鐘】…ブルは必ずしも「明らかに怪しい話」から始まるわけではないという点です。消費者庁の調査でも、若年層の消費者トラブルは年齢とともに契約を伴う内容へと移行し…オトナンサーライフ総合4/26(日) 8:15",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "【医者が教える】認知症にならない「健康食品」を買ってはいけない理由とは？…う。 表示されている効果や安全性については国が審査を行い、食品ごとに消費者庁長官が許可しています。 科学的根拠を示すための実験は、手間がかかり、事…ダイヤモンド・オンラインライフ総合4/24(金) 6:45",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "“理想の体づくり”を貫いた広告代理店OL 4年ぶりの女王返り咲きを達成（VITUP!） - Yahoo!ニュース",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "谷原章介新番組は『サンモニ』に10％近い惨敗、危険水域番組も…フジ「ヒートMAX」改編“全滅の危機”…に『週刊新潮』（新潮社）に報じられたことで頓挫。リブランディングは大手広告代理店に依頼することになったものの、一連の経費を含めて1億円規模の資金を投じ…ピンズバNEWSエンタメ総合4/26(日) 7:15",
-      "date": "2026-04-26"
-    },
-    {
-      "title": "【毎日書評】日常会話に自然と知性をまとわせる、大人のことば「上級語彙」とは？…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合4/25(土) 21:51",
-      "date": "2026-04-26"
-    },
     {
       "title": "デザイナーが広告運用やってみて感じたこと",
       "date": "2026-04-27"
@@ -1350,99 +1310,49 @@
     {
       "title": "ウェビナー『〜成果が変わるTikTok広告戦略〜UUUMマーケティング × フリークアウトが語る「界隈マーケティング」最前線』を2月3日に開催 - UUUM株式会社",
       "date": "2026-05-26"
+    },
+    {
+      "title": "Google Display Ads has a new home in Demand Gen.",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "「求人の質がすべて」で終わらせない。アグリゲーション媒体で成果を出すための運用アプローチ",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "少額予算でも失敗しない広告運用のポイントとは？広告の選び方から予算別配信イメージまで解説",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "AI対話型でデジタル広告ダッシュボード分析をサポートする「Execution Agent」の提供を開始",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "Treasure AI主催「Treasure AI Partner Award」において「The Best Academy Partner」を受賞",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "既存の他社広告からの切り替えで売上 5 倍を達成した柳井商店 - Google Business Profile",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "AZ、「プライムデーを制するAmazon外部広告戦略 Amazon - ニコニコニュース",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "電通デジタルがデジタル広告のダッシュボード分析を支援する「Execution Agent」提供…Iエージェントとの対話で実現する「∞AI MC Planning」にデジタル広告のダッシュボード分析を対話形式で行う新機能「Execution Age…Web担当者ForumIT総合5/27(水) 7:01",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "広告にAIエージェント下克上 巨大テック支配は終わるか - 日本経済新聞",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "検索不要なECサイトをブランドが採用。AIを搭載し最適な服を提案…しているとも述べた。 シンカイ氏は、検索、ソーシャルメディア、店舗、デジタル広告へとショッピング行動が分散していくなかで、より大きな優先事項は顧客のそ…DIGIDAY［日本版］経済総合5/27(水) 10:01",
+      "date": "2026-05-27"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "「TikTokクリエイター白書 2026」を公開 — “リアルな共感”が行動を生む、AI時代のクリエイターマーケティング戦略 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VVWhVV0E3NmFVb0tFV3lmVHNvd1M1VWs4aXllaHhKdE5nZ3g1aGo5NlJQWk5qUHg2Q0p0YnlwLWdOSVJnSGh0a1Z1QWN2N01DZWUzaE9ESk9Jelh4Mk90NW5OQ2JrM01VeUE?oc=5",
-      "summary": "・TikTokが「TikTokクリエイター白書 2026」を公開しAI時代のクリエイターマーケティング戦略を提示した\n・\"リアルな共感\"が消費者の購買行動を促す鍵であるとし、信頼性重視のコンテンツ設計を推奨している\n・AI活用が進む中でも人間のクリエイターによる等身大の発信がブランド成果に直結すると強調している",
-      "score": 6,
-      "reason": "TikTokクリエイター活用の業界動向資料",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Google News",
-      "title": "Spotify広告、JICDAQより「ブランドセーフティ」および「無効トラフィック対策」の2つの認証を取得 - Spotify Japan — For the Record",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IT0xCMlZDNU5TOEgxc0pIMzJ4MzFkRmVscEx3TTc1OTdUNnAzZUFJNllDeG1TSy1FZmpWX0dtUU9hbEo5bjlvTkxoTzJEMHJrZlVNeWNLaTREMG5pd1pvRVdaVQ?oc=5",
-      "summary": "・Spotify広告がJICDAQから「ブランドセーフティ」と「無効トラフィック対策」の2認証を取得した\n・JICDAQはデジタル広告の品質認証機構で、広告の信頼性向上を目的としている\n・本認証により広告主はSpotify上で安全かつ透明性の高い広告配信が可能となる",
-      "score": 5,
-      "reason": "JICDAQ認証取得はブランド安全性の参考情報",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "てんちむが夫へ\"高級時計\"プレゼントは自信の表れ？ 「3.8億円敗訴」裁判の\"控訴資料\"を検証…す。というのも、『3ヵ月でAカップからDカップ』といった表現は、現在の景品表示法の優良誤認の基準に照らせば、アウトに近い表現です。てんちむさんが豊胸を…FRIDAYエンタメ総合4/18(土) 9:00",
-      "link": "https://news.yahoo.co.jp/articles/63ad59d066057c33749e2b3b3677106b81c3bac2",
-      "summary": "・てんちむが夫に高級時計を贈呈、3.8億円敗訴判決後も経済的余裕を示す行動が注目される\n・バストアップ商品の「3ヵ月でAからDカップ」表現が景品表示法の優良誤認に抵触する可能性を指摘\n・豊胸事実の非開示が広告表現の信頼性問題に直結し、控訴審の争点として検証されている",
-      "score": 2,
-      "reason": "景表法言及あるが芸能ゴシップが主題",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Google News",
-      "title": "シリコンバレーで活躍するベトナム人：広告専門家からTikTok北米マネージャーへ - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlyZW4wOHRJaXdVTF80LUo3emh1WHdaTDhnVnRob2RWenZyODhwWDVsbTl5ejU5N1pkUHJSaV9vT1R1RnZvNnJranpxMUd4RFNnTGdLUlQtOGxjd08ta0ZIZXlYUTZpa0dnZTdFM0Y2TDQ3V2ZOcE5NSl9wT2k3dDFudVZzSkJQSkZnM1RidVFlYVpWYXdweWs5eXVOdjJINmxKNDZUYVp2Ylk?oc=5",
-      "summary": "・ベトナム出身の人物がシリコンバレーで広告専門家としてキャリアを築き頭角を現した\n・その後TikTokに転身し北米市場のマネージャー職に就任し活躍している\n・海外で成功するベトナム人デジタル広告人材の代表例として注目を集めている",
-      "score": 2,
-      "reason": "TikTok人事の海外記事で実務参考度低い",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "link": "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e",
-      "summary": "・TikTokが次世代YouTuberの育成プラットフォームとして台頭し始めている\n・2019年が「TikTok広告元年」と位置づけられ企業の広告活用が本格化している\n・先行企業がTikTok広告を積極導入しており乗り遅れないための対応が求められている",
-      "score": 2,
-      "reason": "2019年の古い記事で現在の実務に不向き",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "美容医療の「今日だけ割引」に潜むワナ 断れない空気を作る“即決”の心理トリックとは【元刑事が警鐘】…ブルは必ずしも「明らかに怪しい話」から始まるわけではないという点です。消費者庁の調査でも、若年層の消費者トラブルは年齢とともに契約を伴う内容へと移行し…オトナンサーライフ総合4/26(日) 8:15",
-      "link": "https://news.yahoo.co.jp/articles/0bf56f96587f3aaf44b2086beb7ffe4b5fe02102",
-      "summary": "・美容医療で「今日だけ割引」と即決を迫る手法は断れない空気を作る心理トリックである\n・消費者トラブルは明らかに怪しい話からではなく日常的な場面から始まることが多い\n・若年層は年齢とともに契約を伴うトラブルが増加し元刑事が冷静な判断を呼びかけている",
-      "score": 1,
-      "reason": "美容医療トラブルの話題で広告運用と無関係",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【医者が教える】認知症にならない「健康食品」を買ってはいけない理由とは？…う。 表示されている効果や安全性については国が審査を行い、食品ごとに消費者庁長官が許可しています。 科学的根拠を示すための実験は、手間がかかり、事…ダイヤモンド・オンラインライフ総合4/24(金) 6:45",
-      "link": "https://news.yahoo.co.jp/articles/9cc8b790e18adff930650563f282aed4a50da259",
-      "summary": "・医師が「認知症予防」を謳う健康食品の購入を推奨しない理由を解説した記事\n・特定保健用食品は消費者庁長官の許可制で科学的根拠の審査が必要とされる\n・効果を示す実験には多大な手間とコストがかかり信頼性にばらつきがある点を指摘",
-      "score": 1,
-      "reason": "健康食品の医療記事で広告運用と無関係",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Google News",
-      "title": "“理想の体づくり”を貫いた広告代理店OL 4年ぶりの女王返り咲きを達成（VITUP!） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDhGZkpqTFZhb2RHU1lCakRFbkxYUnRhc2pJdDhRaVFKUnJQUzBUcVNJbDNTMFMyejB4blhsUUdYd0hZQmI5LTRkdE5mcmdUUG5zdFlOajh6VDVndWExUnFhazctOW9VY0ZlMlhrc0x5VkNOeHFjUzlxejdzdlE?oc=5",
-      "summary": "・広告代理店勤務のOLがボディメイク競技で4年ぶりに優勝を果たした\n・仕事と両立しながら\"理想の体づくり\"を追求し続けた姿勢が注目される\n・フィットネス競技における女王返り咲きの快挙をVITUP!が報じた",
-      "score": 1,
-      "reason": "広告代理店OLのボディビル記事で無関係",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "谷原章介新番組は『サンモニ』に10％近い惨敗、危険水域番組も…フジ「ヒートMAX」改編“全滅の危機”…に『週刊新潮』（新潮社）に報じられたことで頓挫。リブランディングは大手広告代理店に依頼することになったものの、一連の経費を含めて1億円規模の資金を投じ…ピンズバNEWSエンタメ総合4/26(日) 7:15",
-      "link": "https://news.yahoo.co.jp/articles/9de90ee66ce757a65c191357048a827d355d6712",
-      "summary": "・谷原章介の新番組が『サンモニ』に視聴率約10％差で惨敗し苦戦が続いている\n・フジテレビ「ヒートMAX」改編は危険水域の番組も抱え全滅の危機に直面中\n・リブランディングは週刊新潮の報道で頓挫し大手代理店へ依頼、経費は1億円規模に",
-      "score": 1,
-      "reason": "TV視聴率とフジテレビ改編の芸能記事",
-      "date": "2026-04-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】日常会話に自然と知性をまとわせる、大人のことば「上級語彙」とは？…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合4/25(土) 21:51",
-      "link": "https://news.yahoo.co.jp/articles/b79de62d19e24aa8b9cdbdc2c2803b07e3287cbe",
-      "summary": "・印南敦史氏が「上級語彙」に関する書籍を書評し日常会話に知性を加える言葉遣いを紹介\n・広告代理店出身の書評家が大人の語彙力向上に役立つ実践的な表現法を解説している\n・ライフハッカー・ジャパン掲載の書評で日常に取り入れやすい上級語彙の活用法を提案",
-      "score": 1,
-      "reason": "書評記事で広告運用と無関係",
-      "date": "2026-04-26"
-    },
     {
       "source": "アナグラム",
       "title": "デザイナーが広告運用やってみて感じたこと",
@@ -3782,6 +3692,96 @@
       "score": 5,
       "reason": "TikTok広告戦略ウェビナー告知、開催済みで鮮度低",
       "date": "2026-05-26"
+    },
+    {
+      "source": "Google広告",
+      "title": "Google Display Ads has a new home in Demand Gen.",
+      "link": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
+      "summary": "・Google Display AdsがDemand Genキャンペーン内に統合され新たな運用基盤へ移行した\n・広告主は引き続きGoogleディスプレイネットワーク限定での広告配信が可能である\n・統合によりキャンペーン管理がより効率化・簡素化されるメリットが期待される",
+      "score": 9,
+      "reason": "GDNがDemand Genに統合される重大アップデート",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "アナグラム",
+      "title": "「求人の質がすべて」で終わらせない。アグリゲーション媒体で成果を出すための運用アプローチ",
+      "link": "https://anagrams.jp/blog/aggregation-media-operational-approach/",
+      "summary": "・求人検索サイトは「求人の質」次第と諦められがちだが運用改善の余地があると提起\n・アグリゲーション媒体における運用型広告の課題とレバーの少なさに着目している\n・アナグラムが求人検索サイトで成果を出すための具体的な運用アプローチを解説",
+      "score": 7,
+      "reason": "求人アグリゲーション媒体の実践的運用テクニック",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "少額予算でも失敗しない広告運用のポイントとは？広告の選び方から予算別配信イメージまで解説",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/small-budget-advertising/?list=23496",
+      "summary": "・少額予算でも成果を出すための広告運用ポイントをLINEヤフーが解説している\n・広告媒体の選び方や予算規模に応じた具体的な配信イメージを紹介している\n・LINEヤフーの法人向けサービスの最新活用方法やノウハウも併せて提供している",
+      "score": 6,
+      "reason": "少額予算の広告運用解説、初心者向け汎用ノウハウ",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI対話型でデジタル広告ダッシュボード分析をサポートする「Execution Agent」の提供を開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0526-000323",
+      "summary": "・電通デジタルがAIブランド「∞AI」の新機能「Execution Agent」を提供開始した\n・デジタル広告のダッシュボード分析をAIとの対話形式で実行できる機能である\n・既存の「∞AI MC Planning」にエージェント機能を追加し分析業務を効率化する",
+      "score": 4,
+      "reason": "電通デジタルの新ツール発表プレスリリース",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "Treasure AI主催「Treasure AI Partner Award」において「The Best Academy Partner」を受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0526-000322",
+      "summary": "・電通デジタルがTreasure AI主催のパートナーアワードを受賞した\n・受賞カテゴリは「The Best Academy Partner」である\n・Treasure AIとの連携における教育・育成面での貢献が評価された",
+      "score": 3,
+      "reason": "受賞報告であり実務への直接的影響なし",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "Google News",
+      "title": "既存の他社広告からの切り替えで売上 5 倍を達成した柳井商店 - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlNDlDTVppVlo5c3M2ejItTTlGZGh6RlJZYTB2OFNOd215Vm9kYVlZQXVhY2lPUlF2amhELVVUUU10Y0dlaTQ2X3BBNW5rLUYxV3lWTC1rZmN1VGxqQ3BQSXd2VVZ3R3NuaFBGcGlOYWFBaHhySFNNVw?oc=5",
+      "summary": "・柳井商店が既存の他社広告からGoogleビジネスプロフィールへ切り替えを実施した\n・広告手法の変更により売上が従来の5倍に大幅増加する成果を達成した\n・Google公式の導入事例として同店の広告戦略転換の成功が紹介されている",
+      "score": 8,
+      "reason": "Google広告切替の具体的成功事例で実務参考になる",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "Google News",
+      "title": "AZ、「プライムデーを制するAmazon外部広告戦略 Amazon - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WY3FXaVhwWlFJZi16M1FGaF9BVWtOUHhWTFltdmNSc3M1Q1VYR1BDTW1NamJLSUkzX3Qxa1UtMWZMeDNuaXZQdDU4SHlsUTlBV1U1bDFoN2ZuME1hZkZwUXhpUmtjUkxDMlpBN1oxNGszQUp0akZYYkdSOA?oc=5",
+      "summary": "・AZがAmazonプライムデーに向けた外部広告戦略に関する情報を公開した\n・Amazon内だけでなく外部チャネルを活用した広告施策が売上拡大の鍵となる\n・プライムデー期間中の競争激化に備え事前の広告戦略設計の重要性を提示した",
+      "score": 8,
+      "reason": "Amazonプライムデー外部広告戦略で実践的運用知見",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電通デジタルがデジタル広告のダッシュボード分析を支援する「Execution Agent」提供…Iエージェントとの対話で実現する「∞AI MC Planning」にデジタル広告のダッシュボード分析を対話形式で行う新機能「Execution Age…Web担当者ForumIT総合5/27(水) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/75e736a520a4f23c92033b4008a42d03a6a48464",
+      "summary": "・電通デジタルがAIエージェントと対話形式でデジタル広告のダッシュボード分析を行う新機能「Execution Agent」を提供開始した\n・同機能は既存サービス「∞AI MC Planning」に追加され、AIとの対話を通じて広告運用の分析・改善を支援する\n・専門知識がなくてもAIエージェントとの会話で広告パフォーマンスの把握や施策立案が可能になる点が特徴である",
+      "score": 7,
+      "reason": "広告ダッシュボード分析AIツールの新機能で実務活用可能",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "Google News",
+      "title": "広告にAIエージェント下克上 巨大テック支配は終わるか - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDQ4RnllbnVtTTF6RzJZMlAwM1dPOVFKQVpJYzVnV255VWxUNDM5QTNoRTVUdDlyOHRUcEQxSEpRNHZXVmNIWFNmdzk4N1A5ODJIc1I1VlB0R1BmeFdkNXloVjllMHl0VFNCME11QUdJbEY0dWMwTFN6Z0x1alQ1eGNLb3V1MERfUnlxWg?oc=5",
+      "summary": "・AIエージェントが広告業界に進出し既存の巨大テック企業の支配構造に挑む動きが加速している\n・広告の配信や最適化をAIが自律的に行うことで新興勢力が台頭し勢力図が変わる可能性がある\n・グーグルやメタなど巨大プラットフォームの広告独占体制が揺らぐかが今後の注目点となる",
+      "score": 6,
+      "reason": "AIエージェントの広告業界影響に関する業界動向記事",
+      "date": "2026-05-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "検索不要なECサイトをブランドが採用。AIを搭載し最適な服を提案…しているとも述べた。 シンカイ氏は、検索、ソーシャルメディア、店舗、デジタル広告へとショッピング行動が分散していくなかで、より大きな優先事項は顧客のそ…DIGIDAY［日本版］経済総合5/27(水) 10:01",
+      "link": "https://news.yahoo.co.jp/articles/5192a16b012390f426c241586615dc913b2c8a2e",
+      "summary": "・ブランドがAI搭載で検索不要のECサイトを導入し最適な服を自動提案する仕組みを採用している\n・シンカイ氏は検索・SNS・店舗・デジタル広告へと購買行動が分散化している現状を指摘した\n・購買接点が多様化する中で顧客体験の最適化がブランドにとってより大きな優先課題となっている",
+      "score": 5,
+      "reason": "EC購買行動の変化とAI活用の業界動向記事",
+      "date": "2026-05-27"
     }
   ]
 }
