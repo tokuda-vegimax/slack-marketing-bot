@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://anagrams.jp/blog/ga4-6metrics-for-ads-managers/": "2026-04-30",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-04-30",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE56OGNkdkd3OUVRVW5tU2lhX2tGLUhwN3dfRGhzNzZDdGNiNEZRT1dnOWNwVXVDdUNqbTZyUWlDbXU3YzB3S3I1QUpYVHBOdWRBZGxTSEFzRnIwWWtuWWcyRzNoSDF3MjRPOWRnR1FibUFhZ1ZBSnE4b3V1TVRaLXc?oc=5": "2026-04-30",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Sb0J4X3hIUG1hY0pFTHhlbk1hWm9pOXRuMkw1TmF2QkZHdHc5ekxfNEs1bmdiUnFiNHhDT0ZOdDUzRi1RSndqcV9KaHQ3ZS1BeVRmaHNnRWFCYzNVWTZYRGNHNUFHSUt3SkRn?oc=5": "2026-04-30",
-    "https://news.yahoo.co.jp/articles/6f79d1ff5f0666f9e609d4b012508aa27e8b7ddc": "2026-04-30",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XYVJ1eldiTFpkanlLX2llMXV2bmNzZUE3Y2ZWNlBMb1F2Qk12alVuVmRubUNOa1VBNGRjREl2QTh5dVdRUFpvcDYyX2FXYTFnTGFGb09hNTdRa3ozWjdyc05BdFJ0UVBWT0dLY0V3ZGZyQmpTcU4tMjltSVVMYnc?oc=5": "2026-04-30",
-    "https://news.yahoo.co.jp/articles/961268a0f45703067839afbdce31fe0723e76ed9": "2026-04-30",
-    "https://news.yahoo.co.jp/articles/e59d74761cdb105ac76227980a6655de86ba666b": "2026-04-30",
-    "https://news.yahoo.co.jp/articles/333d8451f8097fe0237079e935c48f43434153f9": "2026-04-30",
     "https://anagrams.jp/blog/seminar-report-2026-03-27/": "2026-05-01",
     "https://oneder.hakuhodody-one.co.jp/blog/creative-legal04": "2026-05-01",
     "https://oneder.hakuhodody-one.co.jp/blog/aidiver09": "2026-05-01",
@@ -268,45 +259,19 @@
     "https://news.yahoo.co.jp/articles/7bdeabbf1bd91c5e4e54f1bfaf2e2ca524fc6297": "2026-05-30",
     "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-05-30",
     "https://news.yahoo.co.jp/articles/df91dd6d8e506b808d0cd355bda73db458eb1651": "2026-05-30",
-    "https://news.yahoo.co.jp/articles/961c1c2d0fbecc0c55a7fff5bbc13255830dbc73": "2026-05-30"
+    "https://news.yahoo.co.jp/articles/961c1c2d0fbecc0c55a7fff5bbc13255830dbc73": "2026-05-30",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IR1NKbDk2YlFhMXhiby12LTlORUlxTC10bWk3U2MyOEdvN2UxWmZhOGdnN1g2WHZRa1Nld2JLQjVxb0tiZmI5UUt6dWlseGR4V2xzMk5ESUtFWm1QbEUxRw?oc=5": "2026-05-31",
+    "https://news.yahoo.co.jp/articles/ef5de97586954832797f1561635124e45661088f": "2026-05-31",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBleWhmVmdzUHY3dEd2eW9GS2g5ZzR3SGVOWWEtZGxnSndJeDQxdEFyaXhLWHhtTXlsQjF4cTh4aDB3QjRwU21BUGRzYnR0OG9mRUhYaG54Mlp0X2h2OUQxT3BpaXpfcFhxRGJPM2ktdWVYWFEtdF9DY2QtUjBndWM?oc=5": "2026-05-31",
+    "https://news.yahoo.co.jp/articles/b9840d24da0e3bf6f22ef575b3635ee23f4996c2": "2026-05-31",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXdy02WTEtaGZ1VWtqejV4cDM1SmE0S3FfRTJKeW1YSW1DczRWSEhjSDllbXVZbDczUXptNGVkUHZNN1RKTGI3UmI0RHUyUmZBSUliUHBkbjJiRmxoSlcxZ053UzFScGMwMXc?oc=5": "2026-05-31",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yYVYteWRmRUIzTUU5dmhEQnRsXzhzM1lkWjliTU51VTl0V0ZJYV9uN3ptenlCcFo4V0hVd1JDRE5UU3kxLTlJeEg2SlJVQ1ROb25tQVV0a2E4ZVR0OGl6SmtTQ0VSSG03bmFn?oc=5": "2026-05-31",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RcUNfdG9EbkU0V1FnRS03WTIxLWtrRm9ONWtEelNNYXRvSW1oa0pseGcyZWVuYkYxWkFQOFl6NjFEa1JFZGNLaE1jNDE1X05pNkQ1ZzRlRWFlU1lpbUY3aDVFWjk1Y05uRnFKbQ?oc=5": "2026-05-31",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3hNTFpyVkw4LUozakJQLUJST1BINDlqeTFESjM1VHVsbTJnbG5vc1Z6QWhFZU1DWHdoZUVpWFlhSzBXc1FRZTN0OHZaUjhKRDVJQjJESVk1TWJ5Y3U1cjVuaURMRjBiaGpvT0YwejhQbTRES1hodHFzRTdSa2tYS3BIcHQ4VU14bHJDcEZxM2pQdTlHX3hCNmQ0ZHA0RmdDaXpzSHZ5M3F4Rlc1ZW9NZGxEc3doSDk5dUYwcjdJbUhpeTN3?oc=5": "2026-05-31",
+    "https://news.yahoo.co.jp/articles/b00368ab2511c50f72c38f8d3316df5e4ddfc123": "2026-05-31",
+    "https://news.yahoo.co.jp/articles/9e247b52cbd828ac7a128e2bae882c2d5e8fe536": "2026-05-31"
   },
   "titles": [
-    {
-      "title": "GA4の探索レポートで広告運用者が見るべき6つの数値 設定手順つきで解説",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - News（ニュース） - dentsu.co.jp",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "「御社の商品がNO.1になるアンケートを実施します」リサーチ会社の提案に乗ったら……消費者庁から措置命令！ 2億近い課徴金を食らった企業も【弁護士が解説】 - Yahoo!ニュース",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "SNS投稿の景品表示法・薬機法・プラットフォーム規約違反をAIが投稿前に自動検知・ブロック「コンプライアンスチェック機能」をSHORTBOOSTERに新搭載 - 時事ドットコム",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "月収55万円・50歳父、上京娘がGWに帰省でウキウキだったが…休みが終わる日、見送りの駅で「もう、東京に帰りたくない」と号泣。涙ながらに語る理由に呆然…す。 特に顕著なのが「副業・内職」や「投資」を名目としたトラブルです。消費者庁『令和6年版消費者白書』によると、20歳代以下のSNSをきっかけとしたト…THE GOLD ONLINE（ゴールドオンライン）ライフ総合4/30(木) 5:00",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "専業主婦から48歳で念願の広告代理店に。相棒は「ロンシャン」のトートバッグ！｜STORY（magacol） - Yahoo!ニュース",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "遠野物語の世界、身近に 古書店「河童ブックス」がオープン 元地域おこし隊の富川さん…務める企画デザイン会社「富川屋」。富川さんは新潟県長岡市出身で、都内の広告代理店で働いていた。知人から遠野市の起業家育成プロジェクトに誘われ、２０１６…河北新報岩手4/30(木) 10:25",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "【毎日書評】1日1ページで毎日の質が変わる！ドイツの成功者が実践する「366の小さな習慣」…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合4/30(木) 8:21",
-      "date": "2026-04-30"
-    },
-    {
-      "title": "あの『はらぺこあおむし』の エリック・カール大回顧展が開催！ ＠東京都現代美術館…フィックデザインを学んだ後、「ニューヨーク・タイムズ」紙のデザイナーや広告代理店のアートディレクターとして活躍した時期のポスター作品のほか、画風の異な…Numero TOKYO文化・アート4/29(水) 11:32",
-      "date": "2026-04-30"
-    },
     {
       "title": "縦型動画広告の成果につながる冒頭設計とは？BtoC・BtoBの添削事例から学ぶ改善のヒント",
       "date": "2026-05-01"
@@ -1346,90 +1311,49 @@
     {
       "title": "海外では酷評も一見の価値あり？ 『レディース・ファースト?!』の単純すぎる男女逆転劇…演じる主人公ダミアン・サックスは、男性上位的な思想を持つ人物だ。大きな広告代理店の重役という肩書きを持ち、その権力や財力を背景に女性を品定めして、公私…リアルサウンドエンタメ総合5/29(金) 18:30",
       "date": "2026-05-30"
+    },
+    {
+      "title": "「クリエイティブ効果」「ターゲットリーチ」を事前予測するAI新機能を「AaaS with Meta」に実装開始 - hakuhodo.co.jp",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "「御社の商品がNO.1になるアンケートを実施します」リサーチ会社の提案に乗ったら……消費者庁から措置命令！ 2億近い課徴金を食らった企業も【弁護士が解説】…1表示」を選択せずに、嘘のない広告を選択してください。 ーそもそも広告で「満足度No.1」を表示する際、どのような根拠が必要なのですか？ 景品表示法では、商品の品質…まいどなニュースライフ総合4/28(火) 18:00",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "尿漏れパンツ、根拠ないのに… 消費者庁、2社へ措置命令（共同通信） - Yahoo!ニュース",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "尿漏れパンツ、根拠ないのに… 消費者庁、2社へ措置命令 消費者庁は28日までに、尿漏れ対策の下着に関する広告内容に景品表示法違反（優良誤認表示）があったとして、販売会社「boxXXX（ボックスエックス）…共同通信社会4/28(火) 18:30",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "『アフィリエイト広告代理店/運用代行会社カオスマップ【2026年版】』を公開〜26社・5カテゴリーを徹底調査。失敗しないアフィリエイト広告代理店の選び方〜 - PR TIMES",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "Metaも企業AI導入に参戦 広告企業が「AI社員の現場配備」に踏み出した理由 - community.exawizards.com",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "デジタル広告の戦略から入稿まで。電通デジタル・運用型広告コンサルタントのリアル - 電通デジタル",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "Androidの隠れ機能を使って「広告ID」をたった10秒で完全に削除する方法 - ライフハッカー・ジャパン",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "Androidの隠れ機能を使って「広告ID」をたった10秒で完全に削除する方法…初期状態から組み込まれています。それが「広告ID（AAID、またはGoogle広告IDとも呼ばれる）」です。 このIDの機能はただ1つ、アプリからアプ…ライフハッカー・ジャパンライフ総合5/30(土) 12:21",
+      "date": "2026-05-31"
+    },
+    {
+      "title": "「私は2度目のプロポーズをします」66歳の夫が息子の結婚式中に若年性認知症の妻に永遠の愛誓ったワケ…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合5/31(日) 10:20",
+      "date": "2026-05-31"
     }
   ],
   "articles": [
-    {
-      "source": "アナグラム",
-      "title": "GA4の探索レポートで広告運用者が見るべき6つの数値 設定手順つきで解説",
-      "link": "https://anagrams.jp/blog/ga4-6metrics-for-ads-managers/",
-      "summary": "・GA4の探索レポートで広告運用者が注目すべき6つの重要指標を具体的に紹介している\n・標準レポートでは確認しづらいデータを探索レポートで深掘り分析する方法を解説\n・各指標の確認に必要な探索レポートの設定手順をステップごとに丁寧に説明している",
-      "score": 8,
-      "reason": "広告運用者向けGA4実践テクニック解説",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Google News",
-      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - News（ニュース） - dentsu.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
-      "summary": "・電通がインターネット広告媒体費の詳細分析を公開し2024年の動向を解説した\n・動画広告やソーシャル広告が引き続き高成長を維持し市場全体を牽引している\n・ネット広告媒体費は過去",
-      "score": 8,
-      "reason": "ネット広告費の詳細分析は市場動向把握に有用",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Google News",
-      "title": "「御社の商品がNO.1になるアンケートを実施します」リサーチ会社の提案に乗ったら……消費者庁から措置命令！ 2億近い課徴金を食らった企業も【弁護士が解説】 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56OGNkdkd3OUVRVW5tU2lhX2tGLUhwN3dfRGhzNzZDdGNiNEZRT1dnOWNwVXVDdUNqbTZyUWlDbXU3YzB3S3I1QUpYVHBOdWRBZGxTSEFzRnIwWWtuWWcyRzNoSDF3MjRPOWRnR1FibUFhZ1ZBSnE4b3V1TVRaLXc?oc=5",
-      "summary": "・リサーチ会社が「自社商品をNO.1にするアンケート」を提案し、企業がその結果を広告に利用した事例が問題化\n・消費者庁が景品表示法違反として措置命令を出し、約2億円の課徴金を科された企業も存在する\n・弁護士が恣意的な調査結果に基づくNO.1表示のリスクと法的責任について詳しく解説している",
-      "score": 6,
-      "reason": "No.1表示の景表法違反事例は広告表現の注意喚起に有用",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Google News",
-      "title": "SNS投稿の景品表示法・薬機法・プラットフォーム規約違反をAIが投稿前に自動検知・ブロック「コンプライアンスチェック機能」をSHORTBOOSTERに新搭載 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Sb0J4X3hIUG1hY0pFTHhlbk1hWm9pOXRuMkw1TmF2QkZHdHc5ekxfNEs1bmdiUnFiNHhDT0ZOdDUzRi1RSndqcV9KaHQ3ZS1BeVRmaHNnRWFCYzNVWTZYRGNHNUFHSUt3SkRn?oc=5",
-      "summary": "・SNS投稿支援ツール「SHORTBOOSTER」に景表法・薬機法等の違反を自動検知する新機能が搭載された\n・AIが投稿前にコンプライアンス違反を検知しブロックすることで法的リスクを未然に防止する\n・プラットフォーム規約違反も含め複数の法規制を横断的にチェックできる点が特徴となっている",
-      "score": 5,
-      "reason": "SNS広告のコンプラチェックツール情報として参考になる",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "月収55万円・50歳父、上京娘がGWに帰省でウキウキだったが…休みが終わる日、見送りの駅で「もう、東京に帰りたくない」と号泣。涙ながらに語る理由に呆然…す。 特に顕著なのが「副業・内職」や「投資」を名目としたトラブルです。消費者庁『令和6年版消費者白書』によると、20歳代以下のSNSをきっかけとしたト…THE GOLD ONLINE（ゴールドオンライン）ライフ総合4/30(木) 5:00",
-      "link": "https://news.yahoo.co.jp/articles/6f79d1ff5f0666f9e609d4b012508aa27e8b7ddc",
-      "summary": "・50歳父の上京した娘がGW帰省後「東京に帰りたくない」と号泣し家族に衝撃を与えた\n・背景にSNS経由の「副業・内職」「投資」名目の消費者トラブル増加問題がある\n・消費者白書によると20歳代以下のSNS起因トラブルが特に顕著で注意喚起が必要",
-      "score": 1,
-      "reason": "広告運用と無関係の生活系記事",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Google News",
-      "title": "専業主婦から48歳で念願の広告代理店に。相棒は「ロンシャン」のトートバッグ！｜STORY（magacol） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XYVJ1eldiTFpkanlLX2llMXV2bmNzZUE3Y2ZWNlBMb1F2Qk12alVuVmRubUNOa1VBNGRjREl2QTh5dVdRUFpvcDYyX2FXYTFnTGFGb09hNTdRa3ozWjdyc05BdFJ0UVBWT0dLY0V3ZGZyQmpTcU4tMjltSVVMYnc?oc=5",
-      "summary": "・48歳で専業主婦から念願の広告代理店へ転身した女性の仕事スタイルを紹介する記事\n・仕事の相棒として愛用しているのはロンシャンのトートバッグであると紹介されている\n・ファッション誌STORYによる働く女性のバッグと仕事についての特集記事である",
-      "score": 1,
-      "reason": "広告運用と無関係のライフスタイル記事",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "遠野物語の世界、身近に 古書店「河童ブックス」がオープン 元地域おこし隊の富川さん…務める企画デザイン会社「富川屋」。富川さんは新潟県長岡市出身で、都内の広告代理店で働いていた。知人から遠野市の起業家育成プロジェクトに誘われ、２０１６…河北新報岩手4/30(木) 10:25",
-      "link": "https://news.yahoo.co.jp/articles/961268a0f45703067839afbdce31fe0723e76ed9",
-      "summary": "・元広告代理店勤務の富川さんが岩手県遠野市に古書店「河童ブックス」を開業した\n・富川さんは新潟県出身で2016年に遠野市の起業家育成プロジェクトを機に移住した\n・企画デザイン会社「富川屋」を運営しつつ遠野物語の文化を身近に届ける拠点を開設",
-      "score": 1,
-      "reason": "広告運用と無関係の地域ニュース",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】1日1ページで毎日の質が変わる！ドイツの成功者が実践する「366の小さな習慣」…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合4/30(木) 8:21",
-      "link": "https://news.yahoo.co.jp/articles/e59d74761cdb105ac76227980a6655de86ba666b",
-      "summary": "・ドイツの成功者が実践する366の小さな習慣を1日1ページで紹介する書籍の書評記事\n・書評家・印南敦史氏が日常の質を高める具体的な習慣術を体験的に紹介している\n・毎日少しずつ取り組める実践的な自己改善メソッドとしてライフハッカーが掲載",
-      "score": 1,
-      "reason": "広告運用と無関係の書評記事",
-      "date": "2026-04-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "あの『はらぺこあおむし』の エリック・カール大回顧展が開催！ ＠東京都現代美術館…フィックデザインを学んだ後、「ニューヨーク・タイムズ」紙のデザイナーや広告代理店のアートディレクターとして活躍した時期のポスター作品のほか、画風の異な…Numero TOKYO文化・アート4/29(水) 11:32",
-      "link": "https://news.yahoo.co.jp/articles/333d8451f8097fe0237079e935c48f43434153f9",
-      "summary": "・エリック・カールの大回顧展が東京都現代美術館で開催され注目を集めている\n・NYタイムズのデザイナーや広告代理店のアートディレクター時代のポスター作品も展示\n・グラフィックデザインを学んだ背景や多様な画風の変遷をたどる構成となっている",
-      "score": 1,
-      "reason": "広告運用と無関係の美術展紹介記事",
-      "date": "2026-04-30"
-    },
     {
       "source": "アナグラム",
       "title": "縦型動画広告の成果につながる冒頭設計とは？BtoC・BtoBの添削事例から学ぶ改善のヒント",
@@ -3769,6 +3693,96 @@
       "score": 1,
       "reason": "映画レビュー記事で広告運用と無関係",
       "date": "2026-05-30"
+    },
+    {
+      "source": "Google News",
+      "title": "「クリエイティブ効果」「ターゲットリーチ」を事前予測するAI新機能を「AaaS with Meta」に実装開始 - hakuhodo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IR1NKbDk2YlFhMXhiby12LTlORUlxTC10bWk3U2MyOEdvN2UxWmZhOGdnN1g2WHZRa1Nld2JLQjVxb0tiZmI5UUt6dWlseGR4V2xzMk5ESUtFWm1QbEUxRw?oc=5",
+      "summary": "・博報堂がMeta広告運用基盤「AaaS with Meta」にAI予測機能を新たに実装開始した\n・クリエイティブの広告効果やターゲットへのリーチ規模を配信前に事前予測可能となる\n・事前シミュレーションにより広告投資の精度向上と運用効率の最適化を目指す",
+      "score": 7,
+      "reason": "Meta広告のAI予測新機能で運用効率化に直結",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「御社の商品がNO.1になるアンケートを実施します」リサーチ会社の提案に乗ったら……消費者庁から措置命令！ 2億近い課徴金を食らった企業も【弁護士が解説】…1表示」を選択せずに、嘘のない広告を選択してください。 ーそもそも広告で「満足度No.1」を表示する際、どのような根拠が必要なのですか？ 景品表示法では、商品の品質…まいどなニュースライフ総合4/28(火) 18:00",
+      "link": "https://news.yahoo.co.jp/articles/ef5de97586954832797f1561635124e45661088f",
+      "summary": "・リサーチ会社が「商品がNo.1になるアンケート」を提案し企業が採用した結果、景品表示法違反で消費者庁から措置命令を受けた事例を紹介\n・恣意的な調査設計による「満足度No.1」表示で約2億円の課徴金を科された企業もあり、リスクの大きさを弁護士が警告\n・広告での「No.1」表示には客観的・合理的な調査根拠が必要であり、虚偽表示ではなく誠実な広告手法を選ぶべきと解説",
+      "score": 6,
+      "reason": "No.1表示の根拠要件を解説、広告運用の法的注意",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Google News",
+      "title": "尿漏れパンツ、根拠ないのに… 消費者庁、2社へ措置命令（共同通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBleWhmVmdzUHY3dEd2eW9GS2g5ZzR3SGVOWWEtZGxnSndJeDQxdEFyaXhLWHhtTXlsQjF4cTh4aDB3QjRwU21BUGRzYnR0OG9mRUhYaG54Mlp0X2h2OUQxT3BpaXpfcFhxRGJPM2ktdWVYWFEtdF9DY2QtUjBndWM?oc=5",
+      "summary": "・消費者庁が尿漏れパンツを販売する2社に対し景品表示法違反で措置命令を出した\n・商品の効果について合理的な根拠がないにもかかわらず優良誤認表示を行っていた\n・広告表現の裏付けとなるエビデンス不足が問題視され再発防止が求められている",
+      "score": 5,
+      "reason": "景表法違反事例は広告表現の注意喚起に有用",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "尿漏れパンツ、根拠ないのに… 消費者庁、2社へ措置命令 消費者庁は28日までに、尿漏れ対策の下着に関する広告内容に景品表示法違反（優良誤認表示）があったとして、販売会社「boxXXX（ボックスエックス）…共同通信社会4/28(火) 18:30",
+      "link": "https://news.yahoo.co.jp/articles/b9840d24da0e3bf6f22ef575b3635ee23f4996c2",
+      "summary": "・消費者庁が尿漏れ対策下着の販売2社に景品表示法違反で措置命令を出した\n・広告で効果を訴求していたが合理的根拠がなく優良誤認表示と判断された\n・対象はboxXXX社など2社で誇大な広告表現が問題視された",
+      "score": 5,
+      "reason": "id1と同内容、景表法措置命令の事例共有",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Google News",
+      "title": "『アフィリエイト広告代理店/運用代行会社カオスマップ【2026年版】』を公開〜26社・5カテゴリーを徹底調査。失敗しないアフィリエイト広告代理店の選び方〜 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXdy02WTEtaGZ1VWtqejV4cDM1SmE0S3FfRTJKeW1YSW1DczRWSEhjSDllbXVZbDczUXptNGVkUHZNN1RKTGI3UmI0RHUyUmZBSUliUHBkbjJiRmxoSlcxZ053UzFScGMwMXc?oc=5",
+      "summary": "・アフィリエイト広告代理店・運用代行会社のカオスマップ2026年版が公開された\n・対象は26社で5つのカテゴリーに分類し、各社の特徴や強みを徹底調査している\n・広告主が失敗しないためのアフィリエイト広告代理店の選び方も解説されている",
+      "score": 5,
+      "reason": "アフィリエイト代理店選定の参考情報",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Google News",
+      "title": "Metaも企業AI導入に参戦 広告企業が「AI社員の現場配備」に踏み出した理由 - community.exawizards.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yYVYteWRmRUIzTUU5dmhEQnRsXzhzM1lkWjliTU51VTl0V0ZJYV9uN3ptenlCcFo4V0hVd1JDRE5UU3kxLTlJeEg2SlJVQ1ROb25tQVV0a2E4ZVR0OGl6SmtTQ0VSSG03bmFn?oc=5",
+      "summary": "・Metaが企業向けAI導入市場に本格参入し、業務現場でのAI活用支援を強化する方針を打ち出した\n・広告業界では「AI社員」として業務を担わせる動きが加速し、現場レベルでの実装が進んでいる\n・人手不足や業務効率化の課題を背景に、AIを人材の代替・補完として配備する企業が増加している",
+      "score": 5,
+      "reason": "Meta×AI業務活用の業界動向情報",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Google News",
+      "title": "デジタル広告の戦略から入稿まで。電通デジタル・運用型広告コンサルタントのリアル - 電通デジタル",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RcUNfdG9EbkU0V1FnRS03WTIxLWtrRm9ONWtEelNNYXRvSW1oa0pseGcyZWVuYkYxWkFQOFl6NjFEa1JFZGNLaE1jNDE1X05pNkQ1ZzRlRWFlU1lpbUY3aDVFWjk1Y05uRnFKbQ?oc=5",
+      "summary": "・電通デジタルの運用型広告コンサルタントの業務実態を紹介する記事\n・デジタル広告の戦略立案から実際の入稿作業まで一貫して担当する役割を解説\n・運用型広告における現場のリアルな業務フローや求められるスキルを伝える内容",
+      "score": 4,
+      "reason": "採用広報寄りの記事で実務ノウハウは薄い",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Google News",
+      "title": "Androidの隠れ機能を使って「広告ID」をたった10秒で完全に削除する方法 - ライフハッカー・ジャパン",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3hNTFpyVkw4LUozakJQLUJST1BINDlqeTFESjM1VHVsbTJnbG5vc1Z6QWhFZU1DWHdoZUVpWFlhSzBXc1FRZTN0OHZaUjhKRDVJQjJESVk1TWJ5Y3U1cjVuaURMRjBiaGpvT0YwejhQbTRES1hodHFzRTdSa2tYS3BIcHQ4VU14bHJDcEZxM2pQdTlHX3hCNmQ0ZHA0RmdDaXpzSHZ5M3F4Rlc1ZW9NZGxEc3doSDk5dUYwcjdJbUhpeTN3?oc=5",
+      "summary": "・Android端末には広告IDという追跡用識別子が存在し広告のターゲティングに利用されている\n・設定内の隠れた機能を使えばわずか10秒で広告IDを完全に削除できる方法が紹介された\n・広告ID削除によりパーソナライズ広告の追跡を防ぎプライバシー保護を強化できる",
+      "score": 3,
+      "reason": "広告ID削除は消費者側の話で運用実務に間接的",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Androidの隠れ機能を使って「広告ID」をたった10秒で完全に削除する方法…初期状態から組み込まれています。それが「広告ID（AAID、またはGoogle広告IDとも呼ばれる）」です。 このIDの機能はただ1つ、アプリからアプ…ライフハッカー・ジャパンライフ総合5/30(土) 12:21",
+      "link": "https://news.yahoo.co.jp/articles/b00368ab2511c50f72c38f8d3316df5e4ddfc123",
+      "summary": "・Android端末には広告ID（AAID）が初期状態で組み込まれておりアプリ間の行動追跡に利用されている\n・広告IDはユーザーの行動データを広告主に提供しターゲティング広告の表示に活用される仕組みである\n・Androidの隠れた設定機能を使えばわずか10秒で広告IDを完全に削除しプライバシーを保護できる",
+      "score": 3,
+      "reason": "id10と同内容、ユーザー側プライバシー情報",
+      "date": "2026-05-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「私は2度目のプロポーズをします」66歳の夫が息子の結婚式中に若年性認知症の妻に永遠の愛誓ったワケ…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合5/31(日) 10:20",
+      "link": "https://news.yahoo.co.jp/articles/9e247b52cbd828ac7a128e2bae882c2d5e8fe536",
+      "summary": "・66歳の夫が息子の結婚式の場で若年性認知症の妻に2度目のプロポーズを行った\n・永遠の愛を改めて誓う姿がノンフィクションライターにより記事化された\n・プレジデントオンラインにてライフ総合カテゴリで5月31日に公開された記事である",
+      "score": 1,
+      "reason": "広告運用と無関係のライフ記事",
+      "date": "2026-05-31"
     }
   ]
 }
