@@ -1,7 +1,5 @@
 {
   "urls": {
-    "https://news.yahoo.co.jp/articles/4c87db07b69b1664cef7e3fa4e7311119ac49b4e": "2026-05-02",
-    "https://news.yahoo.co.jp/articles/6c2abeffd15f8f0a1536c834c3a848e3d7c400ef": "2026-05-02",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0taHJxMmFtZ1BkTU5YRWdwa0M0aHdrT21RRHBSR0pLWTJJTm5EY3Y5cWE3TEpCNDZxbG1FNGJweWpPbzg2emtrTy0xMU1GUFp6TXlBVm53?oc=5": "2026-05-03",
     "https://news.yahoo.co.jp/articles/40cd27569eb190fbf86db34a7d2cf4189c762673": "2026-05-03",
     "https://news.yahoo.co.jp/articles/48af427b3037868805475da4779acbc33ecd742b": "2026-05-03",
@@ -268,17 +266,19 @@
     "https://news.yahoo.co.jp/articles/aff15aef1d73b0914e72a29ef2a2138be0da24d5": "2026-06-01",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNEtDejVTS0YtWVAtZmFXclc4Mm9kcGEwTlBmY01QRGhINURIWGJ4SmhxZmt6eGhTVzZfaGtLMEZTR215N09tX1NYZ3ZVS29ZRTMwWTJpYUt2QUFnQmpSM0pCZHUwa0M1V0FmOEtvRnVRR2VPd0JsYzM5Nlh2Q3c?oc=5": "2026-06-01",
     "https://news.yahoo.co.jp/articles/866fecc238ce4ccda413d047bb2c7e3881e00d68": "2026-06-01",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFAyMk1QN1c2dXdfR2ZZcE5aRTJpQ2NWRzVLdmdORWdaS2ExYVBGcW1hSnp4WUMxTnVyd1R3TUkxZjVjMWdfRjhpUUZIUXF4ZjRnRnF4Z0Q5VFJhRmdmT0RybTJ4aVVUTGRVMEVtTTlwUjhyUQ?oc=5": "2026-06-01"
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFAyMk1QN1c2dXdfR2ZZcE5aRTJpQ2NWRzVLdmdORWdaS2ExYVBGcW1hSnp4WUMxTnVyd1R3TUkxZjVjMWdfRjhpUUZIUXF4ZjRnRnF4Z0Q5VFJhRmdmT0RybTJ4aVVUTGRVMEVtTTlwUjhyUQ?oc=5": "2026-06-01",
+    "https://www.lycbiz.com/jp/column/ly-ads/marketing/user-behavior-ad-touchpoints/?list=23496": "2026-06-02",
+    "https://www.facebook.com/business/news/how-roove-lifted-sales-with-partnership-ads": "2026-06-02",
+    "https://www.facebook.com/business/news/streetwear-that-scores-bonkers-corner": "2026-06-02",
+    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-12": "2026-06-02",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJblhlTXJ2czZGRE5zc3JKSGNjaG1Qc2Y4cjF4Sjk0LXlhbjJtekRNdm5pOEVmd3lJcnloRHVLRXhGdTNFSks5c2xYZXplODljWEx3dC1RSV9ET2p6MFF4dGRIcEdYWEdQb3RfMG5OeDJudXc2aFVjOHJyMDRXSlE?oc=5": "2026-06-02",
+    "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2": "2026-06-02",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWcmVhNnZFYVpoRlJUMUd2aWVRd2lQZ0xNTXZhVUs0MkhjY2p4aFdEZ0o2N2J2bmxfLUx3bEpuNUJwaXV6eEZvUnR0OGpVeE9zc2VhYzlhcGNYR1RlcV9VMlBhWDNSR1RXV0E?oc=5": "2026-06-02",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OeFRTbUd1ZUFiMUFzNGlicEU3MHpkTkRQcFlxZUpBdkE2OHRMQ0Yzb1F0Z3VkdThKNkhPX3JGUTZyalZHbUdnRjdZSTVHdHB1d3RfZ3JQb0Y5Snl1Y1Fid0R6c0tZc1lQdWc?oc=5": "2026-06-02",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WklOTi1WSDN4TXRTeHJnbjJzaFlUT0M5bnZvYjhCYlhNd2piTWF4d0hUdlo5d0RJZ3ROSWFkTnlXdnhHSUdRVlV2VHpKTmNrSWVyZFBWc0g?oc=5": "2026-06-02",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTlVqRVpnMmtwV0xyVW92SjBnX0Y2TFUyYmpabzFkRkEwVW51V3hBVkdkbEgzZGx4TzdtX1NkQmFVdU5iNGl6NFYxMW01Um14TnpPRHVkZ2lxN0EtYjVj?oc=5": "2026-06-02"
   },
   "titles": [
-    {
-      "title": "ジャンプ＋版「左ききのエレン」約3年半ぶりの新刊25巻発売…。同作の単行本が発売されるのは約3年半ぶりだ。 「左ききのエレン」は、広告代理店・目黒広告社に勤務するデザイナーの朝倉光一と、類まれなる絵の才能を持つ…コミックナタリーエンタメ総合5/1(金) 15:25",
-      "date": "2026-05-02"
-    },
-    {
-      "title": "「あかりサーチ、一本！」第2回 AOI Pro.の若手エース・黒澤優介Pにドラマ制作の舞台裏を直撃 【前編】…です」 ――具体的にはどのようなお仕事を経験されたんですか？ 「最初は広告代理店に入り、アニメコンテンツを担当しました。作品をどう展開させるのか、その…TVガイドWebエンタメ総合5/1(金) 12:00",
-      "date": "2026-05-02"
-    },
     {
       "title": "3月の景表法措置動向発表 命令3件・東京都ではステマ含む違反認定も - ウェルネスデイリーニュース",
       "date": "2026-05-03"
@@ -1350,27 +1350,49 @@
     {
       "title": "QTnet、デジタル広告取引の「ブランドセーフティ」「無効トラフィック対策」において「JICDAQ認証」を取得 - 宮崎日日新聞",
       "date": "2026-06-01"
+    },
+    {
+      "title": "ユーザー行動から考える、自然な広告接点とは｜LINEヤフーとユーザーの接点",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "The Creator Effect: How Beverage Brand Roove Lifted Sales by 73% with Partnership Ads",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Streetwear That Scores: The Bonkers Corner Story",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "「自分たちだけでやらない」―社内相乗りで短期ROIの壁の突破を探る ー組織におけるAI活用術【第12回】",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始（Web担当者Forum） - Yahoo!ニュース",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始…ごとに異なる反応傾向を反映した専用モデルを構築。業界特性を加味して「Meta広告」に特化し、高精度にスコアリングした。これによって複数のクリエイティブ…Web担当者ForumIT総合6/2(火) 7:01",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "ネットショップの売上UP支援ツール「BuzzEC」がMeta広告配信に「コレクション広告」機能を新搭載。 - PR TIMES",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "事業会社のマーケティング部門向けに「デジタル広告運用におけるAIネイティブなマーケティング組織」に進化する伴走プログラムを提供開始 - PR TIMES",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "電通グループ、2026年の世界広告費は5.0%成長と予測。デジタル比率69%に拡大、コネクテッドTVが11.5%増で映像市場をけん引 - Brand New Creativity",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "ソーシャルワイヤー、TikTok広告のSEIRYO買収で運用体制を一体化 - finance.biggo.jp",
+      "date": "2026-06-02"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ジャンプ＋版「左ききのエレン」約3年半ぶりの新刊25巻発売…。同作の単行本が発売されるのは約3年半ぶりだ。 「左ききのエレン」は、広告代理店・目黒広告社に勤務するデザイナーの朝倉光一と、類まれなる絵の才能を持つ…コミックナタリーエンタメ総合5/1(金) 15:25",
-      "link": "https://news.yahoo.co.jp/articles/4c87db07b69b1664cef7e3fa4e7311119ac49b4e",
-      "summary": "・「左ききのエレン」ジャンプ＋版の単行本25巻が約3年半ぶりに発売された\n・同作は広告代理店デザイナー朝倉光一と天才画家エレンを描く物語である\n・コミックナタリーが5月1日に新刊発売のニュースとして報じた",
-      "score": 1,
-      "reason": "漫画新刊情報で広告運用と無関係",
-      "date": "2026-05-02"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「あかりサーチ、一本！」第2回 AOI Pro.の若手エース・黒澤優介Pにドラマ制作の舞台裏を直撃 【前編】…です」 ――具体的にはどのようなお仕事を経験されたんですか？ 「最初は広告代理店に入り、アニメコンテンツを担当しました。作品をどう展開させるのか、その…TVガイドWebエンタメ総合5/1(金) 12:00",
-      "link": "https://news.yahoo.co.jp/articles/6c2abeffd15f8f0a1536c834c3a848e3d7c400ef",
-      "summary": "・AOI Pro.の若手プロデューサー黒澤優介氏にドラマ制作の裏側を聞く連載第2回前編が公開された\n・黒澤氏は広告代理店出身でアニメコンテンツの展開業務を経験しキャリアを積んだ経歴を持つ\n・TVガイドWeb連載「あかりサーチ、一本！」として映像制作現場のリアルを伝える企画である",
-      "score": 1,
-      "reason": "ドラマ制作記事で広告運用と無関係",
-      "date": "2026-05-02"
-    },
     {
       "source": "Google News",
       "title": "3月の景表法措置動向発表 命令3件・東京都ではステマ含む違反認定も - ウェルネスデイリーニュース",
@@ -3782,6 +3804,96 @@
       "score": 4,
       "reason": "JICDAQ認証取得は企業プレスリリース",
       "date": "2026-06-01"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "ユーザー行動から考える、自然な広告接点とは｜LINEヤフーとユーザーの接点",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/marketing/user-behavior-ad-touchpoints/?list=23496",
+      "summary": "・ユーザーの1日の行動をインフォグラフィックで可視化し広告接点を整理\n・朝から夜までのLINEヤフー利用動線上で自然に広告が届く仕組みを解説\n・生活導線に沿った効果的なコミュニケーション設計の考え方を紹介している",
+      "score": 7,
+      "reason": "LINEヤフー広告の接点設計の考え方で日本実務に直結",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "The Creator Effect: How Beverage Brand Roove Lifted Sales by 73% with Partnership Ads",
+      "link": "https://www.facebook.com/business/news/how-roove-lifted-sales-with-partnership-ads",
+      "summary": "・飲料ブランドRooveがクリエイター主導のパートナーシップ広告を活用し売上73%増を達成した\n・Meta Advantage+キャンペーンにクリエイター広告を組み合わせROASも40%向上させた\n・本事例はオーセンティックなクリエイターコンテンツの広告効果の高さを実証している",
+      "score": 6,
+      "reason": "Meta Advantage+×クリエイター活用の海外事例で実務参考になる",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Streetwear That Scores: The Bonkers Corner Story",
+      "link": "https://www.facebook.com/business/news/streetwear-that-scores-bonkers-corner",
+      "summary": "・インドのD2Cストリートウェアブランド「Bonkers Corner」がリール広告活用で購入単価を20%削減した\n・クリエイター主導のリール動画とクリエイティブフォーマットの多様化が成長戦略の柱となった\n・これらのデジタル広告施策により売上が25%増加し、D2Cブランドの急成長を実現した",
+      "score": 5,
+      "reason": "海外D2C事例でReels活用の参考程度",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "「自分たちだけでやらない」―社内相乗りで短期ROIの壁の突破を探る ー組織におけるAI活用術【第12回】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-12",
+      "summary": "・マーケティング部門は売上直結ゆえに他部門より厳しい短期ROI提示を求められる構造的課題がある\n・AI活用推進において明確な投資対効果を事前に示す必要があり導入障壁が高くなっている\n・社内他部門との相乗り連携により単独では超えられないROIの壁を突破する戦略を提唱している",
+      "score": 5,
+      "reason": "マーケ組織のAI活用論で広告運用への直接的示唆は限定的",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Google News",
+      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始（Web担当者Forum） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJblhlTXJ2czZGRE5zc3JKSGNjaG1Qc2Y4cjF4Sjk0LXlhbjJtekRNdm5pOEVmd3lJcnloRHVLRXhGdTNFSks5c2xYZXplODljWEx3dC1RSV9ET2p6MFF4dGRIcEdYWEdQb3RfMG5OeDJudXc2aFVjOHJyMDRXSlE?oc=5",
+      "summary": "・博報堂がMeta広告のクリエイティブ効果を配信前にAIで予測する新機能の提供を開始した\n・広告配信前にクリエイティブの成果を予測し、効果的な広告運用の実現を目指す\n・AI活用により広告費の無駄を削減し、クリエイティブの質向上と効率化を図る",
+      "score": 7,
+      "reason": "Meta広告クリエイティブのAI効果予測、実務活用の可能性大",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始…ごとに異なる反応傾向を反映した専用モデルを構築。業界特性を加味して「Meta広告」に特化し、高精度にスコアリングした。これによって複数のクリエイティブ…Web担当者ForumIT総合6/2(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2",
+      "summary": "・博報堂がMeta広告のクリエイティブ効果を配信前にAIで予測する新機能の提供を開始した\n・業界ごとに異なるユーザー反応傾向を反映した専用モデルを構築し高精度なスコアリングを実現\n・複数クリエイティブの事前評価により広告運用の効率化とパフォーマンス向上を目指す",
+      "score": 7,
+      "reason": "id9と同内容、Meta広告AI予測は運用判断に直結",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Google News",
+      "title": "ネットショップの売上UP支援ツール「BuzzEC」がMeta広告配信に「コレクション広告」機能を新搭載。 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWcmVhNnZFYVpoRlJUMUd2aWVRd2lQZ0xNTXZhVUs0MkhjY2p4aFdEZ0o2N2J2bmxfLUx3bEpuNUJwaXV6eEZvUnR0OGpVeE9zc2VhYzlhcGNYR1RlcV9VMlBhWDNSR1RXV0E?oc=5",
+      "summary": "・ネットショップ売上UP支援ツール「BuzzEC」がMeta広告にコレクション広告機能を新たに追加した\n・コレクション広告はメイン画像と複数商品画像を一括表示し購買意欲を高める広告フォーマットである\n・EC事業者はBuzzECを通じてMeta広告の配信効率向上と売上拡大を目指すことが可能になる",
+      "score": 6,
+      "reason": "Meta広告コレクション広告の新機能、EC運用者に有用",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Google News",
+      "title": "事業会社のマーケティング部門向けに「デジタル広告運用におけるAIネイティブなマーケティング組織」に進化する伴走プログラムを提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OeFRTbUd1ZUFiMUFzNGlicEU3MHpkTkRQcFlxZUpBdkE2OHRMQ0Yzb1F0Z3VkdThKNkhPX3JGUTZyalZHbUdnRjdZSTVHdHB1d3RfZ3JQb0Y5Snl1Y1Fid0R6c0tZc1lQdWc?oc=5",
+      "summary": "・事業会社のマーケティング部門向けにAIネイティブな組織へ変革する伴走プログラムの提供が開始された\n・デジタル広告運用においてAI活用を前提とした組織体制への進化を支援する内容となっている\n・外部依存から脱却し自社内でAI活用型の広告運用体制を構築することを目指すプログラムである",
+      "score": 5,
+      "reason": "AI活用の組織変革プログラム紹介、実務Tips少なめ",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Google News",
+      "title": "電通グループ、2026年の世界広告費は5.0%成長と予測。デジタル比率69%に拡大、コネクテッドTVが11.5%増で映像市場をけん引 - Brand New Creativity",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WklOTi1WSDN4TXRTeHJnbjJzaFlUT0M5bnZvYjhCYlhNd2piTWF4d0hUdlo5d0RJZ3ROSWFkTnlXdnhHSUdRVlV2VHpKTmNrSWVyZFBWc0g?oc=5",
+      "summary": "・電通グループが2026年の世界広告費成長率を前年比5.0%増と予測した\n・デジタル広告の構成比は69%に拡大しデジタルシフトが一層加速する見通し\n・コネクテッドTVが前年比11.5%増と映像広告市場の成長をけん引する",
+      "score": 5,
+      "reason": "広告費予測データで業界動向把握に有用",
+      "date": "2026-06-02"
+    },
+    {
+      "source": "Google News",
+      "title": "ソーシャルワイヤー、TikTok広告のSEIRYO買収で運用体制を一体化 - finance.biggo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTlVqRVpnMmtwV0xyVW92SjBnX0Y2TFUyYmpabzFkRkEwVW51V3hBVkdkbEgzZGx4TzdtX1NkQmFVdU5iNGl6NFYxMW01Um14TnpPRHVkZ2lxN0EtYjVj?oc=5",
+      "summary": "・ソーシャルワイヤーがTikTok広告運用を手がけるSEIRYOを買収したと発表\n・買収によりTikTok広告の企画・制作・運用体制を社内で一体化する方針\n・SNSマーケティング領域の強化と広告運用サービスの競争力向上を狙う",
+      "score": 5,
+      "reason": "TikTok広告企業買収、業界再編動向として参考",
+      "date": "2026-06-02"
     }
   ]
 }
