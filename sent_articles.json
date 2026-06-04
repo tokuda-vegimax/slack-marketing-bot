@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16X3BUeVdTa2FweVBid1B4NDZzVXFvSUpBaE5HeWRJNnB5SGlGdkZsQTVqXzktalhHTHVfanVkcGdLSktTY3NmMGhKdjUwcWplYnppY1VCMm0?oc=5": "2026-05-04",
-    "https://news.yahoo.co.jp/articles/4e031b98cb63dd4ab728c10d152e0b1b8fb55181": "2026-05-04",
-    "https://news.yahoo.co.jp/articles/bdb57afe1bcd5045bc12073773500e1650525180": "2026-05-04",
-    "https://news.yahoo.co.jp/articles/1eb615ad14162947397753a0113b399f7fb4b613": "2026-05-04",
-    "https://news.yahoo.co.jp/articles/0122a8618b01e9ad2e29c953e0f27b39ca55ed2c": "2026-05-04",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aW1HXzlTNzJyTFJRM1YwZk0tYm83Wm9ISFp1Y00wZEhlV1VrWFNQeXNCWFBlLTdQNDd6ZGhUUXhGWHY5cnJ4c25sQ0VxYlZVRGFsSjlhcTM2dnRVcmRrTmNCVy1vc3lJaFdIQzl3?oc=5": "2026-05-05",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTks2cllvR1hsdmx6QlF3andHVUhmWi1pTFFHZXU3ZEZWdEtiUUk5VHYxSTZEYU1EUHl5TmJHSkU2SmhSR2tMcFFjMTBwcXFTSi01dHZYNA?oc=5": "2026-05-05",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQVJLQWt0LVJOR1M0WGo2TGtpejNNb1hzUHZFc05CVUJBWGtmY1g1bDloVXlMX2JjUkJlNDQ2YmxHU2pyc3U5WV9zRFZBMjBpR3c?oc=5": "2026-05-05",
@@ -280,29 +275,19 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KREM0SnpTUFVuUHVVUklKN0ZfT1dvODNUOWRDbDFGa0hNR0tMZ0Y2OVFHR21KaVRlV3pYUkF0Q3F2UHY0MV83Vm5DTnROSG1sYXA4S2RCUG9fQ3FwUDZVQ0N6SDZ0blFpUkE?oc=5": "2026-06-03",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hYndzcm1TSVlQUzNtcWhxOFo2V0x5TXAzdkJaemtXdzZ5WVd3YVMzVXAwd0RpODhpZzBBMVBnWk1Kb2o3X0UtZXNaU3RvRzFqTm5RemRRRQ?oc=5": "2026-06-03",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUSmdFTEZjZWVWYVJKN0pLSnF5RHNOY0xyLTlIS0hnd2ttMS1SdW1GcmE5Vjd0Z28xQjY0RFBXOUw1LVFRZTZKMGhpSmY2RlBKVkowakJUb1Q?oc=5": "2026-06-03",
-    "https://news.yahoo.co.jp/articles/ddfc0c125703542269cbc8f0ac09849445fa37d0": "2026-06-03"
+    "https://news.yahoo.co.jp/articles/ddfc0c125703542269cbc8f0ac09849445fa37d0": "2026-06-03",
+    "https://blog.google/products/ads-commerce/youtube-mrc-accreditation-shorts/": "2026-06-04",
+    "https://www.facebook.com/business/news/conversations-2026-introducing-meta-business-agent": "2026-06-04",
+    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202604": "2026-06-04",
+    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-13": "2026-06-04",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6TlozdUZ2TW94aEJ3bTlLc21oc1pxbFFXdDFMYlR5MmpJckhHT2VsNGZjeldrNGU4NlhCZjRKSlBvMGNlWThvcl9mNE9HbWdMUnNEd2N0RlNXb21GUnc?oc=5": "2026-06-04",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUFUNHhLUFNBc0lRRG8yei1ENUg4NmdfcHJrOHVYVnpMWWRfa3JMUDV6OXhvVDVxX0xHTEE1T2tOQVY5T2RlbHJGX3E1LWFJelFQRDQ3Rm1BNXJncVNXMFZHU1dDenVtTWtPNXI2N0F6MkUzNS1OOVdCSTB6a1FoVF9sNmJJYUJnTVJTLWpkWGQtakZNQm1vRGFmaUpEdjM1d1E?oc=5": "2026-06-04",
+    "https://news.yahoo.co.jp/articles/e72b629f0e828c9db50d69b441a67c624f400a9b": "2026-06-04",
+    "https://news.yahoo.co.jp/articles/e8671e74e5580524a18015b8e0358b4f38f856c6": "2026-06-04",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sa1h4a2pKQzRpakRtUEV0R3gzczdjUGRSUGQzeHJhdi1tYS00TFkzdUFlVlVTbGpIYUNSSUlMZkpYMnJQMGQwSV9jajctU1pW?oc=5": "2026-06-04",
+    "https://news.yahoo.co.jp/articles/2db673acb0d649ca1a483c5200db118873b4e532": "2026-06-04"
   },
   "titles": [
-    {
-      "title": "ソーシャルメディア全盛期の終焉──広告代理店に求められるメディア戦略の転換 - Forbes JAPAN",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "【引っ越しトラブル】「事業者の責任は1年で時効に」引っ越しで家具や部屋に傷がついた際の、泣き寝入りせずやるべき対処方法を解説…被害・トラブル額として推計されている現在、消費者庁は誇大広告や偽表示を行う通販業者への行政処分、SNS広告による詐欺的副業の注意喚起など、迅速な対応を取っています。LIMOライフ総合5/4(月) 11:25",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "AI映像クリエイター・宮城明弘氏、AIを「人間の表現を引き立てる道具」として挑む“テレビ復権”と“新ジャンル確立”…なキャリアを歩まれてきたのでしょう。 もともとエンタメが好きで、商社や広告代理店を経て映像業界に入りました。そこから十数年は映像プロデューサーとして、…マイナビニュースエンタメ総合5/4(月) 12:00",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "「返金がない」「国策」という誘い文句で勧誘か 『データサーバー』投資話の行方は 全国で250億円・5000人の被害か…ースカイの投資勧誘は法律に違反するとして、業務停止命令や検察への告発を消費者庁に求めた。 弁護団の加藤博太郎弁護士は「5000人、250億円程度の被害…FNNプライムオンライン社会5/4(月) 13:00",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "「オレたちって相性がいいよね、付き合っちゃう？」とか言い出すおじさん…みずえちゃん 1989年生まれ。新潟県長岡市出身。関西外国語大学卒業後、大阪市内の広告代理店に勤務しながら、大阪北新地でキャバ嬢デビュー。現在は銀座のクラブに勤め…マイナビニュースライフ総合5/4(月) 11:31",
-      "date": "2026-05-04"
-    },
     {
       "title": "画像1 / 3＞デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション - ウォーカープラス",
       "date": "2026-05-05"
@@ -1410,54 +1395,49 @@
     {
       "title": "「Excelの集計屋」から「経営の参謀」へ――データとAIで変える管理会計の未来【前編】…円でSNSに1億円、Google広告に1億円」と持ってきたとする。経営企画が過去データをもとに「この売上規模ならGoogle広告1.5億円だけで達成で…クラウド WatchIT総合6/2(火) 9:30",
       "date": "2026-06-03"
+    },
+    {
+      "title": "YouTube earns industry's first MRC accreditation for short-form video.",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "Conversations 2026: Introducing Meta Business Agent",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年4月）",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "AIは個人の発想を拡げても、組織の発想は均質化しているかもしれない。 ー組織におけるAI活用術【第13回】",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "博報堂、Meta広告の効果を配信前にAI予測 広告予算の最適化を支援 - PlusWeb3",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "オムニコム がめざす直接取引。デジタル広告の効果はどこまで高まる？ - DIGIDAY［日本版］",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "AppleがSafariで制御する「見えない追跡」の仕組み Webはどこまで個人を追跡しているのか…いるのかを可視化するブランドフィルム（映像作品）を中心に、屋外広告やデジタル広告などを組み合わせた多面的な展開が行われる。 映像ではWeb閲覧中に広…リアルサウンドIT総合6/4(木) 9:01",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "なぜ人は「1分ドラマ」に課金するのか？ 世界で急拡大するマイクロドラマと新しい広告の形…きな成果を上げている。 従来の広告との違いは明確である。テレビCMやデジタル広告は「商品を伝えること」が目的だったのに対し、KANSの取り組みでは「ド…AMP［アンプ］経済総合6/3(水) 12:05",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "真岡市観光デジタル広告配信及び分析業務に係る公募型プロポーザルの実施 - トラベルボイス",
+      "date": "2026-06-04"
+    },
+    {
+      "title": "「書類だけ回して」消えた16億円…上場企業も見逃したKDDI傘下発の“架空循環取引” VC社は、東京・恵比寿に本社を置く広告代理業の会社です。マーケティングDX事業（運用型広告を中心とするWebマーケティング支援）と、不動産DX事業（解体マッチン…ビジネス＋IT経済総合6/2(火) 7:20",
+      "date": "2026-06-04"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "ソーシャルメディア全盛期の終焉──広告代理店に求められるメディア戦略の転換 - Forbes JAPAN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16X3BUeVdTa2FweVBid1B4NDZzVXFvSUpBaE5HeWRJNnB5SGlGdkZsQTVqXzktalhHTHVfanVkcGdLSktTY3NmMGhKdjUwcWplYnppY1VCMm0?oc=5",
-      "summary": "・ソーシャルメディア全盛期が終わりを迎え広告業界に大きな転換点が訪れている\n・広告代理店はSNS依存から脱却し新たなメディア戦略の構築を迫られている\n・多様化する消費者接点に対応した統合的なメディアプランニングが今後の鍵となる",
-      "score": 5,
-      "reason": "SNS広告戦略の転換に関する業界動向考察",
-      "date": "2026-05-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【引っ越しトラブル】「事業者の責任は1年で時効に」引っ越しで家具や部屋に傷がついた際の、泣き寝入りせずやるべき対処方法を解説…被害・トラブル額として推計されている現在、消費者庁は誇大広告や偽表示を行う通販業者への行政処分、SNS広告による詐欺的副業の注意喚起など、迅速な対応を取っています。LIMOライフ総合5/4(月) 11:25",
-      "link": "https://news.yahoo.co.jp/articles/4e031b98cb63dd4ab728c10d152e0b1b8fb55181",
-      "summary": "・引っ越し時に家具や部屋に傷がついた場合、事業者の責任は1年で時効となるため早期対応が重要である\n・被害発生時は証拠写真の保存や書面での申告など、泣き寝入りせず適切な手順を踏むべきと解説している\n・消費者庁は誇大広告や偽表示への行政処分、SNS詐欺的副業への注意喚起など消費者保護を強化している",
-      "score": 2,
-      "reason": "消費者トラブル記事で広告運用との関連薄い",
-      "date": "2026-05-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "AI映像クリエイター・宮城明弘氏、AIを「人間の表現を引き立てる道具」として挑む“テレビ復権”と“新ジャンル確立”…なキャリアを歩まれてきたのでしょう。 もともとエンタメが好きで、商社や広告代理店を経て映像業界に入りました。そこから十数年は映像プロデューサーとして、…マイナビニュースエンタメ総合5/4(月) 12:00",
-      "link": "https://news.yahoo.co.jp/articles/bdb57afe1bcd5045bc12073773500e1650525180",
-      "summary": "・AI映像クリエイター宮城明弘氏は商社や広告代理店を経て映像業界に転身した経歴を持つ\n・AIを人間の創造性を補完・引き立てる道具と位置づけ映像制作に活用している\n・テレビメディアの復権と AI映像という新ジャンルの確立を目標に掲げ活動中",
-      "score": 2,
-      "reason": "AI映像クリエイターの人物紹介で運用実務と無関係",
-      "date": "2026-05-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「返金がない」「国策」という誘い文句で勧誘か 『データサーバー』投資話の行方は 全国で250億円・5000人の被害か…ースカイの投資勧誘は法律に違反するとして、業務停止命令や検察への告発を消費者庁に求めた。 弁護団の加藤博太郎弁護士は「5000人、250億円程度の被害…FNNプライムオンライン社会5/4(月) 13:00",
-      "link": "https://news.yahoo.co.jp/articles/1eb615ad14162947397753a0113b399f7fb4b613",
-      "summary": "・データサーバー投資話で「返金なし」「国策」等の誘い文句による勧誘被害が全国で拡大している\n・被害規模は約5000人・250億円に上り弁護団が消費者庁に業務停止命令と告発を求めた\n・弁護団の加藤弁護士がスカイの投資勧誘が法律違反であると指摘し法的対応を進めている",
-      "score": 1,
-      "reason": "投資詐欺事件の報道で広告運用と無関係",
-      "date": "2026-05-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「オレたちって相性がいいよね、付き合っちゃう？」とか言い出すおじさん…みずえちゃん 1989年生まれ。新潟県長岡市出身。関西外国語大学卒業後、大阪市内の広告代理店に勤務しながら、大阪北新地でキャバ嬢デビュー。現在は銀座のクラブに勤め…マイナビニュースライフ総合5/4(月) 11:31",
-      "link": "https://news.yahoo.co.jp/articles/0122a8618b01e9ad2e29c953e0f27b39ca55ed2c",
-      "summary": "・銀座クラブ勤務のみずえちゃんが接客中に遭遇する痛いおじさん客の言動を紹介する記事\n・「相性いいよね、付き合っちゃう？」など勘違い発言をするおじさんの実態を暴露\n・元大阪の広告代理店勤務から北新地・銀座へ転身した夜職女性の視点でリアルに描写",
-      "score": 1,
-      "reason": "キャバ嬢エッセイで広告運用と完全に無関係",
-      "date": "2026-05-04"
-    },
     {
       "source": "Google News",
       "title": "画像1 / 3＞デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション - ウォーカープラス",
@@ -3950,6 +3930,96 @@
       "score": 5,
       "reason": "広告予算配分の管理会計視点、間接的に有用",
       "date": "2026-06-03"
+    },
+    {
+      "source": "Google広告",
+      "title": "YouTube earns industry's first MRC accreditation for short-form video.",
+      "link": "https://blog.google/products/ads-commerce/youtube-mrc-accreditation-shorts/",
+      "summary": "・YouTubeが短尺動画における業界初のMRC認定を取得し、認定を受けた唯一のプラットフォームとなった\n・同社はMRCブランドセーフティ認定を6年連続で取得し、広告の安全性における業界リーダーの地位を強化した\n・今回の認定によりショート動画広告の信頼性が第三者機関により保証され、広告主の出稿判断に好影響が期待される",
+      "score": 6,
+      "reason": "YouTube Shorts広告の信頼性向上に関わるが即実務影響は限定的",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Conversations 2026: Introducing Meta Business Agent",
+      "link": "https://www.facebook.com/business/news/conversations-2026-introducing-meta-business-agent",
+      "summary": "・MetaがAI搭載の新ツール「Meta Business Agent」を発表した\n・あらゆるビジネスが全顧客に対し常時対応できるAI機能を提供する\n・顧客接点の自動化・最適化により企業のマーケティング効率向上を目指す",
+      "score": 6,
+      "reason": "Meta新AIエージェント発表。広告運用への直接影響は今後次第",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年4月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202604",
+      "summary": "・ChatGPTの国内AI検索シェアは約59%だが前月比8.6pt減と大幅に低下した\n・Geminiは4カ月連続でシェア上昇を続け前月比3.4pt増と勢いを見せている\n・AI検索市場はChatGPT一強から競合拡大へと勢力図が変化しつつある",
+      "score": 6,
+      "reason": "AI検索シェア動向は検索広告戦略の判断材料になる",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AIは個人の発想を拡げても、組織の発想は均質化しているかもしれない。 ー組織におけるAI活用術【第13回】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-13",
+      "summary": "・2024年のAndersonらの研究が生成AIによるアイデア発想の均質化問題を検証した\n・AIは個人レベルでは発想の幅を広げる効果がある一方で弊害も指摘されている\n・組織全体で見るとAI活用がアイデアの多様性を損ない均質化を招く可能性がある",
+      "score": 3,
+      "reason": "AI活用の一般論で広告運用実務との直接関連は薄い",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Google News",
+      "title": "博報堂、Meta広告の効果を配信前にAI予測 広告予算の最適化を支援 - PlusWeb3",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6TlozdUZ2TW94aEJ3bTlLc21oc1pxbFFXdDFMYlR5MmpJckhHT2VsNGZjeldrNGU4NlhCZjRKSlBvMGNlWThvcl9mNE9HbWdMUnNEd2N0RlNXb21GUnc?oc=5",
+      "summary": "・博報堂がMeta広告の効果を配信前にAIで予測する新ツールを開発した\n・広告配信前に成果を予測し広告予算の最適な配分を支援する仕組みである\n・Meta広告における費用対効果の向上と効率的な運用の実現を目指す",
+      "score": 8,
+      "reason": "Meta広告のAI効果予測ツールで実務直結",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Google News",
+      "title": "オムニコム がめざす直接取引。デジタル広告の効果はどこまで高まる？ - DIGIDAY［日本版］",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUFUNHhLUFNBc0lRRG8yei1ENUg4NmdfcHJrOHVYVnpMWWRfa3JMUDV6OXhvVDVxX0xHTEE1T2tOQVY5T2RlbHJGX3E1LWFJelFQRDQ3Rm1BNXJncVNXMFZHU1dDenVtTWtPNXI2N0F6MkUzNS1OOVdCSTB6a1FoVF9sNmJJYUJnTVJTLWpkWGQtakZNQm1vRGFmaUpEdjM1d1E?oc=5",
+      "summary": "・オムニコムがデジタル広告における直接取引の拡大を目指す戦略を推進している\n・中間業者を排除し広告主とパブリッシャーの直接接続で効率と透明性を向上させる狙い\n・直接取引によりデジタル広告の効果測定精度や投資対効果の改善が期待されている",
+      "score": 6,
+      "reason": "広告取引構造の変化に関する業界動向記事",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AppleがSafariで制御する「見えない追跡」の仕組み Webはどこまで個人を追跡しているのか…いるのかを可視化するブランドフィルム（映像作品）を中心に、屋外広告やデジタル広告などを組み合わせた多面的な展開が行われる。 映像ではWeb閲覧中に広…リアルサウンドIT総合6/4(木) 9:01",
+      "link": "https://news.yahoo.co.jp/articles/e72b629f0e828c9db50d69b441a67c624f400a9b",
+      "summary": "・AppleがSafariのプライバシー保護機能を訴求するブランドフィルムを公開した\n・Web閲覧中の個人追跡の実態を可視化し利用者の意識喚起を図る内容となっている\n・映像作品に加え屋外広告やデジタル広告を組み合わせた多面的キャンペーンを展開する",
+      "score": 5,
+      "reason": "Safari追跡防止の解説でCookie規制理解に関連",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ人は「1分ドラマ」に課金するのか？ 世界で急拡大するマイクロドラマと新しい広告の形…きな成果を上げている。 従来の広告との違いは明確である。テレビCMやデジタル広告は「商品を伝えること」が目的だったのに対し、KANSの取り組みでは「ド…AMP［アンプ］経済総合6/3(水) 12:05",
+      "link": "https://news.yahoo.co.jp/articles/e8671e74e5580524a18015b8e0358b4f38f856c6",
+      "summary": "・1話1分程度のマイクロドラマが世界的に急拡大し、ユーザー課金モデルで大きな市場を形成している\n・中国発コスメブランドKANSはドラマ型広告で従来のCMと異なるストーリー主導の訴求に成功している\n・商品訴求よりも物語体験を優先する新たな広告手法がデジタルマーケティングの潮流となりつつある",
+      "score": 4,
+      "reason": "マイクロドラマ広告の新形態紹介で参考程度",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Google News",
+      "title": "真岡市観光デジタル広告配信及び分析業務に係る公募型プロポーザルの実施 - トラベルボイス",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sa1h4a2pKQzRpakRtUEV0R3gzczdjUGRSUGQzeHJhdi1tYS00TFkzdUFlVlVTbGpIYUNSSUlMZkpYMnJQMGQwSV9jajctU1pW?oc=5",
+      "summary": "・栃木県真岡市が観光デジタル広告の配信および分析業務の委託先を公募型プロポーザルで募集開始した\n・観光誘客を目的としたデジタル広告の効果的な配信と成果分析を一体的に行う事業者を選定する方針\n・トラベルボイスが本件を報じており自治体の観光DX推進やデータ活用の動きが加速している",
+      "score": 3,
+      "reason": "自治体プロポーザル案件で実務知見は薄い",
+      "date": "2026-06-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「書類だけ回して」消えた16億円…上場企業も見逃したKDDI傘下発の“架空循環取引” VC社は、東京・恵比寿に本社を置く広告代理業の会社です。マーケティングDX事業（運用型広告を中心とするWebマーケティング支援）と、不動産DX事業（解体マッチン…ビジネス＋IT経済総合6/2(火) 7:20",
+      "link": "https://news.yahoo.co.jp/articles/2db673acb0d649ca1a483c5200db118873b4e532",
+      "summary": "・KDDI傘下の広告代理業VC社で約16億円規模の架空循環取引が発覚し上場企業の管理体制が問われている\n・VC社は恵比寿拠点で運用型広告中心のマーケティングDXと不動産DX事業を展開していた企業である\n・書類だけを回す手口で実態のない取引を装い複数企業間で長期間にわたり不正が見逃されていた",
+      "score": 3,
+      "reason": "架空取引の不正事案で運用ノウハウではない",
+      "date": "2026-06-04"
     }
   ]
 }
