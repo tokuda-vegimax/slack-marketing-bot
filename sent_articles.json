@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aW1HXzlTNzJyTFJRM1YwZk0tYm83Wm9ISFp1Y00wZEhlV1VrWFNQeXNCWFBlLTdQNDd6ZGhUUXhGWHY5cnJ4c25sQ0VxYlZVRGFsSjlhcTM2dnRVcmRrTmNCVy1vc3lJaFdIQzl3?oc=5": "2026-05-05",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTks2cllvR1hsdmx6QlF3andHVUhmWi1pTFFHZXU3ZEZWdEtiUUk5VHYxSTZEYU1EUHl5TmJHSkU2SmhSR2tMcFFjMTBwcXFTSi01dHZYNA?oc=5": "2026-05-05",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQVJLQWt0LVJOR1M0WGo2TGtpejNNb1hzUHZFc05CVUJBWGtmY1g1bDloVXlMX2JjUkJlNDQ2YmxHU2pyc3U5WV9zRFZBMjBpR3c?oc=5": "2026-05-05",
-    "https://news.yahoo.co.jp/articles/2906bae97c3fb57c02c245460f33cddeab77c773": "2026-05-05",
-    "https://news.yahoo.co.jp/articles/7b4ebef648daa1f5106f442cbebd8eb6a2319b72": "2026-05-05",
-    "https://news.yahoo.co.jp/articles/5db75513e02c84e38635f3c810e0ff040b39dc55": "2026-05-05",
-    "https://news.yahoo.co.jp/articles/ca495970eb3df8cd7f4c0e45c0e29cd8c0046f87": "2026-05-05",
     "https://anagrams.jp/blog/how-to-promote-experience-value/": "2026-05-07",
     "https://oneder.hakuhodody-one.co.jp/blog/aidiver10": "2026-05-07",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXZsOS1kemFLRFE4RzBCMldTX25DTldtbzhtZjdqTmtVd3QtaklNbWpwMTZqd1hvQWVGc2RLTWs1cFdsLU1xMGZ4cEJMc1RpbWxXQXhMSm5HQXNyYm5sczVnWXhUWVQ4RTFzMlR3NkE1OHFVX3pzd2NmMDRNWkZBVmtlMlBraUtHRWE3SG90c0tFekY3ZjJmLXpoMzZiX010LW01SVdFVQ?oc=5": "2026-05-07",
@@ -285,37 +278,19 @@
     "https://news.yahoo.co.jp/articles/e72b629f0e828c9db50d69b441a67c624f400a9b": "2026-06-04",
     "https://news.yahoo.co.jp/articles/e8671e74e5580524a18015b8e0358b4f38f856c6": "2026-06-04",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sa1h4a2pKQzRpakRtUEV0R3gzczdjUGRSUGQzeHJhdi1tYS00TFkzdUFlVlVTbGpIYUNSSUlMZkpYMnJQMGQwSV9jajctU1pW?oc=5": "2026-06-04",
-    "https://news.yahoo.co.jp/articles/2db673acb0d649ca1a483c5200db118873b4e532": "2026-06-04"
+    "https://news.yahoo.co.jp/articles/2db673acb0d649ca1a483c5200db118873b4e532": "2026-06-04",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-may-2026-core-update-rollout": "2026-06-05",
+    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-14": "2026-06-05",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE04UW54SnhPQ2tlZ0V2VjY0UU1pdWVVZVU4MDJ2bG1jbVU0UlExSkI0Vk9yV1ZienFiMG9RbDBWMnpwQ1cwRUtjYUQ0Q3R6X3JMYUIyM2xYYmZmVDAybDNNckFXOWxiRS1mTEQxOXc5ZlBRZEFZTlFQODI1QQ?oc=5": "2026-06-05",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UEE4blVYR19zOGNud1RrS2FqVm1vdlBKNVVjdEcxRTNNU09pQTZWWE1KQVZYZU5qemppbVQxT2Z2b055aVJ4c0QzYkt1eHVfNjVTNm9oUWxZVjBubFpSYTZiVEt2dHM?oc=5": "2026-06-05",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWVDZqWmRpUU5Da2thc0N4Uk9UVk5ZWGUtYkhRX2tFcUFWaENOTDZDWndoQko1OEJXeHNNaGJBVHRHRjJFU21UM2NXbmhfVUtiUDJhNFNB?oc=5": "2026-06-05",
+    "https://news.yahoo.co.jp/articles/82dd469c4c4d51deab3b3c5c340f14098bd4e56d": "2026-06-05",
+    "https://news.yahoo.co.jp/articles/2770edbb541988d4fffc863b43cc0771b212159f": "2026-06-05",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE44emhSNEJmVWJxckNfQ04yTXBwLXVNMnYtclhXVGpBYkt5amVpY2FYdkF6QVZ3cXBpMmdxQXViNlpuQUxYMFItNU9TTFJHYzZPQ0dpTnNJWjhDTjlrZ09QZGlsc0VOako5WHhxMVhvQ2tZQ0p5UWdDY1NXdmxrRFE?oc=5": "2026-06-05",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPX3dwM2ppUkU2bEdrdHZmajlja2ZYRWtoQ2Z1dUh0NU54NFpBeEhqTmVwNW44M1dJZ0V3RTJJVE1xQUhUeE1teUl2SQ?oc=5": "2026-06-05",
+    "https://news.yahoo.co.jp/articles/2f68b8759b4aca3780556cf75fe7bed87ff84c81": "2026-06-05"
   },
   "titles": [
-    {
-      "title": "画像1 / 3＞デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション - ウォーカープラス",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "博報堂･西山社長が語る｢AIで広告代理店不要｣説への答え - 会社四季報オンライン",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "美容品通販３社に業務停止命令 消費者庁、美容クリーム誇大広告 - 山陽新聞",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "【高齢者の契約トラブル】「”通常は数千円かかるが今回は無料”は本当か」多発している光回線契約のトラブルにあわないためのアドバイスを公開（国民生活センター）…被害・トラブル額として推計されている現在、消費者庁は誇大広告や偽表示を行う通販業者への行政処分、SNS広告による詐欺的副業の注意喚起など、迅速な対応を取っています。LIMOライフ総合5/5(火) 11:25",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "「結婚したい相手がいる」と長男が紹介してきたのは女優だった…平野レミが語る、義理の娘・上野樹里との意外な関係性 ある日、次男の率が若い娘さんを家に連れてきました。次男は海外留学から日本に戻って、広告代理店に勤めていました。「香菜ある?」と言いながら、玄関から台所に入ってきた…文春オンラインエンタメ総合5/5(火) 10:21",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "【韓国ドラマ人気ランキング】胸キュン必至！Netflix配信の「恋愛系ドラマ」TOP3…・ヨンス（キム・ダミ）とチェ・ウン（チェ・ウシク）。10年後、ヨンスは広告代理店のチーム長としてバリバリ働き、ウンは正体を明かさない覆面画家として活躍…＠BAILAエンタメ総合5/4(月) 20:50",
-      "date": "2026-05-05"
-    },
-    {
-      "title": "結婚する予定だった彼に振られたのは私が総合職だから？失恋で心機一転、上京したけれど仕事はうまくいかなくて...（53歳／ナオミさんの場合・中編）…いた求人票を見て、片っ端から履歴書を送ります。努力の甲斐あって、地元の広告代理店に就職が決まりました。 「女性の総合職を採用するのは初めての会社だった…webマガジン mi-molletエンタメ総合5/4(月) 19:03",
-      "date": "2026-05-05"
-    },
     {
       "title": "スペックで売れない商材の広告、どう作る？ 「体験の価値」を伝える訴求設計",
       "date": "2026-05-07"
@@ -1435,72 +1410,49 @@
     {
       "title": "「書類だけ回して」消えた16億円…上場企業も見逃したKDDI傘下発の“架空循環取引” VC社は、東京・恵比寿に本社を置く広告代理業の会社です。マーケティングDX事業（運用型広告を中心とするWebマーケティング支援）と、不動産DX事業（解体マッチン…ビジネス＋IT経済総合6/2(火) 7:20",
       "date": "2026-06-04"
+    },
+    {
+      "title": "Google 、コアアップデート「May 2026 core update」のロールアウトを開始",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "AIが進化しても、組織の同質化問題は避けがたいかもしれない ―モデルを変えてもプロンプトを変えても超えられない壁 ー組織におけるAI活用術【第14回】",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "博報堂と博報堂テクノロジーズ、Meta広告のクリエイティブ効果を配信前に予測するAI新機能を提供開始――「AaaS with Meta」第3弾 - Exchangewire Japan",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "「イモトのWiFi」景表法違反で課徴金納付命令 1億7千万円 - 朝日新聞",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "消費者委員会、広告の適合性が重要 電通デジタルが広告のAI活用で意見 - 日本ネット経済新聞",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "消費者委員会、広告の適合性が重要 電通デジタルが広告のAI活用で意見…者からのフィードバックを数値化したり、そのデータを生かすために広告主と広告代理店との連携が重要になる」(馬篭氏)と話した。日本ネット経済新聞経済総合6/5(金) 9:30",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "【国内主要のカート・決済代行と連携へ】ルビー・グループ、下期の事業戦略を発表 ”ECカートのコンシェルジュ”に…・グループは、開発ベンダー・広告代理店ともアライアンスを締結している。開発に特化したR6B、ワイヤードビーンズ、広告代理店のSpeeeと組んでおり、既…日本ネット経済新聞経済総合6/5(金) 11:00",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "金沢の広告代理店が自己破産手続きへ・差別化と業容拡大進まず（MRO北陸放送） - Yahoo!ニュース",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "金沢の広告代理業セ・ビアン事業停止 - 47NEWS",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "たとえば、逆から考えてみる──「いいところ」を言語化する5つの方法【毎日書評】…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合6/5(金) 8:21",
+      "date": "2026-06-05"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "画像1 / 3＞デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション - ウォーカープラス",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aW1HXzlTNzJyTFJRM1YwZk0tYm83Wm9ISFp1Y00wZEhlV1VrWFNQeXNCWFBlLTdQNDd6ZGhUUXhGWHY5cnJ4c25sQ0VxYlZVRGFsSjlhcTM2dnRVcmRrTmNCVy1vc3lJaFdIQzl3?oc=5",
-      "summary": "・デジタル広告が主流となる中、広告詐欺やブランド毀損などマーケターが直面するリスクが増大している\n・広告の透明性や品質を担保するDoubleVerifyのソリューションが注目を集めている\n・広告配信の安全性や効果測定の精度向上により、広告主のブランド保護と投資対効果の改善を支援する",
-      "score": 6,
-      "reason": "広告透明性・ブランドセーフティの知見で実務参考",
-      "date": "2026-05-05"
-    },
-    {
-      "source": "Google News",
-      "title": "博報堂･西山社長が語る｢AIで広告代理店不要｣説への答え - 会社四季報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTks2cllvR1hsdmx6QlF3andHVUhmWi1pTFFHZXU3ZEZWdEtiUUk5VHYxSTZEYU1EUHl5TmJHSkU2SmhSR2tMcFFjMTBwcXFTSi01dHZYNA?oc=5",
-      "summary": "・博報堂の西山社長が「AIで広告代理店は不要になる」という議論に対し自社の見解を表明した\n・AI技術の進展を認めつつも代理店ならではの創造力や統合的な提案力の価値を強調した\n・AI活用を自社の競争力強化に取り込み、広告ビジネスの変革を主導する姿勢を示した",
-      "score": 5,
-      "reason": "AI×広告代理店の業界動向、運用実務への直接性は低い",
-      "date": "2026-05-05"
-    },
-    {
-      "source": "Google News",
-      "title": "美容品通販３社に業務停止命令 消費者庁、美容クリーム誇大広告 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQVJLQWt0LVJOR1M0WGo2TGtpejNNb1hzUHZFc05CVUJBWGtmY1g1bDloVXlMX2JjUkJlNDQ2YmxHU2pyc3U5WV9zRFZBMjBpR3c?oc=5",
-      "summary": "・消費者庁が美容品通販3社に対し業務停止命令を発出した\n・美容クリームの広告が誇大広告に該当すると判断された模様\n・特定商取引法に基づく行政処分で消費者保護の強化が図られる",
-      "score": 4,
-      "reason": "誇大広告の行政処分事例、薬機法注意喚起程度",
-      "date": "2026-05-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【高齢者の契約トラブル】「”通常は数千円かかるが今回は無料”は本当か」多発している光回線契約のトラブルにあわないためのアドバイスを公開（国民生活センター）…被害・トラブル額として推計されている現在、消費者庁は誇大広告や偽表示を行う通販業者への行政処分、SNS広告による詐欺的副業の注意喚起など、迅速な対応を取っています。LIMOライフ総合5/5(火) 11:25",
-      "link": "https://news.yahoo.co.jp/articles/2906bae97c3fb57c02c245460f33cddeab77c773",
-      "summary": "・国民生活センターが高齢者に多発する光回線契約トラブルへの注意喚起と対策アドバイスを公開した\n・「通常数千円が今回無料」等の誇大表現による勧誘手口が問題視され被害が拡大している\n・消費者庁はSNS広告の詐欺的副業や誇大広告を行う通販業者への行政処分を強化している",
-      "score": 3,
-      "reason": "消費者トラブル一般ニュース、広告運用と間接的",
-      "date": "2026-05-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「結婚したい相手がいる」と長男が紹介してきたのは女優だった…平野レミが語る、義理の娘・上野樹里との意外な関係性 ある日、次男の率が若い娘さんを家に連れてきました。次男は海外留学から日本に戻って、広告代理店に勤めていました。「香菜ある?」と言いながら、玄関から台所に入ってきた…文春オンラインエンタメ総合5/5(火) 10:21",
-      "link": "https://news.yahoo.co.jp/articles/7b4ebef648daa1f5106f442cbebd8eb6a2319b72",
-      "summary": "・平野レミが義理の娘である女優・上野樹里との関係性について語った記事が公開された\n・次男の率が海外留学後に広告代理店勤務を経て若い女性を家に連れてきたエピソードを紹介\n・家族間の自然体な交流や意外な嫁姑関係の良好さが文春オンラインで話題となっている",
-      "score": 1,
-      "reason": "芸能人エピソード、広告運用と無関係",
-      "date": "2026-05-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【韓国ドラマ人気ランキング】胸キュン必至！Netflix配信の「恋愛系ドラマ」TOP3…・ヨンス（キム・ダミ）とチェ・ウン（チェ・ウシク）。10年後、ヨンスは広告代理店のチーム長としてバリバリ働き、ウンは正体を明かさない覆面画家として活躍…＠BAILAエンタメ総合5/4(月) 20:50",
-      "link": "https://news.yahoo.co.jp/articles/5db75513e02c84e38635f3c810e0ff040b39dc55",
-      "summary": "・Netflix配信の韓国恋愛ドラマ人気TOP3をBAILAが発表したランキング記事\n・「その年、私たちは」のキム・ダミとチェ・ウシクの10年後の再会ストーリーを紹介\n・広告代理店チーム長と覆面画家という対照的な設定が胸キュンポイントとして注目",
-      "score": 1,
-      "reason": "韓国ドラマ紹介記事、広告運用と無関係",
-      "date": "2026-05-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "結婚する予定だった彼に振られたのは私が総合職だから？失恋で心機一転、上京したけれど仕事はうまくいかなくて...（53歳／ナオミさんの場合・中編）…いた求人票を見て、片っ端から履歴書を送ります。努力の甲斐あって、地元の広告代理店に就職が決まりました。 「女性の総合職を採用するのは初めての会社だった…webマガジン mi-molletエンタメ総合5/4(月) 19:03",
-      "link": "https://news.yahoo.co.jp/articles/ca495970eb3df8cd7f4c0e45c0e29cd8c0046f87",
-      "summary": "・結婚予定の相手に総合職であることを理由に振られた53歳女性ナオミさんの体験談中編\n・失恋を機に上京するも仕事がうまくいかず求人票に片っ端から履歴書を送り続けた\n・地元広告代理店に女性初の総合職として採用が決まり新たなキャリアをスタートさせた",
-      "score": 1,
-      "reason": "個人の転職エピソード、広告運用と無関係",
-      "date": "2026-05-05"
-    },
     {
       "source": "アナグラム",
       "title": "スペックで売れない商材の広告、どう作る？ 「体験の価値」を伝える訴求設計",
@@ -4020,6 +3972,96 @@
       "score": 3,
       "reason": "架空取引の不正事案で運用ノウハウではない",
       "date": "2026-06-04"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、コアアップデート「May 2026 core update」のロールアウトを開始",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-may-2026-core-update-rollout",
+      "summary": "・Googleが2026年5月22日に「May 2026 core update」のロールアウトを開始したと公式Xで発表した\n・コアアップデートは検索アルゴリズムの大幅変更であり、大規模な検索順位変動が発生する可能性がある\n・当社の日次トラッキング調査では5月22日以降に閾値を超える大きな順位変動はまだ確認されていない",
+      "score": 4,
+      "reason": "SEOコアアップデート情報で運用型広告への直接影響は限定的",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AIが進化しても、組織の同質化問題は避けがたいかもしれない ―モデルを変えてもプロンプトを変えても超えられない壁 ー組織におけるAI活用術【第14回】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-14",
+      "summary": "・14種のLLMに創造性テストを実施した結果、モデルが進化しても創造性は向上していないことが判明した\n・発散的連想課題と代替用途課題という心理学的指標で評価し、AI間の出力が同質化する傾向が示された\n・組織でAI活用する際、モデルやプロンプトを変えても創造性の壁を超えられない同質化問題が指摘された",
+      "score": 3,
+      "reason": "AI創造性の学術研究紹介で広告運用実務との直接関連薄い",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Google News",
+      "title": "博報堂と博報堂テクノロジーズ、Meta広告のクリエイティブ効果を配信前に予測するAI新機能を提供開始――「AaaS with Meta」第3弾 - Exchangewire Japan",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04UW54SnhPQ2tlZ0V2VjY0UU1pdWVVZVU4MDJ2bG1jbVU0UlExSkI0Vk9yV1ZienFiMG9RbDBWMnpwQ1cwRUtjYUQ0Q3R6X3JMYUIyM2xYYmZmVDAybDNNckFXOWxiRS1mTEQxOXc5ZlBRZEFZTlFQODI1QQ?oc=5",
+      "summary": "・博報堂と博報堂テクノロジーズが「AaaS with Meta」の第3弾として新AI機能を提供開始した\n・Meta広告のクリエイティブ効果を実際の配信前にAIで予測できる機能を開発した\n・広告配信前に効果を見極めることで、クリエイティブの質向上と運用効率化を目指す",
+      "score": 8,
+      "reason": "Meta広告のAIクリエイティブ予測は実務に直結",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Google News",
+      "title": "「イモトのWiFi」景表法違反で課徴金納付命令 1億7千万円 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UEE4blVYR19zOGNud1RrS2FqVm1vdlBKNVVjdEcxRTNNU09pQTZWWE1KQVZYZU5qemppbVQxT2Z2b055aVJ4c0QzYkt1eHVfNjVTNm9oUWxZVjBubFpSYTZiVEt2dHM?oc=5",
+      "summary": "・「イモトのWiFi」運営企業が景品表示法違反で消費者庁から課徴金納付命令を受けた\n・課徴金額は約1億7千万円で、不当な広告表示が問題視されたとみられる\n・海外向けWiFiレンタル大手として知名度が高く、業界への影響が注目される",
+      "score": 6,
+      "reason": "景表法違反事例は広告表現の注意喚起に有用",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Google News",
+      "title": "消費者委員会、広告の適合性が重要 電通デジタルが広告のAI活用で意見 - 日本ネット経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWVDZqWmRpUU5Da2thc0N4Uk9UVk5ZWGUtYkhRX2tFcUFWaENOTDZDWndoQko1OEJXeHNNaGJBVHRHRjJFU21UM2NXbmhfVUtiUDJhNFNB?oc=5",
+      "summary": "・消費者委員会で電通デジタルが広告におけるAI活用について意見を表明した\n・広告の適合性が重要であるとの見解が消費者委員会の議論で示された\n・AI技術を活用した広告配信の在り方や消費者保護の観点が論点となっている",
+      "score": 5,
+      "reason": "広告AI活用の業界動向で参考になる",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費者委員会、広告の適合性が重要 電通デジタルが広告のAI活用で意見…者からのフィードバックを数値化したり、そのデータを生かすために広告主と広告代理店との連携が重要になる」(馬篭氏)と話した。日本ネット経済新聞経済総合6/5(金) 9:30",
+      "link": "https://news.yahoo.co.jp/articles/82dd469c4c4d51deab3b3c5c340f14098bd4e56d",
+      "summary": "・消費者委員会が広告の適合性を重視し、電通デジタルがAI活用の方針について意見を表明した\n・消費者フィードバックの数値化によりAIを活用した広告最適化の精度向上を目指す方針を示した\n・馬篭氏は広告主と広告代理店の連携がデータ活用の成果を左右する重要な要素と強調した",
+      "score": 5,
+      "reason": "id0と同記事、AI広告の業界動向として参考",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【国内主要のカート・決済代行と連携へ】ルビー・グループ、下期の事業戦略を発表 ”ECカートのコンシェルジュ”に…・グループは、開発ベンダー・広告代理店ともアライアンスを締結している。開発に特化したR6B、ワイヤードビーンズ、広告代理店のSpeeeと組んでおり、既…日本ネット経済新聞経済総合6/5(金) 11:00",
+      "link": "https://news.yahoo.co.jp/articles/2770edbb541988d4fffc863b43cc0771b212159f",
+      "summary": "・ルビー・グループが下期事業戦略を発表し国内主要ECカート・決済代行との連携を推進する方針を示した\n・\"ECカートのコンシェルジュ\"を掲げEC事業者への包括的な支援体制の構築を目指す\n・開発ベンダーのR6Bやワイヤードビーンズ、広告代理店Speeeとアライアンスを締結済み",
+      "score": 3,
+      "reason": "EC事業者向けプレスリリースで運用実務と遠い",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Google News",
+      "title": "金沢の広告代理店が自己破産手続きへ・差別化と業容拡大進まず（MRO北陸放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44emhSNEJmVWJxckNfQ04yTXBwLXVNMnYtclhXVGpBYkt5amVpY2FYdkF6QVZ3cXBpMmdxQXViNlpuQUxYMFItNU9TTFJHYzZPQ0dpTnNJWjhDTjlrZ09QZGlsc0VOako5WHhxMVhvQ2tZQ0p5UWdDY1NXdmxrRFE?oc=5",
+      "summary": "・金沢市の広告代理店が自己破産の手続きに入ることが明らかになった\n・他社との差別化が図れず業容拡大も進まなかったことが要因とされる\n・地方広告代理店の経営環境の厳しさを示す事例としてMRO北陸放送が報道",
+      "score": 2,
+      "reason": "地方代理店の倒産ニュースで実務影響なし",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Google News",
+      "title": "金沢の広告代理業セ・ビアン事業停止 - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPX3dwM2ppUkU2bEdrdHZmajlja2ZYRWtoQ2Z1dUh0NU54NFpBeEhqTmVwNW44M1dJZ0V3RTJJVE1xQUhUeE1teUl2SQ?oc=5",
+      "summary": "・金沢市の広告代理業セ・ビアンが事業停止したことが報じられた\n・同社は地域密着型の広告代理店として金沢で事業を展開していた\n・事業停止の詳細な経緯や負債額などは現時点で明らかにされていない",
+      "score": 2,
+      "reason": "id2と同件の倒産報道で実務影響なし",
+      "date": "2026-06-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "たとえば、逆から考えてみる──「いいところ」を言語化する5つの方法【毎日書評】…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合6/5(金) 8:21",
+      "link": "https://news.yahoo.co.jp/articles/2f68b8759b4aca3780556cf75fe7bed87ff84c81",
+      "summary": "・印南敦史氏の書評で「いいところ」を言語化する5つの方法を紹介している\n・逆の視点から考えるアプローチなど具体的な言語化テクニックが提案されている\n・広告代理店出身の書評家がライフハッカーで実践的な文章術を解説している",
+      "score": 1,
+      "reason": "書評記事で広告運用と無関係",
+      "date": "2026-06-05"
     }
   ]
 }
