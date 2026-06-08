@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://anagrams.jp/blog/hand-shots-in-ads/": "2026-05-08",
-    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-hakusho-2026-zero-click": "2026-05-08",
-    "https://oneder.hakuhodody-one.co.jp/blog/google-back-button-hijacking-spam-policy-update": "2026-05-08",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2h5Q2ZlTmgtT3ZZWDluUjFBbXVKcGhWMVFhWUpnY0MxUU5sME1CWkFZcVJiRGxJMG5EZ0cyS3ZSS3lSajlTQmJfbDFEZmZSMkpjZjBZY0J6Q1hDNGdkOEptV1A1TUNqYmZLQWdwN0k1UXVXaHhObkdHSF92cXlFbzlEZ1Myalo1?oc=5": "2026-05-08",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ucEN4Q0VzS0trSnlaYk8tdlg3LUxwcGllMkRZVlA3a2NRNXBXMTk3RV93ZzRNd1RORGZXcWJFR1IyeThSeUdOUE9Ob05LNkhlcmQwcGZ3?oc=5": "2026-05-08",
-    "https://news.yahoo.co.jp/articles/81850323ccdff4fafba9a39c746796440fc685be": "2026-05-08",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBobmJ5b015N1hReThmc0lOTWljcGZtcHdCMk9pLU9sZkpGODYyaUQtbkJJVjlDakFLejNqR25HRU8wSnJ5VnJBYjFyRmV6dldaS083OTVOc1h1dUlVeHg2dGdJTmEzdw?oc=5": "2026-05-08",
-    "https://news.yahoo.co.jp/articles/26ba4f6226c1e160a8d3691245787eab709a66f1": "2026-05-08",
-    "https://news.yahoo.co.jp/articles/f987eabc4a148156dab4cae8fa2edc57107228da": "2026-05-08",
-    "https://news.yahoo.co.jp/articles/6f45e968607a94b6d1f4cb109058d5e123173793": "2026-05-08",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0JJcGgtaXNMSkRIVFlzbFRiaW15V1ZlRjN6MkRHNVkxWmZPcWM2TThjdTdEWHZSUk1yejZNU01fSkFrX1paRnVLN0J5dEpUZ2VaaXItNkV5UXVnaE5HcjlZN0F6MFc3c01Mbjh1emZHdFFyNWhRMzZmemxweDMzcFhoRXVUVThfbzJOSmxqamxaQnViRUFJQVg4bWRNcVdrNFV4YQ?oc=5": "2026-05-09",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rRE5RNHVMeXlaRkp0SktvNXo2OGtYQjZqdlpUQUxtYWhuTzY2dmtNS0tkaV9oUnFwX1FFcG05d1NrdVdWbldSMnBvZnBaTXJVTE1LNE9PUHFrQQ?oc=5": "2026-05-09",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yUERRc0tLaDlmTkxYYjV6VllObnVZaGtBemRwM3gzRWJXcXlua0JWc1hXalVqd3B0X0o4VDVTUHhFZV9TLXc?oc=5": "2026-05-09",
@@ -291,49 +281,16 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5USGlLR0wxQVpkc1ZaZXNtWG1UVlhObEJRa2N4dEtaZzluOUZDbGQzNm1FY1ZfU19EOVZSWlA5eTBrSld3LUU5QWp3cnJ5STZMd2c?oc=5": "2026-06-07",
     "https://news.yahoo.co.jp/articles/aca64519675ca7493c96c4fd80dc1b8c6773392c": "2026-06-07",
     "https://news.yahoo.co.jp/articles/ecf6a9ce0423530575c4f91c043044df60af17a8": "2026-06-07",
-    "https://news.yahoo.co.jp/articles/4ea741d08be3bf80dadc67a0ef47ac5a2db84dd0": "2026-06-07"
+    "https://news.yahoo.co.jp/articles/4ea741d08be3bf80dadc67a0ef47ac5a2db84dd0": "2026-06-07",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Snc0SzZSX2hpUXRISUF5Y1p2R1RfNEZOQ0tfQVFNc1FxVTR2SFpqZVc2MkxUVmpvV2dkdExibEpzQnhMTzRvdFJwZWZsc1dXUlQzWDJoNzNmbWQ0aElRa2ZQMEpCaVFQSFoteQ?oc=5": "2026-06-08",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WkdMejIwZXBwVTh1MlE2aDhMOUhUVjlxb196TFJrNE5PRDFMNTExT2ptQmFIcDVsSGRMQ0hIc241YWN1QndJZFVpejE1NmtLV1FGNVAza09XOTlwaW1yUmdDSnItd2pscVB5bFNjUHVBeUpqSUowLVRMaF8ySDg?oc=5": "2026-06-08",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNktCOTVPdTVlVWlOSGxXVzUyZHU0TXhGS2NsUlpIaW1ZRjR4ekp2Rjc2Z2hfMXNUbWxoSVh5cTl1Q0czU2FvbGZncTBNdUt4cURVN2dNSUtCdTJWMFAtM1hYUGd2MHFDdU9iSER2VG1fNGc4UHZ0cWhzSDhFQQ?oc=5": "2026-06-08",
+    "https://news.yahoo.co.jp/articles/daa8bdd3de5a2ef7db583a22296afc97c51c7740": "2026-06-08",
+    "https://news.yahoo.co.jp/articles/02c8cf8786098e6517df8e92781ae21e1ae14afa": "2026-06-08",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0UERmb1luTzJPbWFrYTJlY1ZOMEowLWxHcjhjUlV3SHhZck5NTW5KQUNnbVFNc3VNSFpzVDEyV0syV3BxWUZaT3BUa3hKNXZYZ2VVTjliQXpCTUdublhrTzA0MG5UQmc4dkdkb3pTdnluaXVWaVEyVmlvOA?oc=5": "2026-06-08",
+    "https://news.yahoo.co.jp/articles/89240c832945ffb65428572275ecaa1ca764a6f9": "2026-06-08"
   },
   "titles": [
-    {
-      "title": "美容部員歴20年のプロに教わった、「手」で商品価値を高める4つの方法",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "「検索」の4人に1人がサイトを訪れない？ 2026年版AI検索白書が示す「ゼロクリック」の実態",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "Google 、「戻るボタンのハイジャック」をスパムポリシー違反に追加",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "リードの拡張コンバージョンで実現する、学習データの充実化と質の高いリード獲得の最適化 - Google Business Profile",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "Meta、2026年第１四半期決算：広告33％成長の裏で進むAI活用、コマース機能の一体化が進展 - コマースピック",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "コンビニアプリは「割引ツール」にとどまらない存在になれるのか？ セブン‐イレブンとコミックシーモアの連携施策に見るアプリ戦略…時期に、自宅でのリラックスタイムに最適な「マンガ」を結びつける。 ■デジタル広告の限界をリアルで突破、プラットフォームが求める物理接点 一方、コミッ…オリコンライフ総合5/8(金) 9:10",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "広告・コンサルに忍び寄る総合商社 伊藤忠、三井、住商がマーケ支援本腰 - 日経クロストレンド",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "セント・フォースが新事業「アナウンサーが企業の広報・IRを支援」 中田有紀ら10人が参画、定例会議にも出席へ…用権、各種業務に使えるポイントが含まれている。また、全国展開を見据えた広告代理店や地方パートナーの募集も同時に開始しており、地域ネットワークを生かした…ENCOUNTエンタメ総合5/8(金) 13:00",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "Gemini搭載で月額1500円のパーソナルAI健康アドバイザー「Google Health コーチ」発表 FitbitやPixel Watchで個々人に最適なインサイトを提供 また、プライバシーについては、ユーザーの健康データやウェルネスに関するデータをGoogle広告に使用することは一切ないとのことだ。ITmedia PC USERIT総合5/7(木) 23:05",
-      "date": "2026-05-08"
-    },
-    {
-      "title": "【ペットボトルの消費者トラブル】「柔軟成分入り洗濯用合成洗剤を誤飲」化学性肺炎で長期療養が必要になったケースも！意外に多い飲料用ペットボトルへの移し替え問題…被害・トラブル額として推計されている現在、消費者庁は誇大広告や偽表示を行う通販業者への行政処分、SNS広告による詐欺的副業の注意喚起など、迅速な対応を取っています。LIMOライフ総合5/6(水) 11:25",
-      "date": "2026-05-08"
-    },
     {
       "title": "2026 年、​リビングで​存在感を​強める​ YouTube —— クリエイター、​コマース、​AI が​拓く​ 3 つの​好機 - Google Business Profile",
       "date": "2026-05-09"
@@ -1465,99 +1422,37 @@
     {
       "title": "【毎日書評】世界のビジネスエリートが歴史から学ぶこと。「人文知」が正解のない時代の答えになる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合6/6(土) 21:51",
       "date": "2026-06-07"
+    },
+    {
+      "title": "Meta日本法人幹部、AIで広告内製化進むも「ハイブリッドが主流に」 - 日本経済新聞",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "GoogleがGeminiの活用で不正広告の99%以上を配信開始前に特定、83億件をブロック（Web担当者Forum） - Yahoo!ニュース",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "北海道新聞社、北海道特化型デジタル広告サービス「道新DSP Powered by UNIVERSE」を提供開始 - zakⅡ",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "あなたの「個人情報」は守られてる？“これくらい大丈夫\"は危険…身近に潜むリスクと注意すべきポイントを解説…けるプライバシー保護」で、期間中は駅や空港、商業施設などでポスターやデジタル広告を活用した広報活動がおこなわれる予定です。最後に金澤さんは、「個人情報…TOKYO FM＋ライフ総合6/7(日) 19:50",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "「男子ゴルフは宝の山！」——ポテンシャルを活かせていなかった男子ツアー、投資ファンド主導で株式会社化へ 収益源については、従来型のスポンサーに加えて、放映・配信、ツアー横断スポンサー、デジタル広告、イベント、ホスピタリティ、ライセンス、海外配信などを多層的に組み合わ…東洋経済オンライン経済総合6/7(日) 12:00",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "上智大卒・広告代理店勤務のエリート男子が芸人に？驚きの転身理由と秘密兵器：家、ついて行ってイイですか？の画像 - tv-tokyo.co.jp",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "【毎日書評】他者への批判は自分に返ってくる…「がんばっても報われない」を抜け出すヒント…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス6/8(月) 8:21",
+      "date": "2026-06-08"
     }
   ],
   "articles": [
-    {
-      "source": "アナグラム",
-      "title": "美容部員歴20年のプロに教わった、「手」で商品価値を高める4つの方法",
-      "link": "https://anagrams.jp/blog/hand-shots-in-ads/",
-      "summary": "・美容部員歴20年のプロが教える広告動画の手元カット撮影テクニックを紹介\n・商品名を隠さないだけでなく手の動きや見せ方で商品価値を高める4つの方法を解説\n・アナグラム株式会社が発信する広告クリエイティブの質を上げる実践的なノウハウ記事",
-      "score": 7,
-      "reason": "動画広告クリエイティブの実践的な撮影テクニック解説",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "「検索」の4人に1人がサイトを訪れない？ 2026年版AI検索白書が示す「ゼロクリック」の実態",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-hakusho-2026-zero-click",
-      "summary": "・Hakuhodo DY ONE次世代検索研究所が「AI検索白書2026」を発行しAI検索の現状と展望を解説\n・検索ユーザーの約4人に1人がサイトを訪問しない「ゼロクリック」の実態が明らかに\n・生活者の検索行動やツール・広告の変化をテーマに村上祐氏と増本美加氏が講演した",
-      "score": 6,
-      "reason": "AI検索とゼロクリック動向は検索広告戦略に影響",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "Google 、「戻るボタンのハイジャック」をスパムポリシー違反に追加",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-back-button-hijacking-spam-policy-update",
-      "summary": "・Googleが「戻るボタンのハイジャック」を新たにスパムポリシー違反として追加した\n・戻るボタン押下時に直前ページへ戻さず広告や別ページへ強制遷移させる手法が対象\n・ブラウザ履歴や戻る操作を妨げユーザーを意図しないページへ誘導する行為が禁止に",
-      "score": 4,
-      "reason": "SEO寄りのスパムポリシー更新で広告運用への直接影響は薄い",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Google News",
-      "title": "リードの拡張コンバージョンで実現する、学習データの充実化と質の高いリード獲得の最適化 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2h5Q2ZlTmgtT3ZZWDluUjFBbXVKcGhWMVFhWUpnY0MxUU5sME1CWkFZcVJiRGxJMG5EZ0cyS3ZSS3lSajlTQmJfbDFEZmZSMkpjZjBZY0J6Q1hDNGdkOEptV1A1TUNqYmZLQWdwN0k1UXVXaHhObkdHSF92cXlFbzlEZ1Myalo1?oc=5",
-      "summary": "・Google広告のリード拡張コンバージョン機能により機械学習用データの質と量を向上させる手法を紹介\n・ファーストパーティデータを活用しオフラインコンバージョンとの紐付け精度を高める仕組みを解説\n・質の高いリード獲得に向けた入札最適化の改善と広告パフォーマンス向上の実現方法を提示",
-      "score": 9,
-      "reason": "Google広告の拡張CV活用で実務に直結する重要情報",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta、2026年第１四半期決算：広告33％成長の裏で進むAI活用、コマース機能の一体化が進展 - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ucEN4Q0VzS0trSnlaYk8tdlg3LUxwcGllMkRZVlA3a2NRNXBXMTk3RV93ZzRNd1RORGZXcWJFR1IyeThSeUdOUE9Ob05LNkhlcmQwcGZ3?oc=5",
-      "summary": "・Metaの2026年Q1決算で広告収益が前年同期比33％増と大幅成長を記録した\n・AI技術の広告配信や効果最適化への活用が収益成長の主要な原動力となっている\n・ECやショッピング機能とSNS広告の一体化が進みコマース領域の強化が加速している",
-      "score": 7,
-      "reason": "Meta決算からAI活用・広告成長の動向を把握できる",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "コンビニアプリは「割引ツール」にとどまらない存在になれるのか？ セブン‐イレブンとコミックシーモアの連携施策に見るアプリ戦略…時期に、自宅でのリラックスタイムに最適な「マンガ」を結びつける。 ■デジタル広告の限界をリアルで突破、プラットフォームが求める物理接点 一方、コミッ…オリコンライフ総合5/8(金) 9:10",
-      "link": "https://news.yahoo.co.jp/articles/81850323ccdff4fafba9a39c746796440fc685be",
-      "summary": "・セブンアプリとコミックシーモアが連携しコンビニとマンガを結ぶ新たな販促施策を展開\n・デジタル広告の限界を補うためコンビニの物理接点を活用するプラットフォーム戦略を紹介\n・コンビニアプリを単なる割引ツールから生活提案型メディアへ進化させる可能性を考察",
-      "score": 5,
-      "reason": "アプリ×リアル連携の広告戦略事例として参考になる",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Google News",
-      "title": "広告・コンサルに忍び寄る総合商社 伊藤忠、三井、住商がマーケ支援本腰 - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBobmJ5b015N1hReThmc0lOTWljcGZtcHdCMk9pLU9sZkpGODYyaUQtbkJJVjlDakFLejNqR25HRU8wSnJ5VnJBYjFyRmV6dldaS083OTVOc1h1dUlVeHg2dGdJTmEzdw?oc=5",
-      "summary": "・伊藤忠・三井物産・住友商事がマーケティング支援事業に本格参入し広告・コンサル業界に進出している\n・総合商社が持つ幅広い事業基盤やデータ資産を活用し企業のマーケティング課題を総合的に支援する動きが加速\n・広告会社やコンサルティング企業の領域に商社が競合として忍び寄り業界の勢力図が変化する可能性がある",
-      "score": 5,
-      "reason": "商社のマーケ参入は業界動向として把握すべき",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "セント・フォースが新事業「アナウンサーが企業の広報・IRを支援」 中田有紀ら10人が参画、定例会議にも出席へ…用権、各種業務に使えるポイントが含まれている。また、全国展開を見据えた広告代理店や地方パートナーの募集も同時に開始しており、地域ネットワークを生かした…ENCOUNTエンタメ総合5/8(金) 13:00",
-      "link": "https://news.yahoo.co.jp/articles/26ba4f6226c1e160a8d3691245787eab709a66f1",
-      "summary": "・セント・フォースがアナウンサーによる企業の広報・IR支援という新事業を開始した\n・中田有紀ら10名のアナウンサーが参画し定例会議出席など実務レベルで企業を支援する\n・ポイント制の料金体系を採用し広告代理店や地方パートナーの募集で全国展開を目指す",
-      "score": 3,
-      "reason": "企業の新事業プレスリリースで運用実務と無関係",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "Gemini搭載で月額1500円のパーソナルAI健康アドバイザー「Google Health コーチ」発表 FitbitやPixel Watchで個々人に最適なインサイトを提供 また、プライバシーについては、ユーザーの健康データやウェルネスに関するデータをGoogle広告に使用することは一切ないとのことだ。ITmedia PC USERIT総合5/7(木) 23:05",
-      "link": "https://news.yahoo.co.jp/articles/f987eabc4a148156dab4cae8fa2edc57107228da",
-      "summary": "・GoogleがGemini搭載のAI健康アドバイザー「Google Health コーチ」を月額1500円で提供開始と発表\n・FitbitやPixel Watchと連携し個々人に最適化された健康インサイトをリアルタイムで提供する\n・ユーザーの健康・ウェルネスデータをGoogle広告に使用しないとプライバシー方針を明言した",
-      "score": 2,
-      "reason": "Google健康サービスの発表で広告運用との関連薄い",
-      "date": "2026-05-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【ペットボトルの消費者トラブル】「柔軟成分入り洗濯用合成洗剤を誤飲」化学性肺炎で長期療養が必要になったケースも！意外に多い飲料用ペットボトルへの移し替え問題…被害・トラブル額として推計されている現在、消費者庁は誇大広告や偽表示を行う通販業者への行政処分、SNS広告による詐欺的副業の注意喚起など、迅速な対応を取っています。LIMOライフ総合5/6(水) 11:25",
-      "link": "https://news.yahoo.co.jp/articles/6f45e968607a94b6d1f4cb109058d5e123173793",
-      "summary": "・柔軟成分入り洗濯用洗剤をペットボトルに移し替え誤飲し化学性肺炎で長期療養となった事例が報告されている\n・飲料用ペットボトルへの洗剤等の移し替えによる誤飲トラブルが意外に多く被害額も推計されている\n・消費者庁は誇大広告や偽表示への行政処分やSNS詐欺的副業への注意喚起など迅速な対応を実施中",
-      "score": 1,
-      "reason": "消費者安全の話題で広告運用とほぼ無関係",
-      "date": "2026-05-08"
-    },
     {
       "source": "Google News",
       "title": "2026 年、​リビングで​存在感を​強める​ YouTube —— クリエイター、​コマース、​AI が​拓く​ 3 つの​好機 - Google Business Profile",
@@ -4104,6 +3999,69 @@
       "score": 1,
       "reason": "書評記事で広告運用と無関係",
       "date": "2026-06-07"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta日本法人幹部、AIで広告内製化進むも「ハイブリッドが主流に」 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Snc0SzZSX2hpUXRISUF5Y1p2R1RfNEZOQ0tfQVFNc1FxVTR2SFpqZVc2MkxUVmpvV2dkdExibEpzQnhMTzRvdFJwZWZsc1dXUlQzWDJoNzNmbWQ0aElRa2ZQMEpCaVFQSFoteQ?oc=5",
+      "summary": "・Meta日本法人幹部がAI活用による広告クリエイティブの内製化が進展していると言及\n・完全内製化ではなく代理店との協業を含むハイブリッド型が主流になると予測\n・AI技術の進化により広告主と代理店の役割分担が今後大きく変化する見通し",
+      "score": 7,
+      "reason": "Meta幹部のAI広告内製化見解、運用体制に示唆",
+      "date": "2026-06-08"
+    },
+    {
+      "source": "Google News",
+      "title": "GoogleがGeminiの活用で不正広告の99%以上を配信開始前に特定、83億件をブロック（Web担当者Forum） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WkdMejIwZXBwVTh1MlE2aDhMOUhUVjlxb196TFJrNE5PRDFMNTExT2ptQmFIcDVsSGRMQ0hIc241YWN1QndJZFVpejE1NmtLV1FGNVAza09XOTlwaW1yUmdDSnItd2pscVB5bFNjUHVBeUpqSUowLVRMaF8ySDg?oc=5",
+      "summary": "・GoogleはAI「Gemini」を活用し不正広告の99%以上を配信前に検出・排除する体制を構築した\n・2024年に約83億件の不正広告をブロックし広告プラットフォームの安全性向上に貢献している\n・AI技術の進化により不正広告の事前検知精度が飛躍的に向上し広告主・ユーザー双方を保護している",
+      "score": 6,
+      "reason": "Google広告の不正検知にGemini活用、業界動向として有用",
+      "date": "2026-06-08"
+    },
+    {
+      "source": "Google News",
+      "title": "北海道新聞社、北海道特化型デジタル広告サービス「道新DSP Powered by UNIVERSE」を提供開始 - zakⅡ",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNktCOTVPdTVlVWlOSGxXVzUyZHU0TXhGS2NsUlpIaW1ZRjR4ekp2Rjc2Z2hfMXNUbWxoSVh5cTl1Q0czU2FvbGZncTBNdUt4cURVN2dNSUtCdTJWMFAtM1hYUGd2MHFDdU9iSER2VG1fNGc4UHZ0cWhzSDhFQQ?oc=5",
+      "summary": "・北海道新聞社が北海道エリアに特化したデジタル広告サービスの提供を新たに開始した\n・サービス名は「道新DSP Powered by UNIVERSE」でDSP基盤を活用した配信が可能\n・地域メディアの知見とアドテクを融合し北海道向け広告配信の精度向上を目指す",
+      "score": 4,
+      "reason": "地域特化DSPの新サービス発表、限定的な影響",
+      "date": "2026-06-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "あなたの「個人情報」は守られてる？“これくらい大丈夫\"は危険…身近に潜むリスクと注意すべきポイントを解説…けるプライバシー保護」で、期間中は駅や空港、商業施設などでポスターやデジタル広告を活用した広報活動がおこなわれる予定です。最後に金澤さんは、「個人情報…TOKYO FM＋ライフ総合6/7(日) 19:50",
+      "link": "https://news.yahoo.co.jp/articles/daa8bdd3de5a2ef7db583a22296afc97c51c7740",
+      "summary": "・個人情報保護の重要性を解説し「これくらい大丈夫」という油断が危険であると警鐘を鳴らす記事\n・プライバシー保護の啓発期間中に駅・空港・商業施設でポスターやデジタル広告による広報活動を展開予定\n・TOKYO FM発の情報で身近に潜む個人情報リスクと日常生活で注意すべきポイントを具体的に紹介",
+      "score": 2,
+      "reason": "個人情報保護の一般啓発記事、運用実務と無関係",
+      "date": "2026-06-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「男子ゴルフは宝の山！」——ポテンシャルを活かせていなかった男子ツアー、投資ファンド主導で株式会社化へ 収益源については、従来型のスポンサーに加えて、放映・配信、ツアー横断スポンサー、デジタル広告、イベント、ホスピタリティ、ライセンス、海外配信などを多層的に組み合わ…東洋経済オンライン経済総合6/7(日) 12:00",
+      "link": "https://news.yahoo.co.jp/articles/02c8cf8786098e6517df8e92781ae21e1ae14afa",
+      "summary": "・日本男子ゴルフツアーが投資ファンド主導で株式会社化し、組織改革に本格着手する方針が明らかになった\n・放映権・デジタル広告・ホスピタリティなど多層的な収益モデルを構築し、未活用だった商業価値の最大化を目指す\n・従来のスポンサー依存から脱却し、海外配信やライセンス事業など新たな収益源の開拓を進める計画である",
+      "score": 2,
+      "reason": "男子ゴルフ事業の収益戦略、広告運用と無関係",
+      "date": "2026-06-08"
+    },
+    {
+      "source": "Google News",
+      "title": "上智大卒・広告代理店勤務のエリート男子が芸人に？驚きの転身理由と秘密兵器：家、ついて行ってイイですか？の画像 - tv-tokyo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0UERmb1luTzJPbWFrYTJlY1ZOMEowLWxHcjhjUlV3SHhZck5NTW5KQUNnbVFNc3VNSFpzVDEyV0syV3BxWUZaT3BUa3hKNXZYZ2VVTjliQXpCTUdublhrTzA0MG5UQmc4dkdkb3pTdnluaXVWaVEyVmlvOA?oc=5",
+      "summary": "・上智大学卒業後に広告代理店へ就職したエリート男性が芸人へ転身した経緯を紹介\n・テレビ東京「家、ついて行ってイイですか？」で驚きの転身理由と秘密兵器が明かされた\n・広告業界の経験を持つ異色の経歴が注目され番組内で密着取材が行われた",
+      "score": 1,
+      "reason": "TV番組の紹介記事、広告運用と完全に無関係",
+      "date": "2026-06-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【毎日書評】他者への批判は自分に返ってくる…「がんばっても報われない」を抜け出すヒント…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス6/8(月) 8:21",
+      "link": "https://news.yahoo.co.jp/articles/89240c832945ffb65428572275ecaa1ca764a6f9",
+      "summary": "・書評家・印南敦史氏が「努力が報われない」状況を打破するヒントを紹介する書籍を解説\n・他者への批判は自分自身に跳ね返るという心理的メカニズムに着目し意識改革を促す内容\n・記事本文が未提供のため詳細な要約は困難であり、全文の共有をお願いいたします",
+      "score": 1,
+      "reason": "書評・自己啓発記事、広告運用と完全に無関係",
+      "date": "2026-06-08"
     }
   ]
 }
