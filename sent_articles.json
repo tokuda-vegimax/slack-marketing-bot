@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0JJcGgtaXNMSkRIVFlzbFRiaW15V1ZlRjN6MkRHNVkxWmZPcWM2TThjdTdEWHZSUk1yejZNU01fSkFrX1paRnVLN0J5dEpUZ2VaaXItNkV5UXVnaE5HcjlZN0F6MFc3c01Mbjh1emZHdFFyNWhRMzZmemxweDMzcFhoRXVUVThfbzJOSmxqamxaQnViRUFJQVg4bWRNcVdrNFV4YQ?oc=5": "2026-05-09",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rRE5RNHVMeXlaRkp0SktvNXo2OGtYQjZqdlpUQUxtYWhuTzY2dmtNS0tkaV9oUnFwX1FFcG05d1NrdVdWbldSMnBvZnBaTXJVTE1LNE9PUHFrQQ?oc=5": "2026-05-09",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yUERRc0tLaDlmTkxYYjV6VllObnVZaGtBemRwM3gzRWJXcXlua0JWc1hXalVqd3B0X0o4VDVTUHhFZV9TLXc?oc=5": "2026-05-09",
-    "https://news.yahoo.co.jp/articles/95543f40b67e7ff2c7bc4529dbc4b410c4fa0cc2": "2026-05-09",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcDZWNUtZNDRxOERQNmZnVHlhOUJXaks1R2UtYWZxNDFCYXdjdnFJT2RpcGxLQS1yWWIxaDZpeVlsam1PUHZrZlVlRTJwZ1NUTU9oMXhsY1RxUGNCM1lSVnFpUUQ2MWJOVmMtbFJLMmRfZU1NdWVsNExkMUpsQQ?oc=5": "2026-05-09",
-    "https://news.yahoo.co.jp/articles/30a102d5b23b57911ba8a682ab95c02363e90ca8": "2026-05-09",
-    "https://news.yahoo.co.jp/articles/29d953f6cb380ed2c24e7a066c3cdd55971452f9": "2026-05-09",
-    "https://news.yahoo.co.jp/articles/25fbdb557b2d6e68ede3a10826929e17c58b9ac3": "2026-05-09",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmQwdVhkNzZBZEp0WGxZaEFMaUhhcXZTWHBudlBXaTJVSUItNnhoRFJ2UnJRWi1DYnpmWGdGTU5SZUFxaVhTQ3k1OU96ZmIxckZyWTJucm0zSDRmekVYQzFmS3laQXZYNjRQcS1qWXd3Z3NMQ2lZNzY0TF9PQThPSWcxMjAzNDdiNTVyVW9ZWVB1Z0VO?oc=5": "2026-05-10",
     "https://news.yahoo.co.jp/articles/3b881027ed0d3db6f39b739ffa942dedcd9eb253": "2026-05-10",
     "https://news.yahoo.co.jp/articles/4ff0f158858e974af54e7a56bd9cacb4e75fa1e9": "2026-05-10",
@@ -288,41 +280,19 @@
     "https://news.yahoo.co.jp/articles/daa8bdd3de5a2ef7db583a22296afc97c51c7740": "2026-06-08",
     "https://news.yahoo.co.jp/articles/02c8cf8786098e6517df8e92781ae21e1ae14afa": "2026-06-08",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0UERmb1luTzJPbWFrYTJlY1ZOMEowLWxHcjhjUlV3SHhZck5NTW5KQUNnbVFNc3VNSFpzVDEyV0syV3BxWUZaT3BUa3hKNXZYZ2VVTjliQXpCTUdublhrTzA0MG5UQmc4dkdkb3pTdnluaXVWaVEyVmlvOA?oc=5": "2026-06-08",
-    "https://news.yahoo.co.jp/articles/89240c832945ffb65428572275ecaa1ca764a6f9": "2026-06-08"
+    "https://news.yahoo.co.jp/articles/89240c832945ffb65428572275ecaa1ca764a6f9": "2026-06-08",
+    "https://anagrams.jp/blog/emotion-empathy-banner-tips/": "2026-06-09",
+    "https://oneder.hakuhodody-one.co.jp/blog/data-collaboration-next-marketing": "2026-06-09",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5": "2026-06-09",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-06-09",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q1VZZFc4RXl5Y3VpbnlkcUpwVTlib3VoVjRKUzgyLTRNeFFTSUZFUUY4WkxJUWVmRVFnOG5aaDZPU2FFajJOelBNNlhPeEdqZzhycE9pZklJMFUwRERQekhoek9pdldNMk55anlYUGstX1ZzZWhSNXlzelhjT2c?oc=5": "2026-06-09",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzcUFZNkl0UTA4emxJal81X0VEOWxaRDNzcFh6Y2U3cGRJcVNwQzhzT1FlZW9FelVaMVdxN3RHVi1hczhWVG5zVUVzeFYyYk02OF9Uam9vT05sMXpFNEVIM1ZGNWtPVkdSTlRGMG10djRpTmZXN3E1X3Zn?oc=5": "2026-06-09",
+    "https://news.google.com/rss/articles/CBMi1wRBVV95cUxPOERrOGpnQW9SQW9qVGtLT2pSX1ZxOVZ3eER0TW1QY2ZaV2tBZ29IaUxpNWc2TjFSUW12eUdqOXZJRlltUndKVFg4cEN6Z244d3JJRDhsczVkZnplOENoZWN0cXRNTl9mY1pQaE1CQ05vSWNkNTA5bXdCYWlJSFhNSEw5TGE2Y3lkbHd0MW53dnZlSzB1SGx0b1ZieGFIRVdSNGFBX1h2VkI2Yms0M1VDY0Nsc2FSczBRa1BxY1Z2ZEQ1RTBWX2hLNHUzd09RakNCQ1NVRjBHM204T1ZqMDNSdHJLVldsU2J1Zk1VdFY1dV9laVQxNDlwT0JuWno2UDdxb085T01vWGNzRGhmdWJfTHZRV21COTU2RUhyVzZnTkhOZVBQV2d2blUtaU01ZlpMcHF6VzRJZHlRbVRMVFZyYzZCWVpwOHk3Wm8zREpDX29fT01UX3phV3pfRGFPTkdPSVNVZjJRdXVoeEpFdmxaa2VXRjZaSlg2elpRM1h6QmZHeTBoaGhpMUV6ZTBfODZOZ1dKY3RrNHNOTng2VV8yNkFha1RVNUJfZG94MTV0UUlTMS1RbDZKYy11UWVDX3Z4Q2hid2RjdjZwLVlXX0lIVDFobDNVTXZJTmF4RjNvYUs3V1JoVGt0N0RBRFoySDNwZmtHdy12V0pnSnVHQ1JjSDNnZFNZM0p1eXpvV3V0N2dpM1NvMzI5cHYyRTBldkxZUkozcXZwdEE5Q3FTR1lRLTdsZXpieU1KMzNJRi1lOTBZV0JWOWJZT3FOOHBXM0gzdm5fNVJVQQ?oc=5": "2026-06-09",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMER2SjdHd1BaRGJITUw4cnN6NW5SRWFkd3NMUDJIeWkwcHlma3lLcUZ4X0JwUnpmOTJEa2RDMHptVW1vRGxXcEtOYV9YNW5FUFM5T2ZydldUUUlXeUpVdkxNU2o2bTdjM2ZUeTJZd093U2o2RWUtMUZVR09CQjZjbThtcWExSklQWExTZ0cwOTJja0F2b2fSAZYBQVVfeXFMTjBEdko3R3dQWkRiSE1MOHJzejVuUkVhZHdzTFAySHlpMHB5Zmt5S3FGeF9CcFJ6ZjkyRGtkQzB6bVVtb0RsV3BLTmFfWDVuRVBTOU9mcnZXVFFJV3lKVXZMTVNqNm03YzNmVHkyWXdPd1NqNkVlLTFGVUdPQkI2Y204bXFhMUpJUFhMU2dHMDkyY2tBdm9n?oc=5": "2026-06-09",
+    "https://news.yahoo.co.jp/articles/3b5f3c3fde7cf9c987f307f1dc11fdc0f6983a63": "2026-06-09",
+    "https://news.yahoo.co.jp/articles/3911bce87ea4defb783f2f8d85d990c2aa2bcf59": "2026-06-09"
   },
   "titles": [
-    {
-      "title": "2026 年、​リビングで​存在感を​強める​ YouTube —— クリエイター、​コマース、​AI が​拓く​ 3 つの​好機 - Google Business Profile",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "REGAL CORE、「薬機法」「景品表示法」違反になり得る広告配信を調査 - ECのミカタ",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "合同会社SIN JAPAN ／合同会社SIN JAPAN、TikTok ONE広告代理店に新機能を追加 - pr-free.jp",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "Fitbitアプリは「Google Health」に Googlがフィットネスアプリ統合 既存ユーザーも順次移行…いてGoogleは、Fitbitユーザーの健康・ウェルネスデータをGoogle広告に使用しないという従来の約束を継続すると明言。ユーザーはいつでもデー…ITmedia NEWSIT総合5/8(金) 18:09",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "ネーミングライツ・パートナーの紹介を行う広告代理店の募集について - pref.ibaraki.jp",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "アニメーターってどれくらい稼いでるの？給料のリアルをやさしく解説…作委員会方式」と呼ばれる仕組みで作られています。これは出版社・放送局・広告代理店・グッズメーカーなど複数の企業が出資して制作費を分担し、利益も出資比率…ファイナンシャルフィールド経済総合5/9(土) 12:40",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "レクサスを持っているのに...富裕層が「仕事中はあえて軽自動車か自転車」に乗る理由…みずえちゃん 1989年生まれ。新潟県長岡市出身。関西外国語大学卒業後、大阪市内の広告代理店に勤務しながら、大阪北新地でキャバ嬢デビュー。現在は銀座のクラブに勤め…マイナビニュースライフ総合5/9(土) 11:31",
-      "date": "2026-05-09"
-    },
-    {
-      "title": "「別の人格が精神病院への入院を承諾した」親に褒めてもらえなかった30代男性に自分を取り戻させた憲法第25条…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合5/9(土) 10:20",
-      "date": "2026-05-09"
-    },
     {
       "title": "「広報かいづか」広告代理店募集 - city.kaizuka.lg.jp",
       "date": "2026-05-10"
@@ -1450,81 +1420,49 @@
     {
       "title": "【毎日書評】他者への批判は自分に返ってくる…「がんばっても報われない」を抜け出すヒント…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス6/8(月) 8:21",
       "date": "2026-06-08"
+    },
+    {
+      "title": "悩みに寄り添う「感情代弁型」バナーで成果を出すコピーとデザインのコツ",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "企業間データコラボレーションが切り拓く、次世代マーケティングの可能性",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - News（ニュース） - dentsu.co.jp",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "【SNS広告・インフルエンサーマーケティングの実態】流入・獲得・継続を重視する設計へ、重点媒体はX中心からYouTube・TikTokへシフト（ネットショップ担当者フォーラム） - Yahoo!ニュース",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "ウルテク、無料ウェビナー【Google広告・Meta広告のBtoB広告運用を、AIを使ってもっとラクに】6月17日(水)12:00に開催 - イザ！",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "アルバータ州のiGaming産業の成長におけるデジタル広告の役割 - Yogonet",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "【広尾・赤坂・神楽坂】広告代理店流・会食に使える店3選｜トレンド感ある店選びで、相手の心を掴む - ｄメニューニュース",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "【毎日書評】説明上手になるレッスン「わかったつもり」から「実際にできる」自分へ…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合6/9(火) 8:21",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "役員運転手に向いていそうなお笑い芸人ランキング…3位飯尾和樹、2位カズレーザー、1位は？ 現役芸人ライターが各々に似合う車をガチ解説…タ「アルファード」やレクサス「LM」のような後席の快適性が高いクルマで広告代理店やクリエイティブ系企業の役員を、やわらかい空気で送迎する姿が目に浮かびます。carview！経済総合6/9(火) 8:04",
+      "date": "2026-06-09"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "2026 年、​リビングで​存在感を​強める​ YouTube —— クリエイター、​コマース、​AI が​拓く​ 3 つの​好機 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0JJcGgtaXNMSkRIVFlzbFRiaW15V1ZlRjN6MkRHNVkxWmZPcWM2TThjdTdEWHZSUk1yejZNU01fSkFrX1paRnVLN0J5dEpUZ2VaaXItNkV5UXVnaE5HcjlZN0F6MFc3c01Mbjh1emZHdFFyNWhRMzZmemxweDMzcFhoRXVUVThfbzJOSmxqamxaQnViRUFJQVg4bWRNcVdrNFV4YQ?oc=5",
-      "summary": "・YouTubeがCTV経由でリビングへの浸透を加速し2026年に大画面視聴の存在感を一段と高める見通し\n・クリエイター経済の拡大とショッピング機能強化で視聴から購買まで一気通貫のコマース体験を実現\n・AI活用による広告配信最適化とコンテンツ制作効率化が広告主に新たな成長機会を提供する",
-      "score": 7,
-      "reason": "YouTube広告の将来動向・コマース・AI活用で実務に示唆あり",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Google News",
-      "title": "REGAL CORE、「薬機法」「景品表示法」違反になり得る広告配信を調査 - ECのミカタ",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rRE5RNHVMeXlaRkp0SktvNXo2OGtYQjZqdlpUQUxtYWhuTzY2dmtNS0tkaV9oUnFwX1FFcG05d1NrdVdWbldSMnBvZnBaTXJVTE1LNE9PUHFrQQ?oc=5",
-      "summary": "・REGAL COREが薬機法・景品表示法に違反する可能性のある広告配信の実態調査を実施した\n・EC・通販業界で法令違反リスクのある広告表現が依然として多く存在する現状が背景にある\n・広告主やメディアに対し法令遵守の意識向上とリスク管理の重要性を改めて提起している",
-      "score": 6,
-      "reason": "薬機法・景表法の広告違反調査は運用担当者のリスク管理に有用",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Google News",
-      "title": "合同会社SIN JAPAN ／合同会社SIN JAPAN、TikTok ONE広告代理店に新機能を追加 - pr-free.jp",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yUERRc0tLaDlmTkxYYjV6VllObnVZaGtBemRwM3gzRWJXcXlua0JWc1hXalVqd3B0X0o4VDVTUHhFZV9TLXc?oc=5",
-      "summary": "・合同会社SIN JAPANがTikTok ONE広告代理店サービスに新機能を追加したと発表\n・TikTok広告運用の効率化や成果向上を目的とした機能拡充とみられる\n・プレスリリース配信サイトpr-free.jpを通じて本情報が公開された",
-      "score": 4,
-      "reason": "TikTok広告代理店向け新機能だが詳細不明でプレスリリース寄り",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "Fitbitアプリは「Google Health」に Googlがフィットネスアプリ統合 既存ユーザーも順次移行…いてGoogleは、Fitbitユーザーの健康・ウェルネスデータをGoogle広告に使用しないという従来の約束を継続すると明言。ユーザーはいつでもデー…ITmedia NEWSIT総合5/8(金) 18:09",
-      "link": "https://news.yahoo.co.jp/articles/95543f40b67e7ff2c7bc4529dbc4b410c4fa0cc2",
-      "summary": "・FitbitアプリがGoogle Healthに統合され既存ユーザーも順次移行対象となる\n・Googleは健康・ウェルネスデータを広告目的に使用しないという従来方針を継続と明言\n・フィットネス関連サービスをGoogle Healthブランドに一本化し機能統合を進める方針",
-      "score": 3,
-      "reason": "Fitbit統合ニュースで広告データ不使用の言及はあるが間接的",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Google News",
-      "title": "ネーミングライツ・パートナーの紹介を行う広告代理店の募集について - pref.ibaraki.jp",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcDZWNUtZNDRxOERQNmZnVHlhOUJXaks1R2UtYWZxNDFCYXdjdnFJT2RpcGxLQS1yWWIxaDZpeVlsam1PUHZrZlVlRTJwZ1NUTU9oMXhsY1RxUGNCM1lSVnFpUUQ2MWJOVmMtbFJLMmRfZU1NdWVsNExkMUpsQQ?oc=5",
-      "summary": "・茨城県がネーミングライツ・パートナーを紹介する広告代理店を公募している\n・県有施設等の命名権スポンサー獲得を代理店経由で推進する取り組みである\n・詳細な応募条件や対象施設は茨城県公式サイトにて公開されている",
-      "score": 2,
-      "reason": "自治体のネーミングライツ募集で運用型広告と無関係",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "アニメーターってどれくらい稼いでるの？給料のリアルをやさしく解説…作委員会方式」と呼ばれる仕組みで作られています。これは出版社・放送局・広告代理店・グッズメーカーなど複数の企業が出資して制作費を分担し、利益も出資比率…ファイナンシャルフィールド経済総合5/9(土) 12:40",
-      "link": "https://news.yahoo.co.jp/articles/30a102d5b23b57911ba8a682ab95c02363e90ca8",
-      "summary": "・アニメーターの給与実態をわかりやすく解説した記事で収入のリアルに迫る内容\n・アニメ制作は出版社・放送局・広告代理店等が出資する「製作委員会方式」が主流\n・複数企業が制作費を分担し利益も出資比率に応じて配分される仕組みを紹介",
-      "score": 1,
-      "reason": "アニメーター給料の話題で広告運用と無関係",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "レクサスを持っているのに...富裕層が「仕事中はあえて軽自動車か自転車」に乗る理由…みずえちゃん 1989年生まれ。新潟県長岡市出身。関西外国語大学卒業後、大阪市内の広告代理店に勤務しながら、大阪北新地でキャバ嬢デビュー。現在は銀座のクラブに勤め…マイナビニュースライフ総合5/9(土) 11:31",
-      "link": "https://news.yahoo.co.jp/articles/29d953f6cb380ed2c24e7a066c3cdd55971452f9",
-      "summary": "・富裕層が仕事中にあえて軽自動車や自転車を使い高級車を避ける理由を紹介する記事\n・銀座クラブ勤務の元キャバ嬢が富裕層顧客との交流から得た知見を語っている\n・顧客や取引先への配慮や謙虚な印象管理が富裕層の処世術として紹介されている",
-      "score": 1,
-      "reason": "富裕層ライフスタイル記事で広告運用と無関係",
-      "date": "2026-05-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「別の人格が精神病院への入院を承諾した」親に褒めてもらえなかった30代男性に自分を取り戻させた憲法第25条…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合5/9(土) 10:20",
-      "link": "https://news.yahoo.co.jp/articles/25fbdb557b2d6e68ede3a10826929e17c58b9ac3",
-      "summary": "・親に褒められず育った30代男性が解離し別人格が精神科入院を承諾した経緯を紹介\n・憲法第25条の生存権が男性の自己回復と社会復帰の支えとなった過程を描く\n・愛知県出身のノンフィクションライター兼デザイナーがプレジデントオンラインに寄稿",
-      "score": 1,
-      "reason": "人物ノンフィクション記事で広告運用と無関係",
-      "date": "2026-05-09"
-    },
     {
       "source": "Google News",
       "title": "「広報かいづか」広告代理店募集 - city.kaizuka.lg.jp",
@@ -4062,6 +4000,96 @@
       "score": 1,
       "reason": "書評・自己啓発記事、広告運用と完全に無関係",
       "date": "2026-06-08"
+    },
+    {
+      "source": "アナグラム",
+      "title": "悩みに寄り添う「感情代弁型」バナーで成果を出すコピーとデザインのコツ",
+      "link": "https://anagrams.jp/blog/emotion-empathy-banner-tips/",
+      "summary": "・ユーザーの悩みを代弁し共感から興味を引く「感情代弁型」バナー広告の手法を解説\n・商品機能の訴求ではなく「寝ても疲れが取れない」等の悩みコピーでクリックを促す\n・共感を起点にしたコピーライティングとデザイン設計の具体的なコツを紹介している",
+      "score": 8,
+      "reason": "バナー広告クリエイティブの実践的な制作手法解説",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "企業間データコラボレーションが切り拓く、次世代マーケティングの可能性",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/data-collaboration-next-marketing",
+      "summary": "・GDPR等の規制強化やブラウザのプライバシー技術進展により従来のアドテクによる顧客追跡が急速に困難化している\n・DMP・DSPを用いた横断的データ統合や精緻なターゲティング手法が大きな制約を受けマーケティングは転換期にある\n・企業のデータニーズはむしろ高まっており企業間データコラボレーションが次世代マーケティングの鍵として注目されている",
+      "score": 5,
+      "reason": "プライバシー規制下のデータ活用動向で業界知見寄り",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5",
+      "summary": "・Meta広告の優秀プランナーを表彰する「Planner of the Year」受賞者が一堂に集結した\n・受賞者たちがMeta広告の具体的な活用ノウハウや成功の秘訣についてインタビューで語った\n・MarkeZine全3回連載の第1回としてトップランナーの知見を体系的に紹介している",
+      "score": 8,
+      "reason": "Meta広告の実践ノウハウを受賞者から学べる良記事",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Google News",
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - News（ニュース） - dentsu.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
+      "summary": "・電通グループが2024年のインターネット広告媒体費の詳細分析を公開し構成比や成長領域を解説\n・動画広告やソーシャル広告が引き続き高成長を示しネット広告媒体費は前年比を大きく上回った\n・リテールメディアや運用型広告の拡大が市場全体の成長を牽引している構造が明らかに",
+      "score": 7,
+      "reason": "日本のネット広告費の詳細分析で市場動向把握に有用",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Google News",
+      "title": "【SNS広告・インフルエンサーマーケティングの実態】流入・獲得・継続を重視する設計へ、重点媒体はX中心からYouTube・TikTokへシフト（ネットショップ担当者フォーラム） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q1VZZFc4RXl5Y3VpbnlkcUpwVTlib3VoVjRKUzgyLTRNeFFTSUZFUUY4WkxJUWVmRVFnOG5aaDZPU2FFajJOelBNNlhPeEdqZzhycE9pZklJMFUwRERQekhoek9pdldNMk55anlYUGstX1ZzZWhSNXlzelhjT2c?oc=5",
+      "summary": "・SNS広告やインフルエンサー施策で流入・獲得・継続の成果重視型設計への転換が進んでいる\n・重点媒体がX（旧Twitter）中心からYouTubeやTikTokへと明確にシフトしている傾向が判明\n・ネットショップ運営者向け調査により、動画系プラットフォーム活用の優先度が高まっている",
+      "score": 6,
+      "reason": "SNS広告の媒体シフト動向で運用方針検討に有用",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Google News",
+      "title": "ウルテク、無料ウェビナー【Google広告・Meta広告のBtoB広告運用を、AIを使ってもっとラクに】6月17日(水)12:00に開催 - イザ！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzcUFZNkl0UTA4emxJal81X0VEOWxaRDNzcFh6Y2U3cGRJcVNwQzhzT1FlZW9FelVaMVdxN3RHVi1hczhWVG5zVUVzeFYyYk02OF9Uam9vT05sMXpFNEVIM1ZGNWtPVkdSTlRGMG10djRpTmZXN3E1X3Zn?oc=5",
+      "summary": "・ウルテクが6月17日(水)12時よりBtoB広告運用に関する無料ウェビナーを開催する\n・Google広告とMeta広告の運用をAI活用で効率化する手法がテーマとなっている\n・BtoB企業の広告担当者向けにAIを活用した運用負荷軽減のノウハウを提供する",
+      "score": 5,
+      "reason": "BtoB広告運用AI活用ウェビナー告知で参考程度",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Google News",
+      "title": "アルバータ州のiGaming産業の成長におけるデジタル広告の役割 - Yogonet",
+      "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxPOERrOGpnQW9SQW9qVGtLT2pSX1ZxOVZ3eER0TW1QY2ZaV2tBZ29IaUxpNWc2TjFSUW12eUdqOXZJRlltUndKVFg4cEN6Z244d3JJRDhsczVkZnplOENoZWN0cXRNTl9mY1pQaE1CQ05vSWNkNTA5bXdCYWlJSFhNSEw5TGE2Y3lkbHd0MW53dnZlSzB1SGx0b1ZieGFIRVdSNGFBX1h2VkI2Yms0M1VDY0Nsc2FSczBRa1BxY1Z2ZEQ1RTBWX2hLNHUzd09RakNCQ1NVRjBHM204T1ZqMDNSdHJLVldsU2J1Zk1VdFY1dV9laVQxNDlwT0JuWno2UDdxb085T01vWGNzRGhmdWJfTHZRV21COTU2RUhyVzZnTkhOZVBQV2d2blUtaU01ZlpMcHF6VzRJZHlRbVRMVFZyYzZCWVpwOHk3Wm8zREpDX29fT01UX3phV3pfRGFPTkdPSVNVZjJRdXVoeEpFdmxaa2VXRjZaSlg2elpRM1h6QmZHeTBoaGhpMUV6ZTBfODZOZ1dKY3RrNHNOTng2VV8yNkFha1RVNUJfZG94MTV0UUlTMS1RbDZKYy11UWVDX3Z4Q2hid2RjdjZwLVlXX0lIVDFobDNVTXZJTmF4RjNvYUs3V1JoVGt0N0RBRFoySDNwZmtHdy12V0pnSnVHQ1JjSDNnZFNZM0p1eXpvV3V0N2dpM1NvMzI5cHYyRTBldkxZUkozcXZwdEE5Q3FTR1lRLTdsZXpieU1KMzNJRi1lOTBZV0JWOWJZT3FOOHBXM0gzdm5fNVJVQQ?oc=5",
+      "summary": "・アルバータ州のiGaming市場が拡大しデジタル広告が成長の主要な推進力となっている\n・オンラインカジノやスポーツベッティング事業者がデジタル広告で顧客獲得を加速している\n・規制環境の整備とデジタルマーケティング戦略の進化が業界の発展を支えている",
+      "score": 2,
+      "reason": "海外iGaming業界の話題で日本の実務と無関係",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Google News",
+      "title": "【広尾・赤坂・神楽坂】広告代理店流・会食に使える店3選｜トレンド感ある店選びで、相手の心を掴む - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMER2SjdHd1BaRGJITUw4cnN6NW5SRWFkd3NMUDJIeWkwcHlma3lLcUZ4X0JwUnpmOTJEa2RDMHptVW1vRGxXcEtOYV9YNW5FUFM5T2ZydldUUUlXeUpVdkxNU2o2bTdjM2ZUeTJZd093U2o2RWUtMUZVR09CQjZjbThtcWExSklQWExTZ0cwOTJja0F2b2fSAZYBQVVfeXFMTjBEdko3R3dQWkRiSE1MOHJzejVuUkVhZHdzTFAySHlpMHB5Zmt5S3FGeF9CcFJ6ZjkyRGtkQzB6bVVtb0RsV3BLTmFfWDVuRVBTOU9mcnZXVFFJV3lKVXZMTVNqNm03YzNmVHkyWXdPd1NqNkVlLTFGVUdPQkI2Y204bXFhMUpJUFhMU2dHMDkyY2tBdm9n?oc=5",
+      "summary": "・広尾・赤坂・神楽坂エリアから広告代理店社員が会食に使える店3選を紹介\n・トレンド感のある店選びがビジネス会食で相手の心を掴む鍵と提案している\n・広告業界流の接待術として店舗選定のセンスが信頼構築に直結すると示唆",
+      "score": 1,
+      "reason": "飲食店紹介記事で広告運用と無関係",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【毎日書評】説明上手になるレッスン「わかったつもり」から「実際にできる」自分へ…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合6/9(火) 8:21",
+      "link": "https://news.yahoo.co.jp/articles/3b5f3c3fde7cf9c987f307f1dc11fdc0f6983a63",
+      "summary": "・印南敦史氏が「説明上手になる」ための実践的レッスン本を書評で紹介している\n・「わかったつもり」から「実際にできる」へ転換する具体的方法が解説されている\n・広告代理店出身の書評家が選ぶビジネスコミュニケーション向上の一冊として注目",
+      "score": 1,
+      "reason": "書評記事で広告運用と無関係",
+      "date": "2026-06-09"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "役員運転手に向いていそうなお笑い芸人ランキング…3位飯尾和樹、2位カズレーザー、1位は？ 現役芸人ライターが各々に似合う車をガチ解説…タ「アルファード」やレクサス「LM」のような後席の快適性が高いクルマで広告代理店やクリエイティブ系企業の役員を、やわらかい空気で送迎する姿が目に浮かびます。carview！経済総合6/9(火) 8:04",
+      "link": "https://news.yahoo.co.jp/articles/3911bce87ea4defb783f2f8d85d990c2aa2bcf59",
+      "summary": "・役員運転手に向いているお笑い芸人ランキングで3位飯尾和樹、2位カズレーザーが選出された\n・現役芸人ライターがアルファードやレクサスLMなど各芸人に似合う高級車を本格解説している\n・広告代理店やクリエイティブ系企業の役員をやわらかい雰囲気で送迎するイメージで選定された",
+      "score": 1,
+      "reason": "お笑い芸人ランキングで広告運用と無関係",
+      "date": "2026-06-09"
     }
   ]
 }
