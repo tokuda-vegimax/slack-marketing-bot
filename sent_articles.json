@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TGlJMTFWb1otWDN1SGlxcnIxd1RlR3oyMmtnY1hHa2JDNFFYWm1qb25hVzQwWGljNnpxb2loN2RlUmdJdFF0Q3pZenV5MXE3VjhyejAwV3lBTlNfVHZiMElIRjQ0Mktn?oc=5": "2026-05-16",
-    "https://news.yahoo.co.jp/articles/2f4390eede877b7d9c956ecb73a2682f5b07ca2d": "2026-05-16",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubXFCZERxMzNBeFBJNU95MU9tOFVMMzlickdlNXFUYmJlYURVaEI1MWgtOXJWcEhnWUF4dkhDQkZTWU5uS21RYnF6MTlCSDZFZ1E3VzB1ODk0Q05oUWNJUEh3dnJtU21VZ3c?oc=5": "2026-05-16",
-    "https://news.yahoo.co.jp/articles/ef7e8338998a9bdfc9c9dfffc5035381f4887935": "2026-05-16",
-    "https://news.yahoo.co.jp/articles/f6c4d43f385f15bc91646114b4c3c065d81ae611": "2026-05-16",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZTWRUSk91TFlfWG9kdkU1WEgxdjRsR0RFM2EtcTFxb0NJZm40cWh6c2ZJdkFJV2hjcHRza3BFU1VTeEU1VEFlbG9ENTVRNTA?oc=5": "2026-05-16",
-    "https://news.yahoo.co.jp/articles/84995070997f6d64dedc3566aee637c863bec38d": "2026-05-16",
-    "https://news.yahoo.co.jp/articles/5899c8dfd5cca28ce6885ccfeafca74dd0c2dc01": "2026-05-16",
-    "https://news.yahoo.co.jp/articles/e044da572dc6f60e885fa5d875085207c9cd3505": "2026-05-16",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/migration-guide/?list=23496": "2026-05-17",
     "https://ads.tiktok.com/business/en/blog/attribution-analytics-performance-comparison": "2026-05-17",
     "https://www.facebook.com/business/news/social-search-series-1": "2026-05-17",
@@ -293,45 +284,19 @@
     "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search_trends_diet/?list=23496": "2026-06-15",
     "https://news.yahoo.co.jp/articles/c1976d3e6e694dd0f534e74ee55ee3b474cca4a5": "2026-06-15",
     "https://news.yahoo.co.jp/expert/articles/f64bc8bea91850a806a9c077bf1d91e0965383d8": "2026-06-15",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TGtMYy1aQUUwOUJXdEFjc05nUWRCamx1Ymd2RUQ1YjlneEpEMGdvQmoyQ0pKODA0dmlQVkZ3ZHRwTkdhU0hwd2RuRFhxYWcyNGFtT2Y3MTI?oc=5": "2026-06-15"
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TGtMYy1aQUUwOUJXdEFjc05nUWRCamx1Ymd2RUQ1YjlneEpEMGdvQmoyQ0pKODA0dmlQVkZ3ZHRwTkdhU0hwd2RuRFhxYWcyNGFtT2Y3MTI?oc=5": "2026-06-15",
+    "https://oneder.hakuhodody-one.co.jp/blog/googleio-2026-ai-search-commerce": "2026-06-16",
+    "https://dentsudigital.co.jp/news/release/services/2026-0616-000328": "2026-06-16",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Jam1ZVzdrbTdtSFF3LVlGTEtaUUNMY0xYU1ljbE9mMllkQ29PalQ1azN2cEdfU3BGYWNVUFFrQUFUTTlac3JzUE9OeElzWVNnZmNodjU4Y2ZIaUhRaURYV0ZiM0xHaFdNQWFBdExYSG43RC0xdEE?oc=5": "2026-06-16",
+    "https://news.yahoo.co.jp/articles/eb0e16a91aa0ac08ad81113fa9fad9b742a28602": "2026-06-16",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRk9GcUl0d0ZKN3lDRHpVRmx0MkhJM19PQmZNWk91ektoVFJMREVXTHE4VEVoQ0Q0T1FmY01VYlRuQzZYTjRZbE1oT2xWZEU4bXV2TmdYTmVBRkRDcFkxTlEzMXp0T1lUbkRqOXhUeXNvdjlLQ1lpaTE3WVU3b3oyUEpJdHhRbkk?oc=5": "2026-06-16",
+    "https://news.yahoo.co.jp/articles/0f616b1b6a5989f1e4496fe70af9aa26b22c68fc": "2026-06-16",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxObU5fVDVTSVlDNlpJU3hNMU45Ti1vNmRBSElpM1hmOXZTQS1xcHRrcFVmbVdfcWpDb1BtRHd2bGFtSTVKcWFVOWxHNWNNaG42VE01RTlnTnF5YktDbkRFZnlqTzB1VjltZzFPMmp5d2hmb1NlRDh0V2lKam9Yc3U5TTZxVVJCQXdGT00wcEhNUW1Mdw?oc=5": "2026-06-16",
+    "https://news.yahoo.co.jp/articles/cc6f9109603b8469fce6ea841c7f6619033fb27a": "2026-06-16",
+    "https://news.yahoo.co.jp/articles/8ff4b90ef644b2f96e97644877cd82e19fe11e5e": "2026-06-16",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bTQ4bDRXdHJIdDlmQXg4TUdyMTFjUndtQnF2RHNURGFjazAwZmdSU3BkWDlWdmgzQnhhbzdPTUI3aEI2aWNMaER5d3R0V0hOc3ZkYkJ3?oc=5": "2026-06-16"
   },
   "titles": [
-    {
-      "title": "景表法を軸に学ぶヘルスケア広告法務・規制講座を開催 - ニコニコニュース",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "通販の「定期購入」トラブル、注意点は? 「さらにお得」にご用心…多く、25年度はこれら3商品に関する件数が全体の約87%を占めた。 消費者庁は定期購入に関するトラブルが続発していることなどを受け、21年に特定商取…朝日新聞経済総合5/16(土) 8:01",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "【アドインテ】信頼性の高い広告配信体制を構築。JICDAQ認証取得により、ブランド価値を保護するデジタルマーケティング支援を加速 - PR TIMES",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "50以上の国や地域で展開する国際的なブランド「green cola」が日本上陸！1都3県のコンビニ限定で発売中…cola」のロゴを通じて商品の特徴をわかりやすく表現。 今回の発売にあたりデジタル広告の展開では、「green colaアンバサダー」の岸谷蘭丸さん、Z世代…ウォーカープラスライフ総合5/15(金) 21:00",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "母が「無料廃品回収のチラシ」を見て業者に連絡！→当日、家中を見られ「父のオーディオセット」まで“持っていかれた”とのこと…無料回収は本当にお得？「悪徳業者」の見分け方とは…ルを防ぎましょう。 出典 消費者庁 ウェブサイト上で「お得な定額パック 定額パック料金は、全てが込み込みの料金」などの広告・表示をして不用品・粗大ごみ…ファイナンシャルフィールドライフ総合5/14(木) 13:40",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "広告代理店を１日で退社→泥をすすった「怪演俳優」“不気味な犯罪者”で震撼させた新境地とは - TRILL",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "「向いていないのかも…」仕事を辞めたいと思ったときにまずやるべきこと・ベスト1 たとえば独立研究者で大人気著者の山口周氏は、クリエイティブな仕事に憧れて広告代理店でキャリアをスタートさせたが、ご本人曰く「向いていなかった」そうだ。 …ダイヤモンド・オンライン経済総合5/16(土) 6:21",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "デザインのアカデミー賞に 片町・居酒屋の壁画 中村さん、青木さんが制作 町並み、浮世絵風に描く…。 今月受賞作が決まった第105回で、国内からの受賞は26作品。大手広告代理店、トヨタなどの大企業が支援する規模の大きな作品が大半だった。 中村さ…北國新聞社石川5/16(土) 5:00",
-      "date": "2026-05-16"
-    },
-    {
-      "title": "伊藤健太郎×寛一郎『100日後に別れる僕と彼』ED主題歌はtonun 楽曲入り予告＆場面写真も…らは見落としていたある大切なことに気づいていく。 伊藤が演じるのは、広告代理店『ウェイブス』に勤務する広告プランナー・春日佑馬。寛一郎は、佑馬の元恋…リアルサウンドエンタメ総合5/15(金) 19:05",
-      "date": "2026-05-16"
-    },
     {
       "title": "【LINE広告をご利用中の方へ】LINEヤフー広告 ディスプレイ広告への移行ガイド",
       "date": "2026-05-17"
@@ -1479,90 +1444,49 @@
     {
       "title": "なぜ従来型の広告代理店モデルは時代遅れになりつつあるのか - Forbes JAPAN",
       "date": "2026-06-15"
+    },
+    {
+      "title": "Google 、開発者向けカンファレンスGoogle I/O 2026を開催",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "美容商材に関するマーケティングの分断を解消するクリエイティブ研究チーム「BEAUTY ONE」始動",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "【好評につきアーカイブ配信決定｜無料ウェビナー2026.6.24】広告審査の新常識 弁護士が教える、リスクを最小限に抑 - ニコニコニュース",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "AI広告は受け入れられるのか？ 最新調査から見えてきた近未来像…ろう。 しかし広告の場合は、表現されているものが事実でないと困る。実際に販売されるものよりも過剰によく見えるのであれば、景品表示法における優良誤認表…ITmedia NEWSIT総合6/15(月) 17:40",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "『広告を出稿しても売れない』時代に企業が磨くべきたった1つの力 「信頼による差別化」という現代の最強武器 - Yahoo!ファイナンス",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "『広告を出稿しても売れない』時代に企業が磨くべきたった1つの力 「信頼による差別化」という現代の最強武器…CMを一方的に“見せられる”たびに違和感を覚えるようになっていた。大手広告代理店によって発信される「華やかで、みるからにお金がかかった広告展開」を、と…東洋経済オンライン経済総合6/16(火) 11:00",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "財務戦略家、​AI 指揮者、​文化の​解読者……​米フィンテック企業 Chime の​ CMO が​示すリーダー像 - Google Business Profile",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "米フォックス、米動画配信のロク買収で合意-企業価値は約3.5兆円…を進めていると報じ、同社株は20％急騰した。 ロクの売上高の大半は、デジタル広告の販売や動画配信サービスの提供によるものだ。端末販売が占める割合は比較的小さい。TBS CROSS DIG with Bloomberg経済総合6/16(火) 1:02",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "米ロク、会社売却を含む戦略的選択肢を検討＝関係筋…ビを製造し、ストリーミングサー‌ビスを配信するとともに、成長を続けるデジタル広告⁠事業を展開している。同社の事業は主に、自社プラットフォーム上のストリ…ロイター経済総合6/15(月) 14:27",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "Xmaker、 Metaビジネスパートナーの最高位【バッジ取得パートナー】を獲得 - フーズチャネル",
+      "date": "2026-06-16"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "景表法を軸に学ぶヘルスケア広告法務・規制講座を開催 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TGlJMTFWb1otWDN1SGlxcnIxd1RlR3oyMmtnY1hHa2JDNFFYWm1qb25hVzQwWGljNnpxb2loN2RlUmdJdFF0Q3pZenV5MXE3VjhyejAwV3lBTlNfVHZiMElIRjQ0Mktn?oc=5",
-      "summary": "・景品表示法を中心にヘルスケア広告の法務・規制を学ぶ講座が開催される\n・健康食品や美容関連など広告表現の法的リスクを体系的に解説する内容\n・広告担当者や法務担当者向けにコンプライアンス強化を目的とした実務講座",
-      "score": 5,
-      "reason": "景表法・広告規制の知識は運用担当者にも有用",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "通販の「定期購入」トラブル、注意点は? 「さらにお得」にご用心…多く、25年度はこれら3商品に関する件数が全体の約87%を占めた。 消費者庁は定期購入に関するトラブルが続発していることなどを受け、21年に特定商取…朝日新聞経済総合5/16(土) 8:01",
-      "link": "https://news.yahoo.co.jp/articles/2f4390eede877b7d9c956ecb73a2682f5b07ca2d",
-      "summary": "・通販の定期購入トラブルが多発し25年度は特定3商品が全体の約87%を占めた\n・消費者庁は21年に特商法を改正し定期購入の表示規制を強化し対策を進めている\n・「さらにお得」等の誘導表現に注意し契約条件や解約方法の事前確認が重要である",
-      "score": 4,
-      "reason": "定期購入トラブルは広告表現規制に間接的に関連",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Google News",
-      "title": "【アドインテ】信頼性の高い広告配信体制を構築。JICDAQ認証取得により、ブランド価値を保護するデジタルマーケティング支援を加速 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubXFCZERxMzNBeFBJNU95MU9tOFVMMzlickdlNXFUYmJlYURVaEI1MWgtOXJWcEhnWUF4dkhDQkZTWU5uS21RYnF6MTlCSDZFZ1E3VzB1ODk0Q05oUWNJUEh3dnJtU21VZ3c?oc=5",
-      "summary": "・アドインテがJICDAQ認証を取得し広告品質の信頼性を担保する配信体制を構築した\n・ブランドセーフティやアドフラウド対策を強化しブランド価値保護の取り組みを推進\n・認証取得により広告主が安心できるデジタルマーケティング支援体制の加速を目指す",
-      "score": 3,
-      "reason": "JICDAQ認証取得の企業プレスリリース",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "50以上の国や地域で展開する国際的なブランド「green cola」が日本上陸！1都3県のコンビニ限定で発売中…cola」のロゴを通じて商品の特徴をわかりやすく表現。 今回の発売にあたりデジタル広告の展開では、「green colaアンバサダー」の岸谷蘭丸さん、Z世代…ウォーカープラスライフ総合5/15(金) 21:00",
-      "link": "https://news.yahoo.co.jp/articles/ef7e8338998a9bdfc9c9dfffc5035381f4887935",
-      "summary": "・ギリシャ発の健康志向コーラ「green cola」が日本市場に初上陸し販売を開始した\n・販売チャネルは1都3県のコンビニ限定で展開しロゴで商品特徴を訴求している\n・デジタル広告では岸谷蘭丸氏らZ世代アンバサダーを起用しプロモーションを展開",
-      "score": 2,
-      "reason": "飲料ブランドの商品紹介記事で運用実務と無関係",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "母が「無料廃品回収のチラシ」を見て業者に連絡！→当日、家中を見られ「父のオーディオセット」まで“持っていかれた”とのこと…無料回収は本当にお得？「悪徳業者」の見分け方とは…ルを防ぎましょう。 出典 消費者庁 ウェブサイト上で「お得な定額パック 定額パック料金は、全てが込み込みの料金」などの広告・表示をして不用品・粗大ごみ…ファイナンシャルフィールドライフ総合5/14(木) 13:40",
-      "link": "https://news.yahoo.co.jp/articles/f6c4d43f385f15bc91646114b4c3c065d81ae611",
-      "summary": "・無料廃品回収のチラシを見た母が業者を呼んだところ家中を物色され父のオーディオセットまで持ち去られた\n・消費者庁は不用品回収で「定額パック込み込み料金」等の誇大広告を行う悪徳業者への注意を呼びかけている\n・無料回収を謳う業者には許可証の有無や所在地の確認が重要でトラブル防止には事前の見極めが不可欠である",
-      "score": 1,
-      "reason": "廃品回収トラブルの消費者向け記事",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Google News",
-      "title": "広告代理店を１日で退社→泥をすすった「怪演俳優」“不気味な犯罪者”で震撼させた新境地とは - TRILL",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZTWRUSk91TFlfWG9kdkU1WEgxdjRsR0RFM2EtcTFxb0NJZm40cWh6c2ZJdkFJV2hjcHRza3BFU1VTeEU1VEFlbG9ENTVRNTA?oc=5",
-      "summary": "・広告代理店をわずか1日で退社し俳優の道に転身した経歴を持つ個性派俳優が注目を集めている\n・下積み時代には泥をすするような苦労を重ね「怪演俳優」として独自の存在感を確立した\n・不気味な犯罪者役で視聴者を震撼させ、演技派としての新境地を開拓し高い評価を得ている",
-      "score": 1,
-      "reason": "俳優の経歴紹介で広告運用と無関係",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「向いていないのかも…」仕事を辞めたいと思ったときにまずやるべきこと・ベスト1 たとえば独立研究者で大人気著者の山口周氏は、クリエイティブな仕事に憧れて広告代理店でキャリアをスタートさせたが、ご本人曰く「向いていなかった」そうだ。 …ダイヤモンド・オンライン経済総合5/16(土) 6:21",
-      "link": "https://news.yahoo.co.jp/articles/84995070997f6d64dedc3566aee637c863bec38d",
-      "summary": "・山口周氏は広告代理店でキャリアを始めたが自身に向いていないと感じた経験を持つ\n・仕事を辞めたいと思った際にまず取り組むべき行動についての指南記事である\n・キャリアの方向転換や自己分析の重要性を独立研究者の実体験から説いている",
-      "score": 1,
-      "reason": "キャリア論の一般記事で広告運用と無関係",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "デザインのアカデミー賞に 片町・居酒屋の壁画 中村さん、青木さんが制作 町並み、浮世絵風に描く…。 今月受賞作が決まった第105回で、国内からの受賞は26作品。大手広告代理店、トヨタなどの大企業が支援する規模の大きな作品が大半だった。 中村さ…北國新聞社石川5/16(土) 5:00",
-      "link": "https://news.yahoo.co.jp/articles/5899c8dfd5cca28ce6885ccfeafca74dd0c2dc01",
-      "summary": "・片町の居酒屋に描かれた浮世絵風壁画が「デザインのアカデミー賞」と称される国際賞を受賞した\n・第105回の国内受賞26作品の大半は大手代理店や大企業支援の大規模作品が占めた\n・中村さんと青木さんが制作し町並みを浮世絵風に描いた作品が異例の受賞を果たした",
-      "score": 1,
-      "reason": "デザイン賞受賞の地域ニュースで運用と無関係",
-      "date": "2026-05-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "伊藤健太郎×寛一郎『100日後に別れる僕と彼』ED主題歌はtonun 楽曲入り予告＆場面写真も…らは見落としていたある大切なことに気づいていく。 伊藤が演じるのは、広告代理店『ウェイブス』に勤務する広告プランナー・春日佑馬。寛一郎は、佑馬の元恋…リアルサウンドエンタメ総合5/15(金) 19:05",
-      "link": "https://news.yahoo.co.jp/articles/e044da572dc6f60e885fa5d875085207c9cd3505",
-      "summary": "・映画『100日後に別れる僕と彼』のED主題歌がtonunに決定し楽曲入り予告が公開された\n・伊藤健太郎が広告代理店ウェイブス勤務の広告プランナー春日佑馬役を演じる\n・寛一郎は佑馬の元恋人役で出演し大切なことに気づいていく物語が描かれる",
-      "score": 1,
-      "reason": "映画紹介記事で広告運用と無関係",
-      "date": "2026-05-16"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "【LINE広告をご利用中の方へ】LINEヤフー広告 ディスプレイ広告への移行ガイド",
@@ -4145,6 +4069,96 @@
       "score": 5,
       "reason": "代理店モデル変化の論考で業界動向として参考程度",
       "date": "2026-06-15"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、開発者向けカンファレンスGoogle I/O 2026を開催",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/googleio-2026-ai-search-commerce",
+      "summary": "・Googleが開発者向けカンファレンス「Google I/O 2026」を開催しAI関連の最新情報を発表した\n・GoogleにおけるAIの利用状況や直近の動向について重点的に取り上げられた\n・AI活用の現状と今後の方向性が開発者向けに体系的にまとめられ共有された",
+      "score": 6,
+      "reason": "Google I/OのAI動向は広告機能にも波及しうる",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "美容商材に関するマーケティングの分断を解消するクリエイティブ研究チーム「BEAUTY ONE」始動",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0616-000328",
+      "summary": "・電通デジタルが美容領域特化の社内横断クリエイティブ研究チーム「BEAUTY ONE」を始動した\n・美容商材マーケティングにおける施策間の分断解消を目指し一貫した顧客体験設計を支援する\n・社内の多様な専門人材が横断的に連携し美容ブランドの統合的なマーケティングを推進する",
+      "score": 3,
+      "reason": "電通デジタルの社内組織発足で実務直接性は低い",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Google News",
+      "title": "【好評につきアーカイブ配信決定｜無料ウェビナー2026.6.24】広告審査の新常識 弁護士が教える、リスクを最小限に抑 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Jam1ZVzdrbTdtSFF3LVlGTEtaUUNMY0xYU1ljbE9mMllkQ29PalQ1azN2cEdfU3BGYWNVUFFrQUFUTTlac3JzUE9OeElzWVNnZmNodjU4Y2ZIaUhRaURYV0ZiM0xHaFdNQWFBdExYSG43RC0xdEE?oc=5",
+      "summary": "・2026年6月24日開催の無料ウェビナーが好評によりアーカイブ配信決定\n・弁護士が登壇し広告審査の新常識とリスク最小化の方法を解説する内容\n・広告法務リスクへの関心の高まりを背景に実務者向けに知見を提供する企画",
+      "score": 5,
+      "reason": "広告審査・法務リスクのウェビナーで実務に一定の関連",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI広告は受け入れられるのか？ 最新調査から見えてきた近未来像…ろう。 しかし広告の場合は、表現されているものが事実でないと困る。実際に販売されるものよりも過剰によく見えるのであれば、景品表示法における優良誤認表…ITmedia NEWSIT総合6/15(月) 17:40",
+      "link": "https://news.yahoo.co.jp/articles/eb0e16a91aa0ac08ad81113fa9fad9b742a28602",
+      "summary": "・AI生成広告の消費者受容度に関する最新調査結果を紹介し今後の普及可能性を考察している\n・AI広告では実物以上に良く見せる表現が景品表示法の優良誤認に該当するリスクが指摘されている\n・広告表現の事実性担保がAI活用の鍵であり法的・倫理的ガイドライン整備が急務とされる",
+      "score": 5,
+      "reason": "AI広告の消費者受容調査でクリエイティブ判断の参考",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Google News",
+      "title": "『広告を出稿しても売れない』時代に企業が磨くべきたった1つの力 「信頼による差別化」という現代の最強武器 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRk9GcUl0d0ZKN3lDRHpVRmx0MkhJM19PQmZNWk91ektoVFJMREVXTHE4VEVoQ0Q0T1FmY01VYlRuQzZYTjRZbE1oT2xWZEU4bXV2TmdYTmVBRkRDcFkxTlEzMXp0T1lUbkRqOXhUeXNvdjlLQ1lpaTE3WVU3b3oyUEpJdHhRbkk?oc=5",
+      "summary": "・広告出稿だけでは商品が売れない時代となり、企業は新たな差別化戦略の構築を迫られている\n・消費者の情報リテラシー向上により「信頼」が購買決定における最重要要素として浮上している\n・企業が磨くべき力は「信頼による差別化」であり、長期的なブランド価値構築が最強の武器となる",
+      "score": 4,
+      "reason": "マーケ戦略論で運用型広告の具体施策には乏しい",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "『広告を出稿しても売れない』時代に企業が磨くべきたった1つの力 「信頼による差別化」という現代の最強武器…CMを一方的に“見せられる”たびに違和感を覚えるようになっていた。大手広告代理店によって発信される「華やかで、みるからにお金がかかった広告展開」を、と…東洋経済オンライン経済総合6/16(火) 11:00",
+      "link": "https://news.yahoo.co.jp/articles/0f616b1b6a5989f1e4496fe70af9aa26b22c68fc",
+      "summary": "・従来型の一方的なマス広告では消費者の心に響かず売上につながらない時代が到来している\n・大手代理店による高コストな華やかな広告展開に対し消費者は違和感や不信感を抱き始めている\n・企業が今後磨くべきは「信頼による差別化」であり顧客との誠実な関係構築が最強の武器となる",
+      "score": 4,
+      "reason": "広告全般の信頼論で運用型広告への具体示唆は薄い",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Google News",
+      "title": "財務戦略家、​AI 指揮者、​文化の​解読者……​米フィンテック企業 Chime の​ CMO が​示すリーダー像 - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObU5fVDVTSVlDNlpJU3hNMU45Ti1vNmRBSElpM1hmOXZTQS1xcHRrcFVmbVdfcWpDb1BtRHd2bGFtSTVKcWFVOWxHNWNNaG42VE01RTlnTnF5YktDbkRFZnlqTzB1VjltZzFPMmp5d2hmb1NlRDh0V2lKam9Yc3U5TTZxVVJCQXdGT00wcEhNUW1Mdw?oc=5",
+      "summary": "・米フィンテック企業ChimeのCMOが現代マーケティングリーダーに求められる多面的役割を提示\n・財務戦略家・AI指揮者・文化の解読者という3つの顔を持つCMO像が新たな指針として注目される\n・データやAI活用と文化的洞察力を兼ね備えたリーダーシップが今後のCMOに不可欠と示唆",
+      "score": 4,
+      "reason": "CMOリーダー像の解説で広告運用実務への直接性低い",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米フォックス、米動画配信のロク買収で合意-企業価値は約3.5兆円…を進めていると報じ、同社株は20％急騰した。 ロクの売上高の大半は、デジタル広告の販売や動画配信サービスの提供によるものだ。端末販売が占める割合は比較的小さい。TBS CROSS DIG with Bloomberg経済総合6/16(火) 1:02",
+      "link": "https://news.yahoo.co.jp/articles/cc6f9109603b8469fce6ea841c7f6619033fb27a",
+      "summary": "・米フォックスが動画配信プラットフォームのロクを買収で合意し企業価値は約3.5兆円と報じられた\n・買収報道を受けロク株は20％急騰しデジタル広告市場への注目が一段と高まっている\n・ロクの売上大半はデジタル広告販売と動画配信サービスが占め端末販売の比率は小さい",
+      "score": 3,
+      "reason": "米企業買収ニュースで日本の広告運用に直接影響なし",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米ロク、会社売却を含む戦略的選択肢を検討＝関係筋…ビを製造し、ストリーミングサー‌ビスを配信するとともに、成長を続けるデジタル広告⁠事業を展開している。同社の事業は主に、自社プラットフォーム上のストリ…ロイター経済総合6/15(月) 14:27",
+      "link": "https://news.yahoo.co.jp/articles/8ff4b90ef644b2f96e97644877cd82e19fe11e5e",
+      "summary": "・米ロクが会社売却を含む戦略的選択肢の検討に入ったと関係筋が明らかにした\n・同社はテレビ製造やストリーミング配信に加え成長中のデジタル広告事業を展開している\n・自社プラットフォーム上のストリーミング広告が主要な収益源となっている",
+      "score": 3,
+      "reason": "Roku売却検討の報道で広告運用実務との関連薄い",
+      "date": "2026-06-16"
+    },
+    {
+      "source": "Google News",
+      "title": "Xmaker、 Metaビジネスパートナーの最高位【バッジ取得パートナー】を獲得 - フーズチャネル",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bTQ4bDRXdHJIdDlmQXg4TUdyMTFjUndtQnF2RHNURGFjazAwZmdSU3BkWDlWdmgzQnhhbzdPTUI3aEI2aWNMaER5d3R0V0hOc3ZkYkJ3?oc=5",
+      "summary": "・XmakerがMetaビジネスパートナーの最高位「バッジ取得パートナー」認定を獲得した\n・この認定はMeta広告運用における高い専門性と実績が評価された結果とみられる\n・フーズチャネルが本ニュースを報じ、Xmakerのデジタル広告分野での信頼性向上が期待される",
+      "score": 3,
+      "reason": "企業のMeta認定取得プレスリリース",
+      "date": "2026-06-16"
     }
   ]
 }
