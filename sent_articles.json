@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0520-000320": "2026-05-20",
-    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-07": "2026-05-20",
-    "https://dentsudigital.co.jp/news/release/management/2026-0326-000311": "2026-05-20",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taE5sdEVLNGxRNkNvSGR1UzM3ZkdvSFR2QzdjalhOU3YxQmpfeExBODZYWUJHNWJWSG9PZWZ0eUdkS3VZbXp3RHd6MllodDBxeUktX0dwb2RCdGdNS0IxSlRxaWc3UQ?oc=5": "2026-05-20",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RR3ZNZm5ib09aOGJ5OFRhUU1rV3VtQ3NsME1SUEcwbVRETWxNbUdWdHFiU3ZpSHhXLVJ6LU8yVXhQVmxYcExWank5ZkdmLVBfYTVZ?oc=5": "2026-05-20",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWZpeURtUGRKektLeE9KT0FmemNiSjBnMXpQODl3U0pMcGF5NUNHamQ4N0wxMV94U3FMTUdXTnVscEx1clBtem01TGs4UXN0c1hvb05CWkowc3VBeGowS1NIX0VzWHcxc1VSSjhtVGxhMnpLRVNFXzhhVG5ib0dERThLUnNyRGdScTBlc1V3?oc=5": "2026-05-20",
-    "https://news.yahoo.co.jp/articles/df0c8b4f852cdcb48d64628695964944e35c5822": "2026-05-20",
-    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-05-20",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N1J5UkxRRjU3Y09fMk1BYTR1d0xVaXN4Zy1sVmpleHdDa0p2WGprMS1MRy1GUks3czBZbmc4UFAwLWNfYzB6THN4UlZyVUl0d2psSjhoaUpUeFY2aTVBZ0pNVWgzQQ?oc=5": "2026-05-20",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrSGRBZ3NJMUQtc0R5YmFNdk1LYk5LbmtFSGhlbEFuZHdKUHcyV3d0UHVfUXJFNUxBcF9ySDhVT2hPSGhlYU9KWFZxcTNWM3BqODVkYUNYYXFGREw5amEtV2VyeER4RnUtMDJDaVFENzVMRkVBZ29CdkVtYw?oc=5": "2026-05-20",
     "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/": "2026-05-21",
     "https://blog.google/products/ads-commerce/ask-advisor/": "2026-05-21",
     "https://blog.google/products-and-platforms/products/youtube/youtube-demand-gen-updates/": "2026-05-21",
@@ -292,49 +282,18 @@
     "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202605": "2026-06-19",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlcmJPeEE0RHlvYUVfR0dUODlQdzB1TGE5RFZFemY2NWNZa2tGc2xBVHlIbHBSd2NhS3Y3WWZCYW0xVGw1bzYwcFMyMTZIejhLR19BRTdn?oc=5": "2026-06-19",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13OGhTQXotMHMxazl6R2VUNk5HTEpvWl9LRVNqNmhpemozRjMtSTBxQ19MZzJ6QVlPUll5YndMSF9IbXBkemN1YW5ZRmFMaGJiTjloVw?oc=5": "2026-06-19",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZ0ZpazB2UnZVYXhkZktlTmJLQzBYVnVuMndXSDZBcjgybUZQM28ySWpoQU9ZVjdZRlEySTF5ZktnOHZPSjl5NV9UcXB5U1VwNEln?oc=5": "2026-06-19"
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZ0ZpazB2UnZVYXhkZktlTmJLQzBYVnVuMndXSDZBcjgybUZQM28ySWpoQU9ZVjdZRlEySTF5ZktnOHZPSjl5NV9UcXB5U1VwNEln?oc=5": "2026-06-19",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDTjdfZUt4bEJqR1dsbDZwRUhlUE52TXYzbHhCbkN6eEhwZ0Y3cWtWRzlVOU5Fck1ZSm5SMVJCOWVwdVh3ZzFCOGl1bDlTSXJFcTRiZHpLZEEtQm0xSXN3SDZ5dFZNeFNzaWlnM3NNNDZBOWfSAXNBVV95cUxQQ043X2VLeGxCakdXbGw2cEVIZVBOdk12M2x4Qm5DenhIcGdGN3FrVkc5VTlORXJNWUpuUjFSQjllcHVYd2cxQjhpdWw5U0lyRXE0YmR6S2RBLUJtMUlzd0g2eXRWTXhTc2lpZzNzTTQ2QTln?oc=5": "2026-06-20",
+    "https://news.yahoo.co.jp/articles/c95533ba5c9e7d496072c057e17b40e00053154b": "2026-06-20",
+    "https://news.yahoo.co.jp/expert/articles/c2c3c17980aa68d960177ced09b3a24a8463b60e": "2026-06-20",
+    "https://news.yahoo.co.jp/articles/009bb946e386165452887dff1b712f68e657c2a7": "2026-06-20",
+    "https://news.yahoo.co.jp/articles/42fcabd35b42aefc8f1db010f533409f0de0316f": "2026-06-20",
+    "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf": "2026-06-20",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZnJWU2cwNVlmNlYyaXJSX0xPUFl6R2JWM1hIdVVLeUN3cndjTW9TMzNoUkFRaE1xOG5LUmxySmpNLWkzaGE5VWgzdDRpLU0?oc=5": "2026-06-20",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5": "2026-06-20",
+    "https://news.yahoo.co.jp/articles/b9ea66cc2915cfd83c0747a77608ea8f6fbfcf1c": "2026-06-20"
   },
   "titles": [
-    {
-      "title": "「偶発購買」に関する独自調査を実施   購買の約5回に1回は偶発的な出会いと判明",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "AIは社外・他部署との接合点で、その真価を発揮する ー組織におけるAI活用術【第7回】",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "役員および業務執行体制変更に関するお知らせ",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "MetaのAI広告でROAS2割向上 内製「ハイブリッド型」が正解の理由 - 日経クロストレンド",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "その成果は本当に「広告のおかげ」ですか？Metaがインクリメンタルの計測で実現する、真の価値最大化 - MarkeZine（マーケジン）",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "P-MAXのアセット実績、把握できてる？ Google 広告 スクリプトでアセット別実績レポートを自動作成 (Web担当者Forum) - Yahoo!ニュース",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "P-MAXのアセット実績、把握できてる？ Google 広告 スクリプトでアセット別実績レポートを自動作成…レポート作成手順とカスタマイズ方法レポート作成手順については本連載の第一回「Google広告レポートを自動化しよう！ スクリプトを使って業務効率UP」の手順に沿ってください。Web担当者ForumIT総合5/19(火) 7:16",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…6%改善し、クリエイティブの改善機会を発見するまでの期間を半減させた。運用型広告は膨大なアカウントやキャンペーン、クリエイティブを並行管理しながら効果…Web担当者ForumIT総合4/7(火) 7:01",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "楽天ショックで「広告内製化」一挙加速 代理店の役割が大転換 - 日経クロストレンド",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "【無料公開】AIに最適化された広告が「なぜ失速するのか？」アルゴリズム時代のWeb広告運用見直しガイドを公開 - ニコニコニュース",
-      "date": "2026-05-20"
-    },
     {
       "title": "Google Marketing Live 2026",
       "date": "2026-05-21"
@@ -1482,99 +1441,49 @@
     {
       "title": "「景表法」に違反すると消費者庁に企業名が公表される 顧客へ誤解を与えずUGCで信頼を得るには (1/3)：commercezine - MarkeZine",
       "date": "2026-06-19"
+    },
+    {
+      "title": "Instagramでライブ動画広告を導入、商品タグもアフィリエイトリンクに対応 - meta.com",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "「買い物中にお得情報を見ると買っちゃう」店内広告が新たな収益に…高い宣伝効果で広がるリテールメディア…はさらに増えて１兆６００億ドルに拡大し、このうちデジタル広告が７割を占める見通し。 デジタル広告の中でＲＭは特に高い成長を続けるとしており、２６年…読売新聞オンライン経済総合6/20(土) 11:00",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…IJ BizRis 2025/7/25(金)日本でも、2026年中には消費者庁がダークパターン規制に関する検討を本格的に進めるとされています出典：東芝…前田恒彦社会6/20(土) 9:05",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "ダークパターン、「見たことある」76％ 消費者庁調査 消費者庁が18日に発表した消費者意識調査結果で、ウェブサイト等でいわゆる「ダークパターン」を見たことがある割合は76％に上ることがわかった。 執…健康産業速報産業6/19(金) 12:20",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…ターンを包括的に禁止する法律はありません。表示内容や誘導方法によっては景品表示法上の不当表示などの問題が生じる可能性がありますが、現行法は主に表示内容…前田恒彦社会6/20(土) 9:05",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "なぜ「ダークパターン」が生まれるのか？ 誤りの“勝ちパターン”という認識…トメディアによる追求と拡散が始まります。もしダークパターンをやりすぎて景品表示法や特定商取引法に違反する行為などが見つかれば、監督省庁から指導や業務改…ITmedia NEWSIT総合6/18(木) 21:17",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）…のアクティビティが含まれることもあるグーグルやフェイスブックに代わるデジタル広告アプリとしても売り込んでいる。 「特定のブランドに対するロイヤルティプ…BUSINESS INSIDER JAPAN経済総合6/19(金) 7:10",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "TikTok for Business、国内広告代理店向けアワードを実施 グランプリは電通グループ：commercezine - MarkeZine",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "市内店舗のデジタル広告を支援します - city.atsugi.kanagawa.jp",
+      "date": "2026-06-20"
+    },
+    {
+      "title": "だから「もっと投資すれば必ず増える」を信じてしまう…投資詐欺で\"狙われやすい人\"の共通点 日本でも、こうした状況を受けて消費者庁がステルスマーケティングを景品表示法の対象に位置づけ、2023年から規制を開始した。すなわち「広告であることを隠して宣伝…プレジデントオンライン社会6/20(土) 8:15",
+      "date": "2026-06-20"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "「偶発購買」に関する独自調査を実施   購買の約5回に1回は偶発的な出会いと判明",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0520-000320",
-      "summary": "・電通デジタルが「偶発購買実態調査2026」を実施し、購買の約5回に1回が偶発的な出会いによるものと判明した\n・生活者の購買行動における偶発購買の実態を定量的に把握する独自調査として注目される\n・計画外の購買機会が一定割合を占めることが示され、偶発購買マーケティングの重要性が裏付けられた",
-      "score": 5,
-      "reason": "購買行動の調査知見でマーケ施策設計に参考になる",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "AIは社外・他部署との接合点で、その真価を発揮する ー組織におけるAI活用術【第7回】",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-07",
-      "summary": "・マーケティングは広告会社や営業部門など社内外の多様な関係者が交わる「接合点」が多い領域である\n・異なる専門性や暗黙の前提を持つ人々の協働では常にコミュニケーションの齟齬が生じやすい\n・AIはこの接合点での非効率を解消し協働のポテンシャルを最大化する役割を果たす",
-      "score": 4,
-      "reason": "AI活用の概念論で広告運用の実務直結度は低い",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "役員および業務執行体制変更に関するお知らせ",
-      "link": "https://dentsudigital.co.jp/news/release/management/2026-0326-000311",
-      "summary": "・電通デジタルが役員および業務執行体制の変更を正式に発表した\n・組織運営の強化を目的とした経営陣の刷新が行われる見込みである\n・具体的な人事異動や新体制の詳細は今後公表される可能性がある",
-      "score": 2,
-      "reason": "人事異動のお知らせで広告運用実務と無関係",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Google News",
-      "title": "MetaのAI広告でROAS2割向上 内製「ハイブリッド型」が正解の理由 - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taE5sdEVLNGxRNkNvSGR1UzM3ZkdvSFR2QzdjalhOU3YxQmpfeExBODZYWUJHNWJWSG9PZWZ0eUdkS3VZbXp3RHd6MllodDBxeUktX0dwb2RCdGdNS0IxSlRxaWc3UQ?oc=5",
-      "summary": "・MetaのAI広告ツール活用によりROAS（広告費用対効果）が約2割向上した事例が報告された\n・広告運用をすべて外注せず社内チームとAIを組み合わせる「ハイブリッド型」体制が成果の鍵となった\n・AI自動最適化に任せつつ人間が戦略設計や検証を担う役割分担が費用対効果の最大化に直結する",
-      "score": 9,
-      "reason": "MetaAI広告でROAS向上の実践事例、即実務活用可能",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Google News",
-      "title": "その成果は本当に「広告のおかげ」ですか？Metaがインクリメンタルの計測で実現する、真の価値最大化 - MarkeZine（マーケジン）",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RR3ZNZm5ib09aOGJ5OFRhUU1rV3VtQ3NsME1SUEcwbVRETWxNbUdWdHFiU3ZpSHhXLVJ6LU8yVXhQVmxYcExWank5ZkdmLVBfYTVZ?oc=5",
-      "summary": "・Metaが広告の純増効果を測る「インクリメンタリティ計測」の重要性を提唱している\n・広告接触がなくても発生した成果を除き、広告による真の増分効果を可視化する手法を紹介\n・正確な増分価値の把握により、広告予算配分の最適化と投資対効果の最大化を目指す",
-      "score": 9,
-      "reason": "Metaインクリメンタル計測解説、効果測定の実務直結",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Google News",
-      "title": "P-MAXのアセット実績、把握できてる？ Google 広告 スクリプトでアセット別実績レポートを自動作成 (Web担当者Forum) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWZpeURtUGRKektLeE9KT0FmemNiSjBnMXpQODl3U0pMcGF5NUNHamQ4N0wxMV94U3FMTUdXTnVscEx1clBtem01TGs4UXN0c1hvb05CWkowc3VBeGowS1NIX0VzWHcxc1VSSjhtVGxhMnpLRVNFXzhhVG5ib0dERThLUnNyRGdScTBlc1V3?oc=5",
-      "summary": "・P-MAXキャンペーンのアセット別実績が把握しにくい課題に対する解決策を紹介\n・Google広告スクリプトを活用しアセットごとの実績レポートを自動作成する方法を解説\n・手動確認の手間を省き、クリエイティブ改善のPDCAを効率化する運用術を提案",
-      "score": 9,
-      "reason": "P-MAXアセット実績スクリプト、即実務活用可能な技術情報",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "P-MAXのアセット実績、把握できてる？ Google 広告 スクリプトでアセット別実績レポートを自動作成…レポート作成手順とカスタマイズ方法レポート作成手順については本連載の第一回「Google広告レポートを自動化しよう！ スクリプトを使って業務効率UP」の手順に沿ってください。Web担当者ForumIT総合5/19(火) 7:16",
-      "link": "https://news.yahoo.co.jp/articles/df0c8b4f852cdcb48d64628695964944e35c5822",
-      "summary": "・P-MAXキャンペーンのアセット別実績をGoogle広告スクリプトで自動レポート化する方法を解説\n・レポート作成手順は連載第一回のスクリプト導入記事に基づき業務効率化を図る内容\n・アセットごとのパフォーマンス把握とレポートのカスタマイズ方法を具体的に紹介している",
-      "score": 9,
-      "reason": "id22と同一、P-MAXスクリプト実装手順の実践的内容",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…6%改善し、クリエイティブの改善機会を発見するまでの期間を半減させた。運用型広告は膨大なアカウントやキャンペーン、クリエイティブを並行管理しながら効果…Web担当者ForumIT総合4/7(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
-      "summary": "・サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」の提供を開始した\n・導入により広告効果が6%改善しクリエイティブの改善機会発見期間を半減させた\n・運用型広告の膨大なアカウントやキャンペーン管理をAIで効率化する狙い",
-      "score": 8,
-      "reason": "CA広告運用AIエージェント、Meta広告自動運用の実務情報",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Google News",
-      "title": "楽天ショックで「広告内製化」一挙加速 代理店の役割が大転換 - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N1J5UkxRRjU3Y09fMk1BYTR1d0xVaXN4Zy1sVmpleHdDa0p2WGprMS1MRy1GUks3czBZbmc4UFAwLWNfYzB6THN4UlZyVUl0d2psSjhoaUpUeFY2aTVBZ0pNVWgzQQ?oc=5",
-      "summary": "・楽天が広告運用の内製化を進める動きが業界に衝撃を与え波紋が広がっている\n・大手企業を中心に広告運用を自社内で完結させるインハウス化が一気に加速している\n・従来の運用代行から戦略立案・コンサル型へと広告代理店の役割が大きく転換している",
-      "score": 8,
-      "reason": "広告内製化トレンド、代理店・運用体制に直結する重要動向",
-      "date": "2026-05-20"
-    },
-    {
-      "source": "Google News",
-      "title": "【無料公開】AIに最適化された広告が「なぜ失速するのか？」アルゴリズム時代のWeb広告運用見直しガイドを公開 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrSGRBZ3NJMUQtc0R5YmFNdk1LYk5LbmtFSGhlbEFuZHdKUHcyV3d0UHVfUXJFNUxBcF9ySDhVT2hPSGhlYU9KWFZxcTNWM3BqODVkYUNYYXFGREw5amEtV2VyeER4RnUtMDJDaVFENzVMRkVBZ29CdkVtYw?oc=5",
-      "summary": "・AI最適化広告が一定期間後に成果が低下する「失速」現象の原因を解説する無料ガイドが公開された\n・アルゴリズム依存の広告運用における課題を整理しWeb広告の見直しポイントを提示している\n・自動入札やターゲティングに頼りすぎるリスクを指摘し運用改善の具体策を紹介する内容となっている",
-      "score": 8,
-      "reason": "AI最適化広告の失速原因と対策、運用改善に直結",
-      "date": "2026-05-20"
-    },
     {
       "source": "Google広告",
       "title": "Google Marketing Live 2026",
@@ -4157,6 +4066,96 @@
       "score": 5,
       "reason": "景表法・UGC関連で広告表現の注意喚起に有用",
       "date": "2026-06-19"
+    },
+    {
+      "source": "Google News",
+      "title": "Instagramでライブ動画広告を導入、商品タグもアフィリエイトリンクに対応 - meta.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDTjdfZUt4bEJqR1dsbDZwRUhlUE52TXYzbHhCbkN6eEhwZ0Y3cWtWRzlVOU5Fck1ZSm5SMVJCOWVwdVh3ZzFCOGl1bDlTSXJFcTRiZHpLZEEtQm0xSXN3SDZ5dFZNeFNzaWlnM3NNNDZBOWfSAXNBVV95cUxQQ043X2VLeGxCakdXbGw2cEVIZVBOdk12M2x4Qm5DenhIcGdGN3FrVkc5VTlORXJNWUpuUjFSQjllcHVYd2cxQjhpdWw5U0lyRXE0YmR6S2RBLUJtMUlzd0g2eXRWTXhTc2lpZzNzTTQ2QTln?oc=5",
+      "summary": "・Instagramがライブ動画内に広告を表示する新機能を導入しクリエイター収益化を強化した\n・商品タグ機能がアフィリエイトリンクに対応しライブ配信中の購買導線が拡充された\n・Metaはクリエイターエコノミー支援を加速しEC連携による広告収益の多角化を推進する",
+      "score": 9,
+      "reason": "Instagram新広告フォーマット発表で即実務影響大",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「買い物中にお得情報を見ると買っちゃう」店内広告が新たな収益に…高い宣伝効果で広がるリテールメディア…はさらに増えて１兆６００億ドルに拡大し、このうちデジタル広告が７割を占める見通し。 デジタル広告の中でＲＭは特に高い成長を続けるとしており、２６年…読売新聞オンライン経済総合6/20(土) 11:00",
+      "link": "https://news.yahoo.co.jp/articles/c95533ba5c9e7d496072c057e17b40e00053154b",
+      "summary": "・店内デジタル広告「リテールメディア」が小売業の新たな収益源として急速に拡大している\n・世界の広告市場は1兆600億ドル規模に成長しデジタル広告が全体の約7割を占める見通し\n・購買時点で接触するため宣伝効果が高く2026年に向けRMは特に高成長が続く予測",
+      "score": 5,
+      "reason": "リテールメディア市場動向で業界知識として有用",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…IJ BizRis 2025/7/25(金)日本でも、2026年中には消費者庁がダークパターン規制に関する検討を本格的に進めるとされています出典：東芝…前田恒彦社会6/20(土) 9:05",
+      "link": "https://news.yahoo.co.jp/expert/articles/c2c3c17980aa68d960177ced09b3a24a8463b60e",
+      "summary": "・閉じるボタン「×」が見つからない広告の法的問題とユーザー体験への悪影響を専門家が解説している\n・消費者庁は2026年中にダークパターン規制の本格検討を進める方針であると報じられている\n・閉じられない広告はダークパターンの一種であり今後日本でも法規制の対象となる可能性が高い",
+      "score": 5,
+      "reason": "広告表示規制動向で運用時の法的リスク把握に有用",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダークパターン、「見たことある」76％ 消費者庁調査 消費者庁が18日に発表した消費者意識調査結果で、ウェブサイト等でいわゆる「ダークパターン」を見たことがある割合は76％に上ることがわかった。 執…健康産業速報産業6/19(金) 12:20",
+      "link": "https://news.yahoo.co.jp/articles/009bb946e386165452887dff1b712f68e657c2a7",
+      "summary": "・消費者庁が消費者意識調査を6月18日に発表しダークパターンの認知状況を公開した\n・ウェブサイト等でダークパターンを見たことがある人の割合が76％に達した\n・消費者を誤誘導するデザイン手法の広がりが消費者庁の調査で裏付けられた",
+      "score": 5,
+      "reason": "ダークパターン規制動向は広告表現設計に影響",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…ターンを包括的に禁止する法律はありません。表示内容や誘導方法によっては景品表示法上の不当表示などの問題が生じる可能性がありますが、現行法は主に表示内容…前田恒彦社会6/20(土) 9:05",
+      "link": "https://news.yahoo.co.jp/expert/articles/c2c3c17980aa68d960177ced09b3a24a8463b60e",
+      "summary": "・閉じるボタン「×」が見つけにくい広告など悪質なダークパターン広告の法的問題を解説した記事\n・日本では閉じられない広告デザインを包括的に禁止する法律は現時点で存在しない\n・景品表示法の不当表示に該当する可能性はあるが現行法は主に表示内容の規制にとどまる",
+      "score": 5,
+      "reason": "閉じられない広告の法的論点で配信設計に参考",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ「ダークパターン」が生まれるのか？ 誤りの“勝ちパターン”という認識…トメディアによる追求と拡散が始まります。もしダークパターンをやりすぎて景品表示法や特定商取引法に違反する行為などが見つかれば、監督省庁から指導や業務改…ITmedia NEWSIT総合6/18(木) 21:17",
+      "link": "https://news.yahoo.co.jp/articles/42fcabd35b42aefc8f1db010f533409f0de0316f",
+      "summary": "・ダークパターンはA/Bテスト等で短期的成果を追求した結果「勝ちパターン」と誤認され定着しやすい\n・メディアの追及や消費者の拡散により企業のダークパターン活用が社会問題として可視化されつつある\n・景品表示法や特商法に抵触すれば監督省庁の指導対象となりブランド毀損や法的リスクが高まる",
+      "score": 5,
+      "reason": "ダークパターンの背景解説で広告運用の注意喚起",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）…のアクティビティが含まれることもあるグーグルやフェイスブックに代わるデジタル広告アプリとしても売り込んでいる。 「特定のブランドに対するロイヤルティプ…BUSINESS INSIDER JAPAN経済総合6/19(金) 7:10",
+      "link": "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf",
+      "summary": "・AI時代のボット問題に対抗するスタートアップが1850万ドルを調達しピッチデックを公開した\n・ブランドと関わる実在の人間の顧客に報酬を支払う仕組みで広告効果の信頼性を高める\n・グーグルやフェイスブックに代わるデジタル広告プラットフォームとして差別化を図る",
+      "score": 4,
+      "reason": "海外スタートアップ事例で日本実務への即効性低い",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok for Business、国内広告代理店向けアワードを実施 グランプリは電通グループ：commercezine - MarkeZine",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZnJWU2cwNVlmNlYyaXJSX0xPUFl6R2JWM1hIdVVLeUN3cndjTW9TMzNoUkFRaE1xOG5LUmxySmpNLWkzaGE5VWgzdDRpLU0?oc=5",
+      "summary": "・TikTok for Businessが国内広告代理店を対象としたアワードを開催した\n・広告活用や成果における優れた取り組みを行った代理店を表彰する企画である\n・グランプリには電通グループが選出され最高評価を獲得した",
+      "score": 4,
+      "reason": "TikTok代理店アワード受賞報告で実務知見少ない",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Google News",
+      "title": "市内店舗のデジタル広告を支援します - city.atsugi.kanagawa.jp",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5",
+      "summary": "・厚木市が市内店舗のデジタル広告活用を支援する施策を実施している\n・地域の小売店や飲食店などを対象にデジタル広告導入を促進する取り組み\n・自治体主導で地元事業者のデジタルマーケティング強化を図る方針",
+      "score": 3,
+      "reason": "自治体の補助金施策で実務ノウハウではない",
+      "date": "2026-06-20"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "だから「もっと投資すれば必ず増える」を信じてしまう…投資詐欺で\"狙われやすい人\"の共通点 日本でも、こうした状況を受けて消費者庁がステルスマーケティングを景品表示法の対象に位置づけ、2023年から規制を開始した。すなわち「広告であることを隠して宣伝…プレジデントオンライン社会6/20(土) 8:15",
+      "link": "https://news.yahoo.co.jp/articles/b9ea66cc2915cfd83c0747a77608ea8f6fbfcf1c",
+      "summary": "・「もっと投資すれば増える」という心理を悪用した投資詐欺の手口と狙われやすい人の特徴を解説\n・消費者庁が2023年からステルスマーケティングを景品表示法の規制対象に追加し取り締まりを強化\n・広告であることを隠した宣伝行為が投資詐欺の温床となり被害拡大につながっていると指摘",
+      "score": 3,
+      "reason": "投資詐欺・ステマ規制の一般論で実務直結度低い",
+      "date": "2026-06-20"
     }
   ]
 }
