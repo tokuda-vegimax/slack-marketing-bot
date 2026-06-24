@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SjRQV2l5S01FeGw0UjY2U0N5M1RnZmYyYnVrVTljOURGaWtyOGhvRGZtSXplSEpDbFNXa3NwYlpfZnJTNXJiSHg3Wk5Zd2xaMmZsLUhqMHprZw?oc=5": "2026-05-24",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCMHFHUC1BNXlvbzlLVzVtOEttMEFSVDJrcExVdFg1ZVdCRFBoOGFfOEFlYU1XSWpuOTd2MnE4d0d2UllzV05zaUJnamRCd2lnbDV6RGV0dFQ2N0lrVUlQSjB3TGFnb29Dbmc?oc=5": "2026-05-24",
-    "https://news.yahoo.co.jp/articles/9b56386a53b82d1049e82138228cf6ee69b2894b": "2026-05-24",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11V1M3VU0zbGlIczk5M2R6UkMwZFBaNnhQRHgxWVNQeTk5VVZPb3diSVpxSkZ4MFZKTGt2aDYtWjAyOGV1d1dXWU9tTjIwMDNxZTlEM29xcDVzSXRRTHZnYTVDY2E?oc=5": "2026-05-24",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRVU1d1QyeHIyMUZrSl95S0NvaWgtZGZzRENFMjVQT283d2NucGwzd3BpajBzWmlJLXJBVVpKOVdKLW5ONzJPbUFhVmVLTDlSTDJpdkU1Z29weG11VDE1b25nVHdlMGk2dzJKbGNZRlR6eTc4dEF6cDktUk9kOVVfVjR5SVpqb0lrdmtaeGJSU0ZlTGFIVzNTOGVsQU95NGg1UDBzazlKT1FqZkVhNkFZMUVOZzk5Y0MxbVdjQktVWklMaXV5eFJjSHdZci0?oc=5": "2026-05-24",
-    "https://news.yahoo.co.jp/articles/1641b3cdc538c188b9b78bcac5dc513ff123c9f6": "2026-05-24",
-    "https://news.yahoo.co.jp/articles/7565487beb7f92c5b3d1777a99f361629de68645": "2026-05-24",
-    "https://news.yahoo.co.jp/articles/ca8c0c7163bbd9415988f5b30acef8807c4c1851": "2026-05-24",
-    "https://news.yahoo.co.jp/articles/310a95b0a2118ac3e9f75cc8a8db89ed4f7f0edf": "2026-05-24",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ab25uRnVLTE1BRXhYYWhkTUUwMmJQNWpCQ2tjcTJ6RVhxVTdyVmlBRWZfejJ1OUM3UE9TbUMtZWlNeTJlcUo2MDNUckI2SnQxZTdaVEdFdjlBcllfMk9QaW4xQ0NqODFYQXc?oc=5": "2026-05-24",
     "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-08": "2026-05-25",
     "https://dentsudigital.co.jp/news/release/services/2026-0525-000321": "2026-05-25",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/platform-integration-guide/?list=23496": "2026-05-25",
@@ -288,49 +278,19 @@
     "https://news.yahoo.co.jp/articles/3a443412aa0bd308cda51cb6c53c9b7224d0768a": "2026-06-23",
     "https://news.yahoo.co.jp/expert/articles/6455735d295301afa9d187c158015b7db8bb6f89": "2026-06-23",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qY3RPMmlTV25YM3NJWWZLdFlROUF4VG1tOERGRFFNNmhFWmNhSFkwY0pZWkRVVGNVdGZ6dXdiZlctbmdpT21ZLS15SGo?oc=5": "2026-06-23",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sNTJyNFdIcVgtLTZ6ajROeEJSZlpBdzdKa1NGUnk4eHZTSzd0TVAwZXl6MEpBTTd5WGFHRDB5a1htcHlzc1N5dW1ldWp0R0x2d0NTdHRlMURqZjM0TXVn?oc=5": "2026-06-23"
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sNTJyNFdIcVgtLTZ6ajROeEJSZlpBdzdKa1NGUnk4eHZTSzd0TVAwZXl6MEpBTTd5WGFHRDB5a1htcHlzc1N5dW1ldWp0R0x2d0NTdHRlMURqZjM0TXVn?oc=5": "2026-06-23",
+    "https://www.lycbiz.com/jp/column/line-official-account/service-information/crm/": "2026-06-24",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-generative-ai-performance-report-search-console": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZUlsTkU4MzlPY0U3X0kzcG5wOFRNaHhIZHd4bmFYQ2l2YVQwc0UwTWNaUWJsSzZidGRkdTY1Z25Meml5RlVCZ3V3em1OZzNXUmhzVFlhS0ZHUE1pc0t2Vnd0Q3B3UQ?oc=5": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQ0VvcThTVV9teGRieTNKdWF4dnd1bXpSZ2FVNmwyd0xKa2hfcG5tWkl3dHFyTDRBMjNFMF9OYldZQ3J6V1VsRzdLajVqSk5IMV9IaVQ1WmwwVXVvZ0hqZlNoZEdGOTJR?oc=5": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pa1d1OWhCYTlZYWxWQS0xOUhaZG5YYmxvaTUxVW9wNzJtUDhoakZDUjF2eVF4cTQtcjRENlJXeVBDTy1BaVJJUDh2dWhZcGFKWDI5M3dQLThPWkI1Z0NIZWxaSzR0OVlES25OYQ?oc=5": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jbWZoR0toOG1HdmdsNzFZVllkdlNHU2c5azlYeVdEU0JEQW9SUl9ZZzFObGNqdExvVkpxNEQ3VFVsRVNGa3lWSTUxRUNYVFdLc3ktZWpWdEVNTVVtRVExQUNFRzI1N0RWV3c?oc=5": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXpMM1VfRUF2bkNZVHF2RWVWcDJ3RHZVX0EzV3lkMzJUSWZObTlISUFWcnBFMTVpU1JzdkxoWnYxdWEzU3VSaUFlUnVFV2ZhYm15a0xOSkZ6eThTNDdtZmhiSkhzZERyRUxVbEdqTklPbDRvaHJhQ2xGYUx0QlE4U19pbm1zZjg?oc=5": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4OWIxR3dmWlE1ZGlQM2k4VGRGcEQzQVBKdXdBYkhyM3R3dmdITmxqS2lrVGJQWUllSWc2WF9OYWFfRlp0RkQ1RzJWNi13YmI3UkJFZVl2QTJaVXFHUDFXaDNRQ05ZeW95?oc=5": "2026-06-24",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xcUJCUmhUUHJBeTdGYUNWa1dEUl9nSnVwWjZjTUtfWlZsNUswbGJvdERuNmp4MUowSkxMdHktUFYweEhabHVSRXd4MU1rWU5QRC1PR04tNWYwREU4X2dwZnhmbFNJQUhTU3R6dmF1MlotTThE?oc=5": "2026-06-24",
+    "https://news.yahoo.co.jp/articles/4d21f5659ae486443eefe1278df06d2da04ceefb": "2026-06-24"
   },
   "titles": [
-    {
-      "title": "消費者庁、健康食品等156業者、176商品に「虚偽・誇大表示」改善指導 - ECのミカタ",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "TikTok広告の活用実績を称える「TikTok for Business Japan Agency Awards 2026」にて14賞を表彰、2026年の戦略と受賞代理店向けサポートプログラムを発表 | Bytedance株式会社のプレスリリース - PR TIMES",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "「Anthropicショック」の衝撃とその先 SaaS市場を揺るがし、国家と対峙するAI企業の理念とは Code」を活用し、デザインツール「Figma」のプラグインや、Google広告の自動生成ワークフローを自作した。驚くべきは、これがエンジニアではな…リアルサウンドIT総合2/28(土) 12:00",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "自治体デジタル広告の「予算要求」「仕様書作成」「プロポーザル」まで完全解説！｜sembear合同会社、一般社団法人デジタル広告品質認証機構（JICDAQ）が主催する「自治体デジタル広告基礎講座」に登壇 - 福島民友新聞社",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "バリュークリエーション[9238]：Meta公式パートナープログラム「Meta Business Partners」において 「バッジ取得パートナー」に認定 2026年5月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "巨大複合企業アマゾン、分割より何でもありが有利とアピール…ピューティング最大手でもある。 さらに、データの取り方によっては、デジタル広告と食品スーパー、動画配信、データセンター向け半導体設計でも上位5社に入る。Bloomberg経済総合5/23(土) 7:45",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "マスクの火星入植計画と強大な支配権、スターリンクの利益を「食いつぶす」恐れ アナリストが指摘…33兆円）、スターリンクのモバイル向け事業で7400億ドル（約117.66兆円）、Xのデジタル広告事業で6000億ドル（約95.4兆円）、AIインフラ事業で2兆4000億ドル（約381…Forbes JAPAN経済総合5/22(金) 9:00",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "ちょっと、生活が苦しくて…年金月17万円の70歳母から電話で“SOS”→急いで帰省した43歳長男が半年ぶりの実家で目にした「衝撃の光景」【CFPの警告】…で、ネット通販が便利で有効な手段であることは間違いありません。 一方、消費者庁「令和5年版消費者白書」によると、65〜74歳までの消費者トラブルとして…THE GOLD ONLINE（ゴールドオンライン）ライフ総合5/18(月) 11:00",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "「楽な副業」はやっぱり甘いワナ…「ＳＮＳで月３０万」のはずが「初期費用」要求され、報酬も払われず…２０歳代が男性２０％、女性１３％と、いずれも年代別で最高だった。 消費者庁によると、国が企業に対して労働者の副業を推奨するようになった１８年以降、…読売新聞オンライン社会5/17(日) 15:00",
-      "date": "2026-05-24"
-    },
-    {
-      "title": "難関国立大→大手広告代理店のトップ俳優 サラリーマン時代の独特な眠気覚ましを告白「目覚めるねん！」 - デイリースポーツ",
-      "date": "2026-05-24"
-    },
     {
       "title": "事業会社と支援会社のAI活用共創は「現場間の対話」から生まれる ー組織におけるAI活用術【第8回】",
       "date": "2026-05-25"
@@ -1478,99 +1438,49 @@
     {
       "title": "金沢の広告代理店が自己破産手続きへ・差別化と業容拡大進まず - TBS NEWS DIG",
       "date": "2026-06-23"
+    },
+    {
+      "title": "LINE公式アカウントでリピーターづくりをもっと簡単に！「CRMオプション」の費用やメリットとは",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Google 、Search Consoleに生成AIパフォーマンスレポートの導入を発表",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "広告代理店が教えたくなかった 超実践「完全内製化への8ステップ」 - 日経クロストレンド",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "プレスリリース：［定期調査］薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.4.8（PR TIMES） - 毎日新聞",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "実はAIで大成功していたMeta、広告売上高がGoogle超えとの予測も - 日経クロステック",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "北海道新聞社「道新DSP」、地域データを活用した広告配信へ マイクロアドが開発支援 - media-innovation.jp",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "マイクロアド---「UNIVERSE」、パートナー企業向け広告配信技術提供を加速、各社独自のデジタル広告の開発支援を強化 - Yahoo!ファイナンス",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "プレスリリース：［7月22日19:00～開催］広告代理店・SEO・SNS・Web制作会社が渋谷に集結--案件紹介と協業を生む“マーケターアライアンス交流会”をKOBUSHI BEERが開催！（PR TIMES） - 毎日新聞",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Claudeをかたる攻撃がアジア太平洋地域で多発 偽広告から不正コード実行へ - ITmedia",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "「人に指図されていたら、いい仕事はできない」…欧州サッカー最前線の日本人が見た“ドイツ最強代理人事務所”の凄み…のときにオフィス用品を販売する会社を起業し、サッカーグッズの企画制作や広告代理店の仕事に手を広げて成功したビジネスマンです。 2006年ドイツW杯…東洋経済オンライン経済総合6/24(水) 11:00",
+      "date": "2026-06-24"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "消費者庁、健康食品等156業者、176商品に「虚偽・誇大表示」改善指導 - ECのミカタ",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SjRQV2l5S01FeGw0UjY2U0N5M1RnZmYyYnVrVTljOURGaWtyOGhvRGZtSXplSEpDbFNXa3NwYlpfZnJTNXJiSHg3Wk5Zd2xaMmZsLUhqMHprZw?oc=5",
-      "summary": "・消費者庁が健康食品等を扱う156業者・176商品に対し虚偽・誇大表示の改善指導を実施した\n・対象商品は健康食品等で、景品表示法や健康増進法に基づく不当表示が問題視された\n・EC事業者にとって広告表現の適正化や法令遵守の徹底が改めて求められる結果となった",
-      "score": 6,
-      "reason": "虚偽誇大表示の行政指導は広告表現の注意喚起に有用",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok広告の活用実績を称える「TikTok for Business Japan Agency Awards 2026」にて14賞を表彰、2026年の戦略と受賞代理店向けサポートプログラムを発表 | Bytedance株式会社のプレスリリース - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCMHFHUC1BNXlvbzlLVzVtOEttMEFSVDJrcExVdFg1ZVdCRFBoOGFfOEFlYU1XSWpuOTd2MnE4d0d2UllzV05zaUJnamRCd2lnbDV6RGV0dFQ2N0lrVUlQSjB3TGFnb29Dbmc?oc=5",
-      "summary": "・TikTok for Business Japan Agency Awards 2026が開催され、広告活用実績に優れた代理店に14賞が表彰された\n・2026年のTikTok広告における戦略方針が発表され、今後の広告展開の方向性が示された\n・受賞した代理店向けに特別サポートプログラムが新たに発表され、連携強化が図られる",
-      "score": 6,
-      "reason": "TikTok広告の戦略・代理店表彰で業界動向把握に有用",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「Anthropicショック」の衝撃とその先 SaaS市場を揺るがし、国家と対峙するAI企業の理念とは Code」を活用し、デザインツール「Figma」のプラグインや、Google広告の自動生成ワークフローを自作した。驚くべきは、これがエンジニアではな…リアルサウンドIT総合2/28(土) 12:00",
-      "link": "https://news.yahoo.co.jp/articles/9b56386a53b82d1049e82138228cf6ee69b2894b",
-      "summary": "・Anthropicの技術革新がSaaS市場に大きな衝撃を与え業界構造の変化が加速している\n・非エンジニアがClaude CodeでFigmaプラグインやGoogle広告自動生成を自作可能に\n・AI企業Anthropicの理念が国家レベルの規制議論と対峙する構図が鮮明になっている",
-      "score": 5,
-      "reason": "AIによるGoogle広告自動生成の事例に一部言及あり",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Google News",
-      "title": "自治体デジタル広告の「予算要求」「仕様書作成」「プロポーザル」まで完全解説！｜sembear合同会社、一般社団法人デジタル広告品質認証機構（JICDAQ）が主催する「自治体デジタル広告基礎講座」に登壇 - 福島民友新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11V1M3VU0zbGlIczk5M2R6UkMwZFBaNnhQRHgxWVNQeTk5VVZPb3diSVpxSkZ4MFZKTGt2aDYtWjAyOGV1d1dXWU9tTjIwMDNxZTlEM29xcDVzSXRRTHZnYTVDY2E?oc=5",
-      "summary": "・sembear合同会社がJICDAQ主催の「自治体デジタル広告基礎講座」に登壇することが発表された\n・講座では自治体向けに予算要求・仕様書作成・プロポーザルの実務を完全解説する内容となっている\n・自治体職員がデジタル広告を適切に発注・運用するための基礎知識習得を目的としている",
-      "score": 4,
-      "reason": "自治体広告の講座告知で直接的な運用ノウハウは薄い",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Google News",
-      "title": "バリュークリエーション[9238]：Meta公式パートナープログラム「Meta Business Partners」において 「バッジ取得パートナー」に認定 2026年5月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRVU1d1QyeHIyMUZrSl95S0NvaWgtZGZzRENFMjVQT283d2NucGwzd3BpajBzWmlJLXJBVVpKOVdKLW5ONzJPbUFhVmVLTDlSTDJpdkU1Z29weG11VDE1b25nVHdlMGk2dzJKbGNZRlR6eTc4dEF6cDktUk9kOVVfVjR5SVpqb0lrdmtaeGJSU0ZlTGFIVzNTOGVsQU95NGg1UDBzazlKT1FqZkVhNkFZMUVOZzk5Y0MxbVdjQktVWklMaXV5eFJjSHdZci0?oc=5",
-      "summary": "・バリュークリエーション（9238）がMeta公式パートナープログラムに認定された\n・「Meta Business Partners」において「バッジ取得パートナー」の資格を獲得した\n・2026年5月22日に適時開示として発表されMeta広告運用の実績が評価された",
-      "score": 4,
-      "reason": "Meta公式パートナー認定の企業プレスリリース",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "巨大複合企業アマゾン、分割より何でもありが有利とアピール…ピューティング最大手でもある。 さらに、データの取り方によっては、デジタル広告と食品スーパー、動画配信、データセンター向け半導体設計でも上位5社に入る。Bloomberg経済総合5/23(土) 7:45",
-      "link": "https://news.yahoo.co.jp/articles/1641b3cdc538c188b9b78bcac5dc513ff123c9f6",
-      "summary": "・アマゾンは分割せず多角経営を維持する方が有利だと主張し巨大複合企業としての強みをアピールしている\n・クラウドコンピューティング最大手に加えデジタル広告や食品スーパー等でも上位5社に入る存在感を示す\n・動画配信やデータセンター向け半導体設計など多分野での競争力が分割不要論の根拠となっている",
-      "score": 2,
-      "reason": "アマゾン企業分析で広告運用実務との関連が薄い",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "マスクの火星入植計画と強大な支配権、スターリンクの利益を「食いつぶす」恐れ アナリストが指摘…33兆円）、スターリンクのモバイル向け事業で7400億ドル（約117.66兆円）、Xのデジタル広告事業で6000億ドル（約95.4兆円）、AIインフラ事業で2兆4000億ドル（約381…Forbes JAPAN経済総合5/22(金) 9:00",
-      "link": "https://news.yahoo.co.jp/articles/7565487beb7f92c5b3d1777a99f361629de68645",
-      "summary": "・アナリストがマスク氏の火星入植計画がスターリンクの利益を食いつぶすリスクを指摘した\n・スターリンクのモバイル事業やXのデジタル広告事業など巨額の収益機会が試算されている\n・マスク氏の強大な支配権が各事業の利益配分や投資判断に影響を及ぼす懸念が浮上した",
-      "score": 1,
-      "reason": "マスクの宇宙事業の話で広告運用と無関係",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ちょっと、生活が苦しくて…年金月17万円の70歳母から電話で“SOS”→急いで帰省した43歳長男が半年ぶりの実家で目にした「衝撃の光景」【CFPの警告】…で、ネット通販が便利で有効な手段であることは間違いありません。 一方、消費者庁「令和5年版消費者白書」によると、65〜74歳までの消費者トラブルとして…THE GOLD ONLINE（ゴールドオンライン）ライフ総合5/18(月) 11:00",
-      "link": "https://news.yahoo.co.jp/articles/ca8c0c7163bbd9415988f5b30acef8807c4c1851",
-      "summary": "・年金月17万円の70歳母がSOSを発し、帰省した長男が実家で異変を発見した事例を紹介\n・高齢者がネット通販で過剰購入や定期購入トラブルに陥るケースが増加している\n・消費者庁の令和5年版白書でも65〜74歳の消費者トラブル増加をCFPが警告している",
-      "score": 1,
-      "reason": "高齢者の消費トラブルで広告運用と無関係",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「楽な副業」はやっぱり甘いワナ…「ＳＮＳで月３０万」のはずが「初期費用」要求され、報酬も払われず…２０歳代が男性２０％、女性１３％と、いずれも年代別で最高だった。 消費者庁によると、国が企業に対して労働者の副業を推奨するようになった１８年以降、…読売新聞オンライン社会5/17(日) 15:00",
-      "link": "https://news.yahoo.co.jp/articles/310a95b0a2118ac3e9f75cc8a8db89ed4f7f0edf",
-      "summary": "・「SNSで月30万円稼げる」などの副業詐欺で初期費用を要求され報酬が支払われない被害が増加している\n・被害経験率は20歳代が最も高く男性20％・女性13％と若年層が特に狙われやすい傾向にある\n・消費者庁は2018年の副業推奨政策以降こうした副業トラブルが増加していると指摘している",
-      "score": 1,
-      "reason": "副業詐欺の注意喚起で広告運用と無関係",
-      "date": "2026-05-24"
-    },
-    {
-      "source": "Google News",
-      "title": "難関国立大→大手広告代理店のトップ俳優 サラリーマン時代の独特な眠気覚ましを告白「目覚めるねん！」 - デイリースポーツ",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ab25uRnVLTE1BRXhYYWhkTUUwMmJQNWpCQ2tjcTJ6RVhxVTdyVmlBRWZfejJ1OUM3UE9TbUMtZWlNeTJlcUo2MDNUckI2SnQxZTdaVEdFdjlBcllfMk9QaW4xQ0NqODFYQXc?oc=5",
-      "summary": "・難関国立大卒で大手広告代理店に勤務した経歴を持つトップ俳優が過去を語った\n・サラリーマン時代に実践していた独特な眠気覚ましの方法をテレビ番組で告白した\n・「目覚めるねん！」と独自の覚醒法を明かし、異色の経歴とともに注目を集めた",
-      "score": 1,
-      "reason": "俳優のエピソード紹介で広告運用と無関係",
-      "date": "2026-05-24"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "事業会社と支援会社のAI活用共創は「現場間の対話」から生まれる ー組織におけるAI活用術【第8回】",
@@ -4153,6 +4063,96 @@
       "score": 2,
       "reason": "地方代理店の倒産ニュースで運用実務と無関係",
       "date": "2026-06-23"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "LINE公式アカウントでリピーターづくりをもっと簡単に！「CRMオプション」の費用やメリットとは",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/service-information/crm/",
+      "summary": "・LINE公式アカウントに新たな「CRMオプション」が登場しリピーター育成を効率化できる\n・顧客管理機能を追加することでセグメント配信や顧客分析がより手軽に実施可能になる\n・LINEヤフーが法人向けに費用対効果の高いCRM活用法やノウハウを提供している",
+      "score": 5,
+      "reason": "LINE CRM機能紹介で広告運用より顧客管理寄り",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、Search Consoleに生成AIパフォーマンスレポートの導入を発表",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-generative-ai-performance-report-search-console",
+      "summary": "・GoogleがSearch Consoleに生成AIパフォーマンスレポートを新たに導入すると発表した\n・生成AI機能における自社サイトの表示実績やパフォーマンスを確認できる\n・レポートは「検索」と「Discover」の2種類が用意されている",
+      "score": 4,
+      "reason": "SEO寄りのSearch Console新機能で広告運用への直接影響は限定的",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "広告代理店が教えたくなかった 超実践「完全内製化への8ステップ」 - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZUlsTkU4MzlPY0U3X0kzcG5wOFRNaHhIZHd4bmFYQ2l2YVQwc0UwTWNaUWJsSzZidGRkdTY1Z25Meml5RlVCZ3V3em1OZzNXUmhzVFlhS0ZHUE1pc0t2Vnd0Q3B3UQ?oc=5",
+      "summary": "・広告運用の完全内製化を実現するための具体的な8ステップが日経クロストレンドで公開された\n・代理店依存から脱却し自社でデジタル広告を運用する実践的な手順とノウハウを詳述している\n・内製化によりコスト削減やデータ活用の自由度向上など企業側の競争力強化が期待される",
+      "score": 7,
+      "reason": "広告運用の内製化ステップは実務担当者に実践的価値あり",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "プレスリリース：［定期調査］薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.4.8（PR TIMES） - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQ0VvcThTVV9teGRieTNKdWF4dnd1bXpSZ2FVNmwyd0xKa2hfcG5tWkl3dHFyTDRBMjNFMF9OYldZQ3J6V1VsRzdLajVqSk5IMV9IaVQ1WmwwVXVvZ0hqZlNoZEdGOTJR?oc=5",
+      "summary": "・薬機法・景品表示法に違反する恐れのある広告表現の配信実例を定期調査として公表した\n・PR TIMESを通じて2026年4月8日付で調査結果のプレスリリースが配信された\n・違法広告の実態把握と業界の法令遵守意識向上を目的とした継続的な取り組みである",
+      "score": 6,
+      "reason": "薬機法・景表法違反広告の実例は審査・表現設計に有用",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "実はAIで大成功していたMeta、広告売上高がGoogle超えとの予測も - 日経クロステック",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pa1d1OWhCYTlZYWxWQS0xOUhaZG5YYmxvaTUxVW9wNzJtUDhoakZDUjF2eVF4cTQtcjRENlJXeVBDTy1BaVJJUDh2dWhZcGFKWDI5M3dQLThPWkI1Z0NIZWxaSzR0OVlES25OYQ?oc=5",
+      "summary": "・MetaがAI活用で広告事業において大きな成功を収めていることが明らかになった\n・AI技術の広告配信への活用が奏功し広告売上高でGoogle超えとの予測が浮上\n・Meta社のAI戦略が収益面で着実に成果を上げ業界の勢力図に変化の兆しがある",
+      "score": 6,
+      "reason": "MetaのAI活用と広告売上動向は業界理解に有用",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "北海道新聞社「道新DSP」、地域データを活用した広告配信へ マイクロアドが開発支援 - media-innovation.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jbWZoR0toOG1HdmdsNzFZVllkdlNHU2c5azlYeVdEU0JEQW9SUl9ZZzFObGNqdExvVkpxNEQ3VFVsRVNGa3lWSTUxRUNYVFdLc3ktZWpWdEVNTVVtRVExQUNFRzI1N0RWV3c?oc=5",
+      "summary": "・北海道新聞社が地域データを活用した広告配信基盤「道新DSP」を展開する方針を発表した\n・アドテク企業マイクロアドが道新DSPの開発を技術面から支援し構築を進めている\n・地方メディアが保有する地域密着データを活かした精度の高いターゲティング配信を目指す",
+      "score": 4,
+      "reason": "地域DSP開発の企業ニュースで直接的運用示唆は薄い",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "マイクロアド---「UNIVERSE」、パートナー企業向け広告配信技術提供を加速、各社独自のデジタル広告の開発支援を強化 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXpMM1VfRUF2bkNZVHF2RWVWcDJ3RHZVX0EzV3lkMzJUSWZObTlISUFWcnBFMTVpU1JzdkxoWnYxdWEzU3VSaUFlUnVFV2ZhYm15a0xOSkZ6eThTNDdtZmhiSkhzZERyRUxVbEdqTklPbDRvaHJhQ2xGYUx0QlE4U19pbm1zZjg?oc=5",
+      "summary": "・マイクロアドがデータプラットフォーム「UNIVERSE」のパートナー企業向け広告配信技術の提供を加速すると発表\n・各パートナー企業が独自のデジタル広告プロダクトを開発できるよう技術支援体制を強化する方針\n・企業ごとの保有データを活かした差別化された広告配信ソリューションの実現を目指す",
+      "score": 4,
+      "reason": "マイクロアドの事業発表で運用実務への直接影響は限定的",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "プレスリリース：［7月22日19:00～開催］広告代理店・SEO・SNS・Web制作会社が渋谷に集結--案件紹介と協業を生む“マーケターアライアンス交流会”をKOBUSHI BEERが開催！（PR TIMES） - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4OWIxR3dmWlE1ZGlQM2k4VGRGcEQzQVBKdXdBYkhyM3R3dmdITmxqS2lrVGJQWUllSWc2WF9OYWFfRlp0RkQ1RzJWNi13YmI3UkJFZVl2QTJaVXFHUDFXaDNRQ05ZeW95?oc=5",
+      "summary": "・7月22日19時より渋谷でマーケター向けアライアンス交流会が開催される\n・広告代理店・SEO・SNS・Web制作会社など多業種が集まり協業を促進\n・KOBUSHI BEER主催で案件紹介やビジネスマッチングの場を提供する",
+      "score": 3,
+      "reason": "交流会イベント告知で運用ノウハウ提供ではない",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Google News",
+      "title": "Claudeをかたる攻撃がアジア太平洋地域で多発 偽広告から不正コード実行へ - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xcUJCUmhUUHJBeTdGYUNWa1dEUl9nSnVwWjZjTUtfWlZsNUswbGJvdERuNmp4MUowSkxMdHktUFYweEhabHVSRXd4MU1rWU5QRC1PR04tNWYwREU4X2dwZnhmbFNJQUhTU3R6dmF1MlotTThE?oc=5",
+      "summary": "・AI「Claude」を装った偽広告がアジア太平洋地域で多発し、ユーザーを騙す攻撃が確認されている\n・偽広告を通じて悪意あるサイトへ誘導し、不正なコードを実行させる手口が用いられている\n・生成AIの知名度向上に便乗したソーシャルエンジニアリング攻撃への警戒が必要とされる",
+      "score": 2,
+      "reason": "セキュリティ脅威の話で広告運用との関連は薄い",
+      "date": "2026-06-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「人に指図されていたら、いい仕事はできない」…欧州サッカー最前線の日本人が見た“ドイツ最強代理人事務所”の凄み…のときにオフィス用品を販売する会社を起業し、サッカーグッズの企画制作や広告代理店の仕事に手を広げて成功したビジネスマンです。 2006年ドイツW杯…東洋経済オンライン経済総合6/24(水) 11:00",
+      "link": "https://news.yahoo.co.jp/articles/4d21f5659ae486443eefe1278df06d2da04ceefb",
+      "summary": "・欧州サッカー最前線で活躍する日本人がドイツ最強代理人事務所の強みを語る記事\n・オフィス用品販売から起業しサッカーグッズや広告代理店業へ事業拡大した人物を紹介\n・2006年ドイツW杯を契機に「指図されず自律的に動く」仕事術の重要性を指摘",
+      "score": 1,
+      "reason": "欧州サッカー代理人の話で広告運用と無関係",
+      "date": "2026-06-24"
     }
   ]
 }
