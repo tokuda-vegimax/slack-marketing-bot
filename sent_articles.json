@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/": "2026-05-27",
-    "https://anagrams.jp/blog/aggregation-media-operational-approach/": "2026-05-27",
-    "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/small-budget-advertising/?list=23496": "2026-05-27",
-    "https://dentsudigital.co.jp/news/release/services/2026-0526-000323": "2026-05-27",
-    "https://dentsudigital.co.jp/news/release/prizes/2026-0526-000322": "2026-05-27",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlNDlDTVppVlo5c3M2ejItTTlGZGh6RlJZYTB2OFNOd215Vm9kYVlZQXVhY2lPUlF2amhELVVUUU10Y0dlaTQ2X3BBNW5rLUYxV3lWTC1rZmN1VGxqQ3BQSXd2VVZ3R3NuaFBGcGlOYWFBaHhySFNNVw?oc=5": "2026-05-27",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WY3FXaVhwWlFJZi16M1FGaF9BVWtOUHhWTFltdmNSc3M1Q1VYR1BDTW1NamJLSUkzX3Qxa1UtMWZMeDNuaXZQdDU4SHlsUTlBV1U1bDFoN2ZuME1hZkZwUXhpUmtjUkxDMlpBN1oxNGszQUp0akZYYkdSOA?oc=5": "2026-05-27",
-    "https://news.yahoo.co.jp/articles/75e736a520a4f23c92033b4008a42d03a6a48464": "2026-05-27",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDQ4RnllbnVtTTF6RzJZMlAwM1dPOVFKQVpJYzVnV255VWxUNDM5QTNoRTVUdDlyOHRUcEQxSEpRNHZXVmNIWFNmdzk4N1A5ODJIc1I1VlB0R1BmeFdkNXloVjllMHl0VFNCME11QUdJbEY0dWMwTFN6Z0x1alQ1eGNLb3V1MERfUnlxWg?oc=5": "2026-05-27",
-    "https://news.yahoo.co.jp/articles/5192a16b012390f426c241586615dc913b2c8a2e": "2026-05-27",
     "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-ai-09": "2026-05-28",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UV2xrMF8xOGxSaHJHaFo2c3hvVXVQSnNwM2dLQW9hZ0JXMWRFTEw3UHNBdkZzM1dFeUFoYkxEXzV5UXA0WGpzQVhvT09SNjh4aFhv?oc=5": "2026-05-28",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VTm95RDFtZldDak4wbUNPbkJqcEpOZS1tcWlyRnFsZ2JvWlFHX0JDcno0SG90TDctUVlRUjMwOHJVd1pfT3ptNkhWUVVrdXJtU1UwZ2k4OE5UY09iSlo3VFQyZ1ppdHBRMVE?oc=5": "2026-05-28",
@@ -287,49 +277,19 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kOVVTaDkzRk1Jc1RqQkNFVkpBc19FNmxtY1FkWnM1b0x2a2E2eGJrUHlGRWxuV3hmakdUZ1N6VWVrTGZNQXIzZ21lWEhvQms0YnVTY21nTXEwS2hCZWVPTE5ueEd1dw?oc=5": "2026-06-26",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jQlVHcXZWX2pXSHJEbkxta0QxelBYYTYzZnhFTjIzZ25kTG9UUjRMRzVDLTRiNnNRWjV5UUIyeU9hZ3ZTalQyalMwZ0hmbG03Y21oV25iNA?oc=5": "2026-06-26",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocjVPcXpVMUVSMkRTTXY5b2Nuay1uLVhPMWpGeHFqS0ZPd244Zngxd2ZsN2hzUUI3c2w3QVBJNzZDTnFvZTJuSW9JalJnRG8?oc=5": "2026-06-26",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1va05qYjZNSUhOeTdHeUh4eXo2RnhsQ1g1V2JuRHpNTlpaeTA1bmxQdlZlUVdyVzkxT1BuS2RCaEIyYy12STJXV1NXTjNZNVg1OElWT0xWdUJOY21nWHdmdHVNbjFmSW12aUE?oc=5": "2026-06-26"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1va05qYjZNSUhOeTdHeUh4eXo2RnhsQ1g1V2JuRHpNTlpaeTA1bmxQdlZlUVdyVzkxT1BuS2RCaEIyYy12STJXV1NXTjNZNVg1OElWT0xWdUJOY21nWHdmdHVNbjFmSW12aUE?oc=5": "2026-06-26",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3ByekFlMkNzTUl2c2FXZ1BaT0lDWVM1QjhjUWtCT093bjdrZXpFQklEYjBzbkRVUWJNZHk0UE16SFVpQ2dHM1JuNWl4ZGVYZVN4c2lKTzNCR2NRd2dKOTN4Mzh2cjRJT0dZXzRJbDJSRUloVDgzUGZ1ODhsN3g4RE5RbU1FNnBSUUxyQTdta08zS2N3VVE2LUE0VE9CRVRk?oc=5": "2026-06-27",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1ZlA5Nlh1OGs1MlZmSEZQQzJnSHdZNXVHSG96ZlFNQmVsREFINTVmOGxlRTI1bF9nWERDOXNJOTRIUVE1Wm5KVVhwRGNVQkdRdnh6NWduWnJnOU1qQ3JzQ3gxd3RIYms4dzQ1cks1cmtzU0RiYnJiajlHbw?oc=5": "2026-06-27",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDVoNXAtSlBMWlJkNHVycVE0QS1fTUdnUWRydTBiSzhFNVI1WTBVdHo0MWZHSFJwcXZ1OExMQkxqYk5fNjE0YkZ4cHVOUFVYckw0dTNSY190dw?oc=5": "2026-06-27",
+    "https://news.yahoo.co.jp/articles/0050ab62c08be5457f95f9e7b89a35038ebd5714": "2026-06-27",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wNFJnQlJjaHVJNS1WcWFoSjQtMXVjd3JPeVBxZjN3blJXYzdsR2VNdklaWkE1ekhGbG5mWWliNWR6M0FBc1VFWEVkN2k5dEk?oc=5": "2026-06-27",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HVTdMcEdXcEJXZWI4T1diaW45MGtkcEwzQThTclFrNkZBaFRvS18tRUxEQnRidnh1dklKUExvcktEQXIydHRoZTFBQm5BRjByRVRLcTJ0VHdBeXRSRGVSNXdnckNiY281elZGUm5RVDAyR1Z5STZra251MzFvdm8?oc=5": "2026-06-27",
+    "https://news.yahoo.co.jp/articles/cdfc6947f996247e5b853b8eac8eb6cdb5e7b752": "2026-06-27",
+    "https://news.yahoo.co.jp/articles/6228b367bec9ff91bc4ae9c5581a5b064fc6f4fd": "2026-06-27",
+    "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781": "2026-06-27",
+    "https://news.yahoo.co.jp/articles/90606ab2de973f9be0073de89bf7045eb74c09a0": "2026-06-27"
   },
   "titles": [
-    {
-      "title": "Google Display Ads has a new home in Demand Gen.",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "「求人の質がすべて」で終わらせない。アグリゲーション媒体で成果を出すための運用アプローチ",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "少額予算でも失敗しない広告運用のポイントとは？広告の選び方から予算別配信イメージまで解説",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "AI対話型でデジタル広告ダッシュボード分析をサポートする「Execution Agent」の提供を開始",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "Treasure AI主催「Treasure AI Partner Award」において「The Best Academy Partner」を受賞",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "既存の他社広告からの切り替えで売上 5 倍を達成した柳井商店 - Google Business Profile",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "AZ、「プライムデーを制するAmazon外部広告戦略 Amazon - ニコニコニュース",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "電通デジタルがデジタル広告のダッシュボード分析を支援する「Execution Agent」提供…Iエージェントとの対話で実現する「∞AI MC Planning」にデジタル広告のダッシュボード分析を対話形式で行う新機能「Execution Age…Web担当者ForumIT総合5/27(水) 7:01",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "広告にAIエージェント下克上 巨大テック支配は終わるか - 日本経済新聞",
-      "date": "2026-05-27"
-    },
-    {
-      "title": "検索不要なECサイトをブランドが採用。AIを搭載し最適な服を提案…しているとも述べた。 シンカイ氏は、検索、ソーシャルメディア、店舗、デジタル広告へとショッピング行動が分散していくなかで、より大きな優先事項は顧客のそ…DIGIDAY［日本版］経済総合5/27(水) 10:01",
-      "date": "2026-05-27"
-    },
     {
       "title": "組織の思考が均質化する「AIディストピア時代」に抗え ー組織におけるAI活用術【第9回】",
       "date": "2026-05-28"
@@ -1477,99 +1437,49 @@
     {
       "title": "オフィスビルメディアGRAND、広告主・代理店向け『媒体ツアー』受付開始｜決裁者が集うビルを実地で体感 - PR TIMES",
       "date": "2026-06-26"
+    },
+    {
+      "title": "Meta社は、広告主とクリエイター向けの新たなAIソリューションを発表した。 - Vietnam.vn",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "検索広告で次に狙うべきキーワードを提案する仕組みをAXerに追加・提供開始 - ニコニコニュース",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "TikTok Shop Japan、1周年を機に「広告主向けトレンドレポート」を公開 - ECのミカタ",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "データ分析基盤構築、メルマガ自動生成などEC事業者のAI活用事例も。「カラーミーショップ byGMOペパボ」の「AIエージェント機能」について聞いた…者さん。「Search Console」、カラーミーAPIデータ、Google広告、自社経営データをClaudeに統合し、横断的なデータ分析基盤を構築…ネットショップ担当者フォーラムIT総合5/26(火) 7:01",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "東急エージェンシー、三菱食品、unerry、 OOH広告の購買効果(リテールメディア・インパクト)を 可視化するサービスを提供開始 - newscast.jp",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "糖質カット炊飯器、消費者庁の処分取り消しが確定 国が上告せず（毎日新聞） - Yahoo!ニュース",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャンペーン」は「狂気」から生まれた…るならいいじゃん？」 「孫さん。そもそも200％ってムリなんですよ。景品表示法という法律があってですね、還元率の上限は20％と決まっているんです」 …東洋経済オンライン経済総合6/26(金) 11:40",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "マーケティングは売る仕組みづくり では、ブランディングとは——…——広告業界での長い経験を踏まえて、若いビジネスパーソンにアドバイスを。 「広告代理店は、1950年代に確立したビジネスモデルをいまだに踏襲していて大変だろ…AERA DIGITAL経済総合6/27(土) 8:30",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に…（Chief Business Officer）松尾直輝氏だ。同氏は、広告代理店での営業職からウェブエンジニアへの転向後、ビーノス（BEENOS）でエ…あたらしい経済経済総合6/26(金) 16:32",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "【7000人が選ぶ第5回全国お天気キャスター総選挙】フジVS.テレ朝“朝の女神”対決を制した『めざまし』お姉さんがV2!…るのがお天気キャスターなんです」と話すのは、アンケートにかかわった大手広告代理店のキャスティング担当者だ。今回、気象予報士資格保有者のランクアップが目立った。SmartFLASHエンタメ総合6/27(土) 6:00",
+      "date": "2026-06-27"
     }
   ],
   "articles": [
-    {
-      "source": "Google広告",
-      "title": "Google Display Ads has a new home in Demand Gen.",
-      "link": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
-      "summary": "・Google Display AdsがDemand Genキャンペーン内に統合され新たな運用基盤へ移行した\n・広告主は引き続きGoogleディスプレイネットワーク限定での広告配信が可能である\n・統合によりキャンペーン管理がより効率化・簡素化されるメリットが期待される",
-      "score": 9,
-      "reason": "GDNがDemand Genに統合される重大アップデート",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "アナグラム",
-      "title": "「求人の質がすべて」で終わらせない。アグリゲーション媒体で成果を出すための運用アプローチ",
-      "link": "https://anagrams.jp/blog/aggregation-media-operational-approach/",
-      "summary": "・求人検索サイトは「求人の質」次第と諦められがちだが運用改善の余地があると提起\n・アグリゲーション媒体における運用型広告の課題とレバーの少なさに着目している\n・アナグラムが求人検索サイトで成果を出すための具体的な運用アプローチを解説",
-      "score": 7,
-      "reason": "求人アグリゲーション媒体の実践的運用テクニック",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "少額予算でも失敗しない広告運用のポイントとは？広告の選び方から予算別配信イメージまで解説",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/small-budget-advertising/?list=23496",
-      "summary": "・少額予算でも成果を出すための広告運用ポイントをLINEヤフーが解説している\n・広告媒体の選び方や予算規模に応じた具体的な配信イメージを紹介している\n・LINEヤフーの法人向けサービスの最新活用方法やノウハウも併せて提供している",
-      "score": 6,
-      "reason": "少額予算の広告運用解説、初心者向け汎用ノウハウ",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "AI対話型でデジタル広告ダッシュボード分析をサポートする「Execution Agent」の提供を開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0526-000323",
-      "summary": "・電通デジタルがAIブランド「∞AI」の新機能「Execution Agent」を提供開始した\n・デジタル広告のダッシュボード分析をAIとの対話形式で実行できる機能である\n・既存の「∞AI MC Planning」にエージェント機能を追加し分析業務を効率化する",
-      "score": 4,
-      "reason": "電通デジタルの新ツール発表プレスリリース",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "Treasure AI主催「Treasure AI Partner Award」において「The Best Academy Partner」を受賞",
-      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0526-000322",
-      "summary": "・電通デジタルがTreasure AI主催のパートナーアワードを受賞した\n・受賞カテゴリは「The Best Academy Partner」である\n・Treasure AIとの連携における教育・育成面での貢献が評価された",
-      "score": 3,
-      "reason": "受賞報告であり実務への直接的影響なし",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "Google News",
-      "title": "既存の他社広告からの切り替えで売上 5 倍を達成した柳井商店 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlNDlDTVppVlo5c3M2ejItTTlGZGh6RlJZYTB2OFNOd215Vm9kYVlZQXVhY2lPUlF2amhELVVUUU10Y0dlaTQ2X3BBNW5rLUYxV3lWTC1rZmN1VGxqQ3BQSXd2VVZ3R3NuaFBGcGlOYWFBaHhySFNNVw?oc=5",
-      "summary": "・柳井商店が既存の他社広告からGoogleビジネスプロフィールへ切り替えを実施した\n・広告手法の変更により売上が従来の5倍に大幅増加する成果を達成した\n・Google公式の導入事例として同店の広告戦略転換の成功が紹介されている",
-      "score": 8,
-      "reason": "Google広告切替の具体的成功事例で実務参考になる",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "Google News",
-      "title": "AZ、「プライムデーを制するAmazon外部広告戦略 Amazon - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WY3FXaVhwWlFJZi16M1FGaF9BVWtOUHhWTFltdmNSc3M1Q1VYR1BDTW1NamJLSUkzX3Qxa1UtMWZMeDNuaXZQdDU4SHlsUTlBV1U1bDFoN2ZuME1hZkZwUXhpUmtjUkxDMlpBN1oxNGszQUp0akZYYkdSOA?oc=5",
-      "summary": "・AZがAmazonプライムデーに向けた外部広告戦略に関する情報を公開した\n・Amazon内だけでなく外部チャネルを活用した広告施策が売上拡大の鍵となる\n・プライムデー期間中の競争激化に備え事前の広告戦略設計の重要性を提示した",
-      "score": 8,
-      "reason": "Amazonプライムデー外部広告戦略で実践的運用知見",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "電通デジタルがデジタル広告のダッシュボード分析を支援する「Execution Agent」提供…Iエージェントとの対話で実現する「∞AI MC Planning」にデジタル広告のダッシュボード分析を対話形式で行う新機能「Execution Age…Web担当者ForumIT総合5/27(水) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/75e736a520a4f23c92033b4008a42d03a6a48464",
-      "summary": "・電通デジタルがAIエージェントと対話形式でデジタル広告のダッシュボード分析を行う新機能「Execution Agent」を提供開始した\n・同機能は既存サービス「∞AI MC Planning」に追加され、AIとの対話を通じて広告運用の分析・改善を支援する\n・専門知識がなくてもAIエージェントとの会話で広告パフォーマンスの把握や施策立案が可能になる点が特徴である",
-      "score": 7,
-      "reason": "広告ダッシュボード分析AIツールの新機能で実務活用可能",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "Google News",
-      "title": "広告にAIエージェント下克上 巨大テック支配は終わるか - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDQ4RnllbnVtTTF6RzJZMlAwM1dPOVFKQVpJYzVnV255VWxUNDM5QTNoRTVUdDlyOHRUcEQxSEpRNHZXVmNIWFNmdzk4N1A5ODJIc1I1VlB0R1BmeFdkNXloVjllMHl0VFNCME11QUdJbEY0dWMwTFN6Z0x1alQ1eGNLb3V1MERfUnlxWg?oc=5",
-      "summary": "・AIエージェントが広告業界に進出し既存の巨大テック企業の支配構造に挑む動きが加速している\n・広告の配信や最適化をAIが自律的に行うことで新興勢力が台頭し勢力図が変わる可能性がある\n・グーグルやメタなど巨大プラットフォームの広告独占体制が揺らぐかが今後の注目点となる",
-      "score": 6,
-      "reason": "AIエージェントの広告業界影響に関する業界動向記事",
-      "date": "2026-05-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "検索不要なECサイトをブランドが採用。AIを搭載し最適な服を提案…しているとも述べた。 シンカイ氏は、検索、ソーシャルメディア、店舗、デジタル広告へとショッピング行動が分散していくなかで、より大きな優先事項は顧客のそ…DIGIDAY［日本版］経済総合5/27(水) 10:01",
-      "link": "https://news.yahoo.co.jp/articles/5192a16b012390f426c241586615dc913b2c8a2e",
-      "summary": "・ブランドがAI搭載で検索不要のECサイトを導入し最適な服を自動提案する仕組みを採用している\n・シンカイ氏は検索・SNS・店舗・デジタル広告へと購買行動が分散化している現状を指摘した\n・購買接点が多様化する中で顧客体験の最適化がブランドにとってより大きな優先課題となっている",
-      "score": 5,
-      "reason": "EC購買行動の変化とAI活用の業界動向記事",
-      "date": "2026-05-27"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "組織の思考が均質化する「AIディストピア時代」に抗え ー組織におけるAI活用術【第9回】",
@@ -4152,6 +4062,96 @@
       "score": 3,
       "reason": "OOH媒体ツアーのプレスリリース",
       "date": "2026-06-26"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta社は、広告主とクリエイター向けの新たなAIソリューションを発表した。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3ByekFlMkNzTUl2c2FXZ1BaT0lDWVM1QjhjUWtCT093bjdrZXpFQklEYjBzbkRVUWJNZHk0UE16SFVpQ2dHM1JuNWl4ZGVYZVN4c2lKTzNCR2NRd2dKOTN4Mzh2cjRJT0dZXzRJbDJSRUloVDgzUGZ1ODhsN3g4RE5RbU1FNnBSUUxyQTdta08zS2N3VVE2LUE0VE9CRVRk?oc=5",
+      "summary": "・Meta社が広告主およびクリエイター向けの新たなAIソリューションを発表した\n・AI技術を活用し広告制作や配信の効率化・最適化を支援する方針とみられる\n・ベトナムメディアVietnam.vnが本ニュースを報じ注目を集めている",
+      "score": 8,
+      "reason": "Meta広告主向け新AIソリューション発表、主要媒体の重要更新",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Google News",
+      "title": "検索広告で次に狙うべきキーワードを提案する仕組みをAXerに追加・提供開始 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1ZlA5Nlh1OGs1MlZmSEZQQzJnSHdZNXVHSG96ZlFNQmVsREFINTVmOGxlRTI1bF9nWERDOXNJOTRIUVE1Wm5KVVhwRGNVQkdRdnh6NWduWnJnOU1qQ3JzQ3gxd3RIYms4dzQ1cks1cmtzU0RiYnJiajlHbw?oc=5",
+      "summary": "・AXerに検索広告向けの新機能として次に狙うべきキーワードを提案する仕組みが追加された\n・広告運用者が効率的にキーワード戦略を立案できるよう支援する機能として提供開始された\n・検索広告の成果向上を目的にデータに基づくキーワード候補を自動で提示する仕組みとなっている",
+      "score": 7,
+      "reason": "検索広告キーワード提案ツールの新機能、実務に直結する可能性",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok Shop Japan、1周年を機に「広告主向けトレンドレポート」を公開 - ECのミカタ",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdDVoNXAtSlBMWlJkNHVycVE0QS1fTUdnUWRydTBiSzhFNVI1WTBVdHo0MWZHSFJwcXZ1OExMQkxqYk5fNjE0YkZ4cHVOUFVYckw0dTNSY190dw?oc=5",
+      "summary": "・TikTok Shop Japanが日本上陸1周年を記念し広告主向けトレンドレポートを公開した\n・レポートではTikTok Shop上の購買行動や広告活用の最新トレンドを分析している\n・EC事業者や広告主がTikTok活用戦略を検討する際の指針となる内容を提供している",
+      "score": 7,
+      "reason": "TikTok Shop広告トレンドレポート、EC広告運用に実践的示唆",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "データ分析基盤構築、メルマガ自動生成などEC事業者のAI活用事例も。「カラーミーショップ byGMOペパボ」の「AIエージェント機能」について聞いた…者さん。「Search Console」、カラーミーAPIデータ、Google広告、自社経営データをClaudeに統合し、横断的なデータ分析基盤を構築…ネットショップ担当者フォーラムIT総合5/26(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/0050ab62c08be5457f95f9e7b89a35038ebd5714",
+      "summary": "・GMOペパボ「カラーミーショップ」がAIエージェント機能を提供しEC事業者のAI活用を支援している\n・Search ConsoleやGoogle広告、カラーミーAPIなど複数データをClaudeに統合し横断的分析基盤を構築\n・メルマガ自動生成などAI活用事例を紹介しEC運営の業務効率化と データ駆動型経営を推進している",
+      "score": 6,
+      "reason": "Google広告データ×AI分析基盤構築の実践事例として参考になる",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Google News",
+      "title": "東急エージェンシー、三菱食品、unerry、 OOH広告の購買効果(リテールメディア・インパクト)を 可視化するサービスを提供開始 - newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wNFJnQlJjaHVJNS1WcWFoSjQtMXVjd3JPeVBxZjN3blJXYzdsR2VNdklaWkE1ekhGbG5mWWliNWR6M0FBc1VFWEVkN2k5dEk?oc=5",
+      "summary": "・東急エージェンシー・三菱食品・unerryの3社がOOH広告の購買効果を可視化する新サービスを開始した\n・リテールメディア・インパクトと称し、屋外広告接触後の実購買行動をデータで測定・分析する仕組みを提供\n・広告主はOOH出稿による来店・購買への貢献度を定量的に把握でき、広告投資の最適化が可能になる",
+      "score": 5,
+      "reason": "OOH広告の効果可視化サービス、運用型広告とはやや領域が異なる",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Google News",
+      "title": "糖質カット炊飯器、消費者庁の処分取り消しが確定 国が上告せず（毎日新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HVTdMcEdXcEJXZWI4T1diaW45MGtkcEwzQThTclFrNkZBaFRvS18tRUxEQnRidnh1dklKUExvcktEQXIydHRoZTFBQm5BRjByRVRLcTJ0VHdBeXRSRGVSNXdnckNiY281elZGUm5RVDAyR1Z5STZra251MzFvdm8?oc=5",
+      "summary": "・糖質カット炊飯器を巡る消費者庁の景品表示法に基づく処分が裁判で取り消された\n・国側が上告を断念したことで処分取り消しの判決が確定する結果となった\n・消費者庁の広告規制の在り方や根拠の妥当性に課題を突きつける事例となった",
+      "score": 4,
+      "reason": "景品表示法関連判例、広告表現の注意喚起として間接的に有用",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャンペーン」は「狂気」から生まれた…るならいいじゃん？」 「孫さん。そもそも200％ってムリなんですよ。景品表示法という法律があってですね、還元率の上限は20％と決まっているんです」 …東洋経済オンライン経済総合6/26(金) 11:40",
+      "link": "https://news.yahoo.co.jp/articles/cdfc6947f996247e5b853b8eac8eb6cdb5e7b752",
+      "summary": "・孫正義氏が「どっちかが潰れるまでやる」と競合との全面対決を宣言しPayPay100億円還元を推進した\n・当初は還元率200％の構想もあったが景品表示法の上限20％規制により実現不可能と判明した\n・常識を超えた「狂気」ともいえる大胆な発想がPayPayの大規模キャンペーン誕生の原動力となった",
+      "score": 3,
+      "reason": "PayPayキャンペーン回顧録、景表法言及あるが実務知見は薄い",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マーケティングは売る仕組みづくり では、ブランディングとは——…——広告業界での長い経験を踏まえて、若いビジネスパーソンにアドバイスを。 「広告代理店は、1950年代に確立したビジネスモデルをいまだに踏襲していて大変だろ…AERA DIGITAL経済総合6/27(土) 8:30",
+      "link": "https://news.yahoo.co.jp/articles/6228b367bec9ff91bc4ae9c5581a5b064fc6f4fd",
+      "summary": "・マーケティングは売れる仕組みづくりでありブランディングとの違いを解説する記事\n・広告代理店は1950年代のビジネスモデルを踏襲し続け変革が求められていると指摘\n・広告業界の経験を基に若いビジネスパーソンへ向けたキャリアの助言を提示している",
+      "score": 2,
+      "reason": "ブランディング論・広告業界論で運用型広告との関連が低い",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に…（Chief Business Officer）松尾直輝氏だ。同氏は、広告代理店での営業職からウェブエンジニアへの転向後、ビーノス（BEENOS）でエ…あたらしい経済経済総合6/26(金) 16:32",
+      "link": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
+      "summary": "・アニモカブランズジャパンの新CEOにCBOの松尾直輝氏が就任した\n・前CEOの天羽氏は退任しイオレの専務取締役に就任する人事異動となった\n・松尾氏は広告代理店営業職からエンジニアに転向しビーノス等で経験を積んだ人物",
+      "score": 2,
+      "reason": "企業人事異動ニュースで広告運用実務と無関係",
+      "date": "2026-06-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【7000人が選ぶ第5回全国お天気キャスター総選挙】フジVS.テレ朝“朝の女神”対決を制した『めざまし』お姉さんがV2!…るのがお天気キャスターなんです」と話すのは、アンケートにかかわった大手広告代理店のキャスティング担当者だ。今回、気象予報士資格保有者のランクアップが目立った。SmartFLASHエンタメ総合6/27(土) 6:00",
+      "link": "https://news.yahoo.co.jp/articles/90606ab2de973f9be0073de89bf7045eb74c09a0",
+      "summary": "・7000人投票の第5回全国お天気キャスター総選挙でめざまし担当がV2達成\n・フジとテレ朝の朝番組お天気キャスター対決が注目の構図となった\n・気象予報士資格保有者のランクアップが目立ち広告業界も注目している",
+      "score": 1,
+      "reason": "お天気キャスター選挙で広告運用と無関係",
+      "date": "2026-06-27"
     }
   ]
 }
