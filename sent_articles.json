@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.lycbiz.com/jp/column/ly-ads/displayads-guarantee/service-information/yahoo_japan_finance/?list=23496": "2026-05-30",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE14dGpHeVI1MFRuMXRvQUJqOExlU3MyVklGZmIyeE5WcWM5eHhucG9JaGZXRk02XzlfTkpycVhVTllpTndGMlFudGV4VU80M0tRY0JRb3VWSGVSWkJ5WDdOeEJpUGptZjJiV0E?oc=5": "2026-05-30",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3lMMFpTUXBtcVRUUUFaSS1ZdzluOTFGQk1GWmNVTGp6YzNlVlBzcVhvNGl2dnB1QmJKdE5TRHVPZEhSbTZyZTZQejlUZGdBNnQ1MGRfVGNvMm9uRVNPdGdKcURURnBBZURSU3R0ZXhod01nMGZtY0NFUG83OFhxclZHclZaNWRRU0YtSFMtYUM4dk3SAZgBQVVfeXFMTVdtcjBZaUJFYmJoQ0J6YjE3dmh6N3l0TWQwbml3S2poYlNITlVYeDNmbVBuXzhSbHRxZl93cHlzc3ZRY1BfRDFnZlF2WmhHQjNBTk5fVDY3QXk0TjVhMC1icld3WkR6NHBnVkVOaTB4clRBZDlWeGFyRF9PVVBFQktiWkI4NTd3dGNsRW5UZWw1NkV0cHRfWUo?oc=5": "2026-05-30",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WTVqVk9nUlpJZzRSbzRNRGZySzBXaEJHcG51Ml9lRGZ3dFhXMUY3ZENzLTZXc2x6WFhQWVo0QUpsS2JfSTVzSF9OdkR3MUlOWGw0Nzdn?oc=5": "2026-05-30",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RU1VVSHdZTlpGMHo4OGhRUmd0RzZlQ2FZTmRnMGFLUWE0Z2NpdllRUEI4a24ydzRodkRsNHZRcVlZdmxLVFVlOWNxSTl3RGVEc2ww?oc=5": "2026-05-30",
-    "https://news.yahoo.co.jp/articles/7bdeabbf1bd91c5e4e54f1bfaf2e2ca524fc6297": "2026-05-30",
-    "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-05-30",
-    "https://news.yahoo.co.jp/articles/df91dd6d8e506b808d0cd355bda73db458eb1651": "2026-05-30",
-    "https://news.yahoo.co.jp/articles/961c1c2d0fbecc0c55a7fff5bbc13255830dbc73": "2026-05-30",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IR1NKbDk2YlFhMXhiby12LTlORUlxTC10bWk3U2MyOEdvN2UxWmZhOGdnN1g2WHZRa1Nld2JLQjVxb0tiZmI5UUt6dWlseGR4V2xzMk5ESUtFWm1QbEUxRw?oc=5": "2026-05-31",
     "https://news.yahoo.co.jp/articles/ef5de97586954832797f1561635124e45661088f": "2026-05-31",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBleWhmVmdzUHY3dEd2eW9GS2g5ZzR3SGVOWWEtZGxnSndJeDQxdEFyaXhLWHhtTXlsQjF4cTh4aDB3QjRwU21BUGRzYnR0OG9mRUhYaG54Mlp0X2h2OUQxT3BpaXpfcFhxRGJPM2ktdWVYWFEtdF9DY2QtUjBndWM?oc=5": "2026-05-31",
@@ -284,45 +275,19 @@
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTVJaM28yNlA3alhQcUFpS0RiVGM3bmpLTlNIXzdkNkZJMEV5d0ppM0hLNGxrNThlRGpSUVM1Y3Z4Si0tUE1ZODFEZnI2RHk3b2pqVllxb0MxWXIwTE01WWNISEY2M0FaUlNDcnpWMnp4TnRndHNuNU1ON1BnMm56b3FTWUNTRFRveW91RWZ3RUFSLUpFa0Zzam9MQkhqV281NGFCZk1mVEctNEZFbm1qT1JLVFgwakdWOHFYV0d4eVB6a01WSW9FUnF2M1ZVR2JST2hLTEJac1YyM3Fa?oc=5": "2026-06-29",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45MC1wTVJUREtvaEItaThRVUJKUVA3V011ZVcwRWdRZGNuXzhDYjNMNm1QMmJxU3FCWk10aWRsOXdkc1JvdGVyTmo2UjZsbEVyYW81WjVn?oc=5": "2026-06-29",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ka0FPY2QwVnhvSmxiYWtvSDJxM3B2OHMwWUxtSFBTbmtMTEdaa0VNRmVEWUF3VWVjakEycTl2OTFPVFg0U2tiaVBXS0czb0pxRm0yWF9FTFV0UExvNVVlLQ?oc=5": "2026-06-29",
-    "https://news.yahoo.co.jp/articles/fa303fa68ef642c8c5e2c03269154c6c9ae731a6": "2026-06-29"
+    "https://news.yahoo.co.jp/articles/fa303fa68ef642c8c5e2c03269154c6c9ae731a6": "2026-06-29",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-io-2026": "2026-06-30",
+    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-01": "2026-06-30",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/": "2026-06-30",
+    "https://dentsudigital.co.jp/news/release/services/2026-0528-000324": "2026-06-30",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53TEFhRm5yeUg4YzF6VmNWN0tXRjBCVHlBcm9lYWgySGtCTHhVek52WVpuSm5iSFlYZWRVaTVfbmF6MmlEOENyUEdtd2lyMXM2Nm1qZm9Dc0w5T3BNWjctbzk1LVk2ODByMEprNzNsZw?oc=5": "2026-06-30",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByeDJZOUp2T3BhSWdDaXlrLURaSlBaN0JNVVI4SG1aQm1IekRkYS1PeEdzSFRtbjJWOVNCdWE0NmVteTN6VlB2ZlNibFVFVzI2X0Q4?oc=5": "2026-06-30",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81azV1NklQLThReE83Y0FYVUdLMzdPaXJEUl9KWld0bXBIZEFTZDl0bkZHdnpOdFhyZDB0Nm12OVdEVEMyM3JxVzlYaGczWFl0ZWltUmJHSGhLU1hkdmJ3OXg5b1dVS0U?oc=5": "2026-06-30",
+    "https://news.yahoo.co.jp/articles/488d983bbca877700c0ab3edc352e3d7c8fefe6c": "2026-06-30",
+    "https://news.yahoo.co.jp/articles/c39dc830a1cf4fb93a85090857ed9e243e156974": "2026-06-30",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRk8xQV8xNHZSVXVMT1V5MG13QVdDdzQzZ3VrQXN4RWdwRENZZ3VNd3oyeTgxYWFGcEJsVFQ4c0JvMFAwaVh3UWZSR3B5bXdPRllMdzVXMndXMWx5MDlv?oc=5": "2026-06-30"
   },
   "titles": [
-    {
-      "title": "金融媒体に広告出稿するなら！国内最大級の金融情報サイト「Yahoo!ファイナンス」とは？リーチできるユーザー層も紹介",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.5.29 - PR TIMES",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "Metaの有料「Meta One」開始で広告依存モデルはどう変わるか - simplywall.st",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "JADMA、悪質広告を指南する広告代理店・コンサルタントを問題視…消費者委員会がヒアリング - 通販通信-ECMO",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "2026年の世界広告費は5.0％成長へ、デジタルが全体の69％占める見通し【電通グループ発表】 - markezine.jp",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "「今回のAIバブル」は必ず破裂するが、なぜ今も膨らみ続けなかなか破裂しないのか？ 今年崩壊に至る「2つのシナリオ」とは…使った企業だが、そうなると、これまでの企業間競争と何も変わらない。どの広告代理店がいちばん儲かるか、という競争と同じであり、限られたパイを奪い合うだけである。東洋経済オンライン経済総合5/30(土) 6:30",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "鈴鹿央士”友野”犯人説が急浮上…？ 高橋一生”光誠”が”英人”を避ける本当の理由とは？ 『リボーン』第7話レビュー…ですべてが明らかになる。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合5/29(金) 20:10",
-      "date": "2026-05-30"
-    },
-    {
-      "title": "海外では酷評も一見の価値あり？ 『レディース・ファースト?!』の単純すぎる男女逆転劇…演じる主人公ダミアン・サックスは、男性上位的な思想を持つ人物だ。大きな広告代理店の重役という肩書きを持ち、その権力や財力を背景に女性を品定めして、公私…リアルサウンドエンタメ総合5/29(金) 18:30",
-      "date": "2026-05-30"
-    },
     {
       "title": "「クリエイティブ効果」「ターゲットリーチ」を事前予測するAI新機能を「AaaS with Meta」に実装開始 - hakuhodo.co.jp",
       "date": "2026-05-31"
@@ -1462,90 +1427,49 @@
     {
       "title": "悲劇の14秒から「新しい景色」へ 現場の言葉が紡いだ日本代表の軌跡…王国撃破で見る「最高の景色」 カタール大会に向けた応援スローガンを決める時、この言葉が採用された。普通は広告代理店のクリエーターたちが決めるところだが、あえて現場の言葉を採用した。「選…FOOTBALL ZONEサッカー6/28(日) 18:45",
       "date": "2026-06-29"
+    },
+    {
+      "title": "【Google I/O 2026】検索は「調べる」から「実行」へ。AI エージェントが変える新たな検索体験",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "「急伸長するシニアのデジ活」 ー進化する令和シニアのスマートライフ【第1回】",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "電通デジタルと電通、人とAIの協働を深化させる5つの研究成果を人工知能学会で発表",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "日本上陸「ChatGPT広告」一挙拡大 ドコモやPayPay系など大手が出稿 - 日経クロストレンド",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "【速報】消費者庁、高光製薬に措置命令 健食ステマ広告で3例目 - 日本食糧新聞・電子版",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "「SNSでも大人気」はステマ 高光製薬に消費者庁が措置命令 [情報操作] - 朝日新聞",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "成長期の栄養素を補うとうたうサプリ「ノビルン」、ステマで措置命令…「ＳＮＳでも大人気！」依頼投稿と明らかにせず 個人の感想を装って商品を宣伝するステルスマーケティング（ステマ）を行ったとして、消費者庁は２９日、健康食品販売会社「高光製薬」（神戸市）に対し、景品表示法違反で…読売新聞オンライン社会6/30(火) 10:52",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "「SNSでも大人気」はステマ 高光製薬に消費者庁が措置命令 広告だと明らかにせずに宣伝するステルスマーケティング（ステマ）をしたとして、消費者庁は29日、サプリメント販売「高光製薬」（神戸市）に対し、景品表…朝日新聞社会6/29(月) 17:19",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "「枠」ではなく「体験」を創る TikTok Liteと電通デジタル、LMIが実証した、リテールメディアの真価とは - AdverTimes.（アドタイ） by 宣伝会議",
+      "date": "2026-06-30"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "金融媒体に広告出稿するなら！国内最大級の金融情報サイト「Yahoo!ファイナンス」とは？リーチできるユーザー層も紹介",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/displayads-guarantee/service-information/yahoo_japan_finance/?list=23496",
-      "summary": "・Yahoo!ファイナンスは国内最大級の金融情報サイトで投資や資産形成に関心が高いユーザーが集まる媒体である\n・主要ユーザー層は30〜50代の男性が中心で金融リテラシーや可処分所得が比較的高い傾向にある\n・金融商品や資産運用サービスの広告出稿に適しており高精度なターゲティング配信が可能である",
-      "score": 5,
-      "reason": "媒体紹介記事で実務参考になるが深い運用知見は薄い",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Google News",
-      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.5.29 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14dGpHeVI1MFRuMXRvQUJqOExlU3MyVklGZmIyeE5WcWM5eHhucG9JaGZXRk02XzlfTkpycVhVTllpTndGMlFudGV4VU80M0tRY0JRb3VWSGVSWkJ5WDdOeEJpUGptZjJiV0E?oc=5",
-      "summary": "・薬機法・景品表示法に抵触する恐れのある広告表現の配信実例を定期調査として公開\n・違反リスクのある広告クリエイティブの具体事例を収集し注意喚起を目的とした報告\n・広告主や代理店に向け法令遵守の重要性と適正な表現運用を促す内容となっている",
-      "score": 7,
-      "reason": "薬機法・景表法違反事例は広告審査実務に直結",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Google News",
-      "title": "Metaの有料「Meta One」開始で広告依存モデルはどう変わるか - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3lMMFpTUXBtcVRUUUFaSS1ZdzluOTFGQk1GWmNVTGp6YzNlVlBzcVhvNGl2dnB1QmJKdE5TRHVPZEhSbTZyZTZQejlUZGdBNnQ1MGRfVGNvMm9uRVNPdGdKcURURnBBZURSU3R0ZXhod01nMGZtY0NFUG83OFhxclZHclZaNWRRU0YtSFMtYUM4dk3SAZgBQVVfeXFMTVdtcjBZaUJFYmJoQ0J6YjE3dmh6N3l0TWQwbml3S2poYlNITlVYeDNmbVBuXzhSbHRxZl93cHlzc3ZRY1BfRDFnZlF2WmhHQjNBTk5fVDY3QXk0TjVhMC1icld3WkR6NHBnVkVOaTB4clRBZDlWeGFyRF9PVVBFQktiWkI4NTd3dGNsRW5UZWw1NkV0cHRfWUo?oc=5",
-      "summary": "・Metaが有料サブスクリプション「Meta One」を開始し新たな収益源の確保に乗り出した\n・従来の広告収入一本足モデルからの脱却を図り収益構造の多角化を目指す動きと見られる\n・広告依存度の低下が今後の業績や株価評価にどう影響するか市場の注目が集まっている",
-      "score": 7,
-      "reason": "Meta新サービスが広告モデルに与える影響は重要",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Google News",
-      "title": "JADMA、悪質広告を指南する広告代理店・コンサルタントを問題視…消費者委員会がヒアリング - 通販通信-ECMO",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WTVqVk9nUlpJZzRSbzRNRGZySzBXaEJHcG51Ml9lRGZ3dFhXMUY3ZENzLTZXc2x6WFhQWVo0QUpsS2JfSTVzSF9OdkR3MUlOWGw0Nzdn?oc=5",
-      "summary": "・JADMAが悪質広告を通販事業者に指南する広告代理店やコンサルタントの存在を問題視している\n・内閣府の消費者委員会がJADMAに対しヒアリングを実施し実態把握に乗り出した\n・広告主だけでなく悪質手法を助長する代理店側の責任追及が業界課題として浮上している",
-      "score": 6,
-      "reason": "悪質広告規制動向は運用コンプラに関係",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Google News",
-      "title": "2026年の世界広告費は5.0％成長へ、デジタルが全体の69％占める見通し【電通グループ発表】 - markezine.jp",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RU1VVSHdZTlpGMHo4OGhRUmd0RzZlQ2FZTmRnMGFLUWE0Z2NpdllRUEI4a24ydzRodkRsNHZRcVlZdmxLVFVlOWNxSTl3RGVEc2ww?oc=5",
-      "summary": "・電通グループが2026年の世界広告費予測を発表し、前年比5.0％の成長を見込んでいる\n・デジタル広告が世界広告費全体の69％を占める見通しで、引き続き市場を牽引する\n・広告市場のデジタルシフトが一層加速し、従来メディアとの差が拡大傾向にある",
-      "score": 5,
-      "reason": "世界広告費の市場動向データで業界理解に有用",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「今回のAIバブル」は必ず破裂するが、なぜ今も膨らみ続けなかなか破裂しないのか？ 今年崩壊に至る「2つのシナリオ」とは…使った企業だが、そうなると、これまでの企業間競争と何も変わらない。どの広告代理店がいちばん儲かるか、という競争と同じであり、限られたパイを奪い合うだけである。東洋経済オンライン経済総合5/30(土) 6:30",
-      "link": "https://news.yahoo.co.jp/articles/7bdeabbf1bd91c5e4e54f1bfaf2e2ca524fc6297",
-      "summary": "・AIバブルは必ず破裂するとされるが現在も膨張を続けており崩壊時期の見極めが焦点となっている\n・今年中にバブルが崩壊に至る可能性として2つのシナリオが提示され警戒が必要とされている\n・AI導入企業間の競争は広告代理店同様に限られたパイの奪い合いに過ぎないと指摘されている",
-      "score": 2,
-      "reason": "AIバブル論考で広告運用との直接関連薄い",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "link": "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e",
-      "summary": "・TikTokが次世代YouTuberの育成基盤として台頭し始めていると指摘されている\n・2019年が「TikTok広告元年」と位置づけられ企業の広告活用事例が増加している\n・徳力基彦氏がTikTok広告を活用する企業動向と今後の可能性について解説している",
-      "score": 2,
-      "reason": "2019年の古い記事で現在の実務に役立たない",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "鈴鹿央士”友野”犯人説が急浮上…？ 高橋一生”光誠”が”英人”を避ける本当の理由とは？ 『リボーン』第7話レビュー…ですべてが明らかになる。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合5/29(金) 20:10",
-      "link": "https://news.yahoo.co.jp/articles/df91dd6d8e506b808d0cd355bda73db458eb1651",
-      "summary": "・ドラマ『リボーン』第7話で鈴鹿央士演じる\"友野\"の犯人説が急浮上し話題を呼んでいる\n・高橋一生演じる\"光誠\"が\"英人\"を避ける真の理由が物語の核心として描かれた\n・広告代理店やエンタメ誌編集経験を持つライターあまのさき氏による考察レビュー",
-      "score": 1,
-      "reason": "ドラマレビュー記事で広告運用と無関係",
-      "date": "2026-05-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "海外では酷評も一見の価値あり？ 『レディース・ファースト?!』の単純すぎる男女逆転劇…演じる主人公ダミアン・サックスは、男性上位的な思想を持つ人物だ。大きな広告代理店の重役という肩書きを持ち、その権力や財力を背景に女性を品定めして、公私…リアルサウンドエンタメ総合5/29(金) 18:30",
-      "link": "https://news.yahoo.co.jp/articles/961c1c2d0fbecc0c55a7fff5bbc13255830dbc73",
-      "summary": "・映画『レディース・ファースト?!』は男女の立場が逆転した世界を描く単純明快なコメディ作品\n・主人公ダミアン・サックスは大手広告代理店の重役で男性優位思想を持ち女性を軽視する人物\n・海外では酷評が多いものの男女格差を考えるきっかけとして一見の価値がある作品と評されている",
-      "score": 1,
-      "reason": "映画レビュー記事で広告運用と無関係",
-      "date": "2026-05-30"
-    },
     {
       "source": "Google News",
       "title": "「クリエイティブ効果」「ターゲットリーチ」を事前予測するAI新機能を「AaaS with Meta」に実装開始 - hakuhodo.co.jp",
@@ -4110,6 +4034,96 @@
       "score": 1,
       "reason": "サッカー日本代表の話題で広告運用と無関係",
       "date": "2026-06-29"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "【Google I/O 2026】検索は「調べる」から「実行」へ。AI エージェントが変える新たな検索体験",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-io-2026",
+      "summary": "・Google I/O 2026で検索が情報取得から目的遂行までを担う「実行プラットフォーム」へ進化すると発表\n・AIエージェントがユーザーの意図を理解し、検索結果の閲覧だけでなくタスク完了まで支援する新体験を提供\n・広告主やマーケターは検索行動の根本的変化を踏まえた戦略再構築が急務となる",
+      "score": 8,
+      "reason": "Google検索の根本変革でSEM戦略に直結",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "「急伸長するシニアのデジ活」 ー進化する令和シニアのスマートライフ【第1回】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-01",
+      "summary": "・60代のテレビ視聴時間が前年比12.8分減少しネット利用は10.5分増加している\n・50代ではテレビとネット利用時間が既に逆転し60代以上でも同傾向が予測される\n・YouTube利用率の伸びも一因でシニア層のデジタル活用が急速に進展している",
+      "score": 5,
+      "reason": "シニア層メディア動向は広告配信設計の参考情報",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Google広告",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "summary": "・Google I/O 2026基調講演の主要12トピックをまとめた速報記事が公開された\n・新モデル「Gemini Omni」や高速版「Gemini 3.5 Flash」などAI関連の発表が中心\n・広告・マーケティング活用にも影響大のGoogle最新AI技術動向を網羅的に紹介",
+      "score": 5,
+      "reason": "広告機能でなくAI技術の総合発表で間接的影響",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "電通デジタルと電通、人とAIの協働を深化させる5つの研究成果を人工知能学会で発表",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0528-000324",
+      "summary": "・電通デジタルと電通が人とAIの協働に関する5つの研究成果を発表\n・テーマは生成AI・LLMによる「創造性の拡張」と「評価・判断の高度化」\n・6月8日開催の人工知能学会全国大会にて研究内容を公表予定",
+      "score": 3,
+      "reason": "学会発表のプレスリリースで実務直結度は低い",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Google News",
+      "title": "日本上陸「ChatGPT広告」一挙拡大 ドコモやPayPay系など大手が出稿 - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53TEFhRm5yeUg4YzF6VmNWN0tXRjBCVHlBcm9lYWgySGtCTHhVek52WVpuSm5iSFlYZWRVaTVfbmF6MmlEOENyUEdtd2lyMXM2Nm1qZm9Dc0w5T3BNWjctbzk1LVk2ODByMEprNzNsZw?oc=5",
+      "summary": "・OpenAIのChatGPTに広告機能が日本でも本格展開され、大手企業の出稿が一斉に拡大している\n・NTTドコモやPayPay系企業など国内有力ブランドが早期にChatGPT広告への参入を開始した\n・AI対話型プラットフォームが新たな広告チャネルとして注目され、デジタル広告市場に変化の兆しがある",
+      "score": 9,
+      "reason": "ChatGPT広告の日本展開は新広告枠として即実務影響",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Google News",
+      "title": "【速報】消費者庁、高光製薬に措置命令 健食ステマ広告で3例目 - 日本食糧新聞・電子版",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByeDJZOUp2T3BhSWdDaXlrLURaSlBaN0JNVVI4SG1aQm1IekRkYS1PeEdzSFRtbjJWOVNCdWE0NmVteTN6VlB2ZlNibFVFVzI2X0Q4?oc=5",
+      "summary": "・消費者庁が高光製薬に対しステルスマーケティング広告で措置命令を出した\n・健康食品分野におけるステマ広告への措置命令としては今回が3例目となる\n・景品表示法に基づく規制強化の流れの中で健食業界への取り締まりが続く",
+      "score": 7,
+      "reason": "ステマ措置命令は広告運用の法規制理解に重要",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Google News",
+      "title": "「SNSでも大人気」はステマ 高光製薬に消費者庁が措置命令 [情報操作] - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81azV1NklQLThReE83Y0FYVUdLMzdPaXJEUl9KWld0bXBIZEFTZDl0bkZHdnpOdFhyZDB0Nm12OVdEVEMyM3JxVzlYaGczWFl0ZWltUmJHSGhLU1hkdmJ3OXg5b1dVS0U?oc=5",
+      "summary": "・高光製薬が自社製品を「SNSでも大人気」と宣伝した行為がステルスマーケティングと認定された\n・消費者庁は景品表示法違反として同社に措置命令を出し、再発防止を求めた\n・SNS上の口コミを装った広告表示が問題視され、ステマ規制の厳格化が改めて示された",
+      "score": 7,
+      "reason": "ステマ規制の具体事例で広告表記の実務に影響",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "成長期の栄養素を補うとうたうサプリ「ノビルン」、ステマで措置命令…「ＳＮＳでも大人気！」依頼投稿と明らかにせず 個人の感想を装って商品を宣伝するステルスマーケティング（ステマ）を行ったとして、消費者庁は２９日、健康食品販売会社「高光製薬」（神戸市）に対し、景品表示法違反で…読売新聞オンライン社会6/30(火) 10:52",
+      "link": "https://news.yahoo.co.jp/articles/488d983bbca877700c0ab3edc352e3d7c8fefe6c",
+      "summary": "・消費者庁が健康食品販売の高光製薬に対しステマで景表法違反の措置命令を出した\n・成長期向けサプリ「ノビルン」を依頼投稿と明かさず個人の感想を装い宣伝していた\n・「SNSでも大人気」などと表示し広告であることを隠した投稿が問題視された",
+      "score": 7,
+      "reason": "ステマ措置命令の詳細で法令遵守の参考になる",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「SNSでも大人気」はステマ 高光製薬に消費者庁が措置命令 広告だと明らかにせずに宣伝するステルスマーケティング（ステマ）をしたとして、消費者庁は29日、サプリメント販売「高光製薬」（神戸市）に対し、景品表…朝日新聞社会6/29(月) 17:19",
+      "link": "https://news.yahoo.co.jp/articles/c39dc830a1cf4fb93a85090857ed9e243e156974",
+      "summary": "・消費者庁が神戸市の高光製薬に対しステマ行為で景品表示法に基づく措置命令を出した\n・サプリメントの宣伝で「SNSでも大人気」等の表現を広告と明示せず使用した点が問題視された\n・ステルスマーケティング規制に基づく措置命令として消費者庁が厳正に対処した事例となった",
+      "score": 7,
+      "reason": "ステマ規制事例で広告運用時の注意喚起に有用",
+      "date": "2026-06-30"
+    },
+    {
+      "source": "Google News",
+      "title": "「枠」ではなく「体験」を創る TikTok Liteと電通デジタル、LMIが実証した、リテールメディアの真価とは - AdverTimes.（アドタイ） by 宣伝会議",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRk8xQV8xNHZSVXVMT1V5MG13QVdDdzQzZ3VrQXN4RWdwRENZZ3VNd3oyeTgxYWFGcEJsVFQ4c0JvMFAwaVh3UWZSR3B5bXdPRllMdzVXMndXMWx5MDlv?oc=5",
+      "summary": "・TikTok Liteと電通デジタル、LMIが連携しリテールメディアの新たな可能性を実証した\n・従来の広告「枠」売りではなく、ユーザーの「体験」を重視した設計が成果を上げた\n・リテールメディアの真価は購買データ活用と体験創出の融合にあると示された",
+      "score": 7,
+      "reason": "TikTok Liteリテールメディア実証事例で実践的知見",
+      "date": "2026-06-30"
     }
   ]
 }
