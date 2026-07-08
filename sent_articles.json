@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTko0SXVFTFZDV3p0ZUx5MkFKNmdlU0MwNDJ0TF82WmZENHd0Y19heE5VdTVFQ3FsWm12dTh4R2pZQXdMdzJfZkJkd01hRzhaNkNtLTlrMVBMejkyTzJFeFlhdU1CRHVfcnc?oc=5": "2026-06-07",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5USGlLR0wxQVpkc1ZaZXNtWG1UVlhObEJRa2N4dEtaZzluOUZDbGQzNm1FY1ZfU19EOVZSWlA5eTBrSld3LUU5QWp3cnJ5STZMd2c?oc=5": "2026-06-07",
-    "https://news.yahoo.co.jp/articles/aca64519675ca7493c96c4fd80dc1b8c6773392c": "2026-06-07",
-    "https://news.yahoo.co.jp/articles/ecf6a9ce0423530575c4f91c043044df60af17a8": "2026-06-07",
-    "https://news.yahoo.co.jp/articles/4ea741d08be3bf80dadc67a0ef47ac5a2db84dd0": "2026-06-07",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Snc0SzZSX2hpUXRISUF5Y1p2R1RfNEZOQ0tfQVFNc1FxVTR2SFpqZVc2MkxUVmpvV2dkdExibEpzQnhMTzRvdFJwZWZsc1dXUlQzWDJoNzNmbWQ0aElRa2ZQMEpCaVFQSFoteQ?oc=5": "2026-06-08",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WkdMejIwZXBwVTh1MlE2aDhMOUhUVjlxb196TFJrNE5PRDFMNTExT2ptQmFIcDVsSGRMQ0hIc241YWN1QndJZFVpejE1NmtLV1FGNVAza09XOTlwaW1yUmdDSnItd2pscVB5bFNjUHVBeUpqSUowLVRMaF8ySDg?oc=5": "2026-06-08",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNktCOTVPdTVlVWlOSGxXVzUyZHU0TXhGS2NsUlpIaW1ZRjR4ekp2Rjc2Z2hfMXNUbWxoSVh5cTl1Q0czU2FvbGZncTBNdUt4cURVN2dNSUtCdTJWMFAtM1hYUGd2MHFDdU9iSER2VG1fNGc4UHZ0cWhzSDhFQQ?oc=5": "2026-06-08",
@@ -287,29 +282,19 @@
     "https://news.yahoo.co.jp/articles/2d42a3795e498d5072ca08a29a05ba1ceee623c3": "2026-07-07",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkVZaFpnalJvR3dMM2ppMkpuUUNid1MweVV5MmpNV3RaTnFQZE9SaHE4UHdIRUNMX3VnTFdIalR4Z09vVGNtZXhNSVQydzZkNEN3YjVWX0E0S2J2WXJoZk9tbHFBLWR4NTFYU0Y0U1liUVprN1pmY0tDSnJSUjVuNlQySTRyOUtUYnVLYQ?oc=5": "2026-07-07",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CalN3TzdxTk9KQTNZaG4yQnpDbzBVWUhxVWwwaW53OTZ2Z0gxaldBeVU0eGUxZ0M2WUhQN0JGVlk4cWd4ekpPNnJqQzNOVnVzYWJIZmo4MUtyQQ?oc=5": "2026-07-07",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iY29tX25iZG9sc05UNzE4ZlZtY2hvcWJlUk1nSUE1Tk45cUtMX29rRTBWYnNGeURoSThmNGZlbmp4ZlVrM0xUUTF2cnJBcDVfMElHNjJnMmp0Yzg?oc=5": "2026-07-07"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iY29tX25iZG9sc05UNzE4ZlZtY2hvcWJlUk1nSUE1Tk45cUtMX29rRTBWYnNGeURoSThmNGZlbmp4ZlVrM0xUUTF2cnJBcDVfMElHNjJnMmp0Yzg?oc=5": "2026-07-07",
+    "https://www.facebook.com/business/news/muse-image-for-businesses": "2026-07-08",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuQ2hhc1VsTXRDNXZiOFdQQ1dkWnJPaXlOZ0w2TzRXb0J1NTVTVVNLYnRmaDZ1aWVfMUcyeXB6OWI1R3BVeHFiTF9ydU9zN0pOc1BtYTdKWFRvMGNBZkNBYjNUUGppb0ZfX09B?oc=5": "2026-07-08",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhcTloN0dQLWtvcXAtbG1NUDM0Q1phUnFQQTJhMmpyNHVybXFOTy1DZHp3eWVkaWlIVnFxQ0xSNW9FY3pKcWZoSWN0MA?oc=5": "2026-07-08",
+    "https://news.yahoo.co.jp/articles/ddfd18cef232b0be2760a51f1ecd400756b14797": "2026-07-08",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuRk5SZEd3WkpLdXMtZ2dyNnE2TlZNeGhkRnhXMk5aQ1BRWHdEM3V4NjB3ZGg3eUxTU2F5dS1VcjNsMnUxRUtIYzNUNGR2TzNCcGM0dmFCV3hYb0FDX25vc0NRODY1Y2V1XzEwY3FzSnU0Q1Fn?oc=5": "2026-07-08",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLW0ydU5iYkhWZFlMYzlUdDBsZXVkUmcxZm1YYWI4Wjc4WmZZQUdFb3RBLTM0a1BOc19VbTVJVnBTMWV1bTJxckpWMlhzdUltYUxBZ3NOcXdCZ3pLeDA0?oc=5": "2026-07-08",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WOWhzTzhRVkVUNUxoSnhza1RZY3E4OElSX0h4T3pzT3pHNVFOT0ZiYWtOTnVjcTU2bmk4WkI2TE9BTF9qR1ZMYkUxX25YaHd0UHdEdDVzRW02SnJ0cVVNS1JIcEpKeDZENHc?oc=5": "2026-07-08",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQ1NpWnRXR3ZuYXpEdlNqR0hvenNxUGZfSWFIWmJvNGtxNmZPTFh4MzRoUHNWbWdpSVFhX2x2bmVMVjNRQm5OTVhyUk4zQjF6UlMxYXVKdEJ5WFNDNHlPQVozWkZEclA3SkE?oc=5": "2026-07-08",
+    "https://news.yahoo.co.jp/articles/32964435c4a2ee4549fcf3495af128b8209010c8": "2026-07-08",
+    "https://news.yahoo.co.jp/articles/3f2e03cb15442dc566dc9e5fcea00637d71dec28": "2026-07-08"
   },
   "titles": [
-    {
-      "title": "フリークアウト、SNS広告運用を自動化するAIエージェント「HAWK」を2026年6月5日より提供開始 - media-innovation.jp",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "『イモトのWiFi』“広告表記”、社長が謝罪＆いきさつ説明 消費者庁から違反の指摘受け「全てはわたくしどもの会社の責任」 - 山陽新聞",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "セ・パ交流戦『セ・リーグTV』がない「最大の障壁」は巨人ではなく“地元重視”の別球団…積や分析といった将来的な成長の種を逃している側面は否めないでしょう」（広告代理店関係者） パ・リーグが、デジタルネイティブ世代を取り込んで将来的なフ…週刊女性PRIME野球6/7(日) 7:30",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "《メディアからオファーは見送りも》嵐 ラストシングルの『Spotify』CMソング起用に込めた「願い」…Five』だ。今回のライブの最後を飾った楽曲だが、実はもう1つ役割が。広告代理店関係者は言う。 「『Spotify』のCMソングとして、使用されている…女性自身エンタメ総合6/7(日) 11:00",
-      "date": "2026-06-07"
-    },
-    {
-      "title": "【毎日書評】世界のビジネスエリートが歴史から学ぶこと。「人文知」が正解のない時代の答えになる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合6/6(土) 21:51",
-      "date": "2026-06-07"
-    },
     {
       "title": "Meta日本法人幹部、AIで広告内製化進むも「ハイブリッドが主流に」 - 日本経済新聞",
       "date": "2026-06-08"
@@ -1477,54 +1462,49 @@
     {
       "title": "“広告代理店勤務”イケメンが酒に酔った勢いで人気TikTokerを突き放す「マジでどっちでもいいよ」 - オリコンニュース",
       "date": "2026-07-07"
+    },
+    {
+      "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "広告プラットフォームの風雲児・楽天が切り開く独自の広告サービスとは[インタビュー] - Exchangewire Japan",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "TikTok広告は、実店舗購買にどれだけ寄与するのか？ - 電通報",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "メディア独自の広告プラットフォーム構築「アドネットワークOEM」を「FITNESS LOVE」に導入…にした。 アドネットワークOEMは、メディア企業が媒体力を使って独自の運用型広告プラットフォームが構築できる仕組み。広告主が入稿・運用するセルフサーブ…Web担当者ForumIT総合7/7(火) 15:01",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "エバーコアISI、アマゾン主導でデジタル広告の堅調な成長を予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "【PR】テレビをデジタル並みに運用 「ミエルTV」が変えるテレビCMの未来 - 日経クロストレンド",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "ブログウォッチャー、デジタル広告の品質認証機構「JICDAQ」より、「ブランドセーフティ」「無効トラフィック対策」の2分野で認証取得 - PR TIMES",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "STU48・SKE48人気ゲームイベントにおけるTikTok広告運用業務を受注 - PR TIMES",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "正露丸の“効果”が判明したのは、実は「それほど昔ではない」？ 生き残りをかけて研究を重ねた「大幸薬品」の“意外な過去”…された商品だった。 しかし、その勢いは長く続かなかった。消費者庁は、クレベリンの一部広告表示について合理的根拠が十分に示されていないとして、景品表示…東洋経済オンライン経済総合7/8(水) 7:30",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "「ゴキブリ出ても検索するな」550円〜のはずが14万円請求、害虫駆除で急増するレスキュー商法の恐怖…なりません。つまり、クーリング・オフができるわけです。 この考え方は、消費者庁のウェブサイト「訪問販売等の適用除外に関するQ＆A」にも記載があります。弁護士ドットコムニュース社会7/8(水) 10:20",
+      "date": "2026-07-08"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "フリークアウト、SNS広告運用を自動化するAIエージェント「HAWK」を2026年6月5日より提供開始 - media-innovation.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTko0SXVFTFZDV3p0ZUx5MkFKNmdlU0MwNDJ0TF82WmZENHd0Y19heE5VdTVFQ3FsWm12dTh4R2pZQXdMdzJfZkJkd01hRzhaNkNtLTlrMVBMejkyTzJFeFlhdU1CRHVfcnc?oc=5",
-      "summary": "・フリークアウトがSNS広告運用を自動化するAIエージェント「HAWK」を発表した\n・HAWKは2026年6月5日より提供開始され、広告運用業務の効率化を目指す\n・AI活用により広告配信の最適化や運用工数の削減が期待される",
-      "score": 7,
-      "reason": "SNS広告運用自動化AIツールの新サービス情報",
-      "date": "2026-06-07"
-    },
-    {
-      "source": "Google News",
-      "title": "『イモトのWiFi』“広告表記”、社長が謝罪＆いきさつ説明 消費者庁から違反の指摘受け「全てはわたくしどもの会社の責任」 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5USGlLR0wxQVpkc1ZaZXNtWG1UVlhObEJRa2N4dEtaZzluOUZDbGQzNm1FY1ZfU19EOVZSWlA5eTBrSld3LUU5QWp3cnJ5STZMd2c?oc=5",
-      "summary": "・イモトのWiFiの広告表記が消費者庁から景品表示法違反の指摘を受けたことが判明\n・運営会社の社長が公式に謝罪し違反に至った経緯について説明を行った\n・社長は「全てはわたくしどもの会社の責任」と述べ全面的に非を認めた",
-      "score": 5,
-      "reason": "景品表示法違反事例は広告表記の注意喚起になる",
-      "date": "2026-06-07"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "セ・パ交流戦『セ・リーグTV』がない「最大の障壁」は巨人ではなく“地元重視”の別球団…積や分析といった将来的な成長の種を逃している側面は否めないでしょう」（広告代理店関係者） パ・リーグが、デジタルネイティブ世代を取り込んで将来的なフ…週刊女性PRIME野球6/7(日) 7:30",
-      "link": "https://news.yahoo.co.jp/articles/aca64519675ca7493c96c4fd80dc1b8c6773392c",
-      "summary": "・パ・リーグTVのようなセ・リーグ統一配信が実現しない最大の障壁は巨人ではなく地元放映権を重視する別球団にあると指摘\n・セ・リーグはデータ蓄積や視聴分析など将来的な成長機会をデジタル戦略の遅れにより逃していると広告代理店関係者が警鐘\n・パ・リーグはデジタルネイティブ世代の取り込みに先行しファン基盤拡大で優位に立っている現状が浮き彫りに",
-      "score": 2,
-      "reason": "スポーツ放映権の話題で広告運用と無関係",
-      "date": "2026-06-07"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "《メディアからオファーは見送りも》嵐 ラストシングルの『Spotify』CMソング起用に込めた「願い」…Five』だ。今回のライブの最後を飾った楽曲だが、実はもう1つ役割が。広告代理店関係者は言う。 「『Spotify』のCMソングとして、使用されている…女性自身エンタメ総合6/7(日) 11:00",
-      "link": "https://news.yahoo.co.jp/articles/ecf6a9ce0423530575c4f91c043044df60af17a8",
-      "summary": "・嵐のラストシングル収録曲がSpotifyのCMソングに起用され話題となっている\n・メディアからのオファーは見送る中、音楽配信サービスへの楽曲提供を選択した\n・活動休止後もファンに音楽を届け続けたいという嵐側の願いが込められている",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用とは無関係",
-      "date": "2026-06-07"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】世界のビジネスエリートが歴史から学ぶこと。「人文知」が正解のない時代の答えになる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合6/6(土) 21:51",
-      "link": "https://news.yahoo.co.jp/articles/4ea741d08be3bf80dadc67a0ef47ac5a2db84dd0",
-      "summary": "・世界のビジネスエリートが歴史や人文学から学ぶ意義を解説した書籍の書評記事\n・正解のない時代において「人文知」がビジネスの意思決定に役立つと提唱している\n・書評家・印南敦史氏がライフハッカーにて本書の実践的な価値を紹介している",
-      "score": 1,
-      "reason": "書評記事で広告運用と無関係",
-      "date": "2026-06-07"
-    },
     {
       "source": "Google News",
       "title": "Meta日本法人幹部、AIで広告内製化進むも「ハイブリッドが主流に」 - 日本経済新聞",
@@ -4152,6 +4132,96 @@
       "score": 1,
       "reason": "エンタメ番組紹介で広告運用と無関係",
       "date": "2026-07-07"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
+      "link": "https://www.facebook.com/business/news/muse-image-for-businesses",
+      "summary": "・Meta Superintelligence Labsが次世代AI画像生成ツール「Muse Image」を企業向けに発表した\n・エージェント型推論を広告クリエイティブ制作に導入し高品質な画像生成を実現する\n・AI部屋リスタイリング機能で消費者が自室に商品を配置した様子を視覚化できる",
+      "score": 8,
+      "reason": "Meta主要プラットフォームのAI広告クリエイティブ新機能発表",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Google News",
+      "title": "広告プラットフォームの風雲児・楽天が切り開く独自の広告サービスとは[インタビュー] - Exchangewire Japan",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuQ2hhc1VsTXRDNXZiOFdQQ1dkWnJPaXlOZ0w2TzRXb0J1NTVTVVNLYnRmaDZ1aWVfMUcyeXB6OWI1R3BVeHFiTF9ydU9zN0pOc1BtYTdKWFRvMGNBZkNBYjNUUGppb0ZfX09B?oc=5",
+      "summary": "・楽天が独自の広告プラットフォームを展開し、広告業界で注目される存在として台頭している\n・楽天経済圏の膨大な購買データやユーザー情報を活用した独自の広告サービスを提供している\n・インタビューを通じて楽天の広告事業戦略や今後の展望について詳細が語られている",
+      "score": 7,
+      "reason": "楽天広告プラットフォームの詳細で実務参考になる",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok広告は、実店舗購買にどれだけ寄与するのか？ - 電通報",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhcTloN0dQLWtvcXAtbG1NUDM0Q1phUnFQQTJhMmpyNHVybXFOTy1DZHp3eWVkaWlIVnFxQ0xSNW9FY3pKcWZoSWN0MA?oc=5",
+      "summary": "・TikTok広告が実店舗でのオフライン購買にどの程度寄与するかを電通が検証・分析した\n・広告接触者は非接触者と比べて実店舗での購買率や購買金額が有意に高い結果となった\n・短尺動画広告による認知・興味喚起がオフライン購買行動へ直結する効果が数値で実証された",
+      "score": 7,
+      "reason": "TikTok広告の実店舗購買効果の実践的知見",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メディア独自の広告プラットフォーム構築「アドネットワークOEM」を「FITNESS LOVE」に導入…にした。 アドネットワークOEMは、メディア企業が媒体力を使って独自の運用型広告プラットフォームが構築できる仕組み。広告主が入稿・運用するセルフサーブ…Web担当者ForumIT総合7/7(火) 15:01",
+      "link": "https://news.yahoo.co.jp/articles/ddfd18cef232b0be2760a51f1ecd400756b14797",
+      "summary": "・メディア独自の運用型広告プラットフォームを構築できる「アドネットワークOEM」がサービス提供開始\n・フィットネスメディア「FITNESS LOVE」に同サービスが導入され、独自広告配信基盤を実装\n・広告主がセルフサーブ形式で入稿・運用できる仕組みにより、メディアの媒体力を活かした収益化を支援",
+      "score": 6,
+      "reason": "運用型広告プラットフォーム構築の新サービス情報",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Google News",
+      "title": "エバーコアISI、アマゾン主導でデジタル広告の堅調な成長を予測 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuRk5SZEd3WkpLdXMtZ2dyNnE2TlZNeGhkRnhXMk5aQ1BRWHdEM3V4NjB3ZGg3eUxTU2F5dS1VcjNsMnUxRUtIYzNUNGR2TzNCcGM0dmFCV3hYb0FDX25vc0NRODY1Y2V1XzEwY3FzSnU0Q1Fn?oc=5",
+      "summary": "・エバーコアISIがデジタル広告市場の堅調な成長見通しを発表した\n・アマゾンが広告事業の成長を主導する存在として注目されている\n・投資家向けにデジタル広告セクターへの前向きな評価が示された",
+      "score": 5,
+      "reason": "デジタル広告市場の成長予測で業界動向把握に有用",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Google News",
+      "title": "【PR】テレビをデジタル並みに運用 「ミエルTV」が変えるテレビCMの未来 - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLW0ydU5iYkhWZFlMYzlUdDBsZXVkUmcxZm1YYWI4Wjc4WmZZQUdFb3RBLTM0a1BOc19VbTVJVnBTMWV1bTJxckpWMlhzdUltYUxBZ3NOcXdCZ3pLeDA0?oc=5",
+      "summary": "・「ミエルTV」はテレビCMをデジタル広告並みに効果測定・運用できるサービスとして注目されている\n・従来は効果が見えにくかったテレビCMの視聴データを可視化し、PDCAサイクルの実現を目指す\n・デジタルとテレビの統合的な広告運用を可能にし、テレビCMの未来を変革する可能性を示す",
+      "score": 4,
+      "reason": "テレビCM運用ツールのPR記事",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Google News",
+      "title": "ブログウォッチャー、デジタル広告の品質認証機構「JICDAQ」より、「ブランドセーフティ」「無効トラフィック対策」の2分野で認証取得 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WOWhzTzhRVkVUNUxoSnhza1RZY3E4OElSX0h4T3pzT3pHNVFOT0ZiYWtOTnVjcTU2bmk4WkI2TE9BTF9qR1ZMYkUxX25YaHd0UHdEdDVzRW02SnJ0cVVNS1JIcEpKeDZENHc?oc=5",
+      "summary": "・ブログウォッチャーがデジタル広告品質認証機構JICDAQの認証を取得した\n・認証分野は「ブランドセーフティ」と「無効トラフィック対策」の2領域である\n・広告掲載先の安全性確保と不正トラフィック排除への取り組みが公式に認められた",
+      "score": 3,
+      "reason": "企業の認証取得プレスリリース",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Google News",
+      "title": "STU48・SKE48人気ゲームイベントにおけるTikTok広告運用業務を受注 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQ1NpWnRXR3ZuYXpEdlNqR0hvenNxUGZfSWFIWmJvNGtxNmZPTFh4MzRoUHNWbWdpSVFhX2x2bmVMVjNRQm5OTVhyUk4zQjF6UlMxYXVKdEJ5WFNDNHlPQVozWkZEclA3SkE?oc=5",
+      "summary": "・STU48・SKE48が参加する人気ゲームイベントのTikTok広告運用業務を受注した\n・TikTok広告を活用しアイドルグループのゲームイベントの認知拡大と集客を図る\n・アイドルファン層とゲームユーザー層の双方へリーチする広告戦略が注目される",
+      "score": 3,
+      "reason": "TikTok広告運用の受注プレスリリース",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "正露丸の“効果”が判明したのは、実は「それほど昔ではない」？ 生き残りをかけて研究を重ねた「大幸薬品」の“意外な過去”…された商品だった。 しかし、その勢いは長く続かなかった。消費者庁は、クレベリンの一部広告表示について合理的根拠が十分に示されていないとして、景品表示…東洋経済オンライン経済総合7/8(水) 7:30",
+      "link": "https://news.yahoo.co.jp/articles/32964435c4a2ee4549fcf3495af128b8209010c8",
+      "summary": "・正露丸の薬効メカニズムの科学的解明は意外にも近年であり、長年経験的に使われていた歴史がある\n・大幸薬品は生き残りをかけ正露丸の効果研究を重ね、エビデンスに基づくブランド再構築を図った\n・クレベリンの広告表示が消費者庁から景表法違反の指摘を受け、企業の信頼性に大きな打撃を与えた",
+      "score": 2,
+      "reason": "景表法事例だが広告運用実務との関連薄い",
+      "date": "2026-07-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ゴキブリ出ても検索するな」550円〜のはずが14万円請求、害虫駆除で急増するレスキュー商法の恐怖…なりません。つまり、クーリング・オフができるわけです。 この考え方は、消費者庁のウェブサイト「訪問販売等の適用除外に関するQ＆A」にも記載があります。弁護士ドットコムニュース社会7/8(水) 10:20",
+      "link": "https://news.yahoo.co.jp/articles/3f2e03cb15442dc566dc9e5fcea00637d71dec28",
+      "summary": "・害虫駆除で「550円〜」と広告しながら14万円を請求するレスキュー商法の被害が急増している\n・消費者庁は訪問販売に該当するとしクーリング・オフによる契約解除が可能との見解を示している\n・緊急時にネット検索で業者を呼ぶと高額請求の被害に遭うリスクが高く注意が必要とされる",
+      "score": 1,
+      "reason": "広告運用と無関係の消費者トラブル記事",
+      "date": "2026-07-08"
     }
   ]
 }
