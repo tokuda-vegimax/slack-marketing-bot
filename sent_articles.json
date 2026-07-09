@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Snc0SzZSX2hpUXRISUF5Y1p2R1RfNEZOQ0tfQVFNc1FxVTR2SFpqZVc2MkxUVmpvV2dkdExibEpzQnhMTzRvdFJwZWZsc1dXUlQzWDJoNzNmbWQ0aElRa2ZQMEpCaVFQSFoteQ?oc=5": "2026-06-08",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WkdMejIwZXBwVTh1MlE2aDhMOUhUVjlxb196TFJrNE5PRDFMNTExT2ptQmFIcDVsSGRMQ0hIc241YWN1QndJZFVpejE1NmtLV1FGNVAza09XOTlwaW1yUmdDSnItd2pscVB5bFNjUHVBeUpqSUowLVRMaF8ySDg?oc=5": "2026-06-08",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNktCOTVPdTVlVWlOSGxXVzUyZHU0TXhGS2NsUlpIaW1ZRjR4ekp2Rjc2Z2hfMXNUbWxoSVh5cTl1Q0czU2FvbGZncTBNdUt4cURVN2dNSUtCdTJWMFAtM1hYUGd2MHFDdU9iSER2VG1fNGc4UHZ0cWhzSDhFQQ?oc=5": "2026-06-08",
-    "https://news.yahoo.co.jp/articles/daa8bdd3de5a2ef7db583a22296afc97c51c7740": "2026-06-08",
-    "https://news.yahoo.co.jp/articles/02c8cf8786098e6517df8e92781ae21e1ae14afa": "2026-06-08",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0UERmb1luTzJPbWFrYTJlY1ZOMEowLWxHcjhjUlV3SHhZck5NTW5KQUNnbVFNc3VNSFpzVDEyV0syV3BxWUZaT3BUa3hKNXZYZ2VVTjliQXpCTUdublhrTzA0MG5UQmc4dkdkb3pTdnluaXVWaVEyVmlvOA?oc=5": "2026-06-08",
-    "https://news.yahoo.co.jp/articles/89240c832945ffb65428572275ecaa1ca764a6f9": "2026-06-08",
     "https://anagrams.jp/blog/emotion-empathy-banner-tips/": "2026-06-09",
     "https://oneder.hakuhodody-one.co.jp/blog/data-collaboration-next-marketing": "2026-06-09",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5": "2026-06-09",
@@ -292,37 +285,18 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WOWhzTzhRVkVUNUxoSnhza1RZY3E4OElSX0h4T3pzT3pHNVFOT0ZiYWtOTnVjcTU2bmk4WkI2TE9BTF9qR1ZMYkUxX25YaHd0UHdEdDVzRW02SnJ0cVVNS1JIcEpKeDZENHc?oc=5": "2026-07-08",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQ1NpWnRXR3ZuYXpEdlNqR0hvenNxUGZfSWFIWmJvNGtxNmZPTFh4MzRoUHNWbWdpSVFhX2x2bmVMVjNRQm5OTVhyUk4zQjF6UlMxYXVKdEJ5WFNDNHlPQVozWkZEclA3SkE?oc=5": "2026-07-08",
     "https://news.yahoo.co.jp/articles/32964435c4a2ee4549fcf3495af128b8209010c8": "2026-07-08",
-    "https://news.yahoo.co.jp/articles/3f2e03cb15442dc566dc9e5fcea00637d71dec28": "2026-07-08"
+    "https://news.yahoo.co.jp/articles/3f2e03cb15442dc566dc9e5fcea00637d71dec28": "2026-07-08",
+    "https://oneder.hakuhodody-one.co.jp/blog/ingame-ad-brand-lift-effect": "2026-07-09",
+    "https://www.lycbiz.com/jp/column/line-research/service-information/20180119-02/": "2026-07-09",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40NE5EZjdUdmFYQm11SWgxQjBkcTNmeFU1UDI2QTdudWhKaFZqVjJSUUp1a0NFRmhfeDdCdUg3ZWlOVF9tNjVrYmdvRXdwOVBuTF80?oc=5": "2026-07-09",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWSEFRblFVS1N4d2VkT3FYUUZKNjhpNFFiMHRFSGQ5Q2x3Q0czd2pWMXJpZWhXS2wwMlN5VTdpRE44dnVvOUJfYkFIelpCV3lCTmpLRVdOMTM4X2lfSnZtaG1SYTZRakZHbUU4MXBkbmhIcUpW?oc=5": "2026-07-09",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWFFhY2dCU1QzRmVubFV4Yi1RNHBsamxsU3NjajQ5T01pOUM5MG16cllVQ2wzUzJBRFEyS284bnlueEkyVnBLNFlVdGlfdWc3WmRFcDVR?oc=5": "2026-07-09",
+    "https://news.yahoo.co.jp/expert/articles/b7c2815aef578408a53568c11f50c6f83b9a5e57": "2026-07-09",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGppQ1V3Y0R4RWNEbWlrYlFZTG1LMVNYUXJiSGhzSFpIZ0s3QUVvc0ZBS1BoWVJ0ajlmc0Q0bUo4bzJuN1lBYTZ0Uk9qM2JUa1Fsb3pMUlY2M2hnZkZLSGEtTWMzWk9TMHdyZjVpXzhxS2U5WkJqa1VPRVBTVVF2MFMweHZZUm9y?oc=5": "2026-07-09",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbnYtamNXSllYQ0lxNG54dlBNTjJxMlNCbzNVVkZtWF8ycjA0QUhhcEdMNzY5bjFKQkZMZzlzWTVwVVp5YTlVM25mUk9fNG9DLXM4N3F0a3NrSW12dE1kMEtYZ0R0bnlVd1E?oc=5": "2026-07-09",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYVk9YY2lDaWlJNi1Wa3l3eW94NFRvNUFnaGNjUVYxUmMzemd4RFZyY1BKd1M1b2Y0X21zZ01CSnFkUDRLWXdOVzN5RF90RUU2REMzWWRMRkRlaFZhR2NMU2x1R2prWHI4bGY5cURhMXRlaFNZ?oc=5": "2026-07-09"
   },
   "titles": [
-    {
-      "title": "Meta日本法人幹部、AIで広告内製化進むも「ハイブリッドが主流に」 - 日本経済新聞",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "GoogleがGeminiの活用で不正広告の99%以上を配信開始前に特定、83億件をブロック（Web担当者Forum） - Yahoo!ニュース",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "北海道新聞社、北海道特化型デジタル広告サービス「道新DSP Powered by UNIVERSE」を提供開始 - zakⅡ",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "あなたの「個人情報」は守られてる？“これくらい大丈夫\"は危険…身近に潜むリスクと注意すべきポイントを解説…けるプライバシー保護」で、期間中は駅や空港、商業施設などでポスターやデジタル広告を活用した広報活動がおこなわれる予定です。最後に金澤さんは、「個人情報…TOKYO FM＋ライフ総合6/7(日) 19:50",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "「男子ゴルフは宝の山！」——ポテンシャルを活かせていなかった男子ツアー、投資ファンド主導で株式会社化へ 収益源については、従来型のスポンサーに加えて、放映・配信、ツアー横断スポンサー、デジタル広告、イベント、ホスピタリティ、ライセンス、海外配信などを多層的に組み合わ…東洋経済オンライン経済総合6/7(日) 12:00",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "上智大卒・広告代理店勤務のエリート男子が芸人に？驚きの転身理由と秘密兵器：家、ついて行ってイイですか？の画像 - tv-tokyo.co.jp",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "【毎日書評】他者への批判は自分に返ってくる…「がんばっても報われない」を抜け出すヒント…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス6/8(月) 8:21",
-      "date": "2026-06-08"
-    },
     {
       "title": "悩みに寄り添う「感情代弁型」バナーで成果を出すコピーとデザインのコツ",
       "date": "2026-06-09"
@@ -1502,72 +1476,49 @@
     {
       "title": "「ゴキブリ出ても検索するな」550円〜のはずが14万円請求、害虫駆除で急増するレスキュー商法の恐怖…なりません。つまり、クーリング・オフができるわけです。 この考え方は、消費者庁のウェブサイト「訪問販売等の適用除外に関するQ＆A」にも記載があります。弁護士ドットコムニュース社会7/8(水) 10:20",
       "date": "2026-07-08"
+    },
+    {
+      "title": "ゲーム内広告は購買意向を高める？SUBWAYのブランドリフト調査で見えたインゲーム広告の効果",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "LINEリサーチ特長:国内最大級のモニター数",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "CV20倍を実現！効果おまかせAI×成果報酬型×クリエイティブPDCAが拓く「Meta運用」の最前線 (1/3) - MarkeZine",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Meta、画像生成AI「Muse Image」を発表、クリエイターと広告市場を照準 - BigGo ファイナンス",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "デジタル広告運用の課題調査、9割が代理店活用も約2割が不満 インハウス化検討が8割超に - コマースピック",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "「環境に優しい」の基準は年々厳格に ユニクロなど3社のGoogle広告が英国で掲載禁止 #エキスパートトピ…新たな課題にも繋がります。日本は、欧州のような専用の規制法はなく主に「景品表示法」で対応しているのが現状で、グローバルブランドに対して欧州ほどの厳しい…砂押貴久経済総合7/9(木) 7:01",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "「環境に優しい」の基準は年々厳格に ユニクロなど3社のGoogle広告が英国で掲載禁止 #エキスパートトピ - Yahoo!ニュース",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "「環境に優しい」の基準は年々厳格に ユニクロなど3社のGoogle広告が英国で掲載禁止 #エキスパートトピ…根拠がない「環境に優しい」という言葉は、簡単には使えなくなる時代がくるかもしれません。英国の広告規制機関は、「アディダス」「カルバン・クライン」「ユ…砂押貴久経済総合7/9(木) 7:01",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "ショートドラマPRで再生単価1円以下を実現。studio15「500万再生保証」パッケージを提供開始 - PR TIMES",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "ExchangeWire Japan、デジタル広告業界ニュースのYouTube配信を開始 - Exchangewire Japan",
+      "date": "2026-07-09"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "Meta日本法人幹部、AIで広告内製化進むも「ハイブリッドが主流に」 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Snc0SzZSX2hpUXRISUF5Y1p2R1RfNEZOQ0tfQVFNc1FxVTR2SFpqZVc2MkxUVmpvV2dkdExibEpzQnhMTzRvdFJwZWZsc1dXUlQzWDJoNzNmbWQ0aElRa2ZQMEpCaVFQSFoteQ?oc=5",
-      "summary": "・Meta日本法人幹部がAI活用による広告クリエイティブの内製化が進展していると言及\n・完全内製化ではなく代理店との協業を含むハイブリッド型が主流になると予測\n・AI技術の進化により広告主と代理店の役割分担が今後大きく変化する見通し",
-      "score": 7,
-      "reason": "Meta幹部のAI広告内製化見解、運用体制に示唆",
-      "date": "2026-06-08"
-    },
-    {
-      "source": "Google News",
-      "title": "GoogleがGeminiの活用で不正広告の99%以上を配信開始前に特定、83億件をブロック（Web担当者Forum） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WkdMejIwZXBwVTh1MlE2aDhMOUhUVjlxb196TFJrNE5PRDFMNTExT2ptQmFIcDVsSGRMQ0hIc241YWN1QndJZFVpejE1NmtLV1FGNVAza09XOTlwaW1yUmdDSnItd2pscVB5bFNjUHVBeUpqSUowLVRMaF8ySDg?oc=5",
-      "summary": "・GoogleはAI「Gemini」を活用し不正広告の99%以上を配信前に検出・排除する体制を構築した\n・2024年に約83億件の不正広告をブロックし広告プラットフォームの安全性向上に貢献している\n・AI技術の進化により不正広告の事前検知精度が飛躍的に向上し広告主・ユーザー双方を保護している",
-      "score": 6,
-      "reason": "Google広告の不正検知にGemini活用、業界動向として有用",
-      "date": "2026-06-08"
-    },
-    {
-      "source": "Google News",
-      "title": "北海道新聞社、北海道特化型デジタル広告サービス「道新DSP Powered by UNIVERSE」を提供開始 - zakⅡ",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNktCOTVPdTVlVWlOSGxXVzUyZHU0TXhGS2NsUlpIaW1ZRjR4ekp2Rjc2Z2hfMXNUbWxoSVh5cTl1Q0czU2FvbGZncTBNdUt4cURVN2dNSUtCdTJWMFAtM1hYUGd2MHFDdU9iSER2VG1fNGc4UHZ0cWhzSDhFQQ?oc=5",
-      "summary": "・北海道新聞社が北海道エリアに特化したデジタル広告サービスの提供を新たに開始した\n・サービス名は「道新DSP Powered by UNIVERSE」でDSP基盤を活用した配信が可能\n・地域メディアの知見とアドテクを融合し北海道向け広告配信の精度向上を目指す",
-      "score": 4,
-      "reason": "地域特化DSPの新サービス発表、限定的な影響",
-      "date": "2026-06-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "あなたの「個人情報」は守られてる？“これくらい大丈夫\"は危険…身近に潜むリスクと注意すべきポイントを解説…けるプライバシー保護」で、期間中は駅や空港、商業施設などでポスターやデジタル広告を活用した広報活動がおこなわれる予定です。最後に金澤さんは、「個人情報…TOKYO FM＋ライフ総合6/7(日) 19:50",
-      "link": "https://news.yahoo.co.jp/articles/daa8bdd3de5a2ef7db583a22296afc97c51c7740",
-      "summary": "・個人情報保護の重要性を解説し「これくらい大丈夫」という油断が危険であると警鐘を鳴らす記事\n・プライバシー保護の啓発期間中に駅・空港・商業施設でポスターやデジタル広告による広報活動を展開予定\n・TOKYO FM発の情報で身近に潜む個人情報リスクと日常生活で注意すべきポイントを具体的に紹介",
-      "score": 2,
-      "reason": "個人情報保護の一般啓発記事、運用実務と無関係",
-      "date": "2026-06-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「男子ゴルフは宝の山！」——ポテンシャルを活かせていなかった男子ツアー、投資ファンド主導で株式会社化へ 収益源については、従来型のスポンサーに加えて、放映・配信、ツアー横断スポンサー、デジタル広告、イベント、ホスピタリティ、ライセンス、海外配信などを多層的に組み合わ…東洋経済オンライン経済総合6/7(日) 12:00",
-      "link": "https://news.yahoo.co.jp/articles/02c8cf8786098e6517df8e92781ae21e1ae14afa",
-      "summary": "・日本男子ゴルフツアーが投資ファンド主導で株式会社化し、組織改革に本格着手する方針が明らかになった\n・放映権・デジタル広告・ホスピタリティなど多層的な収益モデルを構築し、未活用だった商業価値の最大化を目指す\n・従来のスポンサー依存から脱却し、海外配信やライセンス事業など新たな収益源の開拓を進める計画である",
-      "score": 2,
-      "reason": "男子ゴルフ事業の収益戦略、広告運用と無関係",
-      "date": "2026-06-08"
-    },
-    {
-      "source": "Google News",
-      "title": "上智大卒・広告代理店勤務のエリート男子が芸人に？驚きの転身理由と秘密兵器：家、ついて行ってイイですか？の画像 - tv-tokyo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0UERmb1luTzJPbWFrYTJlY1ZOMEowLWxHcjhjUlV3SHhZck5NTW5KQUNnbVFNc3VNSFpzVDEyV0syV3BxWUZaT3BUa3hKNXZYZ2VVTjliQXpCTUdublhrTzA0MG5UQmc4dkdkb3pTdnluaXVWaVEyVmlvOA?oc=5",
-      "summary": "・上智大学卒業後に広告代理店へ就職したエリート男性が芸人へ転身した経緯を紹介\n・テレビ東京「家、ついて行ってイイですか？」で驚きの転身理由と秘密兵器が明かされた\n・広告業界の経験を持つ異色の経歴が注目され番組内で密着取材が行われた",
-      "score": 1,
-      "reason": "TV番組の紹介記事、広告運用と完全に無関係",
-      "date": "2026-06-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】他者への批判は自分に返ってくる…「がんばっても報われない」を抜け出すヒント…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス6/8(月) 8:21",
-      "link": "https://news.yahoo.co.jp/articles/89240c832945ffb65428572275ecaa1ca764a6f9",
-      "summary": "・書評家・印南敦史氏が「努力が報われない」状況を打破するヒントを紹介する書籍を解説\n・他者への批判は自分自身に跳ね返るという心理的メカニズムに着目し意識改革を促す内容\n・記事本文が未提供のため詳細な要約は困難であり、全文の共有をお願いいたします",
-      "score": 1,
-      "reason": "書評・自己啓発記事、広告運用と完全に無関係",
-      "date": "2026-06-08"
-    },
     {
       "source": "アナグラム",
       "title": "悩みに寄り添う「感情代弁型」バナーで成果を出すコピーとデザインのコツ",
@@ -4222,6 +4173,96 @@
       "score": 1,
       "reason": "広告運用と無関係の消費者トラブル記事",
       "date": "2026-07-08"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "ゲーム内広告は購買意向を高める？SUBWAYのブランドリフト調査で見えたインゲーム広告の効果",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/ingame-ad-brand-lift-effect",
+      "summary": "・デジタル広告の多様化に伴いゲーム内広告が新たなブランド接点として注目されている\n・国内モバイルゲーム人口は4,278万人に達し幅広い層へのリーチが可能な媒体である\n・SUBWAYのブランドリフト調査によりインゲーム広告が購買意向向上に効果的と判明",
+      "score": 6,
+      "reason": "インゲーム広告の効果検証事例で新チャネル検討に有用",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "LINEリサーチ特長:国内最大級のモニター数",
+      "link": "https://www.lycbiz.com/jp/column/line-research/service-information/20180119-02/",
+      "summary": "・LINEリサーチは国内最大級のモニター数を誇るリサーチサービスである\n・LINEヤフーが法人向けに提供し最新情報や活用ノウハウを発信している\n・大規模モニター基盤を活かし精度の高いマーケティング調査が可能となる",
+      "score": 3,
+      "reason": "サービス紹介ページで運用型広告の実務知見は薄い",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Google News",
+      "title": "CV20倍を実現！効果おまかせAI×成果報酬型×クリエイティブPDCAが拓く「Meta運用」の最前線 (1/3) - MarkeZine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40NE5EZjdUdmFYQm11SWgxQjBkcTNmeFU1UDI2QTdudWhKaFZqVjJSUUp1a0NFRmhfeDdCdUg3ZWlOVF9tNjVrYmdvRXdwOVBuTF80?oc=5",
+      "summary": "・Meta広告運用でAI自動最適化と成果報酬型モデルを組み合わせCV数を20倍に伸ばした事例を紹介\n・クリエイティブのPDCAサイクルを高速で回すことで広告効果を継続的に改善する手法を解説\n・効果おまかせAIの活用により運用負荷を抑えつつ成果最大化を目指すMeta運用の最前線を提示",
+      "score": 8,
+      "reason": "Meta広告のAI活用・CV改善事例で実践的知見",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta、画像生成AI「Muse Image」を発表、クリエイターと広告市場を照準 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWSEFRblFVS1N4d2VkT3FYUUZKNjhpNFFiMHRFSGQ5Q2x3Q0czd2pWMXJpZWhXS2wwMlN5VTdpRE44dnVvOUJfYkFIelpCV3lCTmpLRVdOMTM4X2lfSnZtaG1SYTZRakZHbUU4MXBkbmhIcUpW?oc=5",
+      "summary": "・Metaが画像生成AI「Muse Image」を発表しクリエイターや広告主向けの活用を想定している\n・同ツールは広告クリエイティブの自動生成など デジタル広告市場での競争力強化を狙う\n・クリエイター支援と広告効率化の両面でAI活用を推進しプラットフォームの収益拡大を目指す",
+      "score": 7,
+      "reason": "Meta画像生成AI新機能、広告クリエイティブ制作に影響",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Google News",
+      "title": "デジタル広告運用の課題調査、9割が代理店活用も約2割が不満 インハウス化検討が8割超に - コマースピック",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWFFhY2dCU1QzRmVubFV4Yi1RNHBsamxsU3NjajQ5T01pOUM5MG16cllVQ2wzUzJBRFEyS284bnlueEkyVnBLNFlVdGlfdWc3WmRFcDVR?oc=5",
+      "summary": "・デジタル広告運用に関する調査で約9割の企業が広告代理店を活用している実態が判明\n・代理店利用企業のうち約2割が運用成果やコミュニケーションに不満を抱えている\n・広告運用のインハウス化を検討する企業が8割超に達しコスト削減やノウハウ蓄積を志向",
+      "score": 6,
+      "reason": "広告運用体制の課題調査、インハウス化動向の参考になる",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「環境に優しい」の基準は年々厳格に ユニクロなど3社のGoogle広告が英国で掲載禁止 #エキスパートトピ…新たな課題にも繋がります。日本は、欧州のような専用の規制法はなく主に「景品表示法」で対応しているのが現状で、グローバルブランドに対して欧州ほどの厳しい…砂押貴久経済総合7/9(木) 7:01",
+      "link": "https://news.yahoo.co.jp/expert/articles/b7c2815aef578408a53568c11f50c6f83b9a5e57",
+      "summary": "・ユニクロなど3社のGoogle広告が「環境に優しい」表現の根拠不足で英国にて掲載禁止処分を受けた\n・欧州では環境訴求広告の基準が年々厳格化しグリーンウォッシュへの規制が強化されている\n・日本は専用規制法がなく景品表示法で対応しておりグローバル展開企業に新たな課題が生じている",
+      "score": 5,
+      "reason": "Google広告の環境訴求規制、表現審査の参考になる",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Google News",
+      "title": "「環境に優しい」の基準は年々厳格に ユニクロなど3社のGoogle広告が英国で掲載禁止 #エキスパートトピ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGppQ1V3Y0R4RWNEbWlrYlFZTG1LMVNYUXJiSGhzSFpIZ0s3QUVvc0ZBS1BoWVJ0ajlmc0Q0bUo4bzJuN1lBYTZ0Uk9qM2JUa1Fsb3pMUlY2M2hnZkZLSGEtTWMzWk9TMHdyZjVpXzhxS2U5WkJqa1VPRVBTVVF2MFMweHZZUm9y?oc=5",
+      "summary": "・英国でユニクロなど3社のGoogle広告が「環境に優しい」表現を理由に掲載禁止処分を受けた\n・環境配慮を訴求する広告表現（グリーンクレーム）の審査基準が年々厳格化している\n・根拠不十分な環境訴求はグリーンウォッシュと判断され規制対象となるリスクが高まっている",
+      "score": 5,
+      "reason": "id5と重複、Google広告の環境表現規制情報",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「環境に優しい」の基準は年々厳格に ユニクロなど3社のGoogle広告が英国で掲載禁止 #エキスパートトピ…根拠がない「環境に優しい」という言葉は、簡単には使えなくなる時代がくるかもしれません。英国の広告規制機関は、「アディダス」「カルバン・クライン」「ユ…砂押貴久経済総合7/9(木) 7:01",
+      "link": "https://news.yahoo.co.jp/expert/articles/b7c2815aef578408a53568c11f50c6f83b9a5e57",
+      "summary": "・英国の広告規制機関がアディダス、カルバン・クライン、ユニクロの3社のGoogle広告を掲載禁止とした\n・「環境に優しい」という表現に十分な根拠がないとして、グリーンウォッシュ広告と判断された\n・環境配慮を訴求する広告の基準は年々厳格化しており、曖昧な表現が許されない時代に移行しつつある",
+      "score": 5,
+      "reason": "id5/12と重複、広告表現規制の動向情報",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Google News",
+      "title": "ショートドラマPRで再生単価1円以下を実現。studio15「500万再生保証」パッケージを提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsbnYtamNXSllYQ0lxNG54dlBNTjJxMlNCbzNVVkZtWF8ycjA0QUhhcEdMNzY5bjFKQkZMZzlzWTVwVVp5YTlVM25mUk9fNG9DLXM4N3F0a3NrSW12dE1kMEtYZ0R0bnlVd1E?oc=5",
+      "summary": "・studio15がショートドラマを活用したPR施策で再生単価1円以下を実現する新パッケージを発表した\n・500万再生を保証する広告商品として提供を開始し、高い費用対効果を訴求している\n・ショートドラマ形式の広告需要拡大を背景に企業のブランディング・認知獲得を支援する",
+      "score": 4,
+      "reason": "ショートドラマPRのプレスリリース、参考程度",
+      "date": "2026-07-09"
+    },
+    {
+      "source": "Google News",
+      "title": "ExchangeWire Japan、デジタル広告業界ニュースのYouTube配信を開始 - Exchangewire Japan",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYVk9YY2lDaWlJNi1Wa3l3eW94NFRvNUFnaGNjUVYxUmMzemd4RFZyY1BKd1M1b2Y0X21zZ01CSnFkUDRLWXdOVzN5RF90RUU2REMzWWRMRkRlaFZhR2NMU2x1R2prWHI4bGY5cURhMXRlaFNZ?oc=5",
+      "summary": "・ExchangeWire Japanがデジタル広告業界ニュースのYouTube配信を新たに開始した\n・動画形式での情報発信により業界関係者への情報伝達手段を拡充する狙いがある\n・テキスト記事に加え動画チャネルを活用し業界ニュースの発信力強化を図る",
+      "score": 3,
+      "reason": "業界メディアの配信形態変更、実務影響は薄い",
+      "date": "2026-07-09"
     }
   ]
 }
