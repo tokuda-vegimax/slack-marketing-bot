@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EOE5pLUQ0bk5YZGp2TDVON0E1aUFlYmJGQ0FIQWFtUEVKaEZtWldQYnhndUtQV256LU5xeTB1YWR5Ynh5VHlPMGhFTjE0dmJXTi1iLXFna1ZFSFhLdHlQR0lnVV9YVFBmbl9SN1JoQdIBaEFVX3lxTE5VN2VBUHVWZ1RHejNNS0RoblBZOFNyZ0hOeHRObU1Mc091ODNtMWdMTGt6NXFVREJPYkpIdFIyNDBOMHR1VzVzVUVWODFUQnlzY0RUMlpFSXY5TjlnVWpRazZjdDhsNWpR?oc=5": "2026-06-13",
-    "https://news.yahoo.co.jp/articles/df7233d2b544e62b8be1e9347118d82361b5026e": "2026-06-13",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTVIVWQtSEhxTnpYWGdRRWdnbFZTU0NVeVRJVkE2ZWg3NGJySTNoUUl2SUVBR1Vsa1lvXzNQTTFGWkxob1lWUFMtQjRQRkRRcUk4UTY2OUdYTjFUZU9jeXRUdWVnaF8zOGFYNDdRTExMMUJlaWlidTZxdndfY2hOUWd2Y3FVQ3M?oc=5": "2026-06-13",
-    "https://news.yahoo.co.jp/articles/9a61fc20196c5c7cbd99013e5b962e1d29e415fc": "2026-06-13",
-    "https://news.yahoo.co.jp/articles/51960655056e7caba345ba9e2cbff30a45e697eb": "2026-06-13",
-    "https://news.yahoo.co.jp/articles/ebbbe9260a57b368ca9ffb3facb14d2de07ca03a": "2026-06-13",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOQ3BuMl9YTW5Cd2Y2SEZiNUxRRjkyVnFjR1JBbUJuVVZkUUNnN21Sc3RwVVlXODdMcVRla2lqUDdQTlY3WGhlZWZvODc1RGZJRXFrYU9WcEdFV00?oc=5": "2026-06-13",
-    "https://news.yahoo.co.jp/articles/f4bc6a3becd149487471f8ab00ac63b6362abc8a": "2026-06-13",
-    "https://news.yahoo.co.jp/articles/104b1269184bf2735e8b6d1874871a8314229148": "2026-06-13",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SbVRqWHRtVXBKejB3MVBiYlpOR0pQODRWbU9nb3RJMXNQRGlreVhvM1JhV0FnMnJzbm1COVF1blZSVElXSERQZm5jdmNweWNGS0puellxQ2wtWGhBZ3FLYXN3Vjc1aFFYX2FRdkp3?oc=5": "2026-06-13",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YT00wZUFJYzE0VlItV3A2ZUljZkxPaTZ2ZjNlbHRnZUlXNVNXejNrWlgzSU1XbzFFY29pNlVKUVUtZE5mR0tNdnpTbjEzR0RKUVNBVHRoTEFUZlBBZ1BSd1pNV3NjdlRFbWZycjVKWGgwRWM5d1E?oc=5": "2026-06-14",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5emwzaFY4ZnFLdmMwTmRQcVp0NXdHLVEza1RSa3o5RkNVM3J1VEFOTGJsMHFGRVliRmZ0ZElvaFh6dnVlNXc?oc=5": "2026-06-14",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrT2hPdW5kTTJmZTZibmd5ZUlMZjJxakFiYW95QkMwWjJFS1RoRFlFQng4eDNVaHBpOGhWdS0tTHBPWVBDc1QtNHdaT3YzYWpwY3FCS0NuUFN6Tm51b0xaRw?oc=5": "2026-06-14",
@@ -293,49 +283,19 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xeVEyMlMyTmdpNTQ2cFRZdnlCbE1KSWZ2RGJRSnBETlR3aHFTNXNHbzVESE8xai1QTzFKLWh5WVMxMFlFY3NEX3RlbVc3OGUtU0hISlNLbTdpcURoaGxtZWduYnBjc3JJZmxSdlhDajRrTzNJTWl3WmNrcw?oc=5": "2026-07-13",
     "https://news.yahoo.co.jp/articles/8f8165d289e8b1a80702b66cd327f1522e4d9e79": "2026-07-13",
     "https://news.yahoo.co.jp/articles/6a08b91778b9cb1b474bacc037d9cbba60ac4ea5": "2026-07-13",
-    "https://news.yahoo.co.jp/articles/b059f5ae22beca6146009738c235585b478fb66b": "2026-07-13"
+    "https://news.yahoo.co.jp/articles/b059f5ae22beca6146009738c235585b478fb66b": "2026-07-13",
+    "https://blog.google/products/ads-commerce/video-campaign-groups/": "2026-07-14",
+    "https://ads.tiktok.com/business/en/blog/tiktok-agentic-hub-ai-agents-skills-mcp": "2026-07-14",
+    "https://oneder.hakuhodody-one.co.jp/blog/bing-webmaster-tools-ai-performance-report-update": "2026-07-14",
+    "https://blog.google/products/marketingplatform/360/walmart-connect/": "2026-07-14",
+    "https://news.yahoo.co.jp/articles/35862194375ff1e5d1b531f36af5a8993933bf48": "2026-07-14",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tWUdaeEh4ekM4QnBlcFZCNVFwOUgxemsyVzZENWZDUlpyY3MxaGFFTjhaUTlWZ293R3JOOHRCeDNhN2g1TmpGaXI0ZENDcVY4eW9sOFNBOV8yNXROQXFQY1FObEJiUHZmcXc?oc=5": "2026-07-14",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RFNsMF8tZjNFektrX2FualNOdnQwZjM4aFpkd3ctRk9NSGplWHhUREtuaVduZWRkUWdaWWlRUHA5ekdQTFRXSHpwUEo5MFJVTmY5UHlCWmxSNm1jYmJtbEE4eUpHWkNHcTJLUGNRNHY2UG56VVQ00gF8QVVfeXFMUDFuRkFBVmpnX3hCY2lGZzBXQjlHMHBteHNWREota1A5ZkF2WHl5NS1BejdMXzNVc3NQQ2pLSURCbFRqZXRMUmoxd0Z4bjZnLTFJOTFBQkI0RmNhMWduU0tOR0pHYi1WQnZibERiekZ4WU1lZzduNV91TnVvMg?oc=5": "2026-07-14",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk1PTnBuanNPejRFRGt6d0xrSG5mZXN0elkyUlFHNlpkZWF6WUpXV0NRTUxHdERzLTJEN2FKWFlCSlFCeDBuSm5HX0NrOTJwSmVPN1F0Z1dMaC0yWlVlMzQ1NmJQXzZfMTNBRTQxVy1YV1pCVkdxYngwaVJzOUxCQk1iS3p0TkF6UUU4cEM4dTExQnl5SXFqdEs3cWcxdDlrZ3ZZYXRSZ3g4eEZ4bVRz0gG0AUFVX3lxTE9jWG00cXBCS1g3ZnFidVV4TktxMFpzTWwxcUxHUGk4N1dKTks2OVZHcGN6RkZrQTA2UXNISWgzdHNSZG9teHZDMWtPOVRoSnc2X2I3N3BiN0E5bGVOenVkY1Y2M08yZWs2ZFI0czZsVUViRjFVZkpWSXhUOGJwb1NVcGtQMndMZEI3ZlQyUWM4SXdHT1NNUWQ3UW9FWXBGSkV3cmF3WWg4WVdOV0Q4Slpka3V6cw?oc=5": "2026-07-14",
+    "https://news.yahoo.co.jp/articles/1f1463629e4e6f4e503d3fc186309f3b2c187ee3": "2026-07-14",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmMnVoc0MxZ09FOEwyaFNyREVBVmw2b1VUa3oyRlp0Ykl1MXFHSVFxbnNiZlNPYlp2Qmd6RGdSTjRtY08xVTRHdThOOTF6akE0MERYZ19menp1Y2VLOGt2dEl4WDZLSHM4?oc=5": "2026-07-14"
   },
   "titles": [
-    {
-      "title": "ゲオの“今だけ”スマホ買い取り額UP、実はうそ？　消費者庁が厳しい目 - ITmedia Mobile - ITmedia",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "ゲオの“今だけ”スマホ買い取り額UP、実はうそ？ 消費者庁が厳しい目 消費者庁は6月11日、スマートフォンやタブレットの買い取りサービスにおいて、消費者に誤解を与える不当な広告表示をしたとして、ゲオストアに対し、景品…ITmedia MobileIT総合6/12(金) 16:54",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "「GEO」の運営会社に行政処分 消費者庁（2026年6月11日掲載） - 日テレNEWS NNN",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "SNS相談が最多更新の10万件 サブスク解約、2割トラブル経験…NS）に表示された広告トラブルなどSNS関連の相談が25年は10万1045件で、前年から約1万4千件増えて最多を更新。また、消費者庁が実施した調査では…共同通信社会6/12(金) 8:36",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "0:45「GEO」の運営会社に行政処分 消費者庁…ていたということです。 また、期限の日付だけを変えた広告を繰り返し掲載し続けていたとして、消費者庁は景品表示法に基づき再発防止などの措置命令を出しました。中京テレビＮＥＷＳ愛知6/12(金) 1:24",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "0:45“期間限定”終了後すぐ同様キャンペーン…『ゲオ』に買取サービスを巡って全国初の行政処分 客を不当に勧誘と認定…を不当に勧誘する行為」と認定し、ゲオストアに対して景品表示法に基づく行政処分を出しました。 買取サービスをめぐり、国が行政処分を出したのは全国で初め…東海テレビ社会6/11(木) 19:13",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "デジタル広告でセブン新会社 - 下野新聞社",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "AIと人間が動画を監視 TikTok「情報公開センター」で記者がモデレーションを体験…ンド、米国など世界各地に保存されている。 欧州諸国では、出稿されたデジタル広告も公開されている。研究者に対しては、投稿された動画データなどへのアクセスを認めている。産経新聞経済総合6/12(金) 7:00",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "スペースX、IPO価格を135ドルに正式決定 個人投資家から16兆円超の注文殺到…2兆円）、スターリンクのモバイル部門が7400億ドル（約118.4兆円）、Xのデジタル広告が6000億ドル（約96兆円）、AIインフラが2兆4000億ドル（約3…Forbes JAPAN経済総合6/12(金) 10:00",
-      "date": "2026-06-13"
-    },
-    {
-      "title": "スポーツ健康科学部 - ritsumei.ac.jp",
-      "date": "2026-06-13"
-    },
     {
       "title": "Meta、他社サイトでの行動データをAI回答のパーソナライズにも利用へ 広告以外のフィード表示にも拡大 - Ledge.ai",
       "date": "2026-06-14"
@@ -1515,99 +1475,49 @@
     {
       "title": "トランプ大統領のゴリ押しをFIFAは受け入れたのか…行き過ぎたW杯の商業主義は“サッカーのルールすら変える” スポーツ界はこれにどう対応するのか。スポーツに関わるスポンサー、メディア、広告代理店ら、そしてこれに同調する政治家たちの思惑が一致すれば、スポーツはどんど…デイリー新潮サッカー7/12(日) 17:00",
       "date": "2026-07-13"
+    },
+    {
+      "title": "Optimize your reach and frequency across campaigns with video campaign groups.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Introducing TikTok Agentic Hub: AI Skills to Create, Manage, and Optimize Ads",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Microsoft、Bing Webmaster ToolsのAIパフォーマンスレポートに新機能を追加",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "We’re bringing Walmart Connect to Display & Video 360.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "アナグラムが生成AIとの会話に基づく「ChatGPT広告」の出稿・運用支援サービスを開始…運用型広告コンサルティング・マーケティング支援事業のアナグラムは、AI開発の米国OpenAIの広告サービス「ChatGPT広告」の出稿・運用支援サー…Web担当者ForumIT総合7/13(月) 15:02",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "dfplus.io、Google 車両広告に対応！情報収集中の方を対象にセミナーも開催 - PR TIMES",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "テックトピア：米国のテクノロジー業界の舞台裏 第68回 Google Adsは広告を作るが、広告主の代理人にはならない - AI自動化の先に残る責任 - ｄメニューニュース",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "楽天が日本テレビと連携、テレビCMのプランニングをデジタル広告のように最適化 - ｄメニューニュース",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "“伝える業務”が激変、動画AI「Seedance」が簡単すぎ…撮影ゼロで完成「神ワザ10選」…顧客名・ロゴは伏せ、成果の数字は実績ベースで。「売上3倍」などは根拠がないと景品表示法のリスクがあります。「※自社調べ」「※2026年◯月時点」など条件を添えると安全です。ビジネス＋ITIT総合7/14(火) 7:20",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "ファミマTV、電通の統合メディアプランニング支援ツール「クロスメディア・プランナー」とデータ連携を開始（PR TIMES） - 毎日新聞",
+      "date": "2026-07-14"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "ゲオの“今だけ”スマホ買い取り額UP、実はうそ？　消費者庁が厳しい目 - ITmedia Mobile - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EOE5pLUQ0bk5YZGp2TDVON0E1aUFlYmJGQ0FIQWFtUEVKaEZtWldQYnhndUtQV256LU5xeTB1YWR5Ynh5VHlPMGhFTjE0dmJXTi1iLXFna1ZFSFhLdHlQR0lnVV9YVFBmbl9SN1JoQdIBaEFVX3lxTE5VN2VBUHVWZ1RHejNNS0RoblBZOFNyZ0hOeHRObU1Mc091ODNtMWdMTGt6NXFVREJPYkpIdFIyNDBOMHR1VzVzVUVWODFUQnlzY0RUMlpFSXY5TjlnVWpRazZjdDhsNWpR?oc=5",
-      "summary": "・ゲオが「今だけ」とうたうスマホ買い取り額アップキャンペーンに対し消費者庁が調査の目を向けている\n・期間限定を装いながら実際には常態的に同様の価格設定を行っていた可能性が問題視されている\n・有利誤認表示として景品表示法違反にあたるおそれがあり、広告表現の適正化が求められている",
-      "score": 6,
-      "reason": "景表法違反事例で広告表現の注意喚起として有用",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ゲオの“今だけ”スマホ買い取り額UP、実はうそ？ 消費者庁が厳しい目 消費者庁は6月11日、スマートフォンやタブレットの買い取りサービスにおいて、消費者に誤解を与える不当な広告表示をしたとして、ゲオストアに対し、景品…ITmedia MobileIT総合6/12(金) 16:54",
-      "link": "https://news.yahoo.co.jp/articles/df7233d2b544e62b8be1e9347118d82361b5026e",
-      "summary": "・消費者庁がゲオストアに対しスマホ買い取りサービスの不当表示で景品表示法違反の措置命令を出した\n・「今だけ」買い取り額アップと謳いながら実際には常時同価格だった有利誤認の疑いが指摘された\n・期間限定を装い消費者の売却判断を急がせる広告手法に消費者庁が厳しい姿勢を示した",
-      "score": 6,
-      "reason": "不当広告表示の具体事例で景表法遵守の実務参考になる",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Google News",
-      "title": "「GEO」の運営会社に行政処分 消費者庁（2026年6月11日掲載） - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTVIVWQtSEhxTnpYWGdRRWdnbFZTU0NVeVRJVkE2ZWg3NGJySTNoUUl2SUVBR1Vsa1lvXzNQTTFGWkxob1lWUFMtQjRQRkRRcUk4UTY2OUdYTjFUZU9jeXRUdWVnaF8zOGFYNDdRTExMMUJlaWlidTZxdndfY2hOUWd2Y3FVQ3M?oc=5",
-      "summary": "・消費者庁がレンタル・リユース大手「GEO」の運営会社に対し行政処分を実施した\n・処分の具体的な理由や違反内容については記事本文の詳細が公開されていない\n・日テレNEWS NNNが2026年6月11日付で本件を報じている",
-      "score": 5,
-      "reason": "景表法の行政処分事例で広告コンプライアンスの参考",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "SNS相談が最多更新の10万件 サブスク解約、2割トラブル経験…NS）に表示された広告トラブルなどSNS関連の相談が25年は10万1045件で、前年から約1万4千件増えて最多を更新。また、消費者庁が実施した調査では…共同通信社会6/12(金) 8:36",
-      "link": "https://news.yahoo.co.jp/articles/9a61fc20196c5c7cbd99013e5b962e1d29e415fc",
-      "summary": "・SNS関連の消費者相談が2025年に約10万1千件となり前年比約1万4千件増で過去最多を更新した\n・SNS広告トラブルやサブスクリプション解約に関する相談が増加の主な要因となっている\n・消費者庁調査ではサブスク利用者の約2割が解約時にトラブルを経験していることが判明した",
-      "score": 5,
-      "reason": "SNS広告トラブル増加の動向で業界知見として参考",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "0:45「GEO」の運営会社に行政処分 消費者庁…ていたということです。 また、期限の日付だけを変えた広告を繰り返し掲載し続けていたとして、消費者庁は景品表示法に基づき再発防止などの措置命令を出しました。中京テレビＮＥＷＳ愛知6/12(金) 1:24",
-      "link": "https://news.yahoo.co.jp/articles/51960655056e7caba345ba9e2cbff30a45e697eb",
-      "summary": "・GEO運営会社が景品表示法違反で消費者庁から措置命令を受けた\n・期限の日付だけを変えた広告を繰り返し掲載していたことが問題視された\n・消費者庁は再発防止などを求める措置命令を正式に発出した",
-      "score": 5,
-      "reason": "期限偽装広告の処分事例で表現規制の注意喚起",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "0:45“期間限定”終了後すぐ同様キャンペーン…『ゲオ』に買取サービスを巡って全国初の行政処分 客を不当に勧誘と認定…を不当に勧誘する行為」と認定し、ゲオストアに対して景品表示法に基づく行政処分を出しました。 買取サービスをめぐり、国が行政処分を出したのは全国で初め…東海テレビ社会6/11(木) 19:13",
-      "link": "https://news.yahoo.co.jp/articles/ebbbe9260a57b368ca9ffb3facb14d2de07ca03a",
-      "summary": "・ゲオストアが買取サービスで「期間限定」終了後すぐ同様キャンペーンを実施し不当勧誘と認定された\n・景品表示法に基づく行政処分が下され、買取サービスへの行政処分は全国初の事例となった\n・消費者庁が期間限定表示の繰り返しを有利誤認と判断し是正を求めた形である",
-      "score": 5,
-      "reason": "景表法初の買取行政処分で広告表示規制の参考",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Google News",
-      "title": "デジタル広告でセブン新会社 - 下野新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOQ3BuMl9YTW5Cd2Y2SEZiNUxRRjkyVnFjR1JBbUJuVVZkUUNnN21Sc3RwVVlXODdMcVRla2lqUDdQTlY3WGhlZWZvODc1RGZJRXFrYU9WcEdFV00?oc=5",
-      "summary": "・セブン&アイグループがデジタル広告事業を手がける新会社を設立したと発表された\n・小売業の顧客データを活用した広告配信など新たな収益源の確立を目指すとみられる\n・リテールメディア市場の拡大を背景に大手流通各社の広告事業参入が加速している",
-      "score": 4,
-      "reason": "セブンの新会社設立ニュースで実務への直接影響は薄い",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "AIと人間が動画を監視 TikTok「情報公開センター」で記者がモデレーションを体験…ンド、米国など世界各地に保存されている。 欧州諸国では、出稿されたデジタル広告も公開されている。研究者に対しては、投稿された動画データなどへのアクセスを認めている。産経新聞経済総合6/12(金) 7:00",
-      "link": "https://news.yahoo.co.jp/articles/f4bc6a3becd149487471f8ab00ac63b6362abc8a",
-      "summary": "・TikTokが「情報公開センター」を公開し記者にコンテンツモデレーションの実態を体験させた\n・AIと人間の両方が動画監視を担い投稿データはアイルランドや米国など世界各地に保存されている\n・欧州ではデジタル広告情報も公開され研究者には投稿動画データへのアクセスも認めている",
-      "score": 4,
-      "reason": "TikTokモデレーション体験記で運用実務への示唆は限定的",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "スペースX、IPO価格を135ドルに正式決定 個人投資家から16兆円超の注文殺到…2兆円）、スターリンクのモバイル部門が7400億ドル（約118.4兆円）、Xのデジタル広告が6000億ドル（約96兆円）、AIインフラが2兆4000億ドル（約3…Forbes JAPAN経済総合6/12(金) 10:00",
-      "link": "https://news.yahoo.co.jp/articles/104b1269184bf2735e8b6d1874871a8314229148",
-      "summary": "・スペースXがIPO価格を1株135ドルに正式決定し、上場に向けた手続きが本格化している\n・個人投資家からの注文が16兆円超に殺到し、市場の期待の高さが鮮明になった\n・スターリンクやXのデジタル広告、AIインフラなど多角的事業が巨額の市場評価を受けている",
-      "score": 2,
-      "reason": "SpaceX IPO関連で広告運用実務と無関係",
-      "date": "2026-06-13"
-    },
-    {
-      "source": "Google News",
-      "title": "スポーツ健康科学部 - ritsumei.ac.jp",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SbVRqWHRtVXBKejB3MVBiYlpOR0pQODRWbU9nb3RJMXNQRGlreVhvM1JhV0FnMnJzbm1COVF1blZSVElXSERQZm5jdmNweWNGS0puellxQ2wtWGhBZ3FLYXN3Vjc1aFFYX2FRdkp3?oc=5",
-      "summary": "・立命館大学スポーツ健康科学部の公式サイトに関する情報である\n・記事本文の内容が提供されておらず詳細な要約が困難な状況である\n・具体的な記事内容をご提供いただければ正確な要約が可能となる",
-      "score": 1,
-      "reason": "大学学部ページで広告運用と完全に無関係",
-      "date": "2026-06-13"
-    },
     {
       "source": "Google News",
       "title": "Meta、他社サイトでの行動データをAI回答のパーソナライズにも利用へ 広告以外のフィード表示にも拡大 - Ledge.ai",
@@ -4262,6 +4172,96 @@
       "score": 1,
       "reason": "スポーツ商業主義の話題で広告運用と無関係",
       "date": "2026-07-13"
+    },
+    {
+      "source": "Google広告",
+      "title": "Optimize your reach and frequency across campaigns with video campaign groups.",
+      "link": "https://blog.google/products/ads-commerce/video-campaign-groups/",
+      "summary": "・動画キャンペーングループ機能により複数キャンペーン横断でリーチとフリークエンシーを最適化可能に\n・個別キャンペーンの設定を維持したまま全体のリーチ・接触頻度を統合的に管理できる\n・広告の過剰接触や配信の重複を防ぎ、効率的なメディアプランニングの実現を支援する",
+      "score": 9,
+      "reason": "Google動画キャンペーンのリーチ&フリークエンシー管理新機能",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "TikTok for Business",
+      "title": "Introducing TikTok Agentic Hub: AI Skills to Create, Manage, and Optimize Ads",
+      "link": "https://ads.tiktok.com/business/en/blog/tiktok-agentic-hub-ai-agents-skills-mcp",
+      "summary": "・TikTokがAI活用の広告支援ツール「TikTok Agentic Hub」を発表し広告運用の効率化を推進\n・MCP技術基盤のAIスキルでキャンペーン構築・クリエイティブ改善・効果分析を自動化\n・TikTokとパートナー提供のすぐ使えるAI機能で手作業を大幅に削減し広告運用を最適化",
+      "score": 9,
+      "reason": "TikTok広告のAI自動化新機能、実務効率に直結",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Microsoft、Bing Webmaster ToolsのAIパフォーマンスレポートに新機能を追加",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/bing-webmaster-tools-ai-performance-report-update",
+      "summary": "・MicrosoftがBing Webmaster ToolsのAIパフォーマンスレポートに新機能を追加した\n・AI回答は動的かつ文脈依存で複数情報源を統合するため従来の指標では分析が不十分\n・AI検索における自サイトの可視性をより正確に把握・分析できる機能強化が目的である",
+      "score": 4,
+      "reason": "SEO/AI検索寄りの話題で広告運用への直接影響は限定的",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Google広告",
+      "title": "We’re bringing Walmart Connect to Display & Video 360.",
+      "link": "https://blog.google/products/marketingplatform/360/walmart-connect/",
+      "summary": "・Walmart ConnectがGoogleのDisplay & Video 360と新たなパートナーシップを締結した\n・ブランドは購買意欲の高いWalmart買い物客にYouTube広告で効率的にリーチ可能になる\n・YouTube広告キャンペーンの成果測定も統合的に行える環境が整備される",
+      "score": 5,
+      "reason": "DV360の更新だが米国Walmart限定で日本実務への直接影響は小さい",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アナグラムが生成AIとの会話に基づく「ChatGPT広告」の出稿・運用支援サービスを開始…運用型広告コンサルティング・マーケティング支援事業のアナグラムは、AI開発の米国OpenAIの広告サービス「ChatGPT広告」の出稿・運用支援サー…Web担当者ForumIT総合7/13(月) 15:02",
+      "link": "https://news.yahoo.co.jp/articles/35862194375ff1e5d1b531f36af5a8993933bf48",
+      "summary": "・アナグラムがOpenAIの「ChatGPT広告」出稿・運用支援サービスを新たに開始した\n・ChatGPT広告はAIとの会話文脈に基づき表示される新しい広告フォーマットである\n・運用型広告コンサルティング企業として広告主の出稿から運用最適化まで支援する",
+      "score": 9,
+      "reason": "ChatGPT広告の出稿・運用支援開始は即実務影響",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Google News",
+      "title": "dfplus.io、Google 車両広告に対応！情報収集中の方を対象にセミナーも開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tWUdaeEh4ekM4QnBlcFZCNVFwOUgxemsyVzZENWZDUlpyY3MxaGFFTjhaUTlWZ293R3JOOHRCeDNhN2g1TmpGaXI0ZENDcVY4eW9sOFNBOV8yNXROQXFQY1FObEJiUHZmcXc?oc=5",
+      "summary": "・dfplus.ioがGoogle車両広告（Vehicle Ads）への対応を開始し自動車業界向け広告配信を強化した\n・Google車両広告は車両情報をフィードで配信し購入検討層に効果的にアプローチできる広告形式である\n・導入を検討中の広告主や代理店向けに情報収集を目的としたオンラインセミナーも開催予定である",
+      "score": 8,
+      "reason": "Google車両広告対応はフィード運用者に直接有用",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Google News",
+      "title": "テックトピア：米国のテクノロジー業界の舞台裏 第68回 Google Adsは広告を作るが、広告主の代理人にはならない - AI自動化の先に残る責任 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RFNsMF8tZjNFektrX2FualNOdnQwZjM4aFpkd3ctRk9NSGplWHhUREtuaVduZWRkUWdaWWlRUHA5ekdQTFRXSHpwUEo5MFJVTmY5UHlCWmxSNm1jYmJtbEE4eUpHWkNHcTJLUGNRNHY2UG56VVQ00gF8QVVfeXFMUDFuRkFBVmpnX3hCY2lGZzBXQjlHMHBteHNWREota1A5ZkF2WHl5NS1BejdMXzNVc3NQQ2pLSURCbFRqZXRMUmoxd0Z4bjZnLTFJOTFBQkI0RmNhMWduU0tOR0pHYi1WQnZibERiekZ4WU1lZzduNV91TnVvMg?oc=5",
+      "summary": "・Google AdsのAI自動化機能は広告作成を支援するが広告主の代理人としての役割は果たさない\n・AI生成の広告コンテンツに対する最終的な責任は広告主自身に帰属することが論点となっている\n・自動化が進んでも広告内容の正確性や法的責任は人間が担うべきという課題が浮き彫りに",
+      "score": 7,
+      "reason": "Google Ads AI自動化と広告主責任の実務的考察",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Google News",
+      "title": "楽天が日本テレビと連携、テレビCMのプランニングをデジタル広告のように最適化 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk1PTnBuanNPejRFRGt6d0xrSG5mZXN0elkyUlFHNlpkZWF6WUpXV0NRTUxHdERzLTJEN2FKWFlCSlFCeDBuSm5HX0NrOTJwSmVPN1F0Z1dMaC0yWlVlMzQ1NmJQXzZfMTNBRTQxVy1YV1pCVkdxYngwaVJzOUxCQk1iS3p0TkF6UUU4cEM4dTExQnl5SXFqdEs3cWcxdDlrZ3ZZYXRSZ3g4eEZ4bVRz0gG0AUFVX3lxTE9jWG00cXBCS1g3ZnFidVV4TktxMFpzTWwxcUxHUGk4N1dKTks2OVZHcGN6RkZrQTA2UXNISWgzdHNSZG9teHZDMWtPOVRoSnc2X2I3N3BiN0E5bGVOenVkY1Y2M08yZWs2ZFI0czZsVUViRjFVZkpWSXhUOGJwb1NVcGtQMndMZEI3ZlQyUWM4SXdHT1NNUWQ3UW9FWXBGSkV3cmF3WWg4WVdOV0Q4Slpka3V6cw?oc=5",
+      "summary": "・楽天と日本テレビがテレビCM領域で業務連携を開始したと発表\n・テレビCMのプランニングをデジタル広告と同様にデータ活用で最適化する取り組み\n・楽天の購買データ等を活用しCMの効果測定や配信精度の向上を目指す",
+      "score": 6,
+      "reason": "テレビCMとデジタル連携の業界動向情報",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "“伝える業務”が激変、動画AI「Seedance」が簡単すぎ…撮影ゼロで完成「神ワザ10選」…顧客名・ロゴは伏せ、成果の数字は実績ベースで。「売上3倍」などは根拠がないと景品表示法のリスクがあります。「※自社調べ」「※2026年◯月時点」など条件を添えると安全です。ビジネス＋ITIT総合7/14(火) 7:20",
+      "link": "https://news.yahoo.co.jp/articles/1f1463629e4e6f4e503d3fc186309f3b2c187ee3",
+      "summary": "・動画AI「Seedance」により撮影不要で業務用動画が完成し伝達業務が大きく変化している\n・活用事例を「神ワザ10選」として紹介し簡単な操作で高品質な動画生成が可能と解説\n・広告利用時は景品表示法に注意し根拠や調査条件の明記が必要と注意喚起している",
+      "score": 6,
+      "reason": "動画AI活用と景表法注意点は広告制作に有用",
+      "date": "2026-07-14"
+    },
+    {
+      "source": "Google News",
+      "title": "ファミマTV、電通の統合メディアプランニング支援ツール「クロスメディア・プランナー」とデータ連携を開始（PR TIMES） - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmMnVoc0MxZ09FOEwyaFNyREVBVmw2b1VUa3oyRlp0Ykl1MXFHSVFxbnNiZlNPYlp2Qmd6RGdSTjRtY08xVTRHdThOOTF6akE0MERYZ19menp1Y2VLOGt2dEl4WDZLSHM4?oc=5",
+      "summary": "・ファミマTVが電通の統合メディアプランニング支援ツール「クロスメディア・プランナー」とデータ連携を開始した\n・クロスメディア・プランナーは複数メディアを横断した統合的な広告プランニングを支援するツールである\n・今回の連携によりファミマTVのリテールメディアデータを活用した最適な媒体計画の立案が可能になる",
+      "score": 5,
+      "reason": "クロスメディアプランニングツールの連携情報",
+      "date": "2026-07-14"
     }
   ]
 }
