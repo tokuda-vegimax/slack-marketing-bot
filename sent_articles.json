@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://anagrams.jp/blog/increasing-form-fields-for-cvr/": "2026-06-15",
-    "https://oneder.hakuhodody-one.co.jp/blog/google-ai-search-update-202605": "2026-06-15",
-    "https://ads.tiktok.com/business/en/blog/gmv-max-automate-shop-roi": "2026-06-15",
-    "https://ads.tiktok.com/business/en/blog/how-to-get-started-with-tiktok-ads-manager-your-step-by-step-guide": "2026-06-15",
-    "https://dentsudigital.co.jp/news/release/services/2026-0615-000329": "2026-06-15",
-    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": "2026-06-15",
-    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search_trends_diet/?list=23496": "2026-06-15",
-    "https://news.yahoo.co.jp/articles/c1976d3e6e694dd0f534e74ee55ee3b474cca4a5": "2026-06-15",
-    "https://news.yahoo.co.jp/expert/articles/f64bc8bea91850a806a9c077bf1d91e0965383d8": "2026-06-15",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TGtMYy1aQUUwOUJXdEFjc05nUWRCamx1Ymd2RUQ1YjlneEpEMGdvQmoyQ0pKODA0dmlQVkZ3ZHRwTkdhU0hwd2RuRFhxYWcyNGFtT2Y3MTI?oc=5": "2026-06-15",
     "https://oneder.hakuhodody-one.co.jp/blog/googleio-2026-ai-search-commerce": "2026-06-16",
     "https://dentsudigital.co.jp/news/release/services/2026-0616-000328": "2026-06-16",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Jam1ZVzdrbTdtSFF3LVlGTEtaUUNMY0xYU1ljbE9mMllkQ29PalQ1azN2cEdfU3BGYWNVUFFrQUFUTTlac3JzUE9OeElzWVNnZmNodjU4Y2ZIaUhRaURYV0ZiM0xHaFdNQWFBdExYSG43RC0xdEE?oc=5": "2026-06-16",
@@ -296,49 +286,19 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TWVFLQlp1TERWYnRhbGRwTDhpdDZIUVVvYkFRU3VyMFNWY0o2eVlmRWR0bFZlYWhKRGJPU2lBQTFBcFhJaUYzM21qR3VGcXV0dVY5WkE0U2FTbVFXUk1JSlpSeWRQdFFVM0E?oc=5": "2026-07-15",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1faXZOamVWdXJtMEdyLTNidC1wSmg3X1AyU3VENk9NMkpJRGZ6N1IycmNmaFVma2dMbjdoVnJQcTdzYzFoTEV2d3cxdi03ZVFyaHIyOEl5VDRUeHZSbUJqVGdDLVF2Yzc0Wmc?oc=5": "2026-07-15",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE42OVRxUTdmRThjMmt3SkpLNU1JdDg1aVVKdU1QaldYdDIyMXl6ekQxZFA3andMODh6OW5ocVVrdFREZWNWTVVWdjVlMFBlMHdING5SMkFaS0Y5MnJwV3NGckJ0MU9oS2t5QTM2cHF5VExhS3JRRzJDN2doVzZkcU0?oc=5": "2026-07-15",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fXzhrY2pBMk43cy1UekdIRExTdmJHQlNHWW44UjRQbHZqdFVnZVRCV29ZUlQyaTBURjRjSnZqQVloa3hTeHFDcVJkYzZjazFiR2h5Qw?oc=5": "2026-07-15"
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fXzhrY2pBMk43cy1UekdIRExTdmJHQlNHWW44UjRQbHZqdFVnZVRCV29ZUlQyaTBURjRjSnZqQVloa3hTeHFDcVJkYzZjazFiR2h5Qw?oc=5": "2026-07-15",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-ai-recipe-visual-search-update": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmd3Z3anVFQ0N6WHNHTHJpeVBFY0VhTGNpTk4zX1RPb1FIbC1rYzNHSEJHYWNZNVJfMi1fRDdnNWVIdXM2b1BmVWpBWEl5NkpQcHhxQ1hXU0pYZmliVTVfdm8wMDFqR2V1X2c?oc=5": "2026-07-16",
+    "https://news.yahoo.co.jp/articles/43046f66210d406ada90eb8bdaa2acda58d8883b": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGhGNHgyeTJOX3UzQ2NVa1ozcVpSbVJ0RWpyN0R0OWxUb0o3SUhNLVNsRzFkYXVEUTNFeFdzMk16WXl3elVxU01FRG1MLXVkTTh3UjBSSk5zTlJSRzZOSVBzcHR1R1JXV0dBdEVIRUlMemRzWGMyRWQwX0U4LTAydVBVOEVYOFpNbGtkTU9JSGs4aHluSl9v?oc=5": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVVo0aHRlSzFIb0ZJRk1UelB5RF94dmo2cVhqZHFrYjNJMGdzcWtMMDE1NGZXTU5ydHo4dWd1a0RNbFpWd29SU0k3UG4tZW9yUVo4cXpB?oc=5": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ZmZUampHQldGRmlQLXdQeVVKNFFVbkpJYlItT0NJRy1HblRGSEhtNUxwcWxLYzVvbHRjazZYVFdHSFV2NWZ1Y1dXRTlIYUQ5aUhlWmpnY1RKVzdqQnBid01LaW1EbERYU3o4cQ?oc=5": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nYTEwbTBOZDdVbnRmTEpwdEZJZ0trU20tMGRIMWJ0OWItR2lXX1A2djhXVVlfLXFJZHpiY3h4cklfWkdHMVUwOGhzcGtVTGFDQXczRXM0eE1qWk0?oc=5": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRFpER0NhWUJiUE5MbmFJUjVtbzJpZ05CamdSY0NyWGhLNXE3VzFYYnVYbFEydW5uWXZHRklrQlQ3d09oS3NRLUFpdXlnZFhvQXk3WDVnc2FfNDhSSVJjZEhxcllkczBtMXc?oc=5": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KenV3cEJOa0hfRFl4RC0wY1BEY2ZEXzEwbmRYRnJGdi1wRVg3VjJzODhtOWhmYloxdlZyVm5wRzJpZG92cEpBMU52dVN6OEN0Y19BeTVXTWFPZjRHQ19ZaXRB?oc=5": "2026-07-16",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CRFVOams5YkZ4TlNXcjFjZnBKT1piSkM2cTd4VWtmMk9tb0RCMXVOVExKZy0tbWJaUmZvcm4zYWVQWGZfQlViaTdXdnk5TzJqM01EUWV5d1lfRFlHTEN1YmlOSmxmMklCNmZCa21oOA?oc=5": "2026-07-16"
   },
   "titles": [
-    {
-      "title": "「フォームの入力項目は少ないほどよい」は本当か。 入力項目をあえて増やしコンバージョン率を3倍にした事例",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "Google 、AI検索と通常検索結果にアップデートを実施",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "GMV Max: Your TikTok Shop growth engine",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "TikTok Ads Manager 101: Getting started",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "AIクリエイティブ制作を一気通貫で支援する組織「Performance AI Creative Pod.™」を新設",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "The latest AI news we announced in May 2026",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "夏前の見込み客、取りこぼしていませんか？ダイエット検索の“動き出し”を読み解く",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "セブン‐イレブンがリテールメディアの専門会社。「セブン‐イレブン・アドコネクト」を電通、サイバーエージェントの3社で設立…押しから効果検証までを一体で設計する広告サービスを提供する。テレビ、デジタル広告、店舗での展開を組み合わせ、商品やサービスの「認知」から「購買」「リピ…ネットショップ担当者フォーラムIT総合6/15(月) 7:31",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "電通推定の日本の広告費を詳しくさぐる(経年推移)(2026年公開版)…ている。2018年分からはインターネット広告費内における4マス由来のデジタル広告費も開示されたが、2025年ではそれらを全部合わせても1651億円に過…不破雷蔵社会6/15(月) 4:57",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "なぜ従来型の広告代理店モデルは時代遅れになりつつあるのか - Forbes JAPAN",
-      "date": "2026-06-15"
-    },
     {
       "title": "Google 、開発者向けカンファレンスGoogle I/O 2026を開催",
       "date": "2026-06-16"
@@ -1526,99 +1486,49 @@
     {
       "title": "The Trade Desk、デジタル広告におけるコンビニエンスストアのリテールデータ活用を拡大 - ニコニコニュース",
       "date": "2026-07-15"
+    },
+    {
+      "title": "Google 、AI モードにレシピのビジュアル検索結果の表示を開始",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Google広告に「AIで作られた広告」の開示機能を追加 - media-innovation.jp",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "楽天が日本テレビと連携、テレビCMのプランニングをデジタル広告のように最適化…札条件を設定し、広告枠をリアルタイムで購入できる。テレビCM取引に、デジタル広告に近い運用性を取り入れる仕組みだ。 効果測定では、広告主が希望する場合…ネットショップ担当者フォーラムIT総合7/14(火) 17:01",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "YouTube の​トレンドから、​視聴者が​見たくなる​広告を​生み出す - Google Business Profile",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "テレビとデジタルを往還する生活者の行動をリアルに把握する──博報堂とThe Trade Deskの協業から生まれた〈AaaS with TTD〉｜The H Magazine - hakuhodo.co.jp",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "「SNSでも大人気！」ステマで措置命令 「ノビルン」依頼投稿も、広告表示なし - ITmedia",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "【法案提出】議員立法「エロ広告規制法案」を提出 - 新・国民民主党",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "広告代理店向け人流マーケティング・プラットフォーム「LAP for Agencies」を提供開始 - PR TIMES",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "【プレスリリース】 慶應義塾大学グローバルリサーチインスティテュートX Dignityセンターが「AI時代のデジタル広告倫理ヴィジョン」の骨子案を公表 | お知らせ - keio.ac.jp",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "大手デベロッパーも「メディア」に参入 広告代理店に対抗する資産力 - 日経クロストレンド",
+      "date": "2026-07-16"
     }
   ],
   "articles": [
-    {
-      "source": "アナグラム",
-      "title": "「フォームの入力項目は少ないほどよい」は本当か。 入力項目をあえて増やしコンバージョン率を3倍にした事例",
-      "link": "https://anagrams.jp/blog/increasing-form-fields-for-cvr/",
-      "summary": "・EFOの定石である「入力項目は少なく導線は短く」という常識に疑問を投げかける記事\n・あえてフォームの入力項目を増やすことでCVRを3倍に改善した具体的事例を紹介\n・項目数の削減が必ずしも最適解ではなく、ユーザー心理に応じた設計が重要と提言",
-      "score": 8,
-      "reason": "EFOの実践的CVR改善事例で運用に直結",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "Google 、AI検索と通常検索結果にアップデートを実施",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-ai-search-update-202605",
-      "summary": "・GoogleがAI OverviewsとAIモードに「優先ソース」機能を新たに実装すると発表した\n・優先ソースは従来、通常検索結果のTop Storiesにのみ適用されていた機能である\n・今回のアップデートでAI検索と通常検索の両方で情報源の優先表示が統一される",
-      "score": 7,
-      "reason": "Google検索AI機能の重要アップデート情報",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "TikTok for Business",
-      "title": "GMV Max: Your TikTok Shop growth engine",
-      "link": "https://ads.tiktok.com/business/en/blog/gmv-max-automate-shop-roi",
-      "summary": "・TikTokショップの売上最大化を支援する新たなコマース自動化ソリューション「GMV Max」が登場\n・広告運用を自動化し、TikTokショップ全体のROIを包括的に最大化する成長エンジンとして機能\n・出店者の販売効率向上を目的とした統合型マーケティングツールとして提供される",
-      "score": 6,
-      "reason": "TikTok Shop自動化ソリューションの紹介",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "TikTok for Business",
-      "title": "TikTok Ads Manager 101: Getting started",
-      "link": "https://ads.tiktok.com/business/en/blog/how-to-get-started-with-tiktok-ads-manager-your-step-by-step-guide",
-      "summary": "・TikTok Ads Managerのアカウント開設手順をステップごとに解説する入門ガイド記事\n・初心者向けに広告マネージャーの基本設定から初回キャンペーン作成までの流れを紹介\n・TikTok広告を始めたい企業・マーケター向けに出稿開始までの全体像を把握できる内容",
-      "score": 5,
-      "reason": "TikTok広告の基本ガイドで初心者向け",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "AIクリエイティブ制作を一気通貫で支援する組織「Performance AI Creative Pod.™」を新設",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0615-000329",
-      "summary": "・電通デジタルがAI活用クリエイティブ制作を一気通貫で支援する新組織「Performance AI Creative Pod.™」を設立した\n・AIクリエイティブ制作ニーズの高まりを背景に、高度な制作体制を社内に整備し迅速な対応を目指す\n・戦略立案から制作・運用まで一貫して推進できる専門組織として広告主の課題解決を支援する",
-      "score": 4,
-      "reason": "電通デジタルの社内組織新設プレスリリース",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "Google広告",
-      "title": "The latest AI news we announced in May 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "summary": "・Googleが2026年5月に発表した最新AI関連ニュースをまとめた記事である\n・具体的なAIアップデートの詳細内容は記事本文では明示されていない\n・Google公式による月次AI発表まとめとして位置づけられた総括記事となっている",
-      "score": 8,
-      "reason": "Google AI関連の主要アップデートまとめで実務影響大",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "夏前の見込み客、取りこぼしていませんか？ダイエット検索の“動き出し”を読み解く",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/search_trends_diet/?list=23496",
-      "summary": "・夏前にダイエット関連の検索需要が高まる時期を分析し見込み客獲得の好機を解説\n・LINEヤフーのデータを活用し検索行動の\"動き出し\"タイミングを可視化している\n・法人向けに広告配信の最適な時期や活用ノウハウを提供し機会損失の防止を促す",
-      "score": 7,
-      "reason": "季節性検索トレンドの実践的な運用示唆あり",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "セブン‐イレブンがリテールメディアの専門会社。「セブン‐イレブン・アドコネクト」を電通、サイバーエージェントの3社で設立…押しから効果検証までを一体で設計する広告サービスを提供する。テレビ、デジタル広告、店舗での展開を組み合わせ、商品やサービスの「認知」から「購買」「リピ…ネットショップ担当者フォーラムIT総合6/15(月) 7:31",
-      "link": "https://news.yahoo.co.jp/articles/c1976d3e6e694dd0f534e74ee55ee3b474cca4a5",
-      "summary": "・セブン‐イレブンが電通・サイバーエージェントと3社でリテールメディア専門会社「セブン‐イレブン・アドコネクト」を設立した\n・テレビ・デジタル広告・店舗施策を統合し認知から購買・リピートまで一気通貫で設計する広告サービスを提供する\n・広告の出稿から購買データを活用した効果検証までを一体で行い広告主へ高精度なマーケティング支援を目指す",
-      "score": 6,
-      "reason": "リテールメディア新会社設立は広告業界動向として注目",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "電通推定の日本の広告費を詳しくさぐる(経年推移)(2026年公開版)…ている。2018年分からはインターネット広告費内における4マス由来のデジタル広告費も開示されたが、2025年ではそれらを全部合わせても1651億円に過…不破雷蔵社会6/15(月) 4:57",
-      "link": "https://news.yahoo.co.jp/expert/articles/f64bc8bea91850a806a9c077bf1d91e0965383d8",
-      "summary": "・電通が推定する日本の広告費の経年推移を詳細に分析した2026年公開版の解説記事\n・2018年以降はネット広告費内の4マス由来デジタル広告費も開示され透明性が向上\n・2025年時点で4マス由来デジタル広告費を合算しても1651億円にとどまる状況が判明",
-      "score": 5,
-      "reason": "日本の広告費推移データは業界動向把握に有用",
-      "date": "2026-06-15"
-    },
-    {
-      "source": "Google News",
-      "title": "なぜ従来型の広告代理店モデルは時代遅れになりつつあるのか - Forbes JAPAN",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TGtMYy1aQUUwOUJXdEFjc05nUWRCamx1Ymd2RUQ1YjlneEpEMGdvQmoyQ0pKODA0dmlQVkZ3ZHRwTkdhU0hwd2RuRFhxYWcyNGFtT2Y3MTI?oc=5",
-      "summary": "・デジタル化の進展により広告主が自社内でマーケティング機能を持つインハウス化が加速している\n・従来の代理店モデルは手数料体系や意思決定の遅さがクライアントのニーズと乖離しつつある\n・データ活用やAI技術の普及で代理店は戦略コンサル型への転換を迫られている",
-      "score": 5,
-      "reason": "代理店モデル変化の論考で業界動向として参考程度",
-      "date": "2026-06-15"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "Google 、開発者向けカンファレンスGoogle I/O 2026を開催",
@@ -4291,6 +4201,96 @@
       "score": 6,
       "reason": "リテールデータ活用拡大、DSP運用者に参考になる",
       "date": "2026-07-15"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、AI モードにレシピのビジュアル検索結果の表示を開始",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-ai-recipe-visual-search-update",
+      "summary": "・GoogleがAIモードでレシピ検索結果に画像付きリンクを大きく表示する機能を開始した\n・レシピの詳細情報が視覚的に表示され、目的のページを見つけやすくなった\n・ユーザーはAIモード上でレシピへよりスムーズにアクセスできる体験が実現された",
+      "score": 4,
+      "reason": "広告運用への直接影響は薄いSEO寄りの情報",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告に「AIで作られた広告」の開示機能を追加 - media-innovation.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmd3Z3anVFQ0N6WHNHTHJpeVBFY0VhTGNpTk4zX1RPb1FIbC1rYzNHSEJHYWNZNVJfMi1fRDdnNWVIdXM2b1BmVWpBWEl5NkpQcHhxQ1hXU0pYZmliVTVfdm8wMDFqR2V1X2c?oc=5",
+      "summary": "・Google広告がAI生成コンテンツを含む広告に開示ラベルを表示する新機能を導入した\n・広告主はAIで作成された画像や動画などの素材使用を明示することが求められる\n・AI広告の透明性向上により消費者の信頼確保とデジタル広告の健全化を目指す",
+      "score": 9,
+      "reason": "Google広告のAI生成広告開示機能は運用に直接影響大",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天が日本テレビと連携、テレビCMのプランニングをデジタル広告のように最適化…札条件を設定し、広告枠をリアルタイムで購入できる。テレビCM取引に、デジタル広告に近い運用性を取り入れる仕組みだ。 効果測定では、広告主が希望する場合…ネットショップ担当者フォーラムIT総合7/14(火) 17:01",
+      "link": "https://news.yahoo.co.jp/articles/43046f66210d406ada90eb8bdaa2acda58d8883b",
+      "summary": "・楽天が日本テレビと連携しテレビCMの取引にデジタル広告的な運用手法を導入する取り組みを開始した\n・入札条件を設定しテレビ広告枠をリアルタイムで購入できるプログラマティックな仕組みを構築した\n・楽天のデータを活用した効果測定により広告主のCMプランニング最適化を支援する狙いがある",
+      "score": 7,
+      "reason": "楽天×日テレのテレビCM運用型化は実務に直結する動向",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "YouTube の​トレンドから、​視聴者が​見たくなる​広告を​生み出す - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGhGNHgyeTJOX3UzQ2NVa1ozcVpSbVJ0RWpyN0R0OWxUb0o3SUhNLVNsRzFkYXVEUTNFeFdzMk16WXl3elVxU01FRG1MLXVkTTh3UjBSSk5zTlJSRzZOSVBzcHR1R1JXV0dBdEVIRUlMemRzWGMyRWQwX0U4LTAydVBVOEVYOFpNbGtkTU9JSGs4aHluSl9v?oc=5",
+      "summary": "・YouTubeの最新トレンドを活用し視聴者が自発的に見たくなる広告制作手法を紹介\n・視聴者の関心や視聴傾向を分析しエンゲージメントの高いクリエイティブ設計を提案\n・Googleが広告主向けにYouTube広告の効果的な運用と最適化の指針を発信している",
+      "score": 7,
+      "reason": "YouTube広告クリエイティブ最適化の実践的知見",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "テレビとデジタルを往還する生活者の行動をリアルに把握する──博報堂とThe Trade Deskの協業から生まれた〈AaaS with TTD〉｜The H Magazine - hakuhodo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVVo0aHRlSzFIb0ZJRk1UelB5RF94dmo2cVhqZHFrYjNJMGdzcWtMMDE1NGZXTU5ydHo4dWd1a0RNbFpWd29SU0k3UG4tZW9yUVo4cXpB?oc=5",
+      "summary": "・博報堂とThe Trade Deskが協業し、テレビとデジタル横断の広告配信基盤「AaaS with TTD」を開発した\n・生活者のテレビ視聴とデジタル行動を統合的に把握し、広告効果の最大化を目指す仕組みである\n・クロスメディアでの生活者行動をリアルタイムに捉え、最適な広告プランニングと運用を実現する",
+      "score": 6,
+      "reason": "TV×デジタル統合プラットフォームの事例で業界動向として参考",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "「SNSでも大人気！」ステマで措置命令 「ノビルン」依頼投稿も、広告表示なし - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ZmZUampHQldGRmlQLXdQeVVKNFFVbkpJYlItT0NJRy1HblRGSEhtNUxwcWxLYzVvbHRjazZYVFdHSFV2NWZ1Y1dXRTlIYUQ5aUhlWmpnY1RKVzdqQnBid01LaW1EbERYU3o4cQ?oc=5",
+      "summary": "・成長サプリ「ノビルン」がSNS上で依頼投稿に広告表示をせずステマと認定された\n・消費者庁がステルスマーケティング規制に基づき販売元に措置命令を発出した\n・「SNSでも大人気」等の表現で一般消費者の口コミを装い広告性を隠蔽していた",
+      "score": 6,
+      "reason": "ステマ措置命令事例はSNS広告運用時の法令遵守に有用",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "【法案提出】議員立法「エロ広告規制法案」を提出 - 新・国民民主党",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nYTEwbTBOZDdVbnRmTEpwdEZJZ0trU20tMGRIMWJ0OWItR2lXX1A2djhXVVlfLXFJZHpiY3h4cklfWkdHMVUwOGhzcGtVTGFDQXczRXM0eE1qWk0?oc=5",
+      "summary": "・国民民主党がいわゆる「エロ広告規制法案」を議員立法として国会に提出した\n・性的・不快なデジタル広告の表示を法的に規制する内容とみられる\n・ネット上で社会問題化している不適切広告への対策が立法レベルで前進した",
+      "score": 5,
+      "reason": "広告規制法案は今後の配信制限に影響しうる業界動向",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "広告代理店向け人流マーケティング・プラットフォーム「LAP for Agencies」を提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRFpER0NhWUJiUE5MbmFJUjVtbzJpZ05CamdSY0NyWGhLNXE3VzFYYnVYbFEydW5uWXZHRklrQlQ3d09oS3NRLUFpdXlnZFhvQXk3WDVnc2FfNDhSSVJjZEhxcllkczBtMXc?oc=5",
+      "summary": "・広告代理店向け人流マーケティングプラットフォーム「LAP for Agencies」の提供が開始された\n・人流データを活用し広告代理店がクライアントへ高精度な施策提案を行える基盤を提供する\n・位置情報に基づくターゲティングや効果測定など代理店業務の高度化を支援する内容となる",
+      "score": 5,
+      "reason": "代理店向け人流プラットフォームの新サービスリリース",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "【プレスリリース】 慶應義塾大学グローバルリサーチインスティテュートX Dignityセンターが「AI時代のデジタル広告倫理ヴィジョン」の骨子案を公表 | お知らせ - keio.ac.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KenV3cEJOa0hfRFl4RC0wY1BEY2ZEXzEwbmRYRnJGdi1wRVg3VjJzODhtOWhmYloxdlZyVm5wRzJpZG92cEpBMU52dVN6OEN0Y19BeTVXTWFPZjRHQ19ZaXRB?oc=5",
+      "summary": "・慶應義塾大学GRIのX DignityセンターがAI時代のデジタル広告倫理に関する骨子案を公表した\n・AI活用が進むデジタル広告領域における倫理的指針の策定を目指す取り組みである\n・人間の尊厳（Dignity）を軸に広告業界の倫理ヴィジョンを提示する内容となっている",
+      "score": 4,
+      "reason": "広告倫理の骨子案で直接的な運用実務への影響は限定的",
+      "date": "2026-07-16"
+    },
+    {
+      "source": "Google News",
+      "title": "大手デベロッパーも「メディア」に参入 広告代理店に対抗する資産力 - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CRFVOams5YkZ4TlNXcjFjZnBKT1piSkM2cTd4VWtmMk9tb0RCMXVOVExKZy0tbWJaUmZvcm4zYWVQWGZfQlViaTdXdnk5TzJqM01EUWV5d1lfRFlHTEN1YmlOSmxmMklCNmZCa21oOA?oc=5",
+      "summary": "・大手デベロッパーが自社保有の不動産資産を活用しメディア事業に本格参入している\n・商業施設やオフィスビルなど物理的な接点を広告媒体化し独自の収益源を構築する狙い\n・豊富な資産力を武器に広告代理店が担ってきた領域へ進出し業界構造の変化が加速する",
+      "score": 4,
+      "reason": "デベロッパーのメディア参入は業界構造の話で実務影響小",
+      "date": "2026-07-16"
     }
   ]
 }
