@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://ads.tiktok.com/business/en/blog/attribution-analytics-performance-comparison": "2026-06-18",
-    "https://ads.tiktok.com/business/en/blog/salesforce-crm-integration": "2026-06-18",
-    "https://oneder.hakuhodody-one.co.jp/blog/advertimes-ai-acceleration-initiative": "2026-06-18",
-    "https://www.lycbiz.com/jp/column/line-official-account/technique/line-jpki/": "2026-06-18",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOam0xS285NWY3T2J4eXUxUXZfYV9pd3BRVU1VZXB4aXpDckZCYlpsQ08tZ1llUFJOelJyRjVPZG5Qc1lJSWFVR3lRNTF1RXJVbklfMWdnVFQ3bmxqem5zNkdOaHNnRVE0U2hfa1EtQ2x1cWFscVQ0V3RFUnR3RnBGT3ZpZWtrTEJVdjZV?oc=5": "2026-06-18",
-    "https://news.yahoo.co.jp/articles/a394fe7de4eb9299bc2f9ba5d70cb9be85997c2b": "2026-06-18",
-    "https://news.yahoo.co.jp/articles/2e180e07e035a75dbe73059b5933977fc450b771": "2026-06-18",
-    "https://news.yahoo.co.jp/articles/dacce4b5eb0c738fe6a07ca41005e3a63282b38a": "2026-06-18",
     "https://dentsudigital.co.jp/news/release/services/2026-0618-000330": "2026-06-19",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/marketing/advertise-on-line/?list=23496": "2026-06-19",
     "https://www.lycbiz.com/jp/column/line-notification-messages/service-information/20260618/": "2026-06-19",
@@ -296,49 +288,19 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVml3OFpnemgtZzZpeTRhLVFPeXVoWW80N2dud2I0X3EwXy1FYUd4N25IYkJpUENaYnVxeXlfRUxzWm10cGVFNVpBZzdoSjRIOVdZLVBuazVvTW1JTjRnVEh1aXBDdWM0cEVNQ3J5cDN2emJrSTVlRjctS01HMnJNWVZPbmlXQQ?oc=5": "2026-07-18",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGQlZvTi1fYUQxUTRHREpBWDdYS3RtWUpLNkVmYnh0NWFuUGhXeTZ3ZmZDdjFFRnR0YnIyM0xNNnZpMmNFU3k0Znp3NXJxU0xXSk1FblcwQ3Rudw?oc=5": "2026-07-18",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WX1Q1WjBHaDZub25Fa2thX0NQOVJQZjVGMlVfRUFkNHZuVThCVlVEcFZaajJaakVtRDhWaDdhcHQyY3FhdlJFMU5DR2ttU2pOUHBHWlJ3?oc=5": "2026-07-18",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWWRZVUJIQk5rSk54WHNkcmthWW1GUlZsR2h1ZmlncDgyd1ZBVFgyb3o5cVB6a1BEMHNrUGh4ZXFpZ2VGVlNFd2FxNmxUanEwWlVEYlR0aGpoRTN6WGs3Wi1tZFR0d1NMVFE?oc=5": "2026-07-18"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWWRZVUJIQk5rSk54WHNkcmthWW1GUlZsR2h1ZmlncDgyd1ZBVFgyb3o5cVB6a1BEMHNrUGh4ZXFpZ2VGVlNFd2FxNmxUanEwWlVEYlR0aGpoRTN6WGs3Wi1tZFR0d1NMVFE?oc=5": "2026-07-18",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXpOOHpuN0pHVm9FN1ZaU0NpVTRtWjBXekR2Z2pJbmJmSVhmWlJLb1NpWkVhaXFHZEpCMUFzb0QydkI0RHBQXzQ4UnczM3BsN25fd2lrNHJ2MUdhaDlXb2tSMm9aZUNnX1VyODVSd3M5WEJVM1ZyMXVsR1VXZDBlTDZlNGpxYWFPZG5HODVR?oc=5": "2026-07-19",
+    "https://news.yahoo.co.jp/articles/bdcdf764bb437077330efec25d01467665b97464": "2026-07-19",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnc25sclFnTllfQUMxY3I0OUxUanA3UWpUZDUzMDlBeGo4SmNwaXRnMW5fNWFpRTNUMmhlTmJfRzRyVENmclg5cV9CUEFRVEZIWU9WUHBB?oc=5": "2026-07-19",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYUHJ4VFBESXVKa3VWNlEtdjdUWFFTYXVHejVXQVZ3Z2l3SDVad0NjZ2RmSmxyZkVsazdwUHBXOWlfeVk3dVJfS1FfNlh1azYxcEZHU1E0V0lxSWk0aERILV9xb24xSUtrS0E?oc=5": "2026-07-19",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xc1FGYjF6TVBBYW9aSTd3UWs1Q0FQeDhVWkpDaVZ1WWRRYm85M3dDbDlxa3prZGxuTEd6VEttWE1NSjhDSTV2WkR3ZEI0ZDh4SGNyUmtsSUN2MVY3SkxUMm9ORnNZWjRPR0E?oc=5": "2026-07-19",
+    "https://news.yahoo.co.jp/articles/aec9c7ebc8ee0f5fc559662f51474ca05c754f9b": "2026-07-19",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QeTJNNmNFbU8wTUg4UWhtcHc0dHV5OV9RRVBlVEEtSUp2bGY5UDhpYVEwaHUyejRXMF9EUk1Da0M4enVtNTduUVRUak5BUE52Z2FMR2ZOVFlfM0k3NS1xV0VSY2F5TGc?oc=5": "2026-07-19",
+    "https://news.yahoo.co.jp/articles/04d78e43af6669209f9428f3f6e2416aa55f9596": "2026-07-19",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92T3N0NDk4VlN4RTZTeUw1R1VPVkZGd1M4YlNIdzk1ZXdMaEgyYkt4SFpoWVBUUEV4R2cwY243LWl1TlVmQlpCcW9RZXMydUdpSnhQUEVvUWhJUQ?oc=5": "2026-07-19",
+    "https://news.yahoo.co.jp/articles/8318c02e7e76d4bbfadd4a47c594b6e67aa405db": "2026-07-19"
   },
   "titles": [
-    {
-      "title": "Introducing TikTok's Attribution Portfolio",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "TikTok and Salesforce join forces to provide seamless CRM integration",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "左脳と右脳を刺激するAI活用促進　Hakuhodo DY ONEによる独自メソッドの支援とは",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "コロナ禍、災害対応からデジタルクーポン、おこめ券まで。LINEを起点にした行政手続きと本人確認の現在地",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "TikTok Shop にマーケティング予算を投じるべき「もっともな理由」 - DIGIDAY［日本版］",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "【次世代のLTV向上戦略】「体験」の提供がネクストトレンド…、「最高の1日の思い出」となります。 この「温度」のある体験こそが、デジタル広告の数字をいくら積み上げても作れない、強固なブランドロイヤリティの土台になるのです。日本ネット経済新聞経済総合6/17(水) 13:30",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "DAZN「月額980円」サッカープラン炎上 、実は“年縛り”で「W杯期間だけの契約」は不可…誤認招く可能性も“違法ではない”ワケ【弁護士解説】…となっても不思議ではありません。 前述した有利誤認表示に該当する場合、消費者庁による措置命令だけでなく、課徴金の納付命令が出される可能性もあります。 …弁護士JPニュース社会6/18(木) 11:20",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "DAZNが謝罪したサッカー特化プランの料金表示。消費者庁に聞いた「法令違反なら対処の可能性はある」…方を疑問視する声が上がっている。 消費者庁の受け止めは？今回の件をめぐっては、SNS上で消費生活センターや消費者庁に「相談した」とする投稿も数多く見られる。ハフポスト日本版IT総合6/18(木) 6:20",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "DAZN「月額980円」サッカープラン炎上 、実は“年縛り”で「W杯期間だけの契約」は不可…誤認招く可能性も“違法ではない”ワケ【弁護士解説】…摘する。 ※正式名称は「不当景品類及び不当表示防止法」 景品表示法は、事業者が商品の広告などで「特別セール」「50％割引」のように消費者にとって有利な…弁護士JPニュース社会6/18(木) 11:20",
-      "date": "2026-06-18"
-    },
-    {
-      "title": "DAZNが謝罪したサッカー特化プランの料金表示。消費者庁に聞いた「法令違反なら対処の可能性はある」…と前置きした上で、「DAZNのサービス内容や表示が、もし特定商取引法や景品表示法を含めて法令違反と認められれば、法と証拠に基づいて、なんらかの対処をす…ハフポスト日本版IT総合6/18(木) 6:20",
-      "date": "2026-06-18"
-    },
     {
       "title": "OpenAIとdentsu Japanの戦略的連携に続き、国内ローンチパートナーとしてChatGPTの広告の国内展開に向けたパイロット運用を開始",
       "date": "2026-06-19"
@@ -1526,99 +1488,49 @@
     {
       "title": "【イー・ガーディアン株式会社】消費者庁より「インターネットにおけるデジタル広告の監視業務」を受託 - PR TIMES",
       "date": "2026-07-18"
+    },
+    {
+      "title": "「ecforce」、TikTokの広告配信サービス「TikTok for Business」と連携 TikTok広告の配信から効果測定までが容易に - Yahoo!ニュース",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "「ecforce」、TikTokの広告配信サービス「TikTok for Business」と連携 TikTok広告の配信から効果測定までが容易に…for Business」との連携を開始したと発表した。これにより、TikTok広告の配信から効果測定までが容易になる。 SUPER STUDIOの提供…日本ネット経済新聞経済総合7/18(土) 13:00",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "消費者庁、虚偽誇大広告に改善要請 インターネット監視で健康食品など156社176商品に - ウェルネスデイリーニュース",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "欧州デジタル広告市場が1311億ユーロに到達、動画・リテールメディアが牽引 IAB Europe年次レポート - media-innovation.jp",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "-その企画、WebARでもっと面白くできる。- アララ、広告代理店向けに「提案しやすいWebAR活用セミナー」を8/5に開催 - PR TIMES",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "キリン「ヘルシア」3年の計 販売数量2028年までに25年比2.5倍以上掲げる 突破口は「こう見えて、脂肪消費中。」…ンテンツも検討している」という。 コミュニケーションは、TVCMやデジタル広告を含め4月から間段なく展開。スーパー・量販店の店頭では試飲活動も実施している。食品新聞経済総合7/18(土) 16:47",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "「見ているぞ！」活動家グループがMetaスマートグラスに監視されていると警告する広告を設置 - テクノエッジ TechnoEdge",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "なぜ「買取専門店」が不気味なほど増えているのか 素人でも簡単に開業できる買取ビジネスのカラクリ…い取り、店舗やECサイト、業者間市場、海外などで再販売する事業だ。 消費者庁が2025年4月に公表した実態調査によると、買取サービスの市場規模は20…J-CASTニュース経済総合7/18(土) 12:30",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "【倒産】農作物の生産・販売会社が破産手続き開始決定...設立当初は広告代理店事業を主力に年商約1.6億円を計上→事業転換後に業績低迷、休眠状態に【東京商工リサーチ】 | 岡山・香川のニュース | 天気 | RSK山陽放送 - TBS NEWS DIG",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "識者が推す「春ドラマでもっとも演技が上手かった役者」（1）出演作に外れなし…演技派女優の座を確立したのは？…ー記事を寄稿している。 【出席者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。 …映画チャンネルエンタメ総合7/19(日) 10:02",
+      "date": "2026-07-19"
     }
   ],
   "articles": [
-    {
-      "source": "TikTok for Business",
-      "title": "Introducing TikTok's Attribution Portfolio",
-      "link": "https://ads.tiktok.com/business/en/blog/attribution-analytics-performance-comparison",
-      "summary": "・TikTokが広告主向けに新たなアトリビューションポートフォリオを発表した\n・進化した計測ツール群により全タッチポイントの広告効果を包括的に把握可能になる\n・広告主はより正確で完全なROI分析を実現し投資判断の精度向上が期待される",
-      "score": 8,
-      "reason": "TikTokアトリビューション計測の重要アップデート",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "TikTok for Business",
-      "title": "TikTok and Salesforce join forces to provide seamless CRM integration",
-      "link": "https://ads.tiktok.com/business/en/blog/salesforce-crm-integration",
-      "summary": "・TikTokとSalesforceがCRM統合で提携しシームレスなデータ連携を実現した\n・TikTok広告主がリード情報をSalesforce Marketing Cloudへリアルタイム転送可能に\n・広告からCRMへの即時連携により見込み顧客の獲得・管理効率が大幅に向上する",
-      "score": 7,
-      "reason": "TikTok広告のCRM連携新機能でリード運用に直結",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "左脳と右脳を刺激するAI活用促進　Hakuhodo DY ONEによる独自メソッドの支援とは",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/advertimes-ai-acceleration-initiative",
-      "summary": "・AI活用の同質化リスクが指摘される中、Hakuhodo DY ONEが左脳・右脳を刺激する独自メソッドで企業のAI活用を支援している\n・汎用型AI導入が進む一方、深く考えずAIの答えに頼ると差別化が困難になり他社との同質化が進む懸念が高まっている\n・同社チーフAIストラテジストはトップダウンより各部門・現場起点でAI活用を考え業務変革する組織づくりが本質的課題と指摘",
-      "score": 5,
-      "reason": "広告業界のAI活用動向だが具体的運用施策は薄い",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "LINE for Business (LYCBiz)",
-      "title": "コロナ禍、災害対応からデジタルクーポン、おこめ券まで。LINEを起点にした行政手続きと本人確認の現在地",
-      "link": "https://www.lycbiz.com/jp/column/line-official-account/technique/line-jpki/",
-      "summary": "・LINEを活用した行政手続きがコロナ禍や災害対応を経て大きく進展している\n・デジタルクーポンやおこめ券など住民向け給付施策にもLINE起点の仕組みが拡大中\n・LINEヤフーが法人向けに本人確認機能を含む行政DX支援の最新活用法を紹介",
-      "score": 2,
-      "reason": "行政手続き活用事例で広告運用とほぼ無関係",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok Shop にマーケティング予算を投じるべき「もっともな理由」 - DIGIDAY［日本版］",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOam0xS285NWY3T2J4eXUxUXZfYV9pd3BRVU1VZXB4aXpDckZCYlpsQ08tZ1llUFJOelJyRjVPZG5Qc1lJSWFVR3lRNTF1RXJVbklfMWdnVFQ3bmxqem5zNkdOaHNnRVE0U2hfa1EtQ2x1cWFscVQ0V3RFUnR3RnBGT3ZpZWtrTEJVdjZV?oc=5",
-      "summary": "・TikTok Shopはコンテンツと購買が直結し、広告費の費用対効果が高い販売チャネルとして注目されている\n・クリエイターやライブコマースを活用した販促が購買転換率を押し上げ、ブランドの売上成長に寄与している\n・競合プラットフォームより広告単価が低く、早期参入による先行者利益を得られる点が投資の根拠となっている",
-      "score": 7,
-      "reason": "TikTok Shop広告投資の実践的知見、運用判断に有用",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【次世代のLTV向上戦略】「体験」の提供がネクストトレンド…、「最高の1日の思い出」となります。 この「温度」のある体験こそが、デジタル広告の数字をいくら積み上げても作れない、強固なブランドロイヤリティの土台になるのです。日本ネット経済新聞経済総合6/17(水) 13:30",
-      "link": "https://news.yahoo.co.jp/articles/a394fe7de4eb9299bc2f9ba5d70cb9be85997c2b",
-      "summary": "・LTV向上の次世代戦略として「体験」提供がネクストトレンドとして注目されている\n・「最高の1日の思い出」となる温度感ある体験が強固なブランドロイヤリティの土台となる\n・デジタル広告の数値積み上げでは得られない顧客との深い絆構築が重要と提言",
-      "score": 5,
-      "reason": "LTV向上の概念的記事、実務具体性は低い",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "DAZN「月額980円」サッカープラン炎上 、実は“年縛り”で「W杯期間だけの契約」は不可…誤認招く可能性も“違法ではない”ワケ【弁護士解説】…となっても不思議ではありません。 前述した有利誤認表示に該当する場合、消費者庁による措置命令だけでなく、課徴金の納付命令が出される可能性もあります。 …弁護士JPニュース社会6/18(木) 11:20",
-      "link": "https://news.yahoo.co.jp/articles/2e180e07e035a75dbe73059b5933977fc450b771",
-      "summary": "・DAZNが月額980円のサッカープランを打ち出したが実際は年間契約が必須でありW杯期間のみの短期利用は不可能と判明し炎上\n・月額表示が目立つ一方で年間縛りの条件が分かりにくく消費者に有利誤認を招く可能性があると弁護士が指摘\n・現時点では直ちに違法とは言えないが消費者庁の措置命令や課徴金納付命令が出される可能性も否定できないと解説",
-      "score": 5,
-      "reason": "景表法の有利誤認事例、広告表示の注意喚起に有用",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "DAZNが謝罪したサッカー特化プランの料金表示。消費者庁に聞いた「法令違反なら対処の可能性はある」…方を疑問視する声が上がっている。 消費者庁の受け止めは？今回の件をめぐっては、SNS上で消費生活センターや消費者庁に「相談した」とする投稿も数多く見られる。ハフポスト日本版IT総合6/18(木) 6:20",
-      "link": "https://news.yahoo.co.jp/articles/dacce4b5eb0c738fe6a07ca41005e3a63282b38a",
-      "summary": "・DAZNがサッカー特化プランの料金表示について謝罪し問題が表面化した\n・SNS上で消費生活センターや消費者庁に相談したとの投稿が多数確認された\n・消費者庁は法令違反があれば対処の可能性があるとの見解を示した",
-      "score": 5,
-      "reason": "景表法違反リスクの実例、広告表現の参考になる",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "DAZN「月額980円」サッカープラン炎上 、実は“年縛り”で「W杯期間だけの契約」は不可…誤認招く可能性も“違法ではない”ワケ【弁護士解説】…摘する。 ※正式名称は「不当景品類及び不当表示防止法」 景品表示法は、事業者が商品の広告などで「特別セール」「50％割引」のように消費者にとって有利な…弁護士JPニュース社会6/18(木) 11:20",
-      "link": "https://news.yahoo.co.jp/articles/2e180e07e035a75dbe73059b5933977fc450b771",
-      "summary": "・DAZNが月額980円のサッカープランを発表したが実際は年間契約縛りであることが判明し炎上した\n・W杯期間だけの短期契約ができず月額表記が誤認を招くと消費者から批判が相次いでいる\n・弁護士は誤認を招く可能性を認めつつも景品表示法上は違法とまでは言えないと解説している",
-      "score": 5,
-      "reason": "id1と重複、景表法解説で広告表示の注意材料",
-      "date": "2026-06-18"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "DAZNが謝罪したサッカー特化プランの料金表示。消費者庁に聞いた「法令違反なら対処の可能性はある」…と前置きした上で、「DAZNのサービス内容や表示が、もし特定商取引法や景品表示法を含めて法令違反と認められれば、法と証拠に基づいて、なんらかの対処をす…ハフポスト日本版IT総合6/18(木) 6:20",
-      "link": "https://news.yahoo.co.jp/articles/dacce4b5eb0c738fe6a07ca41005e3a63282b38a",
-      "summary": "・DAZNがサッカー特化プランの料金表示に問題があったとして公式に謝罪した\n・消費者庁は特定商取引法や景品表示法違反が認められれば対処の可能性を示唆\n・料金表示の不透明さが消費者保護の観点から法的問題に発展する可能性がある",
-      "score": 5,
-      "reason": "id2と重複、景表法対処の消費者庁見解",
-      "date": "2026-06-18"
-    },
     {
       "source": "電通デジタル",
       "title": "OpenAIとdentsu Japanの戦略的連携に続き、国内ローンチパートナーとしてChatGPTの広告の国内展開に向けたパイロット運用を開始",
@@ -4291,6 +4203,96 @@
       "score": 4,
       "reason": "消費者庁の広告監視業務委託で規制動向の参考程度",
       "date": "2026-07-18"
+    },
+    {
+      "source": "Google News",
+      "title": "「ecforce」、TikTokの広告配信サービス「TikTok for Business」と連携 TikTok広告の配信から効果測定までが容易に - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXpOOHpuN0pHVm9FN1ZaU0NpVTRtWjBXekR2Z2pJbmJmSVhmWlJLb1NpWkVhaXFHZEpCMUFzb0QydkI0RHBQXzQ4UnczM3BsN25fd2lrNHJ2MUdhaDlXb2tSMm9aZUNnX1VyODVSd3M5WEJVM1ZyMXVsR1VXZDBlTDZlNGpxYWFPZG5HODVR?oc=5",
+      "summary": "・EC基幹システム「ecforce」がTikTok for Businessとの公式連携を開始した\n・連携によりTikTok広告の配信設定から効果測定までをecforce上で一元管理可能に\n・EC事業者はTikTok経由の購買データを活用し広告運用の最適化が期待できる",
+      "score": 7,
+      "reason": "TikTok広告連携の新機能で運用効率化に直結",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ecforce」、TikTokの広告配信サービス「TikTok for Business」と連携 TikTok広告の配信から効果測定までが容易に…for Business」との連携を開始したと発表した。これにより、TikTok広告の配信から効果測定までが容易になる。 SUPER STUDIOの提供…日本ネット経済新聞経済総合7/18(土) 13:00",
+      "link": "https://news.yahoo.co.jp/articles/bdcdf764bb437077330efec25d01467665b97464",
+      "summary": "・SUPER STUDIO提供のEC基盤「ecforce」がTikTokの広告配信サービス「TikTok for Business」との連携を開始した\n・本連携によりecforce上からTikTok広告の配信設定から効果測定までを一元的に管理できるようになる\n・EC事業者はTikTok広告の運用負荷を軽減し、広告効果の可視化と最適化が容易に実現可能となる",
+      "score": 7,
+      "reason": "id10と同内容、TikTok広告の効果測定効率化",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Google News",
+      "title": "消費者庁、虚偽誇大広告に改善要請 インターネット監視で健康食品など156社176商品に - ウェルネスデイリーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnc25sclFnTllfQUMxY3I0OUxUanA3UWpUZDUzMDlBeGo4SmNwaXRnMW5fNWFpRTNUMmhlTmJfRzRyVENmclg5cV9CUEFRVEZIWU9WUHBB?oc=5",
+      "summary": "・消費者庁がインターネット上の広告監視を実施し、虚偽・誇大広告について改善要請を行った\n・対象は健康食品などを扱う156社・176商品に及び、景品表示法等に抵触する恐れがあると判断された\n・ネット広告の不当表示に対する消費者庁の監視強化姿勢が改めて示された形となった",
+      "score": 6,
+      "reason": "広告表現の規制動向は運用担当者の審査対応に関連",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Google News",
+      "title": "欧州デジタル広告市場が1311億ユーロに到達、動画・リテールメディアが牽引 IAB Europe年次レポート - media-innovation.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYUHJ4VFBESXVKa3VWNlEtdjdUWFFTYXVHejVXQVZ3Z2l3SDVad0NjZ2RmSmxyZkVsazdwUHBXOWlfeVk3dVJfS1FfNlh1azYxcEZHU1E0V0lxSWk0aERILV9xb24xSUtrS0E?oc=5",
+      "summary": "・欧州デジタル広告市場が2024年に1311億ユーロに到達したとIAB Europeが年次レポートで発表した\n・市場成長を牽引した主要分野は動画広告とリテールメディアであり両領域が特に高い伸びを示した\n・IAB Europeの報告は欧州全体のデジタル広告の堅調な拡大傾向を裏付ける内容となっている",
+      "score": 5,
+      "reason": "欧州市場動向で日本実務への直接影響は薄い",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Google News",
+      "title": "-その企画、WebARでもっと面白くできる。- アララ、広告代理店向けに「提案しやすいWebAR活用セミナー」を8/5に開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xc1FGYjF6TVBBYW9aSTd3UWs1Q0FQeDhVWkpDaVZ1WWRRYm85M3dDbDlxa3prZGxuTEd6VEttWE1NSjhDSTV2WkR3ZEI0ZDh4SGNyUmtsSUN2MVY3SkxUMm9ORnNZWjRPR0E?oc=5",
+      "summary": "・アララが広告代理店向けに「提案しやすいWebAR活用セミナー」を8月5日に開催すると発表した\n・既存の広告企画にWebARを組み合わせることでより魅力的な提案が可能になる内容を紹介\n・代理店がクライアントにWebAR施策を提案しやすくなる具体的な活用事例やノウハウを提供する",
+      "score": 4,
+      "reason": "WebARセミナー告知で運用型広告との関連は薄い",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キリン「ヘルシア」3年の計 販売数量2028年までに25年比2.5倍以上掲げる 突破口は「こう見えて、脂肪消費中。」…ンテンツも検討している」という。 コミュニケーションは、TVCMやデジタル広告を含め4月から間段なく展開。スーパー・量販店の店頭では試飲活動も実施している。食品新聞経済総合7/18(土) 16:47",
+      "link": "https://news.yahoo.co.jp/articles/aec9c7ebc8ee0f5fc559662f51474ca05c754f9b",
+      "summary": "・キリン「ヘルシア」は2028年までに2025年比2.5倍以上の販売数量を目標に掲げた\n・新コピー「こう見えて、脂肪消費中。」を突破口に3カ年計画で成長を目指す\n・4月からTVCMやデジタル広告を継続展開し店頭試飲活動も積極的に実施中",
+      "score": 3,
+      "reason": "広告主側のプロモーション事例で運用実務と距離あり",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Google News",
+      "title": "「見ているぞ！」活動家グループがMetaスマートグラスに監視されていると警告する広告を設置 - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QeTJNNmNFbU8wTUg4UWhtcHc0dHV5OV9RRVBlVEEtSUp2bGY5UDhpYVEwaHUyejRXMF9EUk1Da0M4enVtNTduUVRUak5BUE52Z2FMR2ZOVFlfM0k3NS1xV0VSY2F5TGc?oc=5",
+      "summary": "・活動家グループがMetaスマートグラスによる監視リスクを警告する広告を公共の場に設置した\n・Meta Ray-Banなどのスマートグラスで気づかれずに撮影・顔認識される危険性を訴えている\n・プライバシー侵害への懸念を市民に周知し、規制強化や企業の対応を求める狙いがある",
+      "score": 2,
+      "reason": "Metaグラスのプライバシー問題で運用実務と無関係",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ「買取専門店」が不気味なほど増えているのか 素人でも簡単に開業できる買取ビジネスのカラクリ…い取り、店舗やECサイト、業者間市場、海外などで再販売する事業だ。 消費者庁が2025年4月に公表した実態調査によると、買取サービスの市場規模は20…J-CASTニュース経済総合7/18(土) 12:30",
+      "link": "https://news.yahoo.co.jp/articles/04d78e43af6669209f9428f3f6e2416aa55f9596",
+      "summary": "・買取専門店が急増しており、消費者庁が2025年4月に市場実態調査を公表するほど社会的注目を集めている\n・ビジネスモデルは消費者から物品を買い取りEC・業者間市場・海外で再販する仕組みで参入障壁が低い\n・専門知識がなくても査定ツール等の普及により素人でも開業しやすい構造がカラクリの背景にある",
+      "score": 1,
+      "reason": "買取ビジネスの解説で広告運用と無関係",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Google News",
+      "title": "【倒産】農作物の生産・販売会社が破産手続き開始決定...設立当初は広告代理店事業を主力に年商約1.6億円を計上→事業転換後に業績低迷、休眠状態に【東京商工リサーチ】 | 岡山・香川のニュース | 天気 | RSK山陽放送 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92T3N0NDk4VlN4RTZTeUw1R1VPVkZGd1M4YlNIdzk1ZXdMaEgyYkt4SFpoWVBUUEV4R2cwY243LWl1TlVmQlpCcW9RZXMydUdpSnhQUEVvUWhJUQ?oc=5",
+      "summary": "・広告代理店事業を主力としていた企業が農作物の生産・販売へ事業転換し破産手続き開始決定を受けた\n・設立当初は広告代理店事業で年商約1.6億円を計上するなど一定の実績を上げていた\n・事業転換後は業績が低迷し休眠状態に陥り最終的に倒産に至った",
+      "score": 1,
+      "reason": "倒産ニュースで広告運用と無関係",
+      "date": "2026-07-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "識者が推す「春ドラマでもっとも演技が上手かった役者」（1）出演作に外れなし…演技派女優の座を確立したのは？…ー記事を寄稿している。 【出席者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。 …映画チャンネルエンタメ総合7/19(日) 10:02",
+      "link": "https://news.yahoo.co.jp/articles/8318c02e7e76d4bbfadd4a47c594b6e67aa405db",
+      "summary": "・春ドラマで最も演技が上手かった俳優を識者が選出する企画記事が公開された\n・出演作に外れがないと評される演技派女優が話題の中心として取り上げられている\n・アパレルや広告代理店等を経歴に持つライターあまのさき氏が記事を寄稿した",
+      "score": 1,
+      "reason": "ドラマ評論記事で広告運用と無関係",
+      "date": "2026-07-19"
     }
   ]
 }
