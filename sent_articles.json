@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDTjdfZUt4bEJqR1dsbDZwRUhlUE52TXYzbHhCbkN6eEhwZ0Y3cWtWRzlVOU5Fck1ZSm5SMVJCOWVwdVh3ZzFCOGl1bDlTSXJFcTRiZHpLZEEtQm0xSXN3SDZ5dFZNeFNzaWlnM3NNNDZBOWfSAXNBVV95cUxQQ043X2VLeGxCakdXbGw2cEVIZVBOdk12M2x4Qm5DenhIcGdGN3FrVkc5VTlORXJNWUpuUjFSQjllcHVYd2cxQjhpdWw5U0lyRXE0YmR6S2RBLUJtMUlzd0g2eXRWTXhTc2lpZzNzTTQ2QTln?oc=5": "2026-06-20",
-    "https://news.yahoo.co.jp/articles/c95533ba5c9e7d496072c057e17b40e00053154b": "2026-06-20",
-    "https://news.yahoo.co.jp/expert/articles/c2c3c17980aa68d960177ced09b3a24a8463b60e": "2026-06-20",
-    "https://news.yahoo.co.jp/articles/009bb946e386165452887dff1b712f68e657c2a7": "2026-06-20",
-    "https://news.yahoo.co.jp/articles/42fcabd35b42aefc8f1db010f533409f0de0316f": "2026-06-20",
-    "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf": "2026-06-20",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZnJWU2cwNVlmNlYyaXJSX0xPUFl6R2JWM1hIdVVLeUN3cndjTW9TMzNoUkFRaE1xOG5LUmxySmpNLWkzaGE5VWgzdDRpLU0?oc=5": "2026-06-20",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5": "2026-06-20",
-    "https://news.yahoo.co.jp/articles/b9ea66cc2915cfd83c0747a77608ea8f6fbfcf1c": "2026-06-20",
     "https://news.yahoo.co.jp/articles/df0c8b4f852cdcb48d64628695964944e35c5822": "2026-06-21",
     "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-06-21",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iaGZ1R09UUkdlQXdUQjNkazJwT09zOXROdnhyUm5xVlpnRkUwdXhWbnlNQ25jVVQ1VGJuSXdmOElDclFGcG1pRkVZVkFRVmlxVGtBWUtfcDdiWXlaWU9TN3MtcmJOdw?oc=5": "2026-06-21",
@@ -294,49 +285,19 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yVGtiWFlTbEpKTFU3MGJlSi1nOWRueWl1UTYxenlvSlk5TzFvMzlDeWxSRGxtMjVXc1lhSGdUQ19oc1lfNTFqSDVzSHFTUlhQXzFncDdaVFJOVWhVOFRhVGZSM1c5UFUxbnc?oc=5": "2026-07-20",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE11OU9ZU0NfaEtpMFVWWmh4WlVydmNSaTd0dGo4dWJzdlVhcnpTRnhOMEhMRWVyWThWWk9icFRsRzM1cmJ0LXgyLVlEREFEYldEbXdFRXJ4a0JlYzdhMVg3VF9vSUtFY2tOczNXNA?oc=5": "2026-07-20",
     "https://news.yahoo.co.jp/articles/f7ac5ac9f7d84d4f3077692a5282e4f723dbd586": "2026-07-20",
-    "https://news.yahoo.co.jp/articles/2ca345b5f15e4c476d0a4e5578faa0c221892fe1": "2026-07-20"
+    "https://news.yahoo.co.jp/articles/2ca345b5f15e4c476d0a4e5578faa0c221892fe1": "2026-07-20",
+    "https://dentsudigital.co.jp/news/release/services/2026-0618-000330": "2026-07-21",
+    "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/marketing/advertise-on-line/?list=23496": "2026-07-21",
+    "https://www.facebook.com/business/news/closing-the-creator-measurement-gap": "2026-07-21",
+    "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202606": "2026-07-21",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-07-21",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0U3VHZGk3bnAzaF9OMk5SNnRZRk1LTXZHUzdGbEVVT19ZUFlsaDFjbWRwd0RhRl9ucHdUbEpJcy1Eb0ItWkV4ZWU5eG9rZFlYeExSV1NidjJkOEVCRFRENmxhY1RoSmdqVDI2YWJOMFFCSXROYXhZYUp3?oc=5": "2026-07-21",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aOHJTWnJLVVR6VzNNZUZpRlM3S3ZHUW9FTlk5bmNUT19DWWpNOFhxTng2ZjY0a2RXTDRma2RybEJlUnlpeW5fcF9KS0lwQzEycjVfa05YWG5teUNHM3hFc1duMHFZUQ?oc=5": "2026-07-21",
+    "https://news.yahoo.co.jp/articles/2153eb82683cb265cd9ea512dd833cc611e11921": "2026-07-21",
+    "https://news.yahoo.co.jp/articles/9d4b5d18103ff2304874540357915fc47978b3de": "2026-07-21",
+    "https://news.yahoo.co.jp/articles/f4cb263aa5636d3fe5cb70e93d6b2317833be16d": "2026-07-21"
   },
   "titles": [
-    {
-      "title": "Instagramでライブ動画広告を導入、商品タグもアフィリエイトリンクに対応 - meta.com",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "「買い物中にお得情報を見ると買っちゃう」店内広告が新たな収益に…高い宣伝効果で広がるリテールメディア…はさらに増えて１兆６００億ドルに拡大し、このうちデジタル広告が７割を占める見通し。 デジタル広告の中でＲＭは特に高い成長を続けるとしており、２６年…読売新聞オンライン経済総合6/20(土) 11:00",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…IJ BizRis 2025/7/25(金)日本でも、2026年中には消費者庁がダークパターン規制に関する検討を本格的に進めるとされています出典：東芝…前田恒彦社会6/20(土) 9:05",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "ダークパターン、「見たことある」76％ 消費者庁調査 消費者庁が18日に発表した消費者意識調査結果で、ウェブサイト等でいわゆる「ダークパターン」を見たことがある割合は76％に上ることがわかった。 執…健康産業速報産業6/19(金) 12:20",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…ターンを包括的に禁止する法律はありません。表示内容や誘導方法によっては景品表示法上の不当表示などの問題が生じる可能性がありますが、現行法は主に表示内容…前田恒彦社会6/20(土) 9:05",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "なぜ「ダークパターン」が生まれるのか？ 誤りの“勝ちパターン”という認識…トメディアによる追求と拡散が始まります。もしダークパターンをやりすぎて景品表示法や特定商取引法に違反する行為などが見つかれば、監督省庁から指導や業務改…ITmedia NEWSIT総合6/18(木) 21:17",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）…のアクティビティが含まれることもあるグーグルやフェイスブックに代わるデジタル広告アプリとしても売り込んでいる。 「特定のブランドに対するロイヤルティプ…BUSINESS INSIDER JAPAN経済総合6/19(金) 7:10",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "TikTok for Business、国内広告代理店向けアワードを実施 グランプリは電通グループ：commercezine - MarkeZine",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "市内店舗のデジタル広告を支援します - city.atsugi.kanagawa.jp",
-      "date": "2026-06-20"
-    },
-    {
-      "title": "だから「もっと投資すれば必ず増える」を信じてしまう…投資詐欺で\"狙われやすい人\"の共通点 日本でも、こうした状況を受けて消費者庁がステルスマーケティングを景品表示法の対象に位置づけ、2023年から規制を開始した。すなわち「広告であることを隠して宣伝…プレジデントオンライン社会6/20(土) 8:15",
-      "date": "2026-06-20"
-    },
     {
       "title": "P-MAXのアセット実績、把握できてる？ Google 広告 スクリプトでアセット別実績レポートを自動作成…レポート作成手順とカスタマイズ方法レポート作成手順については本連載の第一回「Google広告レポートを自動化しよう！ スクリプトを使って業務効率UP」の手順に沿ってください。Web担当者ForumIT総合5/19(火) 7:16",
       "date": "2026-06-21"
@@ -1508,99 +1469,49 @@
     {
       "title": "川口春奈 どんな人？CM引っ張りだこの理由とは 結婚を決めた板倉滉の理想にもピッタリ…飾らないこういうところが好き」「本当にかわいい」などの声が上がる。 広告代理店関係者は「圧倒的なビジュアルの持ち主ながら、自然体で飾らない姿から親し…スポニチアネックスエンタメ総合7/20(月) 5:15",
       "date": "2026-07-20"
+    },
+    {
+      "title": "OpenAIとdentsu Japanの戦略的連携に続き、国内ローンチパートナーとしてChatGPTの広告の国内展開に向けたパイロット運用を開始",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "LINEに広告を配信するには？LINEヤフー広告のはじめ方をわかりやすく紹介",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Closing the creator measurement gap: How L'Oréal turned a reporting function into a strategic lever for growth",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "検索エンジン順位変動と動向（2026年6月）",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "株式会社Shinker、Meta Business Partners（広告会社専門カテゴリ）へ参加し、Metaのパートナーセンターの利用を開始 - イザ！",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "株式会社Shinker、「LINEヤフー Partner Program Sales Partner」契約締結 LINEヤフー広告の運用支援体制を強化 - at-s.com",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "日本人が知っておきたい、オルカンとAI相場のいびつな関係（前編） 2010年代の株式市場を押し上げてきたのは、スマートフォンの普及、デジタル広告の拡大、EC化、そしてクラウド化という巨大な構造変化だった。アップル、…ダイヤモンド・オンライン経済総合7/21(火) 6:21",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "【毎日書評】「なんとなく」をやめるだけで、疲れない生き方が叶うわけ…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス7/21(火) 8:11",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "年収3000万円経営者、俳優との過去の恋愛を告白「芸能一本だと不安になる時期もある」…日のマッチングデートに向けて、ジム店舗マネージャーでモデルのショウヤ、広告代理店勤務でモデルのキョウヘイ、パーソナルジム・ピラティスサロン経営のコウス…オリコンエンタメ総合7/20(月) 18:00",
+      "date": "2026-07-21"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "Instagramでライブ動画広告を導入、商品タグもアフィリエイトリンクに対応 - meta.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDTjdfZUt4bEJqR1dsbDZwRUhlUE52TXYzbHhCbkN6eEhwZ0Y3cWtWRzlVOU5Fck1ZSm5SMVJCOWVwdVh3ZzFCOGl1bDlTSXJFcTRiZHpLZEEtQm0xSXN3SDZ5dFZNeFNzaWlnM3NNNDZBOWfSAXNBVV95cUxQQ043X2VLeGxCakdXbGw2cEVIZVBOdk12M2x4Qm5DenhIcGdGN3FrVkc5VTlORXJNWUpuUjFSQjllcHVYd2cxQjhpdWw5U0lyRXE0YmR6S2RBLUJtMUlzd0g2eXRWTXhTc2lpZzNzTTQ2QTln?oc=5",
-      "summary": "・Instagramがライブ動画内に広告を表示する新機能を導入しクリエイター収益化を強化した\n・商品タグ機能がアフィリエイトリンクに対応しライブ配信中の購買導線が拡充された\n・Metaはクリエイターエコノミー支援を加速しEC連携による広告収益の多角化を推進する",
-      "score": 9,
-      "reason": "Instagram新広告フォーマット発表で即実務影響大",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「買い物中にお得情報を見ると買っちゃう」店内広告が新たな収益に…高い宣伝効果で広がるリテールメディア…はさらに増えて１兆６００億ドルに拡大し、このうちデジタル広告が７割を占める見通し。 デジタル広告の中でＲＭは特に高い成長を続けるとしており、２６年…読売新聞オンライン経済総合6/20(土) 11:00",
-      "link": "https://news.yahoo.co.jp/articles/c95533ba5c9e7d496072c057e17b40e00053154b",
-      "summary": "・店内デジタル広告「リテールメディア」が小売業の新たな収益源として急速に拡大している\n・世界の広告市場は1兆600億ドル規模に成長しデジタル広告が全体の約7割を占める見通し\n・購買時点で接触するため宣伝効果が高く2026年に向けRMは特に高成長が続く予測",
-      "score": 5,
-      "reason": "リテールメディア市場動向で業界知識として有用",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…IJ BizRis 2025/7/25(金)日本でも、2026年中には消費者庁がダークパターン規制に関する検討を本格的に進めるとされています出典：東芝…前田恒彦社会6/20(土) 9:05",
-      "link": "https://news.yahoo.co.jp/expert/articles/c2c3c17980aa68d960177ced09b3a24a8463b60e",
-      "summary": "・閉じるボタン「×」が見つからない広告の法的問題とユーザー体験への悪影響を専門家が解説している\n・消費者庁は2026年中にダークパターン規制の本格検討を進める方針であると報じられている\n・閉じられない広告はダークパターンの一種であり今後日本でも法規制の対象となる可能性が高い",
-      "score": 5,
-      "reason": "広告表示規制動向で運用時の法的リスク把握に有用",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ダークパターン、「見たことある」76％ 消費者庁調査 消費者庁が18日に発表した消費者意識調査結果で、ウェブサイト等でいわゆる「ダークパターン」を見たことがある割合は76％に上ることがわかった。 執…健康産業速報産業6/19(金) 12:20",
-      "link": "https://news.yahoo.co.jp/articles/009bb946e386165452887dff1b712f68e657c2a7",
-      "summary": "・消費者庁が消費者意識調査を6月18日に発表しダークパターンの認知状況を公開した\n・ウェブサイト等でダークパターンを見たことがある人の割合が76％に達した\n・消費者を誤誘導するデザイン手法の広がりが消費者庁の調査で裏付けられた",
-      "score": 5,
-      "reason": "ダークパターン規制動向は広告表現設計に影響",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「×」が見つからない広告は許される？閉じられない広告をめぐる法的問題と規制 #エキスパートトピ…ターンを包括的に禁止する法律はありません。表示内容や誘導方法によっては景品表示法上の不当表示などの問題が生じる可能性がありますが、現行法は主に表示内容…前田恒彦社会6/20(土) 9:05",
-      "link": "https://news.yahoo.co.jp/expert/articles/c2c3c17980aa68d960177ced09b3a24a8463b60e",
-      "summary": "・閉じるボタン「×」が見つけにくい広告など悪質なダークパターン広告の法的問題を解説した記事\n・日本では閉じられない広告デザインを包括的に禁止する法律は現時点で存在しない\n・景品表示法の不当表示に該当する可能性はあるが現行法は主に表示内容の規制にとどまる",
-      "score": 5,
-      "reason": "閉じられない広告の法的論点で配信設計に参考",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "なぜ「ダークパターン」が生まれるのか？ 誤りの“勝ちパターン”という認識…トメディアによる追求と拡散が始まります。もしダークパターンをやりすぎて景品表示法や特定商取引法に違反する行為などが見つかれば、監督省庁から指導や業務改…ITmedia NEWSIT総合6/18(木) 21:17",
-      "link": "https://news.yahoo.co.jp/articles/42fcabd35b42aefc8f1db010f533409f0de0316f",
-      "summary": "・ダークパターンはA/Bテスト等で短期的成果を追求した結果「勝ちパターン」と誤認され定着しやすい\n・メディアの追及や消費者の拡散により企業のダークパターン活用が社会問題として可視化されつつある\n・景品表示法や特商法に抵触すれば監督省庁の指導対象となりブランド毀損や法的リスクが高まる",
-      "score": 5,
-      "reason": "ダークパターンの背景解説で広告運用の注意喚起",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）…のアクティビティが含まれることもあるグーグルやフェイスブックに代わるデジタル広告アプリとしても売り込んでいる。 「特定のブランドに対するロイヤルティプ…BUSINESS INSIDER JAPAN経済総合6/19(金) 7:10",
-      "link": "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf",
-      "summary": "・AI時代のボット問題に対抗するスタートアップが1850万ドルを調達しピッチデックを公開した\n・ブランドと関わる実在の人間の顧客に報酬を支払う仕組みで広告効果の信頼性を高める\n・グーグルやフェイスブックに代わるデジタル広告プラットフォームとして差別化を図る",
-      "score": 4,
-      "reason": "海外スタートアップ事例で日本実務への即効性低い",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok for Business、国内広告代理店向けアワードを実施 グランプリは電通グループ：commercezine - MarkeZine",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZnJWU2cwNVlmNlYyaXJSX0xPUFl6R2JWM1hIdVVLeUN3cndjTW9TMzNoUkFRaE1xOG5LUmxySmpNLWkzaGE5VWgzdDRpLU0?oc=5",
-      "summary": "・TikTok for Businessが国内広告代理店を対象としたアワードを開催した\n・広告活用や成果における優れた取り組みを行った代理店を表彰する企画である\n・グランプリには電通グループが選出され最高評価を獲得した",
-      "score": 4,
-      "reason": "TikTok代理店アワード受賞報告で実務知見少ない",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Google News",
-      "title": "市内店舗のデジタル広告を支援します - city.atsugi.kanagawa.jp",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5",
-      "summary": "・厚木市が市内店舗のデジタル広告活用を支援する施策を実施している\n・地域の小売店や飲食店などを対象にデジタル広告導入を促進する取り組み\n・自治体主導で地元事業者のデジタルマーケティング強化を図る方針",
-      "score": 3,
-      "reason": "自治体の補助金施策で実務ノウハウではない",
-      "date": "2026-06-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "だから「もっと投資すれば必ず増える」を信じてしまう…投資詐欺で\"狙われやすい人\"の共通点 日本でも、こうした状況を受けて消費者庁がステルスマーケティングを景品表示法の対象に位置づけ、2023年から規制を開始した。すなわち「広告であることを隠して宣伝…プレジデントオンライン社会6/20(土) 8:15",
-      "link": "https://news.yahoo.co.jp/articles/b9ea66cc2915cfd83c0747a77608ea8f6fbfcf1c",
-      "summary": "・「もっと投資すれば増える」という心理を悪用した投資詐欺の手口と狙われやすい人の特徴を解説\n・消費者庁が2023年からステルスマーケティングを景品表示法の規制対象に追加し取り締まりを強化\n・広告であることを隠した宣伝行為が投資詐欺の温床となり被害拡大につながっていると指摘",
-      "score": 3,
-      "reason": "投資詐欺・ステマ規制の一般論で実務直結度低い",
-      "date": "2026-06-20"
-    },
     {
       "source": "Yahoo!ニュース",
       "title": "P-MAXのアセット実績、把握できてる？ Google 広告 スクリプトでアセット別実績レポートを自動作成…レポート作成手順とカスタマイズ方法レポート作成手順については本連載の第一回「Google広告レポートを自動化しよう！ スクリプトを使って業務効率UP」の手順に沿ってください。Web担当者ForumIT総合5/19(火) 7:16",
@@ -4237,6 +4148,96 @@
       "score": 1,
       "reason": "タレントの話題記事で広告運用と無関係",
       "date": "2026-07-20"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "OpenAIとdentsu Japanの戦略的連携に続き、国内ローンチパートナーとしてChatGPTの広告の国内展開に向けたパイロット運用を開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0618-000330",
+      "summary": "・電通デジタルがOpenAIのChatGPT広告の国内展開に向けたパイロット運用を開始した\n・OpenAIとdentsu Japanの戦略的連携を基盤とした取り組みとして位置づけられる\n・電通デジタルはChatGPT広告の国内ローンチパートナーとして選定されている",
+      "score": 8,
+      "reason": "ChatGPT広告の日本展開開始は新たな配信面として実務影響大",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEに広告を配信するには？LINEヤフー広告のはじめ方をわかりやすく紹介",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/marketing/advertise-on-line/?list=23496",
+      "summary": "・LINE広告の配信にはLINEヤフー広告からの出稿が必要であると解説している\n・LINEヤフー広告の主な掲載面や具体的な活用方法について紹介している\n・アカウント開設から広告配信開始までの一連の流れをわかりやすく説明している",
+      "score": 6,
+      "reason": "LINEヤフー広告の始め方を解説。初心者向けだが実務的内容",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Closing the creator measurement gap: How L'Oréal turned a reporting function into a strategic lever for growth",
+      "link": "https://www.facebook.com/business/news/closing-the-creator-measurement-gap",
+      "summary": "・WARC・ロレアル・Metaの共同調査がクリエイター施策の効果測定の課題と解決策を提示した\n・ロレアルはクリエイターマーケティングの測定を単なる報告業務から戦略的成長手段へと転換した\n・世界最大級の美容広告主がクリエイター施策と事業成長の因果関係を可視化する手法を確立した",
+      "score": 5,
+      "reason": "海外事例中心でクリエイター測定の知見だが直接的実務適用は限定的",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "検索エンジン順位変動と動向（2026年6月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/search-engine-202606",
+      "summary": "・2026年6月の検索順位変動をモバイル・PC各20位まで調査し動向をまとめた定期レポート\n・GoogleがSearch Consoleに生成AIレポート導入やスパムアップデート開始など複数の重要更新を実施\n・Microsoft Bing側もAIパフォーマンス機能を強化し検索エンジン各社でAI関連の進化が加速している",
+      "score": 4,
+      "reason": "SEO中心の検索動向レポートで運用型広告への直接影響は限定的",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Google News",
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
+      "summary": "・2024年の日本のインターネット広告媒体費は約3兆6500億円超で前年比増を維持した\n・動画広告やソーシャル広告が高い成長率を示しデジタルシフトが一層加速している\n・運用型広告が媒体費全体の約9割",
+      "score": 6,
+      "reason": "広告費市場データは業界動向把握に有用",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Google News",
+      "title": "株式会社Shinker、Meta Business Partners（広告会社専門カテゴリ）へ参加し、Metaのパートナーセンターの利用を開始 - イザ！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0U3VHZGk3bnAzaF9OMk5SNnRZRk1LTXZHUzdGbEVVT19ZUFlsaDFjbWRwd0RhRl9ucHdUbEpJcy1Eb0ItWkV4ZWU5eG9rZFlYeExSV1NidjJkOEVCRFRENmxhY1RoSmdqVDI2YWJOMFFCSXROYXhZYUp3?oc=5",
+      "summary": "・株式会社ShinkerがMeta Business Partnersの広告会社専門カテゴリに正式参加した\n・Metaのパートナーセンターの利用を開始し、広告運用支援体制を強化する方針\n・Meta公認パートナーとして専門的な広告サービスの提供拡大が期待される",
+      "score": 3,
+      "reason": "代理店のプレスリリースで実務的示唆は薄い",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Google News",
+      "title": "株式会社Shinker、「LINEヤフー Partner Program Sales Partner」契約締結 LINEヤフー広告の運用支援体制を強化 - at-s.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aOHJTWnJLVVR6VzNNZUZpRlM3S3ZHUW9FTlk5bmNUT19DWWpNOFhxTng2ZjY0a2RXTDRma2RybEJlUnlpeW5fcF9KS0lwQzEycjVfa05YWG5teUNHM3hFc1duMHFZUQ?oc=5",
+      "summary": "・株式会社ShinkerがLINEヤフーのPartner Program Sales Partner契約を締結した\n・LINEヤフー広告の運用支援体制を強化し顧客への提供価値向上を目指す\n・公式パートナーとしてLINEヤフー広告の販売・運用支援を本格展開する",
+      "score": 3,
+      "reason": "代理店のパートナー契約発表で実務影響小",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本人が知っておきたい、オルカンとAI相場のいびつな関係（前編） 2010年代の株式市場を押し上げてきたのは、スマートフォンの普及、デジタル広告の拡大、EC化、そしてクラウド化という巨大な構造変化だった。アップル、…ダイヤモンド・オンライン経済総合7/21(火) 6:21",
+      "link": "https://news.yahoo.co.jp/articles/2153eb82683cb265cd9ea512dd833cc611e11921",
+      "summary": "・オルカン（全世界株式）とAI相場の構造的な歪みについて前編として解説する記事が公開された\n・2010年代の株高はスマホ普及・デジタル広告拡大・EC化・クラウド化の4大構造変化が牽引した\n・アップル等の巨大テック企業がこれら変化の恩恵を集中的に受け市場を押し上げてきたと指摘",
+      "score": 2,
+      "reason": "投資・経済記事で広告運用実務と無関係",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【毎日書評】「なんとなく」をやめるだけで、疲れない生き方が叶うわけ…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンヘルス7/21(火) 8:11",
+      "link": "https://news.yahoo.co.jp/articles/9d4b5d18103ff2304874540357915fc47978b3de",
+      "summary": "・書評家・印南敦史氏が「なんとなく」の習慣を見直す書籍を紹介している\n・日常の無意識な行動をやめることで疲れにくい生き方が実現できると提唱\n・ライフハッカー・ジャパンの書評連載として健康・生活改善の知見を発信",
+      "score": 1,
+      "reason": "書評・ライフハック記事で広告運用と無関係",
+      "date": "2026-07-21"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "年収3000万円経営者、俳優との過去の恋愛を告白「芸能一本だと不安になる時期もある」…日のマッチングデートに向けて、ジム店舗マネージャーでモデルのショウヤ、広告代理店勤務でモデルのキョウヘイ、パーソナルジム・ピラティスサロン経営のコウス…オリコンエンタメ総合7/20(月) 18:00",
+      "link": "https://news.yahoo.co.jp/articles/f4cb263aa5636d3fe5cb70e93d6b2317833be16d",
+      "summary": "・年収3000万円の経営者が俳優との過去の恋愛を告白し芸能界への不安も語った\n・出演者にジム店舗マネージャーや広告代理店勤務のモデルら多彩な男性が参加\n・パーソナルジムやピラティスサロン経営者も加わりマッチングデートに挑む展開",
+      "score": 1,
+      "reason": "恋愛バラエティ番組の話題で完全に無関係",
+      "date": "2026-07-21"
     }
   ]
 }
