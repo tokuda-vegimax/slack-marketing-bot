@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/amazon-prime-day-ad-strategy-8points": "2026-06-22",
-    "https://oneder.hakuhodody-one.co.jp/blog/advertimes-next-agency-model": "2026-06-22",
-    "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/": "2026-06-22",
-    "https://www.lycbiz.com/jp/column/ly-ads/marketing/how-to-decide-on-web-advertising/?list=23496": "2026-06-22",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1MUp4UmVUNS1wSnJDamdNM290dWZmN0I0SVZHdDlzYmR2QUUzT040OGV3WDRUeFdleS1hT2xTTklrR3NPeF8yT1YwOVhVc2JaU0pMVDZB?oc=5": "2026-06-22",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkR2p1Y0FmZzdtaXZhYXgwUU50cEIwZVdQaXM3MVB2TE1BOU1SZC1NVzZyLUc0SFIzenZfa1l0MWJia2VSOHRYNC0wamNWbHp6RkFlLTlXalRRWGZiS1RXSTFMMHZhQQ?oc=5": "2026-06-22",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2Q5RnN1bTg4a254OWduQ3hCMTZUWjdjemJPdHZQcm5QZjEyOTVZMHFXTjJ3S1VXOTY0QWtKV1UtVjNudUxGOWF2TGhOby1FTy14OUdoUlM5dVZTQWppTk00RGpMUXpvSWpUeWljSUN2dVc0X21CWWxpZElsTm1kVFk0QUU3ZUpVWWdBVVVn?oc=5": "2026-06-22",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qdzNnZnNpd2Y5NkNhbldLd0NnU2dJck5zUHdaaEhVSVI2UEkxTlY0T0V3bXJPOVQ1SXQzMlR5SnlrNnlMdzdPYjhMWWgtRDNCakRkNW5UcTVyY3U0cmc?oc=5": "2026-06-22",
-    "https://news.yahoo.co.jp/articles/eca14329dfbe36a4b9820373c6eda6712014b15d": "2026-06-22",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVRkT1d6TmpqeGg3eEpQU3lnQXZ2djEtd3BZSlp3a3V4eldKUXR4WGtzV01TXzd2bUdZUWhyU1NoM1ZVNTJLNG1FU2s1OFZWQUJxX0hrWndZQnZQcGJGV1UyczdUdTRqakFVa3hHRm5qeEM1NV8wT3A1VF93a3dyUXJIR0Q3bEV4Q3BjOEw4WlhmRzZMSkhkT3M0VVNsejhyQU40cDlrWTJzUGNpR2wwSXVQWkZjLVhOYUExYjZ4SFlEVlUtSkNSVl9FN0tPcGc?oc=5": "2026-06-22",
     "https://oneder.hakuhodody-one.co.jp/blog/upd-maiko-case-study": "2026-06-23",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVy1UNkgwOEl3NjlMd3g1d1FaX1hGaks3eDFUZnVndDlkamxNVHNUUlEyQ244MHRhY3ZZNzRneUZlODNoazhzR2pOX1Q2N3IyazJyZjFfVDZVNWt1elFiUENKQjQzbnYtMThGYVdvUGNxWk9OYTRPaDRWQ1JxYXhFUWZFX1hsb2g2?oc=5": "2026-06-23",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PZ01xOTduTTV5SHJPR2NfX1BQVVJueDZjQnFpZzR4cFlWQkhYZzB6dWtMYndpMnoyeGtyRmtWNmZ4Y2hLbDdzTUhpMlAwQQ?oc=5": "2026-06-23",
@@ -297,49 +287,19 @@
     "https://news.yahoo.co.jp/articles/589a6624e3fee8a11d714174101c6b776760bef3": "2026-07-22",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVdMQU1nZHY5Yk5hNXAya1VwX3B5dEdjOGVnTlEzQTVaMzZJV21fRmNYdnlSbW05bWxIaFZsVG00aUI2RFhreXlmcVdPcWJqMW5COW41RW1Gbkx6a3VaSk5mT1d6dGhNSTNyMi1DR3RXQ2dzUGpWd1owV0pKTzZzMG5fWHpQR3pH?oc=5": "2026-07-22",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5Q1V6TWh1elpwTVlfWEZyTExXNVBheWtaalI4ZWNqMVNuRVRnVWxhWWppajR4WlJOMWlUM0l5Vjh4QWN6SGZxMmZrZFhHZU9JY1pCQlNn?oc=5": "2026-07-22",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-07-22"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-07-22",
+    "https://dentsudigital.co.jp/news/release/services/2026-0723-000335": "2026-07-23",
+    "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-loyalty-marketing-line-mini-app": "2026-07-23",
+    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82QU1CSkRhN3RYdUlBLUxsOUdNMWs5eXFYaTdDVXpQREZpbHlXOVdpSEhvSUtoQmo4U2F0VEZucmotOVQ5Z3VIWnlESWlSSFNXMWpPZTRB?oc=5": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNzdWs4Wk1pTEhBVzZHRko5aW9VenpqaUdFa01hS3R3NG1DOUloY3JJY3RrVWxmd1FOdVJoV2xrUjYxOVUwZEpIQ2lGZDQyVTFyMHFrY01mR3Rud2JOeG9mbU9RWi11TG9XVXpnOFpHdlFwdkUzVVY3TlM0c0l3QXR5dkRVWXVNVGtTaDVNSUU?oc=5": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWGttTWZtVm9QN3M2Y2lRengta2N5YUQtS243VmtCWXRONXZweVRxWk84ZUVXcFR5UENTWm5pbmU2dDZjNlczVXVnenF1TmFuYkg4bzVhNWZtRk9HSnB1Y29yclNnaXoxb1E?oc=5": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMlZGcjlDdTVUZ29JcC1kb1ZmQTNrYWdMd29scUp2czZjRG12d0R6TEJJZ091UXA2ZkhrUzBCQzE1VGZqYUdKTG9pbHgxUFlnaTNN?oc=5": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWlJ2SkU1WmtzNENxUE5VZ202cVI0RnlmWkhyOUhiWWpSRy05b3JOMHlYWm1jS1dIUFRkeTIzaWMyVzJvOThZZm50X1VfWi04VU15MEZmV05aSkYwMkdiVjZsaVNvclpZSUE?oc=5": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzkwQkJjOFNONHpBM3VMOUFxSmROXzlXa09RSlY5cXNBWlQ1M1JZUEoxRk4tbEx1OVk2am1VYWN2blEwdXRreTBBcnhvb1lVZ1poajRsRzhsZzJDX3pCa1VNSUUwNGczZEY2dU5pajV0QTRWbDNuNWU2TDB1Z2M2TzVqb04yODJ2RGVvUmhVRGhDdmpqaklfek9QS3pKdUNJSF84?oc=5": "2026-07-23",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTQWZnYTdpQk94dlR4eHhNam1KbmRTVG1LTGVaeEdzZnJEUDZMbGVabFV3UXdDVEZnNUIyR3dBc0pqZi1lYmFlUjViT1NHaVRJcHVPeWl5V1hEOUU?oc=5": "2026-07-23"
   },
   "titles": [
-    {
-      "title": "【Amazon Prime Day 直前対策ガイド】セール前の対策がセールを制す！広告運用8つのポイント",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "クライアント企業に伴走して成長にコミット　Hakuhodo DY ONEが目指す「ネクストエージェンシーモデル」の全体像",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "Google Marketing Live 2026",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "Web広告を始めるべきか迷っている方へ｜判断のポイントを整理",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "AIがあらゆる規模の組織のフルファネル広告をシンプルに - コマースピック",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "OpenAI、ChatGPT広告を「会話型」へ Smartlyと提携し新フォーマット開発 - 株式会社エクサウィザーズ",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "Google Ads Safety Report 2025 年版のハイライト - blog.google",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "SEMやMetaなどの運用型広告を成果報酬で サイバーエージェントグループ初の成果報酬型の広告代理店、株式会社サイバーグリップを設立 - cyberagent.co.jp",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "大型スポーツイベントに便乗した無料配信偽サイト急増、Spider Labsが注意呼びかけ…サイトや違法配信サイトが急増しているとして、消費者・広告主・メディア・広告代理店に向けて被害の実態とリスクへの注意を呼びかけ、緊急チェックリストを6月…Web担当者ForumIT総合6/22(月) 7:16",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "トップ20グローバルデジタル広告マーケティング会社(2025〜2035) サイズ, シェアレポート 2035 - Spherical Insights",
-      "date": "2026-06-22"
-    },
     {
       "title": "業務効率大幅改善！毎日広告社におけるデジタル実務者ポータル「upD」の活用術",
       "date": "2026-06-23"
@@ -1511,99 +1471,49 @@
     {
       "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
       "date": "2026-07-22"
+    },
+    {
+      "title": "生活者のAI活用実態調査を実施　AI利用者の約3人に1人が購買行動においてAIに相談　旅行や金融で顕著",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "顧客体験とデータを「統合」する、次世代ロイヤルティマーケティング 〜LINEミニアプリを武器に、他社を圧倒するパーソナライズ戦略〜【セミナーレポート】",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "ChatGPT広告、出稿済み31.1%・検討中41.1%―キーワードマーケティング調査で判明 - コマースピック",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "SnowflakeのコンテキストとMetaキャンペーン：シグナルループの完結 - Snowflake",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "最新マーケティングを学べる無料セミナーを開催― GDNからデマンド・ジェネレーションへ Google広告の未来を読み解く― - PR TIMES",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "「AIで仕事が速くなっただけで代理店は生き残れない」 米国広告代理店協会が暴く不都合な真実 (1/3) - MarkeZine",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "【7/28(火)】Meta広告のAI運用をテーマとした無料オンラインセミナーを開催 - PR TIMES",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Google広告に関する13年間の知見：SaltechのCEOが、ベトナムの中小企業が不必要に損失を出している理由を明かす。 - Vietnam.vn",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "求人サイト「らくらく求人検索」、株式会社イオレの運用型求人広告プラットフォーム「HR Ads Platform」との連携を開始 - valuepress",
+      "date": "2026-07-23"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "【Amazon Prime Day 直前対策ガイド】セール前の対策がセールを制す！広告運用8つのポイント",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/amazon-prime-day-ad-strategy-8points",
-      "summary": "・Amazonは年間を通じ初売りやスマイルSaleなど大型セールを複数開催している\n・生活者のセール慣れが進み単なる値引きだけでは購買行動を促せなくなっている\n・Prime Dayではセール前からの広告運用対策が成果を左右する重要な鍵となる",
-      "score": 8,
-      "reason": "Amazon広告の具体的セール対策で実務直結",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "クライアント企業に伴走して成長にコミット　Hakuhodo DY ONEが目指す「ネクストエージェンシーモデル」の全体像",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/advertimes-next-agency-model",
-      "summary": "・Hakuhodo DY ONEがクライアント企業に伴走し成長にコミットする新たなエージェンシーモデルを提唱している\n・「ネクストエージェンシーモデル」として従来の広告代理店の枠を超えた支援体制の全体像を示している\n・多様な「実装」の引き出しを持つことを強みとし、実行力で差別化を図る方針を掲げている",
-      "score": 3,
-      "reason": "代理店のビジョン紹介で実務的知見は薄い",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Google広告",
-      "title": "Google Marketing Live 2026",
-      "link": "https://blog.google/products/ads-commerce/google-marketing-live-2026-collection/",
-      "summary": "・Google Marketing Live 2026が開催されAI活用の新広告ソリューションが発表された\n・マーケターの成長支援を目的としたAI搭載の広告機能が複数披露された\n・GoogleとYouTubeを横断した広告展開を強化する新ツールが提供される予定",
-      "score": 10,
-      "reason": "Google主要広告アップデート発表で実務影響大",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "Web広告を始めるべきか迷っている方へ｜判断のポイントを整理",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/marketing/how-to-decide-on-web-advertising/?list=23496",
-      "summary": "・Web広告導入を迷う企業向けに目的・条件・相性の3視点で判断基準を整理した解説記事\n・よくある不安や疑問を踏まえ、自社に合った広告手法の選び方を具体的に提示している\n・検討段階の企業が意思決定しやすいよう、導入判断のポイントをわかりやすくまとめている",
-      "score": 3,
-      "reason": "広告未経験者向けの入門記事で運用実務への有用度低",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Google News",
-      "title": "AIがあらゆる規模の組織のフルファネル広告をシンプルに - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1MUp4UmVUNS1wSnJDamdNM290dWZmN0I0SVZHdDlzYmR2QUUzT040OGV3WDRUeFdleS1hT2xTTklrR3NPeF8yT1YwOVhVc2JaU0pMVDZB?oc=5",
-      "summary": "・AIを活用しあらゆる規模の企業がフルファネル広告を効率的に運用できる時代が到来している\n・認知から購買まで一貫した広告戦略をAIが自動最適化し運用負担を大幅に軽減する\n・中小企業でも大手並みの高度な広告施策をAIの力で手軽に実現可能になると報じられた",
-      "score": 7,
-      "reason": "AI活用フルファネル広告の実践的知見が期待できる",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAI、ChatGPT広告を「会話型」へ Smartlyと提携し新フォーマット開発 - 株式会社エクサウィザーズ",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkR2p1Y0FmZzdtaXZhYXgwUU50cEIwZVdQaXM3MVB2TE1BOU1SZC1NVzZyLUc0SFIzenZfa1l0MWJia2VSOHRYNC0wamNWbHp6RkFlLTlXalRRWGZiS1RXSTFMMHZhQQ?oc=5",
-      "summary": "・OpenAIがChatGPTに広告を導入し会話型の新広告フォーマットを開発する方針を発表した\n・広告テクノロジー企業Smartlyと提携しAIチャット体験に適した広告手法を共同で構築する\n・従来のバナー型とは異なる会話の文脈に沿った自然な広告表示が目指されている",
-      "score": 7,
-      "reason": "ChatGPT広告の新フォーマットは今後の出稿先として注目",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Google News",
-      "title": "Google Ads Safety Report 2025 年版のハイライト - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2Q5RnN1bTg4a254OWduQ3hCMTZUWjdjemJPdHZQcm5QZjEyOTVZMHFXTjJ3S1VXOTY0QWtKV1UtVjNudUxGOWF2TGhOby1FTy14OUdoUlM5dVZTQWppTk00RGpMUXpvSWpUeWljSUN2dVc0X21CWWxpZElsTm1kVFk0QUU3ZUpVWWdBVVVn?oc=5",
-      "summary": "・Googleは2024年に55億件以上の不正広告を削除し、3950万超の広告主アカウントを停止したと報告\n・AI活用の検出技術を強化し、詐欺広告やディープフェイク等の新たな脅威への対策を大幅に拡充した\n・生成AI悪用や政治広告の透明性確保など新ポリシーを導入し、広告エコシステムの安全性向上を推進",
-      "score": 7,
-      "reason": "Google広告ポリシー動向は審査・運用に直接影響",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Google News",
-      "title": "SEMやMetaなどの運用型広告を成果報酬で サイバーエージェントグループ初の成果報酬型の広告代理店、株式会社サイバーグリップを設立 - cyberagent.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qdzNnZnNpd2Y5NkNhbldLd0NnU2dJck5zUHdaaEhVSVI2UEkxTlY0T0V3bXJPOVQ1SXQzMlR5SnlrNnlMdzdPYjhMWWgtRDNCakRkNW5UcTVyY3U0cmc?oc=5",
-      "summary": "・サイバーエージェントがグループ初の成果報酬型広告代理店「サイバーグリップ」を新設した\n・SEMやMeta広告など運用型広告を成果報酬モデルで提供し従来の手数料体系と差別化を図る\n・広告主のリスクを軽減しつつ成果に連動した報酬体系で運用型広告市場の新規開拓を目指す",
-      "score": 5,
-      "reason": "成果報酬型代理店設立は業界動向として参考になる",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "大型スポーツイベントに便乗した無料配信偽サイト急増、Spider Labsが注意呼びかけ…サイトや違法配信サイトが急増しているとして、消費者・広告主・メディア・広告代理店に向けて被害の実態とリスクへの注意を呼びかけ、緊急チェックリストを6月…Web担当者ForumIT総合6/22(月) 7:16",
-      "link": "https://news.yahoo.co.jp/articles/eca14329dfbe36a4b9820373c6eda6712014b15d",
-      "summary": "・Spider Labsが大型スポーツイベントに便乗した無料配信偽サイトの急増を警告した\n・消費者・広告主・メディア・広告代理店に対し被害実態とリスクへの注意を呼びかけた\n・6月に緊急チェックリストを公開し関係者へ具体的な対策指針を提示している",
-      "score": 4,
-      "reason": "偽サイト注意喚起でブランドセーフティに一部関連",
-      "date": "2026-06-22"
-    },
-    {
-      "source": "Google News",
-      "title": "トップ20グローバルデジタル広告マーケティング会社(2025〜2035) サイズ, シェアレポート 2035 - Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVRkT1d6TmpqeGg3eEpQU3lnQXZ2djEtd3BZSlp3a3V4eldKUXR4WGtzV01TXzd2bUdZUWhyU1NoM1ZVNTJLNG1FU2s1OFZWQUJxX0hrWndZQnZQcGJGV1UyczdUdTRqakFVa3hHRm5qeEM1NV8wT3A1VF93a3dyUXJIR0Q3bEV4Q3BjOEw4WlhmRzZMSkhkT3M0VVNsejhyQU40cDlrWTJzUGNpR2wwSXVQWkZjLVhOYUExYjZ4SFlEVlUtSkNSVl9FN0tPcGc?oc=5",
-      "summary": "・Spherical Insightsが2025〜2035年のグローバルデジタル広告市場規模とシェアを分析した調査レポートを公開した\n・世界のデジタル広告マーケティング企業上位20社を選定し、今後10年間の成長予測と競争環境を詳述している\n・2035年までの市場動向・シェア変化を長期的に展望し、業界の将来像を包括的に示す内容となっている",
-      "score": 3,
-      "reason": "市場規模レポート紹介で実務への直接影響薄い",
-      "date": "2026-06-22"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "業務効率大幅改善！毎日広告社におけるデジタル実務者ポータル「upD」の活用術",
@@ -4240,6 +4150,96 @@
       "score": 5,
       "reason": "景表法見直しは広告表現に間接的に影響する",
       "date": "2026-07-22"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "生活者のAI活用実態調査を実施　AI利用者の約3人に1人が購買行動においてAIに相談　旅行や金融で顕著",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0723-000335",
+      "summary": "・電通デジタルが「with AIラボ」を設立し生活者のAI活用実態調査を実施した\n・AI利用者の約3人に1人が商品購入やサービス選定時にAIへ相談していると判明\n・特に旅行プラン検討や金融商品選びなどの分野でAI活用が顕著に進んでいる",
+      "score": 6,
+      "reason": "AI活用による購買行動変化は広告戦略設計に示唆あり",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "顧客体験とデータを「統合」する、次世代ロイヤルティマーケティング 〜LINEミニアプリを武器に、他社を圧倒するパーソナライズ戦略〜【セミナーレポート】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-loyalty-marketing-line-mini-app",
+      "summary": "・従来のキャンペーンやポイント施策だけでは継続的な顧客関係構築が困難になっている現状を指摘\n・顧客の反応や関心変化を捉え次のコミュニケーションへつなげる設計の重要性を提唱している\n・LINEミニアプリを活用し顧客体験とデータを統合することでLTV向上を目指す戦略を紹介",
+      "score": 4,
+      "reason": "CRM寄りのセミナーレポートで広告運用直結度は低い",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
+      "summary": "・サイバーエージェントが広告運用AIエージェント「効果おまかせAI」の提供を開始した\n・Meta広告で先行導入し化粧品分野などで効果を検証、段階的に機能を拡張予定\n・Microsoft広告やTikTok広告など対応プラットフォームを順次拡大していく方針",
+      "score": 9,
+      "reason": "CA社の広告運用AIエージェント新機能で即実務影響",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "ChatGPT広告、出稿済み31.1%・検討中41.1%―キーワードマーケティング調査で判明 - コマースピック",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82QU1CSkRhN3RYdUlBLUxsOUdNMWs5eXFYaTdDVXpQREZpbHlXOVdpSEhvSUtoQmo4U2F0VEZucmotOVQ5Z3VIWnlESWlSSFNXMWpPZTRB?oc=5",
+      "summary": "・キーワードマーケティングの調査でChatGPT広告の出稿済み企業が31.1%に達したことが判明\n・さらに41.1%の企業がChatGPT広告への出稿を検討中で、関心の高さが浮き彫りとなった\n・出稿済みと検討中を合わせると7割超となり、生成AI広告市場の急速な拡大が示唆される",
+      "score": 8,
+      "reason": "ChatGPT広告の出稿動向は実務判断に直結",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "SnowflakeのコンテキストとMetaキャンペーン：シグナルループの完結 - Snowflake",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNzdWs4Wk1pTEhBVzZHRko5aW9VenpqaUdFa01hS3R3NG1DOUloY3JJY3RrVWxmd1FOdVJoV2xrUjYxOVUwZEpIQ2lGZDQyVTFyMHFrY01mR3Rud2JOeG9mbU9RWi11TG9XVXpnOFpHdlFwdkUzVVY3TlM0c0l3QXR5dkRVWXVNVGtTaDVNSUU?oc=5",
+      "summary": "・SnowflakeのデータクラウドとMeta広告キャンペーンを連携しシグナルループを構築する取り組みを紹介\n・ファーストパーティデータをSnowflake経由でMetaに安全に共有し広告配信の精度向上を実現\n・Cookie廃止時代に対応したデータクリーンルーム活用で広告効果測定の完全なループを完結させる",
+      "score": 7,
+      "reason": "Meta広告×Snowflakeのシグナル連携は実務的",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "最新マーケティングを学べる無料セミナーを開催― GDNからデマンド・ジェネレーションへ Google広告の未来を読み解く― - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWGttTWZtVm9QN3M2Y2lRengta2N5YUQtS243VmtCWXRONXZweVRxWk84ZUVXcFR5UENTWm5pbmU2dDZjNlczVXVnenF1TmFuYkg4bzVhNWZtRk9HSnB1Y29yclNnaXoxb1E?oc=5",
+      "summary": "・Google広告がGDNからデマンドジェネレーションへ移行する最新動向を解説する無料セミナーが開催される\n・セミナーではGoogle広告の今後の展望や最新マーケティング手法について学べる内容が提供される\n・PR TIMESを通じて告知され、マーケティング担当者やデジタル広告運用者を対象とした実践的な講座となる",
+      "score": 7,
+      "reason": "GDNからDemandGen移行は実務に直結する内容",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "「AIで仕事が速くなっただけで代理店は生き残れない」 米国広告代理店協会が暴く不都合な真実 (1/3) - MarkeZine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMlZGcjlDdTVUZ29JcC1kb1ZmQTNrYWdMd29scUp2czZjRG12d0R6TEJJZ091UXA2ZkhrUzBCQzE1VGZqYUdKTG9pbHgxUFlnaTNN?oc=5",
+      "summary": "・米国広告代理店協会（4A's）がAI活用における代理店の課題について警鐘を鳴らしている\n・単なる業務効率化や作業スピード向上だけではAI時代に代理店が生き残れないと指摘\n・代理店には速さを超えた戦略的価値やクリエイティブの差別化が今後より一層求められる",
+      "score": 6,
+      "reason": "AI時代の代理店戦略論で業界動向として有用",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "【7/28(火)】Meta広告のAI運用をテーマとした無料オンラインセミナーを開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWlJ2SkU1WmtzNENxUE5VZ202cVI0RnlmWkhyOUhiWWpSRy05b3JOMHlYWm1jS1dIUFRkeTIzaWMyVzJvOThZZm50X1VfWi04VU15MEZmV05aSkYwMkdiVjZsaVNvclpZSUE?oc=5",
+      "summary": "・Meta広告のAI活用運用をテーマにした無料オンラインセミナーが7月28日に開催される\n・セミナーではMeta広告におけるAI機能の最新活用法や運用ノウハウが紹介される見込み\n・PR TIMESを通じて告知されており、オンライン形式で誰でも参加可能となっている",
+      "score": 6,
+      "reason": "Meta広告AI運用セミナー告知で学習機会",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告に関する13年間の知見：SaltechのCEOが、ベトナムの中小企業が不必要に損失を出している理由を明かす。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzkwQkJjOFNONHpBM3VMOUFxSmROXzlXa09RSlY5cXNBWlQ1M1JZUEoxRk4tbEx1OVk2am1VYWN2blEwdXRreTBBcnhvb1lVZ1poajRsRzhsZzJDX3pCa1VNSUUwNGczZEY2dU5pajV0QTRWbDNuNWU2TDB1Z2M2TzVqb04yODJ2RGVvUmhVRGhDdmpqaklfek9QS3pKdUNJSF84?oc=5",
+      "summary": "・Saltech CEOが13年のGoogle広告運用経験をもとにベトナム中小企業の広告損失の原因を指摘\n・多くの中小企業が適切な知識や戦略なくGoogle広告に投資し不必要なコストを発生させている\n・広告運用の最適化や専門知識の不足がベトナム中小企業の競争力低下と損失拡大を招いている",
+      "score": 4,
+      "reason": "ベトナム向けで日本実務への適用度は限定的",
+      "date": "2026-07-23"
+    },
+    {
+      "source": "Google News",
+      "title": "求人サイト「らくらく求人検索」、株式会社イオレの運用型求人広告プラットフォーム「HR Ads Platform」との連携を開始 - valuepress",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTQWZnYTdpQk94dlR4eHhNam1KbmRTVG1LTGVaeEdzZnJEUDZMbGVabFV3UXdDVEZnNUIyR3dBc0pqZi1lYmFlUjViT1NHaVRJcHVPeWl5V1hEOUU?oc=5",
+      "summary": "・求人サイト「らくらく求人検索」がイオレの「HR Ads Platform」と連携を開始した\n・HR Ads Platformは運用型の求人広告プラットフォームで複数媒体への配信が可能\n・連携により求人情報の掲載先が拡大し、求職者へのリーチ向上が期待される",
+      "score": 3,
+      "reason": "求人広告プラットフォーム連携のプレスリリース",
+      "date": "2026-07-23"
     }
   ]
 }
