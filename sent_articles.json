@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0702-000333": "2026-07-03",
-    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-02": "2026-07-03",
-    "https://dentsudigital.co.jp/news/release/services/2026-0601-000325": "2026-07-03",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Fc182LVdxampnSzBmMElDd210NFNROHJJWGp5WUttLTJBLWEtY0lnaHRXYW5MeUg5Skp2bHVNWC1FOXFIVk45eHdNOA?oc=5": "2026-07-03",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkVucWR2b0tiYlg4QXI3OVN1Smhud3VLMjh2RS15MGFsblpGX2k2SGV1bEtxY0ZQZkd4RFJFWjFtaENKdmxGMXBCaFhucXBLeVNuamFKS3czanlMU05zRW52QUhEQmtwSllIVXlMdFVSRmNoSXZvYXVCZ2lpRVE?oc=5": "2026-07-03",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mc1dGTE1hTzVfaEpfVmdtQkVha2l6VDVEcHI3SXJ1X1RKSWlxVFctYWlOanVFRmFWNnZuRExDRWw3ek95SDJ6V1Q4MGFUVXJwV2tCazJHM2dPUVFzMUhkemx6SVZfbUMtaU8tYw?oc=5": "2026-07-03",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc0hFQkV3YktfZHVTdG5STi1mY05HSlY4X2JDWUsyMThRRzBuQ3ZiQVpEem0xUGg5ejU5MnlOMUtwaFBWN1owQ0RhN180ZnRxc2ZHaVhXQ2Q3ZTdCMDU0MnZHM1JCR0xUUmc?oc=5": "2026-07-03",
-    "https://news.yahoo.co.jp/articles/44071ba197b09749e9de1788d1ac67573e22219e": "2026-07-03",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RcUNfdG9EbkU0V1FnRS03WTIxLWtrRm9ONWtEelNNYXRvSW1oa0pseGcyZWVuYkYxWkFQOFl6NjFEa1JFZGNLaE1jNDE1X05pNkQ1ZzRlRWFlU1lpbUY3aDVFWjk1Y05uRnFKbQ?oc=5": "2026-07-03",
-    "https://news.yahoo.co.jp/articles/8e2c4b348eef3d5be05d90314fec800cbc248691": "2026-07-03",
     "https://www.lycbiz.com/jp/column/ly-ads/marketing/user-behavior-ad-touchpoints/?list=23496": "2026-07-04",
     "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2": "2026-07-04",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kLUoxQ1FiejI1WXNmd2lIalBiTGkzWUhiVFJ6a2x5MmxhNUJkX3haT2U3bFdrQ0pPbm93TWpZblF4aG1uenpVcUtaQVlaNXYxMmdFY2VvVmxMb1NVNGEzRXB5Uk0ySkVPSWNxUA?oc=5": "2026-07-04",
@@ -299,49 +289,17 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9heFBfRkJOdzJDTm1SbXBSZ1NGcUFFTVB5WElLV3pKRGpaYndNWEFBWk91UnFGSkY0R00weFlRZktFRDVFQ25xUnNjejMweUFvZVBKNWlueElNX2U0MXhEN3dZdjdsLTRzaDdVSEpwU2tRemdJaUFuUVJn?oc=5": "2026-08-02",
     "https://news.yahoo.co.jp/articles/0c4a7e2f82556354e8ece5ed1283fcc8e005bf35": "2026-08-02",
     "https://news.yahoo.co.jp/articles/f2d57fdfc70b00c3e9cedb4d627aa518c4aacc3b": "2026-08-02",
-    "https://news.yahoo.co.jp/articles/3d4d154295ade8683362cb28469f303b1724517d": "2026-08-02"
+    "https://news.yahoo.co.jp/articles/3d4d154295ade8683362cb28469f303b1724517d": "2026-08-02",
+    "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/marketing/expand-customer-touchpoints/?list=23496": "2026-08-03",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/ysa_demographic_targeting/?list=23496": "2026-08-03",
+    "https://www.facebook.com/business/news/ai-affiliates-new-way-people-shop": "2026-08-03",
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1LUWZudWQ3WXRoYzNVSlFsc1BfLWJWQU5iUTRhZEpjYkxlNVpLUU9PUkdvRXd1dkVLcXctSFlCYi1QNFE?oc=5": "2026-08-03",
+    "https://news.yahoo.co.jp/articles/d1a34f0bea682a2effe0fd47246ae75d817bf55a": "2026-08-03",
+    "https://news.yahoo.co.jp/articles/e226cdf2324977540a2959cd6116752bf79ad1a4": "2026-08-03",
+    "https://news.yahoo.co.jp/articles/624e683124a9c6e5f2cd95d9b37b4ea0300abcaf": "2026-08-03",
+    "https://news.yahoo.co.jp/articles/411e84ac7094f1e78dd316abbe0cf162ac7dcdbf": "2026-08-03"
   },
   "titles": [
-    {
-      "title": "ブログウォッチャーと共同で位置情報データを活用した来店効果分析ソリューション「OmniVisit™」を提供開始",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "「シニアの『世代』が変化している？ 〜かつて『新人類』と言われた令和のシニア」 ー進化する令和シニアのスマートライフ【第2回】",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "SBIネオメディアホールディングス、電通、電通デジタルが戦略的業務提携",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "アテンションは広告評価を変えるか――KDDIなど3社が挑む新たな共通指標の可能性 - 電通報",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "消費者庁が高光製薬のサプリメント「ノビルン」と「ノビルンC」でステマ認定（Web担当者Forum） - Yahoo!ニュース",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "デジタル広告とは SNSや動画サイトで表示、検索連動型からAI前提へ - 日本経済新聞",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "「DocumentOn」、景品表示法の表示規制AI審査機能をアップデート。リスクの高さに応じて重要度判定＆類似処分事例・関連ガイドラインも提示。 - PR TIMES",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "「マンジャロ打ちな？」インフルエンサー発言が炎上…ダイエット目的での“宣伝”は薬機法違反の可能性 “広告モデル”でも法的責任問われる訳…なった。「広告塔」という立場で商品を紹介しただけでも、法的責任は問われるのだろうか。 「一般的な商品やサービスであれば、景品表示法上、広告の内容につい…弁護士JPニュース社会7/1(水) 10:01",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "デジタル広告の戦略から入稿まで。電通デジタル・運用型広告コンサルタントのリアル - 電通デジタル",
-      "date": "2026-07-03"
-    },
-    {
-      "title": "Claudeをかたる攻撃がアジア太平洋地域で多発 偽広告から不正コード実行へ…rendAI Researchは2026年6月17日（現地時間）、Google広告を悪用したClickFix型マルバタイジング攻撃の分析結果を公表した…ITmedia エンタープライズIT総合6/30(火) 14:09",
-      "date": "2026-07-03"
-    },
     {
       "title": "ユーザー行動から考える、自然な広告接点とは｜LINEヤフーとユーザーの接点",
       "date": "2026-07-04"
@@ -1513,99 +1471,41 @@
     {
       "title": "マスク氏の政治団体、中間選挙で1億ドル超投入へ 共和党支援＝報道…けたが、‌アメリカＰＡＣが保守派有権者​の投票を促すため、戸別訪問やデジタル広告、ダ‌イレクトメールによるキャンペーンに「巨額の投資」を行う計画だとす…ロイター北米7/31(金) 8:29",
       "date": "2026-08-02"
+    },
+    {
+      "title": "見込み顧客との接点を広げるには？LINEヤフー広告 ディスプレイ広告活用のポイント",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "広告配信の最適化に役立つ年齢・性別ターゲティング",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "AI, Affiliates, and the New Way People Shop",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "～第１弾として広告・販促物の景品表示法に該当する不当表示リスクに対応～ - 株式会社LegalOn Technologies",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "電車内で見かけた“ビオレママ”の広告→そこに書かれていたのは……「知らんかった」 驚きの事実に「初耳」「これはビビる」…たキャラクター「ビオレママ」の「あけみ」という本名をあらためて伝えるデジタル広告・交通広告を掲出しています。 ●名前を知っていたのはわずか5.4％ …ねとらぼライフ総合8/2(日) 19:00",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "【毎日書評】1日10分の「考える」時間がノイズを消す。古典から学ぶ、思考を澄ませる方法…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合8/3(月) 8:21",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "大谷翔平は値段も代理人も規格外！ 著名タレント＆アスリート「最新CMギャラリスト」を公開…1)も、全盛期のイチロー(52)も及びませんでした」 そう説明した後、広告代理店幹部のA氏は「まさか、不滅に見えたあの記録に10億円もの差をつける怪物…FRIDAYエンタメ総合8/3(月) 8:00",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "不潔ではないのに｢清潔感ゼロ｣…仲人が｢20代でも中高年に見える｣と指摘する婚活女性の髪形…1964年生まれ、株式会社ロックビレッジ取締役。ウエディングに特化した広告代理店を30年以上経営のかたわら、婚活サロンを主宰。世話好き結婚カウンセラー…プレジデントオンラインライフ総合8/2(日) 19:15",
+      "date": "2026-08-03"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "ブログウォッチャーと共同で位置情報データを活用した来店効果分析ソリューション「OmniVisit™」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0702-000333",
-      "summary": "・電通デジタルがブログウォッチャーと共同で来店効果分析ソリューション「OmniVisit」を開発・提供開始\n・デジタル広告接触が実店舗への来店にどれだけ寄与したかを位置情報データで計測・分析可能\n・複数の広告媒体を横断して来店効果を統合的に把握できる点が大きな特徴となっている",
-      "score": 6,
-      "reason": "来店計測ソリューション紹介で効果測定に関連するが汎用的",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "「シニアの『世代』が変化している？ 〜かつて『新人類』と言われた令和のシニア」 ー進化する令和シニアのスマートライフ【第2回】",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-02",
-      "summary": "・団塊世代に代わり1980年代の「新人類」世代が現在60代前半を迎え、シニア像が大きく変化している\n・新人類世代は個性・趣味・消費に積極的でオタク第一世代とも呼ばれ、新文化を柔軟に受容してきた\n・ゆとり〜Z世代の子と「友達親子」的関係を築き、若年層に近い価値観を自然に取り入れている",
-      "score": 4,
-      "reason": "シニア世代の概論で広告運用への直接的示唆は薄い",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "SBIネオメディアホールディングス、電通、電通デジタルが戦略的業務提携",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0601-000325",
-      "summary": "・SBIネオメディアHD、電通、電通デジタルの3社が戦略的業務提携を締結した\n・金融とIP・メディアを融合した「SBIネオメディア生態系」の構築が目的である\n・SBIグループの戦略に基づき新たな事業機会の創出を3社連携で推進していく",
-      "score": 3,
-      "reason": "企業間の業務提携プレスリリース",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Google News",
-      "title": "アテンションは広告評価を変えるか――KDDIなど3社が挑む新たな共通指標の可能性 - 電通報",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Fc182LVdxampnSzBmMElDd210NFNROHJJWGp5WUttLTJBLWEtY0lnaHRXYW5MeUg5Skp2bHVNWC1FOXFIVk45eHdNOA?oc=5",
-      "summary": "・KDDIなど3社が広告の「アテンション」を新たな共通評価指標として確立する取り組みを推進している\n・従来のインプレッションやクリック率に代わり、広告がどれだけ注目されたかを測る指標の重要性が高まっている\n・電通報の記事でアテンション指標が広告効果測定の標準化や業界横断的な活用の可能性を探っている",
-      "score": 7,
-      "reason": "アテンション指標の実証実験、広告効果測定の新指標",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Google News",
-      "title": "消費者庁が高光製薬のサプリメント「ノビルン」と「ノビルンC」でステマ認定（Web担当者Forum） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkVucWR2b0tiYlg4QXI3OVN1Smhud3VLMjh2RS15MGFsblpGX2k2SGV1bEtxY0ZQZkd4RFJFWjFtaENKdmxGMXBCaFhucXBLeVNuamFKS3czanlMU05zRW52QUhEQmtwSllIVXlMdFVSRmNoSXZvYXVCZ2lpRVE?oc=5",
-      "summary": "・消費者庁が高光製薬のサプリ「ノビルン」「ノビルンC」をステルスマーケティングと認定した\n・景品表示法に基づく措置で、広告であることを隠した宣伝行為が問題視された\n・サプリメント業界におけるステマ規制の取り締まり強化が改めて示された事例となった",
-      "score": 6,
-      "reason": "ステマ規制の最新事例、広告表現の法令遵守に有用",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Google News",
-      "title": "デジタル広告とは SNSや動画サイトで表示、検索連動型からAI前提へ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mc1dGTE1hTzVfaEpfVmdtQkVha2l6VDVEcHI3SXJ1X1RKSWlxVFctYWlOanVFRmFWNnZuRExDRWw3ek95SDJ6V1Q4MGFUVXJwV2tCazJHM2dPUVFzMUhkemx6SVZfbUMtaU8tYw?oc=5",
-      "summary": "・デジタル広告はSNSや動画サイト等で表示され、市場規模が拡大し続けている\n・従来主流だった検索連動型広告からAIを前提とした広告手法へ転換が進んでいる\n・AI活用により広告配信の最適化やターゲティング精度の向上が期待されている",
-      "score": 5,
-      "reason": "デジタル広告の概説記事、AI動向の一般知識",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Google News",
-      "title": "「DocumentOn」、景品表示法の表示規制AI審査機能をアップデート。リスクの高さに応じて重要度判定＆類似処分事例・関連ガイドラインも提示。 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc0hFQkV3YktfZHVTdG5STi1mY05HSlY4X2JDWUsyMThRRzBuQ3ZiQVpEem0xUGg5ejU5MnlOMUtwaFBWN1owQ0RhN180ZnRxc2ZHaVhXQ2Q3ZTdCMDU0MnZHM1JCR0xUUmc?oc=5",
-      "summary": "・DocumentOnが景品表示法の表示規制に対応するAI審査機能を大幅アップデートした\n・広告表現のリスクを重要度別に判定し優先的に対応すべき箇所を明確化する機能を追加\n・類似の行政処分事例や関連ガイドラインも自動提示し法令違反リスクの低減を支援する",
-      "score": 5,
-      "reason": "景表法AI審査ツール更新、広告審査業務に参考",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「マンジャロ打ちな？」インフルエンサー発言が炎上…ダイエット目的での“宣伝”は薬機法違反の可能性 “広告モデル”でも法的責任問われる訳…なった。「広告塔」という立場で商品を紹介しただけでも、法的責任は問われるのだろうか。 「一般的な商品やサービスであれば、景品表示法上、広告の内容につい…弁護士JPニュース社会7/1(水) 10:01",
-      "link": "https://news.yahoo.co.jp/articles/44071ba197b09749e9de1788d1ac67573e22219e",
-      "summary": "・インフルエンサーがGLP-1薬「マンジャロ」をダイエット目的で紹介し炎上、薬機法違反の可能性が指摘された\n・処方薬の効能を一般向けに宣伝する行為は薬機法で禁じられており、広告塔の立場でも法的責任を問われ得る\n・景品表示法では広告主が主な責任を負うが、薬機法では広告に関与した者全員が処罰対象となる点が異なる",
-      "score": 5,
-      "reason": "薬機法・景表法違反リスク解説、広告法規知識に有用",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Google News",
-      "title": "デジタル広告の戦略から入稿まで。電通デジタル・運用型広告コンサルタントのリアル - 電通デジタル",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RcUNfdG9EbkU0V1FnRS03WTIxLWtrRm9ONWtEelNNYXRvSW1oa0pseGcyZWVuYkYxWkFQOFl6NjFEa1JFZGNLaE1jNDE1X05pNkQ1ZzRlRWFlU1lpbUY3aDVFWjk1Y05uRnFKbQ?oc=5",
-      "summary": "・電通デジタルの運用型広告コンサルタントが戦略立案から入稿まで一貫して担当する業務実態を紹介\n・広告運用の現場ではデータ分析に基づく戦略設計と細やかな入稿作業の両方が求められる\n・デジタル広告領域で求められるスキルセットやキャリアのリアルな姿を発信している",
-      "score": 4,
-      "reason": "電通デジタルの採用・紹介記事、実務ノウハウ薄い",
-      "date": "2026-07-03"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "Claudeをかたる攻撃がアジア太平洋地域で多発 偽広告から不正コード実行へ…rendAI Researchは2026年6月17日（現地時間）、Google広告を悪用したClickFix型マルバタイジング攻撃の分析結果を公表した…ITmedia エンタープライズIT総合6/30(火) 14:09",
-      "link": "https://news.yahoo.co.jp/articles/8e2c4b348eef3d5be05d90314fec800cbc248691",
-      "summary": "・Trend AI Researchが生成AI「Claude」を装ったGoogle広告悪用のClickFix型マルバタイジング攻撃を報告した\n・偽広告からユーザーを誘導し不正コードを実行させる手口がアジア太平洋地域で多発している\n・正規AIサービスへの信頼を逆手に取る巧妙な攻撃として企業・個人双方に注意が呼びかけられている",
-      "score": 4,
-      "reason": "Google広告悪用の攻撃事例、セキュリティ参考程度",
-      "date": "2026-07-03"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "ユーザー行動から考える、自然な広告接点とは｜LINEヤフーとユーザーの接点",
@@ -4242,6 +4142,78 @@
       "score": 1,
       "reason": "米政治資金の話題で広告運用とは無関係",
       "date": "2026-08-02"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "見込み顧客との接点を広げるには？LINEヤフー広告 ディスプレイ広告活用のポイント",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/marketing/expand-customer-touchpoints/?list=23496",
+      "summary": "・検索広告だけではリーチできない見込み顧客層への接点拡大手法を解説\n・LINEヤフーのディスプレイ広告のメリットや検索広告との違いを紹介\n・ディスプレイ広告活用に適した商品・サービスの特徴についても言及している",
+      "score": 7,
+      "reason": "LINEヤフー ディスプレイ広告の実践的活用解説",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "広告配信の最適化に役立つ年齢・性別ターゲティング",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/ysa_demographic_targeting/?list=23496",
+      "summary": "・LINEヤフーが広告配信の最適化に向けた年齢・性別ターゲティング機能を紹介している\n・法人向けサービスとして最新の活用方法やノウハウを提供し広告効果の向上を支援する\n・ユーザー属性に基づく精密なターゲティングにより広告配信の効率化と最適化を実現する",
+      "score": 7,
+      "reason": "LINEヤフー広告のターゲティング活用ノウハウ",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "AI, Affiliates, and the New Way People Shop",
+      "link": "https://www.facebook.com/business/news/ai-affiliates-new-way-people-shop",
+      "summary": "・MetaのメンデルソンとShopeeのジュウがAIとコンテンツコマースの変革について議論\n・アフィリエイトクリエイターの活用が商品発見体験とデジタルマーケティング成果を大きく向上させている\n・AI技術の進化により消費者の購買行動が変化し、新たなショッピング体験が形成されつつある",
+      "score": 5,
+      "reason": "AI・コマース動向の概論で実務直結度は中程度",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Google News",
+      "title": "～第１弾として広告・販促物の景品表示法に該当する不当表示リスクに対応～ - 株式会社LegalOn Technologies",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1LUWZudWQ3WXRoYzNVSlFsc1BfLWJWQU5iUTRhZEpjYkxlNVpLUU9PUkdvRXd1dkVLcXctSFlCYi1QNFE?oc=5",
+      "summary": "・LegalOn Technologiesが広告・販促物の法的リスクチェック機能を新たに発表した\n・第１弾として景品表示法における不当表示リスクへの対応を開始する\n・AI法務プラットフォームを活用し広告審査業務の効率化と法令遵守を支援する",
+      "score": 4,
+      "reason": "景品表示法対応ツールのプレスリリース",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電車内で見かけた“ビオレママ”の広告→そこに書かれていたのは……「知らんかった」 驚きの事実に「初耳」「これはビビる」…たキャラクター「ビオレママ」の「あけみ」という本名をあらためて伝えるデジタル広告・交通広告を掲出しています。 ●名前を知っていたのはわずか5.4％ …ねとらぼライフ総合8/2(日) 19:00",
+      "link": "https://news.yahoo.co.jp/articles/d1a34f0bea682a2effe0fd47246ae75d817bf55a",
+      "summary": "・花王がビオレの象徴キャラ「ビオレママ」の本名が「あけみ」と伝える交通広告を展開し話題に\n・本名を知っていた人はわずか5.4％という調査結果が判明し驚きの声が続出している\n・電車内のデジタル広告がSNSで拡散され「初耳」「ビビる」など大きな反響を呼んでいる",
+      "score": 2,
+      "reason": "ブランド広告の話題で運用型広告と無関係",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【毎日書評】1日10分の「考える」時間がノイズを消す。古典から学ぶ、思考を澄ませる方法…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合8/3(月) 8:21",
+      "link": "https://news.yahoo.co.jp/articles/e226cdf2324977540a2959cd6116752bf79ad1a4",
+      "summary": "・1日10分の思考時間を設けることで情報過多によるノイズを除去できると提唱\n・古典作品から学ぶ思考法を活用し、頭の中を整理し澄ませる方法を紹介\n・書評家・印南敦史氏がライフハッカーで実践的な思考習慣の書評を執筆",
+      "score": 1,
+      "reason": "書評記事で広告運用と無関係",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷翔平は値段も代理人も規格外！ 著名タレント＆アスリート「最新CMギャラリスト」を公開…1)も、全盛期のイチロー(52)も及びませんでした」 そう説明した後、広告代理店幹部のA氏は「まさか、不滅に見えたあの記録に10億円もの差をつける怪物…FRIDAYエンタメ総合8/3(月) 8:00",
+      "link": "https://news.yahoo.co.jp/articles/624e683124a9c6e5f2cd95d9b37b4ea0300abcaf",
+      "summary": "・大谷翔平のCMギャラが全盛期イチローの記録を10億円上回る規格外の金額に到達した\n・著名タレントやアスリートの最新CMギャラランキングが公開され大谷が圧倒的首位となった\n・代理人の交渉力も異例とされ広告業界関係者が驚きを隠せない状況が報じられている",
+      "score": 1,
+      "reason": "芸能CMギャラの話題で運用実務と無関係",
+      "date": "2026-08-03"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不潔ではないのに｢清潔感ゼロ｣…仲人が｢20代でも中高年に見える｣と指摘する婚活女性の髪形…1964年生まれ、株式会社ロックビレッジ取締役。ウエディングに特化した広告代理店を30年以上経営のかたわら、婚活サロンを主宰。世話好き結婚カウンセラー…プレジデントオンラインライフ総合8/2(日) 19:15",
+      "link": "https://news.yahoo.co.jp/articles/411e84ac7094f1e78dd316abbe0cf162ac7dcdbf",
+      "summary": "・婚活仲人が清潔なのに「清潔感がない」と見なされる女性の髪形問題を指摘している\n・20代でも中高年に見える原因は髪型にあり、婚活での第一印象を大きく左右する\n・ウエディング広告代理店を30年以上経営する専門家が婚活成功への外見改善を提言",
+      "score": 1,
+      "reason": "婚活コラムで広告運用と完全に無関係",
+      "date": "2026-08-03"
     }
   ]
 }
