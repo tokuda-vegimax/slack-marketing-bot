@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0603-000326": "2026-07-05",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taE5sdEVLNGxRNkNvSGR1UzM3ZkdvSFR2QzdjalhOU3YxQmpfeExBODZYWUJHNWJWSG9PZWZ0eUdkS3VZbXp3RHd6MllodDBxeUktX0dwb2RCdGdNS0IxSlRxaWc3UQ?oc=5": "2026-07-05",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd25jMDZXOHJVRGEtSWdLQl93NHFwbEFpb0xTNk9KdDNSRV9jczhZS3pCd295SGdEOVA2TUxUQkx1Yjd3NnM0aF9WbFFQbVcxSWJ0cVhfaW9kdXZvdFJKcHJlQXBKc291Z0NUdmFYZkE2a3FrSzg4dnI5amZxMC14dG9VY3RNUktp?oc=5": "2026-07-05",
-    "https://news.yahoo.co.jp/expert/articles/07b28d0d9ccf70fe73bbcbc09093744c23091e8d": "2026-07-05",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3aFFvTnBRMTQyV0VMWU0taFZjTnJZOHlvYVdCN2pWZ21xQXRoUWNfVnpvTThsT2ZBU25TLWc3Q0pvejBjN0p5MUtqNmozV0VxckozTWFJNjNpYzRQUHNR?oc=5": "2026-07-05",
-    "https://news.yahoo.co.jp/articles/2e02b5680dcb0a2edefe800acc10bd0c76f6fc59": "2026-07-05",
-    "https://news.yahoo.co.jp/articles/13a387c0efe879fea1c0ce400cb273710f884c59": "2026-07-05",
-    "https://news.yahoo.co.jp/articles/ed7241cb96a11f56b4b603c6c29f4d28cb5dc4ed": "2026-07-05",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vajhadWlxZkdZLWJjRldNcnhaR210dkg3Q0xkWEhiWWVSdmZIWTRLUUR0aWplcWVlZ2ZvRzVRR1FSMVpzR3h5M0kyMFltalJCQVFiYkRNcEZ5eDQ?oc=5": "2026-07-05",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWHhjVDkxcExfZTktWVd3dVdab3Zrd25mUC1pRXVGeTN2Rk5iR0JOV0ViOWhPdFVvODNXWUJhaXVWVEpmWlo2YVkxQm4zempFTXNpWDlaWDdaV0JfWjU4MEpKMFZaT19BOFRHbVBNMEw?oc=5": "2026-07-05",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxSFRyRUQ5cENTVS1VVHU0MzU4RWdEeURsd2FlemtZWGJlY0VJMmtHeGhna1VBRXVCbVRFMldneHd6eEU1VVhuYjVEdFJxS2FiYkVBS0VHNzJRMGM1U3k4RGRna2QxNkxC?oc=5": "2026-07-06",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ba0xxSkNWWEg3NUJQY2dhRmNCOUhhUnZGcmJwcXpQcG5wSU41MzdFdW9EUS1qN004czQ3N3AzamZyam4waGtvYUw4Ti1FNV9hd2dnWVNfQmQ?oc=5": "2026-07-06",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jUkdETGl4Yy04WWdtU1FPWEJyTHFidzV4dXotRWZFbDRMb0l4ZTdRR1R2cDMzeU9ndFd2d2l6bkEwUncxa3NrQXpfeGk5b3JTQ3dodm1vV3FwUHljR1NUdVFVVzc1UGF0ZGc?oc=5": "2026-07-06",
@@ -297,49 +287,19 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yc1R1dnpDaUtfUHd2VDl3LXhhbjRDUk5GN1lxc0s4MkRrSDNFcEE1aHRvZk5FWlc3VC1LOEQ4UU1iRUNqVEo4eWVXUGlUR2c5Qlg0d3VRQk44Z3gyNXNxZ3NFSnhOczJNQTZvMDJ2YWw5ODRQQjJWaHJlYw?oc=5": "2026-08-04",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLYU5HLW91REwyYzJOT1I3SHVHaU1OajMteWVTMjNWSDloRktad21PTnJiLXdVX3FfMTZGVGwzcnJ5eHlVY0pRb1FBem9WYWFFMU5TN2Zn?oc=5": "2026-08-04",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SWVoeXB1ajZ5N2xvem1IMjJua2hxdnIxUjAtUC1VVXZRek9EMjRIdnRxOVN5bjEwZFdKM2k1bXhMdElWTTU4YXJ5Wm1ROWRhOGQ0VC1yamRRUUc3NDViM1VHWU5FdjQtN0dUUjRBWi12bGtIRUt4M215SGRTVWc?oc=5": "2026-08-04",
-    "https://news.yahoo.co.jp/articles/5248b3435556bb9b9bfaef78591261e8e603aaef": "2026-08-04"
+    "https://news.yahoo.co.jp/articles/5248b3435556bb9b9bfaef78591261e8e603aaef": "2026-08-04",
+    "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-placement-guidelines/?list=23496": "2026-08-05",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-image-generation": "2026-08-05",
+    "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2": "2026-08-05",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81azV1NklQLThReE83Y0FYVUdLMzdPaXJEUl9KWld0bXBIZEFTZDl0bkZHdnpOdFhyZDB0Nm12OVdEVEMyM3JxVzlYaGczWFl0ZWltUmJHSGhLU1hkdmJ3OXg5b1dVS0U?oc=5": "2026-08-05",
+    "https://news.yahoo.co.jp/articles/cb1aef0723374c968625cddad4752ce3e3ad7ce6": "2026-08-05",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvaWlmZnZuMXhGb2t5SGZSQ1FzckV1eGRDY0ZieFhDQzFDSkUwZkdNMVBOU3UyNUh4Q1RiZ016WDc5U1N3ZnJicU9oVUxkSy1xWXREdFlhTXFMSmxMSTNzTmp4Zk5sblRTSmc?oc=5": "2026-08-05",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MWVOdmRCX1FIX3E5eVlXWjFjU1FpN3BMc0NHNV92cndiY1lrZWltNjBHRC15VnVFT05FVUItZ3ZTQ0s0Vl9sSnFUcGhZazJxV0R4SG9Lakl6aGtMVFJ3?oc=5": "2026-08-05",
+    "https://news.yahoo.co.jp/articles/ff51a0ef7464882d3a740a1e8dfc69f1e2769d26": "2026-08-05",
+    "https://news.yahoo.co.jp/articles/d22b55cb404ca1fa2f8e737180c98aa15eeaff48": "2026-08-05",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOY3owRmhhdGY2MUV3d19mOGY3SlNrdHpFc3NRb3VNOE95NDJzU0FaV3A3VEZPZGlHSHlvaldzTFVjaENxenRCak9faDRHeHh1Rm01ajgzUEREcGZRcm52VDRNeENuaUoycFE?oc=5": "2026-08-05"
   },
   "titles": [
-    {
-      "title": "自然言語による指示でウェブサイトのUIを設計・実装する新手法「HOZO」を開発",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "MetaのAI広告でROAS2割向上 内製「ハイブリッド型」が正解の理由 - 日経クロストレンド",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "メタ、デジタル広告市場で初のグーグル超えへ AIによる運用効率化と短尺動画が成長を牽引（小久保重信） - エキスパート - Yahoo!ニュース",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "メタ、デジタル広告市場で初のグーグル超えへ AIによる運用効率化と短尺動画が成長を牽引…etition）」の構図は、今後のデジタル広告市場の行方を占う大きな焦点となりそうだ。【執筆者コメント】デジタル広告市場にとって、2026年は象徴的な…小久保重信IT総合7/5(日) 0:05",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "消費者庁が高光製薬にステマ処分、「画像転載」対象に新事案 - 通販新聞社",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "『にゃんこ大戦争』はなぜ世界で愛されるのか？「ポノス」がIP戦略とこれまでの歩みを語る【セミナーレポート】…はなく、かなり多角的なメディアプランニングを行っています。 デジタルの運用型広告も展開していますし、デジタルとマス、OOH、さらにはMDとの連動まで含…インサイドゲーム7/4(土) 9:30",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "日本通信販売協会、定時総会を開催 若菜新会長「適正な通販市場つくる」…第2の課題には、特定商取引法改正を見据えた法制度見直しへの主体的な参加を挙げた。消費者庁の検討会にJADMAが委員として参加していることを紹介し、「会員企業の実…日本ネット経済新聞経済総合7/2(木) 13:45",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "キリンビバレッジ 「世界のKitchenから」 おいしい熱中症対策に自信 新商品「ソルティライチソーダ」を加えた3品で対応…ーションとして、店頭での広告掲示のほか、天気アプリや検索サイトなどにデジタル広告を掲出予定。 最盛期の7月には、夏の楽しさを伝えるブランド単体でのサ…食品新聞経済総合7/4(土) 17:34",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "広告業界向けメディア「AD AGENCY」が、「日本の広告代理店ランキング2026」を公開！初代「Ad Agency of the Year 2026」は電通が受賞 - 愛媛新聞",
-      "date": "2026-07-05"
-    },
-    {
-      "title": "CRAVIA---反落、STU48・SKE48人気ゲームイベントにおけるTikTok広告運用業務を受注も 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "date": "2026-07-05"
-    },
     {
       "title": "ジオコードが「Web広告トレンドレポート2026年6月号」を公開 - ニコニコニュース",
       "date": "2026-07-06"
@@ -1503,99 +1463,49 @@
     {
       "title": "【毎日書評】なぜ上司の質問は面倒くさがられるのか。部下が自ら考えて動く対話のコツ…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/4(火) 8:21",
       "date": "2026-08-04"
+    },
+    {
+      "title": "LINEヤフー広告、掲載面の新ガイドラインを公開。UGC基準の強化と違法賭博項目を明確化",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Google 、AI OverviewsにAIによる画像生成機能を実装",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始…ごとに異なる反応傾向を反映した専用モデルを構築。業界特性を加味して「Meta広告」に特化し、高精度にスコアリングした。これによって複数のクリエイティブ…Web担当者ForumIT総合6/2(火) 7:01",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "「SNSでも大人気」はステマ 高光製薬に消費者庁が措置命令 [情報操作] - asahi.com",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "角栓ニュルッ、歯茎グラグラ…“不快な広告”苦情が急増 「マジでやめて」の声も“法規制”難しいワケ【弁護士解説】…識だという。 広告規制が「不当」とするものの本質では、医薬品などの広告で、「気持ち悪い・汚い」と受け止められる表現が薬機法や景品表示法に抵触する可能…弁護士JPニュース社会8/5(水) 10:04",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "株式会社FinT、広告代理店として自社運用する「AIエージェントOS」を企業に導入する新サービス「ジリツAI」を提供開始 - prtimes.jp",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "広告とコンサルの境界線 その「あいだ」で起きていること - AdverTimes.（アドタイ） by 宣伝会議",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "「デザイン業」の倒産が14年ぶり高水準、生成AI普及も影響か──東京商工リサーチ…は、生成AIやデザインソフトの普及に伴う顧客企業の内製化、紙媒体からデジタル広告への移行、ハウスメーカーの倒産増加などが影響したとみている。 東京…ビジネス＋ITIT総合8/4(火) 20:10",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "AI普及でデザイン業の倒産が前年比2.7倍に 「独自性なき企業は淘汰」 東京商工リサーチ…の普及を受け、顧客企業のデザイン業務の内製化が進んだこと。2つ目は、デジタル広告の需要拡大により、紙媒体を主力とする企業が影響を受けたこと。3つ目は、…ITmedia NEWSIT総合8/4(火) 17:12",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "期間限定！TikTok Shopを始めるなら今。one move株式会社、新規導入企業向けに「5万円相当のTikTok Shop誘導施策」無料プレゼントキャンペーンを開始 - prtimes.jp",
+      "date": "2026-08-05"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "自然言語による指示でウェブサイトのUIを設計・実装する新手法「HOZO」を開発",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0603-000326",
-      "summary": "・電通デジタルが自然言語でWebサイトUIを設計・実装する新手法「HOZO」を開発し運用開始\n・AIとの対話を通じてデザインシステムに準拠したUI構築を可能にする仕組み\n・従来のUI設計プロセスを効率化し、専門知識がなくても高品質な実装を実現する狙い",
-      "score": 3,
-      "reason": "企業プレスリリースでUI設計手法、広告運用と直接無関係",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Google News",
-      "title": "MetaのAI広告でROAS2割向上 内製「ハイブリッド型」が正解の理由 - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taE5sdEVLNGxRNkNvSGR1UzM3ZkdvSFR2QzdjalhOU3YxQmpfeExBODZYWUJHNWJWSG9PZWZ0eUdkS3VZbXp3RHd6MllodDBxeUktX0dwb2RCdGdNS0IxSlRxaWc3UQ?oc=5",
-      "summary": "・MetaのAI広告ツール活用により広告主のROASが約2割向上した事例が報告された\n・広告運用を完全外注せず社内体制とAIを組み合わせる「ハイブリッド型」が推奨されている\n・内製化によりデータ蓄積やPDCA高速化が可能となり広告効果の最大化につながる",
-      "score": 9,
-      "reason": "Meta AI広告でROAS向上の実践的運用手法解説",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Google News",
-      "title": "メタ、デジタル広告市場で初のグーグル超えへ AIによる運用効率化と短尺動画が成長を牽引（小久保重信） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd25jMDZXOHJVRGEtSWdLQl93NHFwbEFpb0xTNk9KdDNSRV9jczhZS3pCd295SGdEOVA2TUxUQkx1Yjd3NnM0aF9WbFFQbVcxSWJ0cVhfaW9kdXZvdFJKcHJlQXBKc291Z0NUdmFYZkE2a3FrSzg4dnI5amZxMC14dG9VY3RNUktp?oc=5",
-      "summary": "・メタが2025年のデジタル広告市場でグーグルを初めて上回る見通しとの報道がなされた\n・AI活用による広告運用の効率化が広告主からの支持を集め収益成長を後押ししている\n・リール等の短尺動画フォーマットの急成長がメタの広告収入拡大に大きく貢献している",
-      "score": 6,
-      "reason": "Meta広告市場動向とAI効率化の業界トレンド情報",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "メタ、デジタル広告市場で初のグーグル超えへ AIによる運用効率化と短尺動画が成長を牽引…etition）」の構図は、今後のデジタル広告市場の行方を占う大きな焦点となりそうだ。【執筆者コメント】デジタル広告市場にとって、2026年は象徴的な…小久保重信IT総合7/5(日) 0:05",
-      "link": "https://news.yahoo.co.jp/expert/articles/07b28d0d9ccf70fe73bbcbc09093744c23091e8d",
-      "summary": "・メタが2026年にデジタル広告収入でグーグルを初めて上回る見通しが示された\n・AI活用による広告運用の効率化とリール等の短尺動画が収益成長を牽引している\n・両社の競争激化は今後のデジタル広告市場の勢力図を左右する重要な焦点となる",
-      "score": 6,
-      "reason": "id:0と同一記事、市場動向の参考情報",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Google News",
-      "title": "消費者庁が高光製薬にステマ処分、「画像転載」対象に新事案 - 通販新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3aFFvTnBRMTQyV0VMWU0taFZjTnJZOHlvYVdCN2pWZ21xQXRoUWNfVnpvTThsT2ZBU25TLWc3Q0pvejBjN0p5MUtqNmozV0VxckozTWFJNjNpYzRQUHNR?oc=5",
-      "summary": "・消費者庁が高光製薬に対しステルスマーケティング規制に基づく行政処分を実施した\n・今回の処分では「画像転載」が新たにステマの対象事案として認定された点が注目される\n・広告表示の透明性確保が求められる中、ステマ規制の適用範囲が拡大している",
-      "score": 5,
-      "reason": "ステマ規制の新事案で広告表現の法令遵守に関連",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "『にゃんこ大戦争』はなぜ世界で愛されるのか？「ポノス」がIP戦略とこれまでの歩みを語る【セミナーレポート】…はなく、かなり多角的なメディアプランニングを行っています。 デジタルの運用型広告も展開していますし、デジタルとマス、OOH、さらにはMDとの連動まで含…インサイドゲーム7/4(土) 9:30",
-      "link": "https://news.yahoo.co.jp/articles/2e02b5680dcb0a2edefe800acc10bd0c76f6fc59",
-      "summary": "・ポノスが『にゃんこ大戦争』の世界的人気を支えるIP戦略についてセミナーで解説した\n・デジタル運用型広告からマス・OOH・MD連動まで多角的なメディアプランニングを展開している\n・デジタルとオフライン施策を横断的に組み合わせたプロモーション戦略が成功の鍵となっている",
-      "score": 4,
-      "reason": "ゲームIPのメディアプラン事例だが具体性に乏しい",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "日本通信販売協会、定時総会を開催 若菜新会長「適正な通販市場つくる」…第2の課題には、特定商取引法改正を見据えた法制度見直しへの主体的な参加を挙げた。消費者庁の検討会にJADMAが委員として参加していることを紹介し、「会員企業の実…日本ネット経済新聞経済総合7/2(木) 13:45",
-      "link": "https://news.yahoo.co.jp/articles/13a387c0efe879fea1c0ce400cb273710f884c59",
-      "summary": "・日本通信販売協会が定時総会を開催し若菜氏が新会長に就任、適正な通販市場づくりを方針として掲げた\n・特定商取引法改正を見据え法制度見直しへの主体的参加を第2の課題として提示した\n・消費者庁の検討会にJADMAが委員参加し会員企業の実態を反映する姿勢を示した",
-      "score": 4,
-      "reason": "通販業界の法制度動向で間接的に広告規制に関連",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "キリンビバレッジ 「世界のKitchenから」 おいしい熱中症対策に自信 新商品「ソルティライチソーダ」を加えた3品で対応…ーションとして、店頭での広告掲示のほか、天気アプリや検索サイトなどにデジタル広告を掲出予定。 最盛期の7月には、夏の楽しさを伝えるブランド単体でのサ…食品新聞経済総合7/4(土) 17:34",
-      "link": "https://news.yahoo.co.jp/articles/ed7241cb96a11f56b4b603c6c29f4d28cb5dc4ed",
-      "summary": "・キリンビバレッジ「世界のKitchenから」が新商品ソルティライチソーダを追加し全3品で熱中症対策を訴求\n・店頭広告に加え天気アプリや検索サイトなどデジタル広告を活用したプロモーションを展開予定\n・最盛期の7月には夏の楽しさを訴求するブランド単独キャンペーンを実施し需要獲得を狙う",
-      "score": 3,
-      "reason": "飲料メーカーのプロモーション施策紹介に留まる",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Google News",
-      "title": "広告業界向けメディア「AD AGENCY」が、「日本の広告代理店ランキング2026」を公開！初代「Ad Agency of the Year 2026」は電通が受賞 - 愛媛新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vajhadWlxZkdZLWJjRldNcnhaR210dkg3Q0xkWEhiWWVSdmZIWTRLUUR0aWplcWVlZ2ZvRzVRR1FSMVpzR3h5M0kyMFltalJCQVFiYkRNcEZ5eDQ?oc=5",
-      "summary": "・広告業界メディア「AD AGENCY」が「日本の広告代理店ランキング2026」を新たに公開した\n・初代「Ad Agency of the Year 2026」には電通が選出され受賞した\n・同ランキングは広告代理店を総合的に評価する業界向け指標として注目される",
-      "score": 3,
-      "reason": "広告代理店ランキング発表で実務的有用性は低い",
-      "date": "2026-07-05"
-    },
-    {
-      "source": "Google News",
-      "title": "CRAVIA---反落、STU48・SKE48人気ゲームイベントにおけるTikTok広告運用業務を受注も 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWHhjVDkxcExfZTktWVd3dVdab3Zrd25mUC1pRXVGeTN2Rk5iR0JOV0ViOWhPdFVvODNXWUJhaXVWVEpmWlo2YVkxQm4zempFTXNpWDlaWDdaV0JfWjU4MEpKMFZaT19BOFRHbVBNMEw?oc=5",
-      "summary": "・CRAVIAがSTU48・SKE48の人気ゲームイベント向けTikTok広告運用業務を新たに受注した\n・アイドルグループ関連イベントのSNS広告運用で同社のデジタル広告事業の拡大を示す案件となる\n・好材料の発表にもかかわらず株価は反落し、市場では材料出尽くし感が意識された模様",
-      "score": 3,
-      "reason": "TikTok広告受注の企業IRニュースに過ぎない",
-      "date": "2026-07-05"
-    },
     {
       "source": "Google News",
       "title": "ジオコードが「Web広告トレンドレポート2026年6月号」を公開 - ニコニコニュース",
@@ -4214,6 +4124,96 @@
       "score": 1,
       "reason": "書評記事で広告運用と無関係",
       "date": "2026-08-04"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告、掲載面の新ガイドラインを公開。UGC基準の強化と違法賭博項目を明確化",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-placement-guidelines/?list=23496",
+      "summary": "・LINEヤフー広告が掲載面の新ガイドラインを公開しUGC基準を強化した\n・違法賭博に関する禁止項目を明確化し広告掲載の安全性向上を図る\n・掲載面品質を維持するための管理体制についても具体的に整備された",
+      "score": 7,
+      "reason": "LINEヤフー広告の掲載面ポリシー変更で審査・運用に直接影響",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、AI OverviewsにAIによる画像生成機能を実装",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-image-generation",
+      "summary": "・GoogleがAI OverviewsにNano Banana 2 Liteを統合しAI画像生成機能を新たに実装すると発表\n・テキストプロンプトからカスタム画像をゼロから生成でき独自ビジュアルの作成が可能になる\n・Web検索では見つからないオリジナル画像のニーズに対応し検索体験の拡張を図る",
+      "score": 5,
+      "reason": "検索体験の変化だが広告運用への直接影響は限定的",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始…ごとに異なる反応傾向を反映した専用モデルを構築。業界特性を加味して「Meta広告」に特化し、高精度にスコアリングした。これによって複数のクリエイティブ…Web担当者ForumIT総合6/2(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2",
+      "summary": "・博報堂がMeta広告のクリエイティブ効果を配信前にAIで予測する新機能の提供を開始した\n・業界ごとに異なるユーザー反応傾向を反映した専用モデルを構築し高精度なスコアリングを実現\n・複数クリエイティブの事前比較評価が可能となり広告運用の効率化とコスト削減に貢献する",
+      "score": 8,
+      "reason": "Meta広告クリエイティブのAI予測機能で実務直結",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Google News",
+      "title": "「SNSでも大人気」はステマ 高光製薬に消費者庁が措置命令 [情報操作] - asahi.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81azV1NklQLThReE83Y0FYVUdLMzdPaXJEUl9KWld0bXBIZEFTZDl0bkZHdnpOdFhyZDB0Nm12OVdEVEMyM3JxVzlYaGczWFl0ZWltUmJHSGhLU1hkdmJ3OXg5b1dVS0U?oc=5",
+      "summary": "・消費者庁が高光製薬に対しステルスマーケティングを理由に景品表示法に基づく措置命令を出した\n・SNS上で「大人気」とうたう投稿が広告であることを隠した宣伝行為と認定された\n・2023年10月施行のステマ規制に基づく措置命令で企業の情報発信姿勢が改めて問われている",
+      "score": 6,
+      "reason": "ステマ規制の措置命令事例で広告表現の参考になる",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "角栓ニュルッ、歯茎グラグラ…“不快な広告”苦情が急増 「マジでやめて」の声も“法規制”難しいワケ【弁護士解説】…識だという。 広告規制が「不当」とするものの本質では、医薬品などの広告で、「気持ち悪い・汚い」と受け止められる表現が薬機法や景品表示法に抵触する可能…弁護士JPニュース社会8/5(水) 10:04",
+      "link": "https://news.yahoo.co.jp/articles/cb1aef0723374c968625cddad4752ce3e3ad7ce6",
+      "summary": "・角栓除去や歯茎出血など不快感を煽るネット広告への苦情が急増し社会問題化している\n・薬機法や景品表示法は「不当表示」を規制するが不快さ自体を直接取り締まる法律は存在しない\n・表現の自由との兼ね合いから不快広告の法規制は困難で業界の自主規制に委ねられている状況だ",
+      "score": 5,
+      "reason": "不快広告の法規制動向で表現ガイドラインの参考",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Google News",
+      "title": "株式会社FinT、広告代理店として自社運用する「AIエージェントOS」を企業に導入する新サービス「ジリツAI」を提供開始 - prtimes.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvaWlmZnZuMXhGb2t5SGZSQ1FzckV1eGRDY0ZieFhDQzFDSkUwZkdNMVBOU3UyNUh4Q1RiZ016WDc5U1N3ZnJicU9oVUxkSy1xWXREdFlhTXFMSmxMSTNzTmp4Zk5sblRTSmc?oc=5",
+      "summary": "・株式会社FinTが自社の広告運用で活用する「AIエージェントOS」を外部企業向けに提供する新サービス「ジリツAI」を開始\n・AIエージェントを活用し広告代理店業務の自動化・効率化を支援するソリューションとして展開される\n・自社運用で培ったノウハウを基盤に企業のマーケティング業務へのAI導入を促進する狙い",
+      "score": 5,
+      "reason": "AI広告運用サービスだがプレスリリース寄り",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Google News",
+      "title": "広告とコンサルの境界線 その「あいだ」で起きていること - AdverTimes.（アドタイ） by 宣伝会議",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MWVOdmRCX1FIX3E5eVlXWjFjU1FpN3BMc0NHNV92cndiY1lrZWltNjBHRC15VnVFT05FVUItZ3ZTQ0s0Vl9sSnFUcGhZazJxV0R4SG9Lakl6aGtMVFJ3?oc=5",
+      "summary": "・広告会社とコンサルティング企業の業務領域が重なり合い境界線が曖昧化している現状を分析\n・コンサル企業がクリエイティブ領域に進出し広告会社も上流の経営課題解決に取り組む動きが加速\n・両業界の「あいだ」で新たな競争と協業が生まれ業界構造の再編が進んでいると指摘",
+      "score": 5,
+      "reason": "広告業界構造論で間接的に業界理解に寄与",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「デザイン業」の倒産が14年ぶり高水準、生成AI普及も影響か──東京商工リサーチ…は、生成AIやデザインソフトの普及に伴う顧客企業の内製化、紙媒体からデジタル広告への移行、ハウスメーカーの倒産増加などが影響したとみている。 東京…ビジネス＋ITIT総合8/4(火) 20:10",
+      "link": "https://news.yahoo.co.jp/articles/ff51a0ef7464882d3a740a1e8dfc69f1e2769d26",
+      "summary": "・デザイン業の倒産件数が14年ぶりの高水準を記録したと東京商工リサーチが発表\n・生成AIやデザインソフト普及による顧客企業の内製化が主要因の一つと分析\n・紙媒体からデジタル広告への移行やハウスメーカー倒産増加も業界に打撃を与えた",
+      "score": 4,
+      "reason": "業界動向だが運用実務への直接的示唆は薄い",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI普及でデザイン業の倒産が前年比2.7倍に 「独自性なき企業は淘汰」 東京商工リサーチ…の普及を受け、顧客企業のデザイン業務の内製化が進んだこと。2つ目は、デジタル広告の需要拡大により、紙媒体を主力とする企業が影響を受けたこと。3つ目は、…ITmedia NEWSIT総合8/4(火) 17:12",
+      "link": "https://news.yahoo.co.jp/articles/d22b55cb404ca1fa2f8e737180c98aa15eeaff48",
+      "summary": "・AI普及によりデザイン業の倒産件数が前年比2.7倍に急増と東京商工リサーチが報告\n・顧客企業がAIを活用しデザイン業務を内製化、外注先の受注減少が主要因の一つ\n・デジタル広告の需要拡大で紙媒体主力企業が苦境に立ち独自性のない企業が淘汰傾向",
+      "score": 4,
+      "reason": "デザイン業倒産の背景情報で実務応用性は低い",
+      "date": "2026-08-05"
+    },
+    {
+      "source": "Google News",
+      "title": "期間限定！TikTok Shopを始めるなら今。one move株式会社、新規導入企業向けに「5万円相当のTikTok Shop誘導施策」無料プレゼントキャンペーンを開始 - prtimes.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOY3owRmhhdGY2MUV3d19mOGY3SlNrdHpFc3NRb3VNOE95NDJzU0FaV3A3VEZPZGlHSHlvaldzTFVjaENxenRCak9faDRHeHh1Rm01ajgzUEREcGZRcm52VDRNeENuaUoycFE?oc=5",
+      "summary": "・one move株式会社がTikTok Shop新規導入企業向けに期間限定キャンペーンを開始した\n・5万円相当のTikTok Shop誘導施策を無料で提供し新規参入を支援する内容となっている\n・TikTok Shop市場拡大を背景に早期導入を促進し企業のEC販路拡大を後押しする狙い",
+      "score": 4,
+      "reason": "TikTok Shop導入キャンペーンのプレスリリース",
+      "date": "2026-08-05"
     }
   ]
 }
