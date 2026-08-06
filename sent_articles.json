@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxSFRyRUQ5cENTVS1VVHU0MzU4RWdEeURsd2FlemtZWGJlY0VJMmtHeGhna1VBRXVCbVRFMldneHd6eEU1VVhuYjVEdFJxS2FiYkVBS0VHNzJRMGM1U3k4RGRna2QxNkxC?oc=5": "2026-07-06",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ba0xxSkNWWEg3NUJQY2dhRmNCOUhhUnZGcmJwcXpQcG5wSU41MzdFdW9EUS1qN004czQ3N3AzamZyam4waGtvYUw4Ti1FNV9hd2dnWVNfQmQ?oc=5": "2026-07-06",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jUkdETGl4Yy04WWdtU1FPWEJyTHFidzV4dXotRWZFbDRMb0l4ZTdRR1R2cDMzeU9ndFd2d2l6bkEwUncxa3NrQXpfeGk5b3JTQ3dodm1vV3FwUHljR1NUdVFVVzc1UGF0ZGc?oc=5": "2026-07-06",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RGhzbGpnajJUWjRCaEtaRmlvaVlFOHpwTlhjLVBmbDkxd2xrbTNRUEVTWlpvMWtrbFRvVHZaT2pRa0Y0SFI2N2VzM2JoMkk2bGRjSkpn?oc=5": "2026-07-06",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNHpYVG1SbncyX1FfcHE0b2R0clU1ZHhiR3dqZGQtRGNpb1Z6OHJzYlBHR1NuT29FdHBaUmVCTTRSMFpUVW9rNDY1SXJHQ3c2aWVzVkk4T01Id3NnUlloblkwdkVqbHFuY2dZYlgwWGt1ODRkVVVkaDdKSmNMTEc1UV9BeVFXZk3SAYwBQVVfeXFMTTRjWkVwcHZEZzZ3M002eWktUHZNYlgtQUo4c0o0dVplSy16TWR5Qmxxd3pFdThva1RmRWQ1cEx6NTVpVV9nTUxTbmtBaGN4LVY5MGVOcmxNcVhKNVZtTF9SR1gtb2NpQzRKNTA2VW9Qb01GV0F1VkxnWDVnVkJmVExHVDNQS2Q4UzhBb0Y?oc=5": "2026-07-06",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gb2ktSUZ5ZE45V0g2VVRzSjFNSkVZVzhyLTRJNDRlYldjd19rdjIyMzVzc0hSOHNFTXg5ZVRINlBOblBtMzVySnZpUGpyVGVVay0wag?oc=5": "2026-07-06",
-    "https://news.yahoo.co.jp/articles/ccacc463a42bdd9def8e31fd23063863c898d176": "2026-07-06",
-    "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-07-06",
-    "https://news.yahoo.co.jp/articles/e3a00c1ca7d37297e7ea94ca4c310c2a45ab5575": "2026-07-06",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XSmtJLVlfOHNhTnF3TU1nZmVXVXhVeFNIZGZyVExha1ZyWkpnV0duY3dxMUhPZmFhbVJhZ1E3ZHVJb0tidm9xVmU1ZWhfekttdE9J0gFPQVVfeXFMT09IZFI0QUxIS2kxT2Z0TnpBNm9OLVVDTFVPTDBPVF9Ga1F5TzdxYnJhRlB4X1dhSFI5OFdQVnUzOW9fVWlwVTdlb0lhWXl0UQ?oc=5": "2026-07-06",
     "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496": "2026-07-07",
     "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202605": "2026-07-07",
     "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496": "2026-07-07",
@@ -297,49 +287,19 @@
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MWVOdmRCX1FIX3E5eVlXWjFjU1FpN3BMc0NHNV92cndiY1lrZWltNjBHRC15VnVFT05FVUItZ3ZTQ0s0Vl9sSnFUcGhZazJxV0R4SG9Lakl6aGtMVFJ3?oc=5": "2026-08-05",
     "https://news.yahoo.co.jp/articles/ff51a0ef7464882d3a740a1e8dfc69f1e2769d26": "2026-08-05",
     "https://news.yahoo.co.jp/articles/d22b55cb404ca1fa2f8e737180c98aa15eeaff48": "2026-08-05",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOY3owRmhhdGY2MUV3d19mOGY3SlNrdHpFc3NRb3VNOE95NDJzU0FaV3A3VEZPZGlHSHlvaldzTFVjaENxenRCak9faDRHeHh1Rm01ajgzUEREcGZRcm52VDRNeENuaUoycFE?oc=5": "2026-08-05"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOY3owRmhhdGY2MUV3d19mOGY3SlNrdHpFc3NRb3VNOE95NDJzU0FaV3A3VEZPZGlHSHlvaldzTFVjaENxenRCak9faDRHeHh1Rm01ajgzUEREcGZRcm52VDRNeENuaUoycFE?oc=5": "2026-08-05",
+    "https://dentsudigital.co.jp/news/release/services/2026-0805-000338": "2026-08-06",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKeHNKSjR2M2tTdmZfTy01YjhELU9jTmFEVlZwbnNVTzFmcGh3YVdoWWd4TWVqeElKaU9INkJvZVNsVHFqVE1DalpQMV94SFZnc2k5dlNaUjFNcDBOSExpMVpsbWROdw?oc=5": "2026-08-06",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNzh1aDc3T0Iwc1lJSTYwbGNSYUZOMlZYVlBuQUlBcG9tZEpjR3ZyZHRTMUU2VkszbkRVZnVpTTl4Z0VDZ3lzWUNZWGI4YjI0UkVPakhHdV95VHVUZ01tQlN4eGdSQVJjY1E?oc=5": "2026-08-06",
+    "https://news.yahoo.co.jp/articles/d355399effcc93ac0eba6f3783abc71162c07a57": "2026-08-06",
+    "https://news.yahoo.co.jp/articles/c98896da15de73feb5b5d4e1c4b6f6f20ac739f7": "2026-08-06",
+    "https://news.yahoo.co.jp/articles/1d1a4cd4016f7b0c708911773f5234665f04ba24": "2026-08-06",
+    "https://news.yahoo.co.jp/articles/e35ec786b22f623a05e7a456d7c995af6d73c63e": "2026-08-06",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0N1BSRm1tVFg1dldHVXZReXF6SHZvY05qLVNrRGxMV2lKWjJ6V2pIVzl0enFscXA4TE1xSGRodnFRR09jekRNTNIBTkFVX3lxTE9LUTQzVVlaQW45Z2V5dE5zSHdlN3FsVkxSQ0s4Um1qTGNrb3hmVmxJTEQtckRUSHFjWVI3Vnlkam5XbGVhVkFHb01FZEJ6QQ?oc=5": "2026-08-06",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHUtY0FtWWxjN2pZY0I5b3pXSnBrb0lJYjZpTXhzc19fM3locXUxWGMxa1czZDJtaElGdU5CWWlkWG5CV195dGNJbUd2U1UwNDBkc29GTjJxYkd1dzZDenRwclhFek1oaDlESjVtT0FJMWpJeVc0MG1OX1o4RkZLRkg1NHY5elJPc1pBai1rRWQtWHfSAZgBQVVfeXFMT2dBRlhrajRrNlhFT08zZU0yTTFLZVN6NVJETVduaTNoaWhqakRNVTlqc0d5d0F2NFdVMEhSNWgwamZaYV80RFhvT1pZMURrVFdNRjl6OEplNVZZMmNtcl9hMU5Nb2tGZHdFXy0tc3Z5Q19XR211OXgwb0dFdi1pUEF1UUJ6N05KNGwySzg2ZVhBZUptYmU0dkk?oc=5": "2026-08-06",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91emVHNEhMa3NkTDdJUFJ3TU4ydEU3Sjl3c1NIaDdQWjBKb1FKWVJYU3VaLW1ZYUdwVnE5U080YmhMS1dEdnZ6Y2VrZ05rQjJnUWI4VG9R?oc=5": "2026-08-06"
   },
   "titles": [
-    {
-      "title": "ジオコードが「Web広告トレンドレポート2026年6月号」を公開 - ニコニコニュース",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "ポッドキャストと音声広告の最前線——“耳から届く”デジタルマーケティングの可能性｜デジタルマーケティングの現在地——トップランナーたちの視点【第4回】 - 講談社Cステーション",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "【7/8(水)速報セミナー】世界最大の広告祭『カンヌライオンズ2026』｜OpenAI・Meta・TikTok最新動向を解説 - PR TIMES",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "【海外ニュース】広告費高騰、ドイツ攻略、AI購買、楽天フランスの行方から読む欧州ECの変化 - コマースピック",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "CRAVIA---反落、STU48・SKE48人気ゲームイベントにおけるTikTok広告運用業務を受注も - ｄメニューニュース",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "ＣＲＡＶＩＡ、ＳＴＵ４８・ＳＫＥ４８ゲームイベントのＴｉｋＴｏｋ広告運用を受託 - kabu-ir.com",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "広告は「伝達」から「実践」の場へ。ミツバチの住処になる看板を、ナショナルジオグラフィックが設置…掛けとして機能しているときだ。 これまでにも、ニュージーランド政府がデジタル広告で「人口が10万倍になった」と発表したり、フランスの旅行会社が人気観光…サストモ環境7/3(金) 12:05",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "「耳障りなCM」と酷評された過去、「トリビアの泉」や“虚偽表示”で炎上でも王者「伯方の塩」のシェアが伸び続ける背景…、公正取引委員会から「伯方の塩 焼塩80gビン入り」の商品表示に対して景品表示法に違反する恐れがあると警告を受けてしまう。 そもそも伯方の塩は、創…東洋経済オンライン経済総合7/3(金) 7:00",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "広告代理店OL→キャバ嬢転身 カラオケ動画がSNSで話題・愛泉もか、フィリピンでダイビングライセンス取得…2026年潜りたい海は？【モデルプレスインタビュー】 - モデルプレス",
-      "date": "2026-07-06"
-    },
     {
       "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
       "date": "2026-07-07"
@@ -1503,99 +1463,49 @@
     {
       "title": "期間限定！TikTok Shopを始めるなら今。one move株式会社、新規導入企業向けに「5万円相当のTikTok Shop誘導施策」無料プレゼントキャンペーンを開始 - prtimes.jp",
       "date": "2026-08-05"
+    },
+    {
+      "title": "広告・マーケティング領域の制作・運用プロセスの脱炭素化を支援する「MIRAI STANDARD SWITCH」を提供開始",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Meta広告の自律運用AI「Meteo」が提供開始、導入企業100社を突破 - J-CAST ニュース",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "コンバージョンの「質」を追求して事業成果を最大化する成功報酬型リスティング広告運用サービス『Q-CON』を提供開始 - PR TIMES",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "なぜ経営者は、マーケティング部門の報告に納得できないのか？…業のマーケティング部門が担う業務は、求職者の登録を獲得することです。デジタル広告、TVCM、CRM、SNSマーケティング、インフルエンサーマーケティン…Web担当者ForumIT総合8/5(水) 15:16",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Social Report、AIが投稿データを読み物レポートに自動生成する新機能「AIライター」を提供開始…業」を自動化 InstagramやX（旧Twitter）の運用担当者・広告代理店にとって、月次のSNSレポート作成は「データ収集 → 集計 → グラフ化…Yahoo!ニュース PR［PR］IT総合8/6(木) 10:00",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "クラダシ、制限食の冷凍宅配弁当「Dr.つるかめキッチン」が300万食を突破 手軽さとおいしさが高評価…が監修する冷凍宅配弁当サービスだ。 主にウェブ広告(検索型広告・Meta広告・アフィリエイト)を活用して、認知と顧客獲得につなげてきた。 「糖…日本ネット経済新聞経済総合8/6(木) 9:30",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "カインズのPBビールが1カ月で30万本 3年かけて作った「138円ラガー」の勝算…、大々的な展開を行った。発売前の4月下旬に記者発表会を実施したほか、デジタル広告や自社のSNS、オウンドメディアなど、カインズが持つフルチャネルを駆使…ITmedia ビジネスオンライン経済総合8/6(木) 7:10",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "規制改革推進会議、景表法「不実証広告規制」の見直しを答申🔒 - WEBニッポン消費者新聞",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Meta (META) が広告決済でUSDC対応 再び暗号資産へ踏み出す理由 - simplywall.st",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "リーンマーケティングとジグザグが連携、海外購買データ活用の越境ECグロース支援を開始 - コマースピック",
+      "date": "2026-08-06"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "ジオコードが「Web広告トレンドレポート2026年6月号」を公開 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxSFRyRUQ5cENTVS1VVHU0MzU4RWdEeURsd2FlemtZWGJlY0VJMmtHeGhna1VBRXVCbVRFMldneHd6eEU1VVhuYjVEdFJxS2FiYkVBS0VHNzJRMGM1U3k4RGRna2QxNkxC?oc=5",
-      "summary": "・ジオコードが「Web広告トレンドレポート2026年6月号」を公開し最新動向を発信\n・Web広告業界の最新トレンドや変化をまとめたレポートとしてニコニコニュースで紹介\n・マーケティング担当者向けに広告運用に役立つ情報を定期的に提供する取り組み",
-      "score": 7,
-      "reason": "Web広告トレンドレポートで実務に直結する情報",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Google News",
-      "title": "ポッドキャストと音声広告の最前線——“耳から届く”デジタルマーケティングの可能性｜デジタルマーケティングの現在地——トップランナーたちの視点【第4回】 - 講談社Cステーション",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ba0xxSkNWWEg3NUJQY2dhRmNCOUhhUnZGcmJwcXpQcG5wSU41MzdFdW9EUS1qN004czQ3N3AzamZyam4waGtvYUw4Ti1FNV9hd2dnWVNfQmQ?oc=5",
-      "summary": "・ポッドキャストや音声広告など\"耳から届く\"デジタルマーケティングの最新動向と可能性を特集\n・講談社Cステーション連載の第4回として業界トップランナーの視点から音声領域を深掘り\n・視覚偏重の広告市場において音声メディアが持つ独自の訴求力と今後の成長性を考察",
-      "score": 5,
-      "reason": "音声広告の業界動向紹介で実務Tips少なめ",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Google News",
-      "title": "【7/8(水)速報セミナー】世界最大の広告祭『カンヌライオンズ2026』｜OpenAI・Meta・TikTok最新動向を解説 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jUkdETGl4Yy04WWdtU1FPWEJyTHFidzV4dXotRWZFbDRMb0l4ZTdRR1R2cDMzeU9ndFd2d2l6bkEwUncxa3NrQXpfeGk5b3JTQ3dodm1vV3FwUHljR1NUdVFVVzc1UGF0ZGc?oc=5",
-      "summary": "・7月8日にカンヌライオンズ2026の速報セミナーがオンラインで開催される予定\n・OpenAI・Meta・TikTokなど主要プラットフォームの最新動向を専門家が解説\n・世界最大の広告祭から得られるマーケティングトレンドをいち早く共有する内容",
-      "score": 5,
-      "reason": "カンヌ速報セミナー告知、Meta等の動向に触れる",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Google News",
-      "title": "【海外ニュース】広告費高騰、ドイツ攻略、AI購買、楽天フランスの行方から読む欧州ECの変化 - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RGhzbGpnajJUWjRCaEtaRmlvaVlFOHpwTlhjLVBmbDkxd2xrbTNRUEVTWlpvMWtrbFRvVHZaT2pRa0Y0SFI2N2VzM2JoMkk2bGRjSkpn?oc=5",
-      "summary": "・欧州EC市場で広告費高騰が深刻化し、事業者の収益構造に大きな影響を及ぼしている\n・ドイツ市場の攻略戦略やAI活用による購買体験の変革が欧州ECの新潮流となっている\n・楽天フランスの今後の動向が注目され、欧州EC市場全体の構造変化を象徴している",
-      "score": 5,
-      "reason": "欧州EC広告費動向で業界知見として参考程度",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Google News",
-      "title": "CRAVIA---反落、STU48・SKE48人気ゲームイベントにおけるTikTok広告運用業務を受注も - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNHpYVG1SbncyX1FfcHE0b2R0clU1ZHhiR3dqZGQtRGNpb1Z6OHJzYlBHR1NuT29FdHBaUmVCTTRSMFpUVW9rNDY1SXJHQ3c2aWVzVkk4T01Id3NnUlloblkwdkVqbHFuY2dZYlgwWGt1ODRkVVVkaDdKSmNMTEc1UV9BeVFXZk3SAYwBQVVfeXFMTTRjWkVwcHZEZzZ3M002eWktUHZNYlgtQUo4c0o0dVplSy16TWR5Qmxxd3pFdThva1RmRWQ1cEx6NTVpVV9nTUxTbmtBaGN4LVY5MGVOcmxNcVhKNVZtTF9SR1gtb2NpQzRKNTA2VW9Qb01GV0F1VkxnWDVnVkJmVExHVDNQS2Q4UzhBb0Y?oc=5",
-      "summary": "・CRAVIAはSTU48・SKE48の人気ゲームイベント向けTikTok広告運用業務を新たに受注した\n・アイドルグループ関連イベントのSNS広告運用で事業領域を拡大している\n・受注発表にもかかわらず株価は反落し、好材料の織り込みや利益確定の動きがみられた",
-      "score": 3,
-      "reason": "企業IR・受注報告で実務ノウハウはなし",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Google News",
-      "title": "ＣＲＡＶＩＡ、ＳＴＵ４８・ＳＫＥ４８ゲームイベントのＴｉｋＴｏｋ広告運用を受託 - kabu-ir.com",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gb2ktSUZ5ZE45V0g2VVRzSjFNSkVZVzhyLTRJNDRlYldjd19rdjIyMzVzc0hSOHNFTXg5ZVRINlBOblBtMzVySnZpUGpyVGVVay0wag?oc=5",
-      "summary": "・CRAVIAがSTU48・SKE48関連ゲームイベントのTikTok広告運用を受託した\n・アイドルグループのゲームイベント集客にTikTok広告を活用する取り組みとなる\n・エンタメ×SNS広告領域でのCRAVIAの運用実績拡大が注目される",
-      "score": 3,
-      "reason": "同上、TikTok広告受託のプレスリリース",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "広告は「伝達」から「実践」の場へ。ミツバチの住処になる看板を、ナショナルジオグラフィックが設置…掛けとして機能しているときだ。 これまでにも、ニュージーランド政府がデジタル広告で「人口が10万倍になった」と発表したり、フランスの旅行会社が人気観光…サストモ環境7/3(金) 12:05",
-      "link": "https://news.yahoo.co.jp/articles/ccacc463a42bdd9def8e31fd23063863c898d176",
-      "summary": "・ナショナルジオグラフィックがミツバチの住処として機能する看板広告を設置し話題となっている\n・広告が単なる情報伝達から実際に環境保全へ貢献する「実践の場」へと進化している\n・NZ政府や仏旅行会社など広告自体が社会的仕掛けとなる事例が世界的に増加している",
-      "score": 2,
-      "reason": "クリエイティブ事例だが運用型広告と無関係",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "link": "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e",
-      "summary": "・TikTokが次世代YouTuberの育成プラットフォームとして台頭し始めている\n・2019年が「TikTok広告元年」と位置づけられ企業の広告活用が本格化している\n・先行してTikTok広告を導入した企業事例が注目され早期参入の重要性が指摘された",
-      "score": 2,
-      "reason": "2019年の古い記事でTikTok広告の現状と乖離",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「耳障りなCM」と酷評された過去、「トリビアの泉」や“虚偽表示”で炎上でも王者「伯方の塩」のシェアが伸び続ける背景…、公正取引委員会から「伯方の塩 焼塩80gビン入り」の商品表示に対して景品表示法に違反する恐れがあると警告を受けてしまう。 そもそも伯方の塩は、創…東洋経済オンライン経済総合7/3(金) 7:00",
-      "link": "https://news.yahoo.co.jp/articles/e3a00c1ca7d37297e7ea94ca4c310c2a45ab5575",
-      "summary": "・伯方の塩は「耳障り」と酷評されたCMや虚偽表示問題など複数の炎上を経験してきた\n・公正取引委員会から焼塩商品の表示が景品表示法違反の恐れがあると警告を受けた\n・度重なる逆風にもかかわらず高いブランド認知度を武器に市場シェアを伸ばし続けている",
-      "score": 1,
-      "reason": "食品ブランドの歴史記事で広告運用と無関係",
-      "date": "2026-07-06"
-    },
-    {
-      "source": "Google News",
-      "title": "広告代理店OL→キャバ嬢転身 カラオケ動画がSNSで話題・愛泉もか、フィリピンでダイビングライセンス取得…2026年潜りたい海は？【モデルプレスインタビュー】 - モデルプレス",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XSmtJLVlfOHNhTnF3TU1nZmVXVXhVeFNIZGZyVExha1ZyWkpnV0duY3dxMUhPZmFhbVJhZ1E3ZHVJb0tidm9xVmU1ZWhfekttdE9J0gFPQVVfeXFMT09IZFI0QUxIS2kxT2Z0TnpBNm9OLVVDTFVPTDBPVF9Ga1F5TzdxYnJhRlB4X1dhSFI5OFdQVnUzOW9fVWlwVTdlb0lhWXl0UQ?oc=5",
-      "summary": "・広告代理店OLからキャバ嬢に転身した愛泉もかがカラオケ動画でSNS上で大きな話題を集めている\n・フィリピンでダイビングライセンスを取得し、2026年に潜りたい海についての展望を語った\n・モデルプレスのインタビューで異色の経歴や趣味のダイビングなど多彩な一面を披露した",
-      "score": 1,
-      "reason": "タレント個人記事で広告運用と完全に無関係",
-      "date": "2026-07-06"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
@@ -4214,6 +4124,96 @@
       "score": 4,
       "reason": "TikTok Shop導入キャンペーンのプレスリリース",
       "date": "2026-08-05"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "広告・マーケティング領域の制作・運用プロセスの脱炭素化を支援する「MIRAI STANDARD SWITCH」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0805-000338",
+      "summary": "・電通デジタルが広告・マーケティングの制作・運用プロセスの脱炭素化を支援する新ソリューションを発表\n・「MIRAI STANDARD SWITCH」は脱炭素化を総合的に支援するソリューションパッケージとして提供開始\n・広告領域における環境負荷低減を目的とし制作から運用まで一貫した支援体制を構築する取り組み",
+      "score": 3,
+      "reason": "企業の新サービスリリースで実務への直接影響は薄い",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta広告の自律運用AI「Meteo」が提供開始、導入企業100社を突破 - J-CAST ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKeHNKSjR2M2tTdmZfTy01YjhELU9jTmFEVlZwbnNVTzFmcGh3YVdoWWd4TWVqeElKaU9INkJvZVNsVHFqVE1DalpQMV94SFZnc2k5dlNaUjFNcDBOSExpMVpsbWROdw?oc=5",
+      "summary": "・Meta広告を自律的に運用するAIツール「Meteo」のサービス提供が開始された\n・導入企業数はすでに100社を突破し、広告運用の自動化需要の高さを示す\n・AIによる広告最適化で運用工数の削減と成果向上の両立が期待されている",
+      "score": 8,
+      "reason": "Meta広告AI自律運用ツール、実務に直接影響大",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Google News",
+      "title": "コンバージョンの「質」を追求して事業成果を最大化する成功報酬型リスティング広告運用サービス『Q-CON』を提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNzh1aDc3T0Iwc1lJSTYwbGNSYUZOMlZYVlBuQUlBcG9tZEpjR3ZyZHRTMUU2VkszbkRVZnVpTTl4Z0VDZ3lzWUNZWGI4YjI0UkVPakhHdV95VHVUZ01tQlN4eGdSQVJjY1E?oc=5",
+      "summary": "・成功報酬型リスティング広告運用サービス「Q-CON」が新たに提供開始された\n・コンバージョンの量だけでなく「質」を重視し、事業成果の最大化を目指す設計\n・成功報酬型のため広告主のリスクを抑えつつ、質の高い顧客獲得を実現する仕組み",
+      "score": 7,
+      "reason": "成功報酬型リスティング運用の新サービス紹介",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ経営者は、マーケティング部門の報告に納得できないのか？…業のマーケティング部門が担う業務は、求職者の登録を獲得することです。デジタル広告、TVCM、CRM、SNSマーケティング、インフルエンサーマーケティン…Web担当者ForumIT総合8/5(水) 15:16",
+      "link": "https://news.yahoo.co.jp/articles/d355399effcc93ac0eba6f3783abc71162c07a57",
+      "summary": "・経営者がマーケティング部門の報告に納得できない背景と課題を分析した記事\n・求職者登録の獲得を目的にデジタル広告・TVCM・CRM・SNS等を多角的に展開\n・各施策の成果指標と経営視点のKPIにズレが生じやすい構造的問題を指摘",
+      "score": 6,
+      "reason": "マーケ部門のKPI設計・報告の実務的知見",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Social Report、AIが投稿データを読み物レポートに自動生成する新機能「AIライター」を提供開始…業」を自動化 InstagramやX（旧Twitter）の運用担当者・広告代理店にとって、月次のSNSレポート作成は「データ収集 → 集計 → グラフ化…Yahoo!ニュース PR［PR］IT総合8/6(木) 10:00",
+      "link": "https://news.yahoo.co.jp/articles/c98896da15de73feb5b5d4e1c4b6f6f20ac739f7",
+      "summary": "・Social ReportがSNS投稿データをAIで読み物形式のレポートに自動生成する「AIライター」機能を新たに提供開始\n・InstagramやX運用担当者・広告代理店の月次レポート作成業務であるデータ収集・集計・グラフ化の工程を自動化\n・SNS運用における定型的なレポーティング業務の負担を軽減し、分析や戦略立案への時間確保を支援する",
+      "score": 6,
+      "reason": "SNSレポート自動生成ツールで運用効率化に関連",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クラダシ、制限食の冷凍宅配弁当「Dr.つるかめキッチン」が300万食を突破 手軽さとおいしさが高評価…が監修する冷凍宅配弁当サービスだ。 主にウェブ広告(検索型広告・Meta広告・アフィリエイト)を活用して、認知と顧客獲得につなげてきた。 「糖…日本ネット経済新聞経済総合8/6(木) 9:30",
+      "link": "https://news.yahoo.co.jp/articles/1d1a4cd4016f7b0c708911773f5234665f04ba24",
+      "summary": "・クラダシの冷凍宅配弁当「Dr.つるかめキッチン」が累計300万食を突破し好調に推移\n・医師監修の制限食で糖質制限など対応し手軽さとおいしさが利用者から高評価を獲得\n・検索型広告・Meta広告・アフィリエイトなどウェブ広告を活用し認知拡大と顧客獲得を推進",
+      "score": 6,
+      "reason": "検索広告・Meta広告活用の具体的事例として有用",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カインズのPBビールが1カ月で30万本 3年かけて作った「138円ラガー」の勝算…、大々的な展開を行った。発売前の4月下旬に記者発表会を実施したほか、デジタル広告や自社のSNS、オウンドメディアなど、カインズが持つフルチャネルを駆使…ITmedia ビジネスオンライン経済総合8/6(木) 7:10",
+      "link": "https://news.yahoo.co.jp/articles/e35ec786b22f623a05e7a456d7c995af6d73c63e",
+      "summary": "・カインズのPBビール「138円ラガー」が発売から1カ月で30万本を突破する大ヒットを記録した\n・開発に3年を費やし、低価格ながら品質にこだわったプライベートブランド商品として展開された\n・記者発表会やデジタル広告・SNS・オウンドメディア等フルチャネルを活用したプロモーションが奏功した",
+      "score": 5,
+      "reason": "フルチャネル活用の事例として参考になる",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Google News",
+      "title": "規制改革推進会議、景表法「不実証広告規制」の見直しを答申🔒 - WEBニッポン消費者新聞",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0N1BSRm1tVFg1dldHVXZReXF6SHZvY05qLVNrRGxMV2lKWjJ6V2pIVzl0enFscXA4TE1xSGRodnFRR09jekRNTNIBTkFVX3lxTE9LUTQzVVlaQW45Z2V5dE5zSHdlN3FsVkxSQ0s4Um1qTGNrb3hmVmxJTEQtckRUSHFjWVI3Vnlkam5XbGVhVkFHb01FZEJ6QQ?oc=5",
+      "summary": "・規制改革推進会議が景品表示法の「不実証広告規制」見直しを正式に答申した\n・広告の効果効能に関する合理的根拠の提出手続きや基準が論点とみられる\n・事業者の広告表現と消費者保護のバランスを巡り今後の制度改正に注目が集まる",
+      "score": 5,
+      "reason": "景表法規制見直しは広告表現に影響しうる",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta (META) が広告決済でUSDC対応 再び暗号資産へ踏み出す理由 - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHUtY0FtWWxjN2pZY0I5b3pXSnBrb0lJYjZpTXhzc19fM3locXUxWGMxa1czZDJtaElGdU5CWWlkWG5CV195dGNJbUd2U1UwNDBkc29GTjJxYkd1dzZDenRwclhFek1oaDlESjVtT0FJMWpJeVc0MG1OX1o4RkZLRkg1NHY5elJPc1pBai1rRWQtWHfSAZgBQVVfeXFMT2dBRlhrajRrNlhFT08zZU0yTTFLZVN6NVJETVduaTNoaWhqakRNVTlqc0d5d0F2NFdVMEhSNWgwamZaYV80RFhvT1pZMURrVFdNRjl6OEplNVZZMmNtcl9hMU5Nb2tGZHdFXy0tc3Z5Q19XR211OXgwb0dFdi1pUEF1UUJ6N05KNGwySzg2ZVhBZUptYmU0dkk?oc=5",
+      "summary": "・MetaがUSDC（ステーブルコイン）を広告決済手段として新たに導入し暗号資産分野へ再参入する方針を示した\n・過去にLibra/Diem計画を断念したMetaが決済効率化やグローバル展開を見据え再び暗号資産活用に踏み出した\n・広告主の支払い手段多様化により新興市場や越境取引での広告収益拡大が期待される",
+      "score": 5,
+      "reason": "Meta広告決済の変更だが日本への影響は未知数",
+      "date": "2026-08-06"
+    },
+    {
+      "source": "Google News",
+      "title": "リーンマーケティングとジグザグが連携、海外購買データ活用の越境ECグロース支援を開始 - コマースピック",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91emVHNEhMa3NkTDdJUFJ3TU4ydEU3Sjl3c1NIaDdQWjBKb1FKWVJYU3VaLW1ZYUdwVnE5U080YmhMS1dEdnZ6Y2VrZ05rQjJnUWI4VG9R?oc=5",
+      "summary": "・リーンマーケティングとジグザグが業務提携し越境EC支援サービスを開始した\n・ジグザグが保有する海外購買データを活用しグロース戦略を展開する方針\n・越境ECにおけるデータドリブンなマーケティング支援で事業者の海外展開を後押し",
+      "score": 4,
+      "reason": "越境EC支援の提携で運用型広告との関連は間接的",
+      "date": "2026-08-06"
     }
   ]
 }
