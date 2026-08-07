@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496": "2026-07-07",
-    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202605": "2026-07-07",
-    "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496": "2026-07-07",
-    "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-sns-fan-marketing": "2026-07-07",
-    "https://www.facebook.com/business/news/brandsafety": "2026-07-07",
-    "https://news.yahoo.co.jp/articles/ac57ab3b389fd4c8aaf4a74a28d25d6258ca532e": "2026-07-07",
-    "https://news.yahoo.co.jp/articles/2d42a3795e498d5072ca08a29a05ba1ceee623c3": "2026-07-07",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkVZaFpnalJvR3dMM2ppMkpuUUNid1MweVV5MmpNV3RaTnFQZE9SaHE4UHdIRUNMX3VnTFdIalR4Z09vVGNtZXhNSVQydzZkNEN3YjVWX0E0S2J2WXJoZk9tbHFBLWR4NTFYU0Y0U1liUVprN1pmY0tDSnJSUjVuNlQySTRyOUtUYnVLYQ?oc=5": "2026-07-07",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CalN3TzdxTk9KQTNZaG4yQnpDbzBVWUhxVWwwaW53OTZ2Z0gxaldBeVU0eGUxZ0M2WUhQN0JGVlk4cWd4ekpPNnJqQzNOVnVzYWJIZmo4MUtyQQ?oc=5": "2026-07-07",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iY29tX25iZG9sc05UNzE4ZlZtY2hvcWJlUk1nSUE1Tk45cUtMX29rRTBWYnNGeURoSThmNGZlbmp4ZlVrM0xUUTF2cnJBcDVfMElHNjJnMmp0Yzg?oc=5": "2026-07-07",
     "https://www.facebook.com/business/news/muse-image-for-businesses": "2026-07-08",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuQ2hhc1VsTXRDNXZiOFdQQ1dkWnJPaXlOZ0w2TzRXb0J1NTVTVVNLYnRmaDZ1aWVfMUcyeXB6OWI1R3BVeHFiTF9ydU9zN0pOc1BtYTdKWFRvMGNBZkNBYjNUUGppb0ZfX09B?oc=5": "2026-07-08",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhcTloN0dQLWtvcXAtbG1NUDM0Q1phUnFQQTJhMmpyNHVybXFOTy1DZHp3eWVkaWlIVnFxQ0xSNW9FY3pKcWZoSWN0MA?oc=5": "2026-07-08",
@@ -297,49 +287,16 @@
     "https://news.yahoo.co.jp/articles/e35ec786b22f623a05e7a456d7c995af6d73c63e": "2026-08-06",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0N1BSRm1tVFg1dldHVXZReXF6SHZvY05qLVNrRGxMV2lKWjJ6V2pIVzl0enFscXA4TE1xSGRodnFRR09jekRNTNIBTkFVX3lxTE9LUTQzVVlaQW45Z2V5dE5zSHdlN3FsVkxSQ0s4Um1qTGNrb3hmVmxJTEQtckRUSHFjWVI3Vnlkam5XbGVhVkFHb01FZEJ6QQ?oc=5": "2026-08-06",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHUtY0FtWWxjN2pZY0I5b3pXSnBrb0lJYjZpTXhzc19fM3locXUxWGMxa1czZDJtaElGdU5CWWlkWG5CV195dGNJbUd2U1UwNDBkc29GTjJxYkd1dzZDenRwclhFek1oaDlESjVtT0FJMWpJeVc0MG1OX1o4RkZLRkg1NHY5elJPc1pBai1rRWQtWHfSAZgBQVVfeXFMT2dBRlhrajRrNlhFT08zZU0yTTFLZVN6NVJETVduaTNoaWhqakRNVTlqc0d5d0F2NFdVMEhSNWgwamZaYV80RFhvT1pZMURrVFdNRjl6OEplNVZZMmNtcl9hMU5Nb2tGZHdFXy0tc3Z5Q19XR211OXgwb0dFdi1pUEF1UUJ6N05KNGwySzg2ZVhBZUptYmU0dkk?oc=5": "2026-08-06",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91emVHNEhMa3NkTDdJUFJ3TU4ydEU3Sjl3c1NIaDdQWjBKb1FKWVJYU3VaLW1ZYUdwVnE5U080YmhMS1dEdnZ6Y2VrZ05rQjJnUWI4VG9R?oc=5": "2026-08-06"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91emVHNEhMa3NkTDdJUFJ3TU4ydEU3Sjl3c1NIaDdQWjBKb1FKWVJYU3VaLW1ZYUdwVnE5U080YmhMS1dEdnZ6Y2VrZ05rQjJnUWI4VG9R?oc=5": "2026-08-06",
+    "https://oneder.hakuhodody-one.co.jp/blog/line-cancel-sending": "2026-08-07",
+    "https://news.yahoo.co.jp/articles/452288925c928cc546d6296eae36c656210e22aa": "2026-08-07",
+    "https://news.yahoo.co.jp/articles/1f56528ef85d14e95e4a65d5a35ed06d44cf5508": "2026-08-07",
+    "https://news.yahoo.co.jp/articles/2dd9f9e6932b8c162f0b2e65ef4b826ae54c3dca": "2026-08-07",
+    "https://news.yahoo.co.jp/articles/c1fe9e8d94da77d491058a67a9234994d8869da2": "2026-08-07",
+    "https://news.yahoo.co.jp/articles/3775fd867de160cbfc70bcb68cc5990541f9df3f": "2026-08-07",
+    "https://news.yahoo.co.jp/articles/5bffd682de6b7fe33fd8f37e49b6fe8d6dfacc32": "2026-08-07"
   },
   "titles": [
-    {
-      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年5月）",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "SNS施策は設計が鍵。ファンと一緒に盛り上げる、「界隈理解」に根ざしたSNSプロモーションとは？",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "Threads Brand Safety",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "東急沿線で屋外広告の効果測定 3社が共同サービス…が確認された。OOH広告はブランドとの接触機会として評価される一方、デジタル広告のように直接的なコンバージョン計測が難しく「実際の購買にどれだけ寄与し…食品新聞経済総合7/6(月) 18:36",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "「オレオレ詐欺」超えの被害額 「SNS投資詐欺」の闇と、被害額を30分の1に激減させた台湾の”逆転策”…在もなくならない実態がある。 （3）日本の法制度の限界 詐欺広告の取り締まりは消費者庁や総務省など複数の省庁にまたがっており、現状の法体系ではどこも…ITmedia ビジネスオンライン経済総合7/7(火) 7:40",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "期間から品質まで、デジタル広告の新たなトレンド。 - Vietnam.vn",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "業界動向―消費者庁取消訴訟で敗訴確定―景表法の退潮露わに - 国際商業オンライン",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "“広告代理店勤務”イケメンが酒に酔った勢いで人気TikTokerを突き放す「マジでどっちでもいいよ」 - オリコンニュース",
-      "date": "2026-07-07"
-    },
     {
       "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
       "date": "2026-07-08"
@@ -1503,99 +1460,41 @@
     {
       "title": "リーンマーケティングとジグザグが連携、海外購買データ活用の越境ECグロース支援を開始 - コマースピック",
       "date": "2026-08-06"
+    },
+    {
+      "title": "LINE公式アカウントの送信取り消し方法 チャットの条件と対処法",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "写真加工アプリでステマ 「SNOW」運営会社に措置命令 消費者庁…宣伝を巡り、インフルエンサーらに依頼したSNSの投稿が広告と分からない内容だったとして、消費者庁は6日、景品表示法違反（その他の不当表示）で、アプリを…時事通信社会8/6(木) 18:49",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "0:35画像加工アプリ「SNOW」景品表示法違反の措置命令…スマホの画像加工アプリ「SNOW」の運営会社に景品表示法違反の措置命令です。 消費者庁によりますと、アプリの運営会社はSNOWで加工した写真をインフルエンサー…テレビ朝日系（ANN）経済総合8/6(木) 18:01",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "アプリのステマで措置命令 写真加工「SNOW」運営 消費者庁は6日、スマートフォンアプリの広告と明示せずに交流サイト（SNS）でインフルエンサーに宣伝させたのは、景品表示法が禁じるステルスマーケティ…共同通信社会8/6(木) 17:54",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "0:35画像加工アプリ「SNOW」景品表示法違反の措置命令…いうことです。 これが宣伝であると気付かれない広告手法、いわゆる「ステマ」に該当するため、景品表示法違反にあたるということです。 運営会社は「再発…テレビ朝日系（ANN）経済総合8/6(木) 18:01",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "松村北斗（SixTONES）×今田美桜、W主演映画『白鳥とコウモリ』新たな場面写真＆コメントも到着…したはずの事件の真相に迫る本作。 松村北斗が演じる倉木和真は、都内の広告代理店で活躍する青年であるが、父が起こした殺人事件によって環境が一変してしま…Billboard JAPAN音楽8/7(金) 10:50",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "「ユニフォームは球団の歴史を身にまとうもの」日本唯一の\"野球意匠学研究者\"が語る日米の「意識の違い」＜SLUGGER＞…ザインを担当したことを言えなかったそうです。アストロズから注文を受けた広告代理店に勤める商業デザイナーだったそうなんですが、守秘義務というのではなくて…THE DIGEST野球8/7(金) 8:31",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "【毎日書評】1日4回のコーヒータイムが成果を生む。フランス流「休むように働く」技術…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/7(金) 8:11",
+      "date": "2026-08-07"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496",
-      "summary": "・2026年4～6月に実施されたLINEヤフー広告の主要アップデートをまとめた記事\n・検索広告における新機能や仕様変更点について解説している\n・ディスプレイ広告の新機能や変更点も併せて紹介されている",
-      "score": 9,
-      "reason": "主要プラットフォームの四半期アップデート総まとめで即実務に直結",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年5月）",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202605",
-      "summary": "・ChatGPTが国内AI検索エンジンシェア約66%を獲得し前月比7.3pt増と成長を加速させている\n・Geminiは前月比4.24pt減少しChatGPTとの差が拡大する厳しい状況が続いている\n・2026年5月時点でAI検索市場はChatGPT一強の構図がより鮮明になりつつある",
-      "score": 6,
-      "reason": "AI検索シェア動向は検索広告の出稿判断に参考になる",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
-      "link": "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496",
-      "summary": "・生成AI活用が広がる広告現場でアンコンシャス・バイアスの再生産リスクが指摘されている\n・対策としてDE&I（多様性・公平性・包括性）の視点を取り入れる重要性が高まっている\n・多様な受け手に配慮したクリエイティブ制作の具体的なポイントや注意点を解説している",
-      "score": 5,
-      "reason": "クリエイティブ制作の視点だが運用実務への直接影響は限定的",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "SNS施策は設計が鍵。ファンと一緒に盛り上げる、「界隈理解」に根ざしたSNSプロモーションとは？",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-sns-fan-marketing",
-      "summary": "・Hakuhodo DY ONEがSNS施策の設計についてプロ視点で解説している\n・SNSプロモーションは事前の全体設計が不可欠で「とりあえず並走」では手遅れになる\n・ファンの「界隈理解」に根ざし共に盛り上げる総合的プロモーション戦略を提唱",
-      "score": 5,
-      "reason": "SNSプロモーション戦略の知見で広告運用とは間接的な関係",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Meta for Business",
-      "title": "Threads Brand Safety",
-      "link": "https://www.facebook.com/business/news/brandsafety",
-      "summary": "・Threadsフィードにサードパーティ製コンテンツブロックリスト機能が新たに導入された\n・ブランドセーフティパートナーとしてChannel FactoryとProtected by Mediaoceanと提携開始\n・広告主が不適切なコンテンツの隣に広告表示されるリスクを軽減し安全性を強化する狙い",
-      "score": 8,
-      "reason": "Threads広告のブランドセーフティ新機能発表",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "東急沿線で屋外広告の効果測定 3社が共同サービス…が確認された。OOH広告はブランドとの接触機会として評価される一方、デジタル広告のように直接的なコンバージョン計測が難しく「実際の購買にどれだけ寄与し…食品新聞経済総合7/6(月) 18:36",
-      "link": "https://news.yahoo.co.jp/articles/ac57ab3b389fd4c8aaf4a74a28d25d6258ca532e",
-      "summary": "・東急沿線エリアで屋外広告（OOH）の効果測定を行う共同サービスを3社が開始した\n・OOH広告はブランド接触機会として有効だが直接的なコンバージョン計測が困難とされてきた\n・デジタル広告と異なり購買寄与の可視化が課題であり新たな測定手法の確立を目指す",
-      "score": 6,
-      "reason": "OOH広告の効果測定は広告計測知見として参考になる",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「オレオレ詐欺」超えの被害額 「SNS投資詐欺」の闇と、被害額を30分の1に激減させた台湾の”逆転策”…在もなくならない実態がある。 （3）日本の法制度の限界 詐欺広告の取り締まりは消費者庁や総務省など複数の省庁にまたがっており、現状の法体系ではどこも…ITmedia ビジネスオンライン経済総合7/7(火) 7:40",
-      "link": "https://news.yahoo.co.jp/articles/2d42a3795e498d5072ca08a29a05ba1ceee623c3",
-      "summary": "・SNS投資詐欺の被害額がオレオレ詐欺を超え深刻化し、日本では法整備や省庁間連携の遅れが課題となっている\n・台湾では独自の対策を講じてSNS投資詐欺の被害額を約30分の1に激減させる成果を上げている\n・日本は詐欺広告の取り締まりが複数省庁にまたがり、法制度の縦割りが迅速な対応を阻んでいる",
-      "score": 5,
-      "reason": "SNS詐欺広告規制動向は広告業界全体に影響しうる",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Google News",
-      "title": "期間から品質まで、デジタル広告の新たなトレンド。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkVZaFpnalJvR3dMM2ppMkpuUUNid1MweVV5MmpNV3RaTnFQZE9SaHE4UHdIRUNMX3VnTFdIalR4Z09vVGNtZXhNSVQydzZkNEN3YjVWX0E0S2J2WXJoZk9tbHFBLWR4NTFYU0Y0U1liUVprN1pmY0tDSnJSUjVuNlQySTRyOUtUYnVLYQ?oc=5",
-      "summary": "・デジタル広告業界では広告の掲載期間重視から品質重視へとトレンドが移行している\n・広告の量や露出回数よりもコンテンツの質やユーザー体験が重要視され始めている\n・ベトナム市場でも品質志向の広告戦略が今後の競争力を左右する鍵となっている",
-      "score": 4,
-      "reason": "ベトナム発の一般的トレンド記事で実務応用性低い",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Google News",
-      "title": "業界動向―消費者庁取消訴訟で敗訴確定―景表法の退潮露わに - 国際商業オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CalN3TzdxTk9KQTNZaG4yQnpDbzBVWUhxVWwwaW53OTZ2Z0gxaldBeVU0eGUxZ0M2WUhQN0JGVlk4cWd4ekpPNnJqQzNOVnVzYWJIZmo4MUtyQQ?oc=5",
-      "summary": "・消費者庁が景品表示法に基づく処分の取消訴訟で敗訴が確定した\n・この判決は景表法の執行力や抑止力の低下を象徴する事例として注目される\n・広告表示規制の実効性が問われ、今後の法運用や改正議論に影響を及ぼす可能性がある",
-      "score": 4,
-      "reason": "景表法動向は広告表現規制に間接的に関連",
-      "date": "2026-07-07"
-    },
-    {
-      "source": "Google News",
-      "title": "“広告代理店勤務”イケメンが酒に酔った勢いで人気TikTokerを突き放す「マジでどっちでもいいよ」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iY29tX25iZG9sc05UNzE4ZlZtY2hvcWJlUk1nSUE1Tk45cUtMX29rRTBWYnNGeURoSThmNGZlbmp4ZlVrM0xUUTF2cnJBcDVfMElHNjJnMmp0Yzg?oc=5",
-      "summary": "・広告代理店勤務のイケメン男性が酒に酔った勢いで人気TikTokerに冷たい態度を取る場面が話題に\n・「マジでどっちでもいいよ」と突き放す発言が視聴者の間で大きな反響を呼んでいる\n・恋愛リアリティ番組などでの一幕とみられ、オリコンニュースが取り上げ注目を集めている",
-      "score": 1,
-      "reason": "エンタメ番組紹介で広告運用と無関係",
-      "date": "2026-07-07"
-    },
     {
       "source": "Meta for Business",
       "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
@@ -4214,6 +4113,78 @@
       "score": 4,
       "reason": "越境EC支援の提携で運用型広告との関連は間接的",
       "date": "2026-08-06"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "LINE公式アカウントの送信取り消し方法 チャットの条件と対処法",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/line-cancel-sending",
+      "summary": "・LINE公式アカウントの送信メッセージは全てのケースで取り消しできるわけではない\n・チャット機能での個別メッセージには取り消し条件があり事前確認が重要である\n・誤送信を防ぐため送信前の内容確認や運用ルール整備などの対処法が求められる",
+      "score": 3,
+      "reason": "広告運用でなくLINE運用の基本Tips",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "写真加工アプリでステマ 「SNOW」運営会社に措置命令 消費者庁…宣伝を巡り、インフルエンサーらに依頼したSNSの投稿が広告と分からない内容だったとして、消費者庁は6日、景品表示法違反（その他の不当表示）で、アプリを…時事通信社会8/6(木) 18:49",
+      "link": "https://news.yahoo.co.jp/articles/452288925c928cc546d6296eae36c656210e22aa",
+      "summary": "・写真加工アプリ「SNOW」運営会社がインフルエンサーに広告と明示せずSNS投稿を依頼しステマを実施\n・消費者庁は景品表示法違反（不当表示）として運営会社に対し措置命令を発出した\n・SNS上の投稿が広告であると消費者が判別できない内容だったことが問題視された",
+      "score": 5,
+      "reason": "ステマ規制の措置命令事例で広告表記の実務参考",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "0:35画像加工アプリ「SNOW」景品表示法違反の措置命令…スマホの画像加工アプリ「SNOW」の運営会社に景品表示法違反の措置命令です。 消費者庁によりますと、アプリの運営会社はSNOWで加工した写真をインフルエンサー…テレビ朝日系（ANN）経済総合8/6(木) 18:01",
+      "link": "https://news.yahoo.co.jp/articles/1f56528ef85d14e95e4a65d5a35ed06d44cf5508",
+      "summary": "・画像加工アプリ「SNOW」の運営会社が景品表示法違反で消費者庁から措置命令を受けた\n・インフルエンサーを使った加工写真の広告手法が問題視された可能性がある\n・消費者庁が不当表示と判断し是正を求めたが、記事の詳細内容は未公開である",
+      "score": 5,
+      "reason": "ステマ規制事例、広告表示義務の実務参考になる",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アプリのステマで措置命令 写真加工「SNOW」運営 消費者庁は6日、スマートフォンアプリの広告と明示せずに交流サイト（SNS）でインフルエンサーに宣伝させたのは、景品表示法が禁じるステルスマーケティ…共同通信社会8/6(木) 17:54",
+      "link": "https://news.yahoo.co.jp/articles/2dd9f9e6932b8c162f0b2e65ef4b826ae54c3dca",
+      "summary": "・消費者庁が写真加工アプリ「SNOW」運営会社にステマで措置命令を出した\n・インフルエンサーにSNSで広告明示なく宣伝させた行為が景品表示法違反と認定\n・ステルスマーケティング規制に基づく措置命令としてアプリ業界への警鐘となる事例",
+      "score": 5,
+      "reason": "同一ステマ措置命令の別報道、景表法知識に有用",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "0:35画像加工アプリ「SNOW」景品表示法違反の措置命令…いうことです。 これが宣伝であると気付かれない広告手法、いわゆる「ステマ」に該当するため、景品表示法違反にあたるということです。 運営会社は「再発…テレビ朝日系（ANN）経済総合8/6(木) 18:01",
+      "link": "https://news.yahoo.co.jp/articles/1f56528ef85d14e95e4a65d5a35ed06d44cf5508",
+      "summary": "・画像加工アプリ「SNOW」がステルスマーケティングで景品表示法違反の措置命令を受けた\n・宣伝と気付かれない広告手法「ステマ」に該当し消費者庁が問題視した\n・運営会社は再発防止を表明し今後の対応を進める方針を示した",
+      "score": 5,
+      "reason": "同一ステマ事案の続報、広告表記運用の注意喚起",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松村北斗（SixTONES）×今田美桜、W主演映画『白鳥とコウモリ』新たな場面写真＆コメントも到着…したはずの事件の真相に迫る本作。 松村北斗が演じる倉木和真は、都内の広告代理店で活躍する青年であるが、父が起こした殺人事件によって環境が一変してしま…Billboard JAPAN音楽8/7(金) 10:50",
+      "link": "https://news.yahoo.co.jp/articles/c1fe9e8d94da77d491058a67a9234994d8869da2",
+      "summary": "・松村北斗と今田美桜がW主演する映画『白鳥とコウモリ』の新場面写真とコメントが公開された\n・松村演じる倉木和真は広告代理店勤務の青年で、父の殺人事件により生活が一変する役柄\n・本作は\"解決したはずの事件\"の真相に迫るミステリー作品として注目を集めている",
+      "score": 1,
+      "reason": "映画紹介記事で広告運用と無関係",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ユニフォームは球団の歴史を身にまとうもの」日本唯一の\"野球意匠学研究者\"が語る日米の「意識の違い」＜SLUGGER＞…ザインを担当したことを言えなかったそうです。アストロズから注文を受けた広告代理店に勤める商業デザイナーだったそうなんですが、守秘義務というのではなくて…THE DIGEST野球8/7(金) 8:31",
+      "link": "https://news.yahoo.co.jp/articles/3775fd867de160cbfc70bcb68cc5990541f9df3f",
+      "summary": "・日本唯一の野球意匠学研究者がユニフォームデザインの日米間の意識差について語った\n・アストロズのデザインを担当した商業デザイナーは長年その事実を公表できなかったという\n・ユニフォームは球団の歴史や文化を体現するものであり深い意匠的意義があると指摘した",
+      "score": 1,
+      "reason": "野球ユニフォームデザインの話題で無関係",
+      "date": "2026-08-07"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【毎日書評】1日4回のコーヒータイムが成果を生む。フランス流「休むように働く」技術…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/7(金) 8:11",
+      "link": "https://news.yahoo.co.jp/articles/5bffd682de6b7fe33fd8f37e49b6fe8d6dfacc32",
+      "summary": "・フランス流の働き方として1日4回のコーヒータイムを設け意図的に休息を取る手法を紹介\n・「休むように働く」技術により集中力と生産性を高め成果につなげる考え方を解説\n・書評家・印南敦史氏がライフハッカーにて同書の実践的な働き方メソッドを書評で紹介",
+      "score": 1,
+      "reason": "書評・働き方の記事で広告運用と無関係",
+      "date": "2026-08-07"
     }
   ]
 }
