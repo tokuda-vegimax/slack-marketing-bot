@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oM3NyWml3UWFsMGMtd1F1RE5fSTUtVDVSNmhvbml3ZUNoMXRRTG1ISVpEMnh2aFEydUZlYm5tSFo0NWtNSDZ6NzVrUzN3TzZaZnB6X016NHdjVXFpZVlOSEdDLV8zMXBrUEhpcUx4Y0s4SVJB?oc=5": "2026-07-11",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5": "2026-07-11",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE0tVFJvRGU4ZHpXbmVwWkV0cnRROXkzMzZ0cl9ONko4LUdoSVdWR0d1X0N2cllFMmN5UjZMWVdpZTNEYS1XTHRmbGFibWxMSUhDdVh0Y25XMzlGZ2t0d0hGQ3N2MTZyWHpkQ2EySGIwQkxtZw?oc=5": "2026-07-11",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fT2VqOTJWa3BTb3dPNXVkQ0Z4Vy0xNFBzVllWbWEyS0RCX3QydkdBX3JNelljVTFyTzZmTVVIZnFzUkJ2VXJ2Q3l4TFBkcUotbUdsOGlId3VsSmJ5VldScGNTang1a1NlVGdPbXc1UnpfM1lTMDRUM29BQ3NuRlU?oc=5": "2026-07-11",
-    "https://news.yahoo.co.jp/articles/74d2a19b777318e9a42ff53fd926f3602a72c311": "2026-07-11",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OExxSmExeVZzclVYSW9NVHpJcTBKRlNZOFpxNzZ6bVYzdEJfQlJLcjUzMmRCd0VXT2M4LUs4YndISmNKZDYybDh3?oc=5": "2026-07-11",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KaUlYOGJpNVUtTUVkdGFEQVhRa2x6cmdWT1VwU1JLY1U1UHBzU0ZkVWtGRmZ1bEtSTlpOT01lZkJfOWJEMm50QTVEQ3VNdDdJdi1WUllaZVdfRE9ObFlGNlNtdHptVTFYMVJuYmFJVERiUGNrZmNKV3pDYw?oc=5": "2026-07-11",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTDItZG53MTdSV0ZCamVGcFpJa3FiRnJGUVNSeVZ0VFBDNzNTeDhjMkVaRHJjdUczT04tRFZpdTdtb3lxSHdQcFpQZHpnUERDTHBKR1Q0cTZCN09IaEJiVDFBRmVzYlVPTDg5TVJNc1BOaGR5NlROYkhKTFVYcm1KTTFFSFVTNEg5WDFtQ2VXMUVTRnRvZkxJZ25zR2Y4NTNKdGxOLUsxYmlxRnNMQnVOc0tNZDBaT2w1cld3UExNX29KbWYzZ3d1alVkb29BajIzSVJGUUJGRWsyNmVp?oc=5": "2026-07-11",
-    "https://news.yahoo.co.jp/articles/d37c3dc4db5ac33d4bff113d1db592ee41653d2f": "2026-07-11",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/line-placement/?list=23496": "2026-07-12",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhc0ZMWThCSDlHbmVneTVxeXpBMjVib0V4SzBBb1hCc2FRWjY1Rkoyd0pBbTU3YWs5Y3VCX1ZBMHZ1VTlNLUN4WHhpVi12aE9PSEJPMS1zQ3NLb3hIcktVSkZ1bzlKWXV2NXV2dTZIODhzM0tq?oc=5": "2026-07-12",
     "https://news.yahoo.co.jp/articles/8c629e21865d7a4ae3a68ae1f958405ba50f311c": "2026-07-12",
@@ -291,49 +282,19 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oVFd6d0pKbERudGFEV2NHQVVqcThmY2hhX3FIdHpXX3R0T0phNVVHc1FlOVhpMzA0VFNmRnNHb1B4eEp4Z2ZsaFNubmtFeXZpRE1FT1dpRUpGRTdqTEE?oc=5": "2026-08-10",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82aHJfd09xcEQxcGhmSnZPYjRFbTd6elhuSWJydE9lUWk2QUxfLXlSRnB0UVVZNXI2ZkhaT2gwWFlGaXFrLXBPQTloSGNhMThzel9XU3NmMElZMjFQTXdJSXowYjQ?oc=5": "2026-08-10",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yek9acGxrbnhLVkdWT2NYNW4tMTZvdVRhaVhEeEVUR1EtV0VwNGtBaE1qQUFkaUZvdkVURFlBMmd3U2hKa1lyR3dSR0dnZm1EYk5yUTVtTmFZQ2ttUThscVVIT0R4YjZQcXd0NlNZMWFQMmNNTUtsVllOYmgyNWM?oc=5": "2026-08-10",
-    "https://news.yahoo.co.jp/articles/4e5319d31847b39aa41208b15c1e553adbfc7ad6": "2026-08-10"
+    "https://news.yahoo.co.jp/articles/4e5319d31847b39aa41208b15c1e553adbfc7ad6": "2026-08-10",
+    "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/": "2026-08-11",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UUFsOEdFU3c4alRNRjlRVGhUOTd0RjVDMnQ3a1VGZ2VNdWpuTlp2MGZFMzB2SVl3YU04UmRPeldzeFB4MVdxM1ppZ1RoZks4elJidWd0bw?oc=5": "2026-08-11",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QbU1SbGlPX3dXb1RzSmZIWmhRRk9yUFBPT24zT2dvWlhvZXBrYzBkQXE1WkZqZDROamRzR2ZyNjZlNFpQb2p6aGNLNjRhTGRmYUdMMnJ1MWY4UQ?oc=5": "2026-08-11",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LanVPdUhEbUxhTEFmVHRSczBseWo4UFg5N3BOVlF3U1NJNlVLYktwNzRnSVBDdE9YMk5KZV9TSFVuSmtXVVlNWmVGaE9rUzhPYWfSAVdBVV95cUxQTTRuRXJma3RjaWROQS1WdGpHMDJuN0dONkxDLWtWNE9jR3UyeDJBdVh5aFhxS2IwVWZWWkY3aWxNbGRBUHZ4Qmt0WTg4aGFWbDIyT0dQdWs?oc=5": "2026-08-11",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qWkg5RFJlUFRKUGZxcXZzTnVWTTZyQjVwNUExQm1wMWRMdm9QYUNtZlhpNDBQMzV6U0FYYW80ZW1WQ1U3bW93czRJZ28taEhnb1V3ZXoycmN3VHY2cWVz?oc=5": "2026-08-11",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0NDd1RVFueTJoUV9nNkg1aHFqUW5tZW12emF4dTRScHNmWWFyY2NkLWlTcFB5cjlkc2hTOGlTbUtxRUd3U1MxRzNWRVZzYUJJQVZDOUtNa2tVRVhwUVRPaUs3Z1FGZms?oc=5": "2026-08-11",
+    "https://news.yahoo.co.jp/articles/380a506828a6508312f0e8698d2cfc8012cc5261": "2026-08-11",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE05UGl0Y3F5aXNac0hyTmFOT2Fka1JCNXo3dmVsVXRLcElORFgyM0FDb01oQXNVWW5nVTN6clBKY1R5blloTzFaQnJXM3pnYXAzcUZwcmpDbWxleDNCVXdYWGZ4QnFoQ0lsbkZnVENGR1V3N3c3MXNXTnhHbkI?oc=5": "2026-08-11",
+    "https://news.yahoo.co.jp/articles/b7a079335534dea40eddd730ede2ce75678d93dc": "2026-08-11",
+    "https://news.yahoo.co.jp/articles/21d056c73bf8d880c9102ebcd96bd1b81b22efdf": "2026-08-11"
   },
   "titles": [
-    {
-      "title": "アナグラム株式会社がChatGPT広告の運用支援サービスを開始し市場に革新をもたらす - ニュースメディアVOIX",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "【広告運用は「任せる」時代の終わり？ 】立場ごとに異なる課題から見えた新しいデジタル広告インハウス・内製化の運用体制とは - 宮崎日日新聞",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに - Yahoo!ニュース",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに…刻化しています。 Momentum株式会社（東京都港区）が実施した「デジタル広告の掲載先と企業ブランド」に関する意識調査によると、不適切なコンテンツへ…まいどなニュースライフ総合7/10(金) 15:40",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに…施することが、結果として事業成長につながるかと思います」とコメント。 運用型広告における「効率」の追求は重要ですが、一歩間違えればブランドに致命的な打…まいどなニュースライフ総合7/10(金) 15:40",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "ウェビナー『〜成果が変わるTikTok広告戦略〜UUUMマーケティング × フリークアウトが語る「界隈マーケティング」最前線』を2月3日に開催 - UUUM株式会社",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "最新マーケティングを学べる無料勉強会を開催― 広告がスルーされる時代の新常識 - ニコニコニュース",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Meta、インドにおけるInstagramでの児童搾取広告に関する報道に対応 - Moomoo",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "1980円の美容液を買ったら定期コースになっており3ヶ月分1万5000円の請求が来ました。問い合わせましたが拒否…。返金や解約はもう無理でしょうか？…ター 「定期縛りなし」が「解約するまで続く定期購入」だったなんて…！ 消費者庁 通信販売における”最終確認画面”について 執筆者：FINANCIAL FIELD編集部…ファイナンシャルフィールドライフ総合7/11(土) 9:10",
-      "date": "2026-07-11"
-    },
     {
       "title": "LINEヤフー広告でLINE面を活用する効果とは？　配信面の最大化で成果向上の可能性",
       "date": "2026-07-12"
@@ -1473,99 +1434,49 @@
     {
       "title": "【毎日書評】ニーチェの言葉から見つける、軽やかに人と関わるための新しい引き出し…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合8/10(月) 8:11",
       "date": "2026-08-10"
+    },
+    {
+      "title": "Expanding AI transparency in ads",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "TikTok Shop購入者の81.7％がLIVE配信中の購入を経験、今後の購入意向は72.2％【ripples調査】 - 株式会社ヴァリューズ",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "業界動向―景表法不実証広告にメス―恣意的な「根拠要求」を封印 - 国際商業オンライン",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "データ・ワン、日テレ、伊藤忠が「TV×リテールメディア×デジタル広告」領域で協業開始 - 新Screens",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "朝日新聞社、新広告コンセプト発表 新聞広告にデジタル共通指標を導入 - AdverTimes.（アドタイ） by 宣伝会議",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "NECのAIマーケティング「BestMove」が大手企業で活用拡大 製造・流通・小売企業・広告代理店などが実装フェーズへ - クラウド Watch",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "なぜ「AI画像は気持ち悪い」のか 嫌悪感が止まらない一方で「デザイン会社」の倒産ドミノが始まった…80件を上回る可能性があるという。 苦境の背景としては、紙媒体からデジタル広告への移行、住宅市場の不振によるインテリアデザインの需要減などが指摘され…J-CASTニュース経済総合8/10(月) 19:40",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "トレザーのフィッシング広告とBTCPayの脆弱性発覚―資金は安全か - jp.beincrypto.com",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "寺西拓人“澄晴”ついに告白！ 「中途半端すぎる男」だからこそグッと来たワケ。『ラストノート』第5話レビュー…はいかないのだろうなあ。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合8/11(火) 9:01",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "香取慎吾の主演ドラマ「虚ろな十字架」佐野研二郎氏デザインのポスター公開…度をテーマにした社会派サスペンスだ。香取が演じる主人公の中原道正は、元広告代理店勤務の会社員で、現在は伯父から引き継いだペットの葬儀店を営む。１１年前…スポーツ報知エンタメ総合8/10(月) 21:02",
+      "date": "2026-08-11"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "アナグラム株式会社がChatGPT広告の運用支援サービスを開始し市場に革新をもたらす - ニュースメディアVOIX",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oM3NyWml3UWFsMGMtd1F1RE5fSTUtVDVSNmhvbml3ZUNoMXRRTG1ISVpEMnh2aFEydUZlYm5tSFo0NWtNSDZ6NzVrUzN3TzZaZnB6X016NHdjVXFpZVlOSEdDLV8zMXBrUEhpcUx4Y0s4SVJB?oc=5",
-      "summary": "・アナグラム株式会社がChatGPT広告の運用支援サービスを新たに開始したと発表した\n・AI対話型プラットフォーム上の広告配信を専門的に支援し市場開拓を目指す\n・生成AI広告という新領域での先行参入により競合優位性の確立を図る",
-      "score": 8,
-      "reason": "ChatGPT広告の運用支援開始、新広告面として実務影響大",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5",
-      "summary": "・Meta広告の優れた運用実績を持つPlanner of the Year受賞者が一堂に集結した\n・受賞者らがMeta広告プラットフォームの具体的な活用ノウハウや成功事例を共有\n・MarkeZine記事の第1回としてトップランナーたちの知見や戦略を紹介している",
-      "score": 8,
-      "reason": "Meta広告トップ運用者のノウハウ共有、実践的知見が豊富",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Google News",
-      "title": "【広告運用は「任せる」時代の終わり？ 】立場ごとに異なる課題から見えた新しいデジタル広告インハウス・内製化の運用体制とは - 宮崎日日新聞",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tVFJvRGU4ZHpXbmVwWkV0cnRROXkzMzZ0cl9ONko4LUdoSVdWR0d1X0N2cllFMmN5UjZMWVdpZTNEYS1XTHRmbGFibWxMSUhDdVh0Y25XMzlGZ2t0d0hGQ3N2MTZyWHpkQ2EySGIwQkxtZw?oc=5",
-      "summary": "・デジタル広告運用を代理店に任せきりにする時代が終わりつつあり、インハウス化の動きが加速している\n・広告主・代理店・運用者など立場ごとに異なる課題が存在し、それぞれの視点での解決策が求められている\n・新たな内製化の運用体制として、各立場の課題を踏まえた柔軟なハイブリッド型モデルが注目されている",
-      "score": 7,
-      "reason": "インハウス運用体制の課題整理、実務体制構築に有用",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Google News",
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fT2VqOTJWa3BTb3dPNXVkQ0Z4Vy0xNFBzVllWbWEyS0RCX3QydkdBX3JNelljVTFyTzZmTVVIZnFzUkJ2VXJ2Q3l4TFBkcUotbUdsOGlId3VsSmJ5VldScGNTang1a1NlVGdPbXc1UnpfM1lTMDRUM29BQ3NuRlU?oc=5",
-      "summary": "・不適切サイトに広告が掲載された場合、約8割の消費者が企業の印象が悪化すると回答した\n・デジタル広告の配信先管理の重要性が改めて浮き彫りとなり、ブランドセーフティへの関心が高まっている\n・広告主はアドベリフィケーション対策を強化し、意図しない露出リスクへの備えが急務となっている",
-      "score": 6,
-      "reason": "ブランドセーフティの意識調査、運用時の配信面管理に参考",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに…刻化しています。 Momentum株式会社（東京都港区）が実施した「デジタル広告の掲載先と企業ブランド」に関する意識調査によると、不適切なコンテンツへ…まいどなニュースライフ総合7/10(金) 15:40",
-      "link": "https://news.yahoo.co.jp/articles/74d2a19b777318e9a42ff53fd926f3602a72c311",
-      "summary": "・Momentum社の調査で不適切サイトへの広告掲載が企業印象を悪化させると約8割が回答した\n・デジタル広告の掲載先によるブランド毀損リスクが消費者意識調査で明確に示された\n・広告主にとって掲載面の品質管理やブランドセーフティ対策の重要性が改めて浮き彫りとなった",
-      "score": 6,
-      "reason": "id0と同内容、ブランドセーフティ意識調査の詳細",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに…施することが、結果として事業成長につながるかと思います」とコメント。 運用型広告における「効率」の追求は重要ですが、一歩間違えればブランドに致命的な打…まいどなニュースライフ総合7/10(金) 15:40",
-      "link": "https://news.yahoo.co.jp/articles/74d2a19b777318e9a42ff53fd926f3602a72c311",
-      "summary": "・不適切サイトへの広告掲載で約8割の消費者が企業イメージ悪化と回答した調査結果が公表された\n・運用型広告の効率追求がブランド毀損リスクを招く危険性がデジタル広告業界で浮き彫りになった\n・広告の露出先管理などブランドセーフティ施策の実施が企業の事業成長に不可欠と専門家が指摘した",
-      "score": 6,
-      "reason": "id0と同内容、運用型広告のブランド毀損リスクに言及",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Google News",
-      "title": "ウェビナー『〜成果が変わるTikTok広告戦略〜UUUMマーケティング × フリークアウトが語る「界隈マーケティング」最前線』を2月3日に開催 - UUUM株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OExxSmExeVZzclVYSW9NVHpJcTBKRlNZOFpxNzZ6bVYzdEJfQlJLcjUzMmRCd0VXT2M4LUs4YndISmNKZDYybDh3?oc=5",
-      "summary": "・UUUMマーケティングとフリークアウトが共催でTikTok広告戦略ウェビナーを2月3日に開催する\n・テーマは「界隈マーケティング」で、TikTok広告の成果を変える最新手法を解説する内容となっている\n・両社の知見を掛け合わせ、TikTok活用における実践的な広告戦略の最前線を紹介する",
-      "score": 5,
-      "reason": "TikTok広告戦略ウェビナー告知、界隈マーケの知見あり",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Google News",
-      "title": "最新マーケティングを学べる無料勉強会を開催― 広告がスルーされる時代の新常識 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KaUlYOGJpNVUtTUVkdGFEQVhRa2x6cmdWT1VwU1JLY1U1UHBzU0ZkVWtGRmZ1bEtSTlpOT01lZkJfOWJEMm50QTVEQ3VNdDdJdi1WUllaZVdfRE9ObFlGNlNtdHptVTFYMVJuYmFJVERiUGNrZmNKV3pDYw?oc=5",
-      "summary": "・広告がスルーされる時代に対応した最新マーケティング手法を学べる無料勉強会が開催される\n・従来型広告の効果低下を背景に新たなマーケティングの常識を提示する内容となっている\n・マーケター向けに最新トレンドや実践的ノウハウを無料で提供する学習機会として注目される",
-      "score": 4,
-      "reason": "勉強会告知、具体的な運用ノウハウ記載なし",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta、インドにおけるInstagramでの児童搾取広告に関する報道に対応 - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTDItZG53MTdSV0ZCamVGcFpJa3FiRnJGUVNSeVZ0VFBDNzNTeDhjMkVaRHJjdUczT04tRFZpdTdtb3lxSHdQcFpQZHpnUERDTHBKR1Q0cTZCN09IaEJiVDFBRmVzYlVPTDg5TVJNc1BOaGR5NlROYkhKTFVYcm1KTTFFSFVTNEg5WDFtQ2VXMUVTRnRvZkxJZ25zR2Y4NTNKdGxOLUsxYmlxRnNMQnVOc0tNZDBaT2w1cld3UExNX29KbWYzZ3d1alVkb29BajIzSVJGUUJGRWsyNmVp?oc=5",
-      "summary": "・MetaがインドのInstagram上で児童搾取に関連する広告が表示された問題について公式に対応した\n・児童の安全を脅かす広告コンテンツがプラットフォーム上で配信されていたと報じられた\n・Metaは広告審査体制や未成年者保護ポリシーの強化を迫られる状況に直面している",
-      "score": 3,
-      "reason": "Metaのポリシー対応ニュース、日本実務への直接影響は薄い",
-      "date": "2026-07-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "1980円の美容液を買ったら定期コースになっており3ヶ月分1万5000円の請求が来ました。問い合わせましたが拒否…。返金や解約はもう無理でしょうか？…ター 「定期縛りなし」が「解約するまで続く定期購入」だったなんて…！ 消費者庁 通信販売における”最終確認画面”について 執筆者：FINANCIAL FIELD編集部…ファイナンシャルフィールドライフ総合7/11(土) 9:10",
-      "link": "https://news.yahoo.co.jp/articles/d37c3dc4db5ac33d4bff113d1db592ee41653d2f",
-      "summary": "・1980円の美容液購入が実は定期コースで3ヶ月分1万5000円を請求される被害が発生\n・「定期縛りなし」表記が実質的に解約手続きなしでは継続する定期購入契約だった\n・消費者庁は通信販売の最終確認画面での契約条件明示を事業者に求めている",
-      "score": 2,
-      "reason": "定期購入トラブルの消費者向け記事、広告運用と無関係",
-      "date": "2026-07-11"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "LINEヤフー広告でLINE面を活用する効果とは？　配信面の最大化で成果向上の可能性",
@@ -4130,6 +4041,96 @@
       "score": 1,
       "reason": "書評記事で広告運用と無関係",
       "date": "2026-08-10"
+    },
+    {
+      "source": "Google広告",
+      "title": "Expanding AI transparency in ads",
+      "link": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
+      "summary": "・広告におけるAI透明性向上のための新機能を導入すると発表した\n・ユーザーが目にする広告のAI活用状況を理解しやすくする仕組みを提供する\n・広告主向けにAI使用を簡単に開示できるディスクロージャーツールも整備する",
+      "score": 7,
+      "reason": "Google広告のAI透明性に関する新機能で実務対応が必要",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok Shop購入者の81.7％がLIVE配信中の購入を経験、今後の購入意向は72.2％【ripples調査】 - 株式会社ヴァリューズ",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UUFsOEdFU3c4alRNRjlRVGhUOTd0RjVDMnQ3a1VGZ2VNdWpuTlp2MGZFMzB2SVl3YU04UmRPeldzeFB4MVdxM1ppZ1RoZks4elJidWd0bw?oc=5",
+      "summary": "・TikTok Shop購入者の81.7％がLIVE配信中に商品を購入した経験があると回答した\n・今後もLIVE配信中に購入したいという意向を示した割合は72.2％に達している\n・ripples社の調査によりTikTokのライブコマースが高い購買促進力を持つことが判明した",
+      "score": 7,
+      "reason": "TikTok Shop購買行動データは広告配信戦略に有用",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Google News",
+      "title": "業界動向―景表法不実証広告にメス―恣意的な「根拠要求」を封印 - 国際商業オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QbU1SbGlPX3dXb1RzSmZIWmhRRk9yUFBPT24zT2dvWlhvZXBrYzBkQXE1WkZqZDROamRzR2ZyNjZlNFpQb2p6aGNLNjRhTGRmYUdMMnJ1MWY4UQ?oc=5",
+      "summary": "・景表法の不実証広告規制に関し、行政による恣意的な根拠要求の運用が問題視されている\n・広告の効果効能を裏付ける合理的根拠の提出を求める手続きの透明性向上が焦点となる\n・規制の適正化により広告主と消費者双方の利益を守る制度運用の見直しが進む見通し",
+      "score": 6,
+      "reason": "景表法の運用変更は広告表現の実務に影響しうる",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Google News",
+      "title": "データ・ワン、日テレ、伊藤忠が「TV×リテールメディア×デジタル広告」領域で協業開始 - 新Screens",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LanVPdUhEbUxhTEFmVHRSczBseWo4UFg5N3BOVlF3U1NJNlVLYktwNzRnSVBDdE9YMk5KZV9TSFVuSmtXVVlNWmVGaE9rUzhPYWfSAVdBVV95cUxQTTRuRXJma3RjaWROQS1WdGpHMDJuN0dONkxDLWtWNE9jR3UyeDJBdVh5aFhxS2IwVWZWWkY3aWxNbGRBUHZ4Qmt0WTg4aGFWbDIyT0dQdWs?oc=5",
+      "summary": "・データ・ワン、日本テレビ、伊藤忠商事の3社がメディア横断の協業を開始した\n・テレビ放送とリテールメディア、デジタル広告を掛け合わせた新領域に取り組む\n・購買データとテレビ視聴データの連携で広告効果の最大化を目指す方針とみられる",
+      "score": 5,
+      "reason": "リテールメディア協業は業界動向として参考になる",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Google News",
+      "title": "朝日新聞社、新広告コンセプト発表 新聞広告にデジタル共通指標を導入 - AdverTimes.（アドタイ） by 宣伝会議",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qWkg5RFJlUFRKUGZxcXZzTnVWTTZyQjVwNUExQm1wMWRMdm9QYUNtZlhpNDBQMzV6U0FYYW80ZW1WQ1U3bW93czRJZ28taEhnb1V3ZXoycmN3VHY2cWVz?oc=5",
+      "summary": "・朝日新聞社が新たな広告コンセプトを発表しデジタルとの統合を推進する方針を示した\n・新聞広告にデジタル広告と共通の効果測定指標を導入し媒体横断の評価を可能にする\n・広告主がデジタルと新聞を同一基準で比較・活用できる環境整備を目指す取り組みとなる",
+      "score": 5,
+      "reason": "新聞広告のデジタル指標導入は業界動向として注目",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Google News",
+      "title": "NECのAIマーケティング「BestMove」が大手企業で活用拡大 製造・流通・小売企業・広告代理店などが実装フェーズへ - クラウド Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0NDd1RVFueTJoUV9nNkg1aHFqUW5tZW12emF4dTRScHNmWWFyY2NkLWlTcFB5cjlkc2hTOGlTbUtxRUd3U1MxRzNWRVZzYUJJQVZDOUtNa2tVRVhwUVRPaUs3Z1FGZms?oc=5",
+      "summary": "・NECのAIマーケティングツール「BestMove」が大手企業での導入・活用を拡大している\n・製造・流通・小売企業や広告代理店など幅広い業種で実装フェーズに移行が進む\n・AI活用によるマーケティング高度化の需要が高まり企業の本格運用が加速している",
+      "score": 4,
+      "reason": "AIマーケツール紹介だが運用型広告の直接的知見は薄い",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ「AI画像は気持ち悪い」のか 嫌悪感が止まらない一方で「デザイン会社」の倒産ドミノが始まった…80件を上回る可能性があるという。 苦境の背景としては、紙媒体からデジタル広告への移行、住宅市場の不振によるインテリアデザインの需要減などが指摘され…J-CASTニュース経済総合8/10(月) 19:40",
+      "link": "https://news.yahoo.co.jp/articles/380a506828a6508312f0e8698d2cfc8012cc5261",
+      "summary": "・AI生成画像への嫌悪感が広がる一方でデザイン会社の倒産が連鎖的に増加している\n・倒産件数は80件を上回る可能性があり業界全体が深刻な苦境に直面している\n・紙媒体からデジタル広告への移行や住宅市場低迷による需要減が主な背景にある",
+      "score": 3,
+      "reason": "AI画像とデザイン業界の話で運用広告と直接関係薄い",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Google News",
+      "title": "トレザーのフィッシング広告とBTCPayの脆弱性発覚―資金は安全か - jp.beincrypto.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05UGl0Y3F5aXNac0hyTmFOT2Fka1JCNXo3dmVsVXRLcElORFgyM0FDb01oQXNVWW5nVTN6clBKY1R5blloTzFaQnJXM3pnYXAzcUZwcmpDbWxleDNCVXdYWGZ4QnFoQ0lsbkZnVENGR1V3N3c3MXNXTnhHbkI?oc=5",
+      "summary": "・ハードウェアウォレットTrezorを標的としたフィッシング広告が確認され利用者への注意喚起が行われた\n・決済プロセッサBTCPay Serverにセキュリティ上の脆弱性が発覚し早急な対応が求められている\n・暗号資産管理ツールを狙う攻撃が増加しており利用者は最新情報の確認と対策強化が必要とされる",
+      "score": 2,
+      "reason": "暗号資産のフィッシング広告で運用型広告と無関係",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "寺西拓人“澄晴”ついに告白！ 「中途半端すぎる男」だからこそグッと来たワケ。『ラストノート』第5話レビュー…はいかないのだろうなあ。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合8/11(火) 9:01",
+      "link": "https://news.yahoo.co.jp/articles/b7a079335534dea40eddd730ede2ce75678d93dc",
+      "summary": "・寺西拓人演じる\"澄晴\"がドラマ『ラストノート』第5話でついに告白シーンを披露した\n・「中途半端すぎる男」というキャラクター性が視聴者の共感を呼びグッと来ると話題に\n・著者はアパレルや広告代理店・エンタメ雑誌編集など多彩な経歴を持つライターである",
+      "score": 1,
+      "reason": "ドラマレビューで広告運用と無関係",
+      "date": "2026-08-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "香取慎吾の主演ドラマ「虚ろな十字架」佐野研二郎氏デザインのポスター公開…度をテーマにした社会派サスペンスだ。香取が演じる主人公の中原道正は、元広告代理店勤務の会社員で、現在は伯父から引き継いだペットの葬儀店を営む。１１年前…スポーツ報知エンタメ総合8/10(月) 21:02",
+      "link": "https://news.yahoo.co.jp/articles/21d056c73bf8d880c9102ebcd96bd1b81b22efdf",
+      "summary": "・香取慎吾主演の社会派サスペンスドラマ「虚ろな十字架」のポスタービジュアルが公開された\n・ポスターデザインはアートディレクター佐野研二郎氏が手がけたことが発表された\n・香取演じる主人公は元広告代理店勤務で現在ペット葬儀店を営む複雑な背景を持つ人物だ",
+      "score": 1,
+      "reason": "ドラマ情報で広告運用と無関係",
+      "date": "2026-08-11"
     }
   ]
 }
