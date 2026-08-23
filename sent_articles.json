@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0723-000335": "2026-07-23",
-    "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-loyalty-marketing-line-mini-app": "2026-07-23",
-    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82QU1CSkRhN3RYdUlBLUxsOUdNMWs5eXFYaTdDVXpQREZpbHlXOVdpSEhvSUtoQmo4U2F0VEZucmotOVQ5Z3VIWnlESWlSSFNXMWpPZTRB?oc=5": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNzdWs4Wk1pTEhBVzZHRko5aW9VenpqaUdFa01hS3R3NG1DOUloY3JJY3RrVWxmd1FOdVJoV2xrUjYxOVUwZEpIQ2lGZDQyVTFyMHFrY01mR3Rud2JOeG9mbU9RWi11TG9XVXpnOFpHdlFwdkUzVVY3TlM0c0l3QXR5dkRVWXVNVGtTaDVNSUU?oc=5": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWGttTWZtVm9QN3M2Y2lRengta2N5YUQtS243VmtCWXRONXZweVRxWk84ZUVXcFR5UENTWm5pbmU2dDZjNlczVXVnenF1TmFuYkg4bzVhNWZtRk9HSnB1Y29yclNnaXoxb1E?oc=5": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMlZGcjlDdTVUZ29JcC1kb1ZmQTNrYWdMd29scUp2czZjRG12d0R6TEJJZ091UXA2ZkhrUzBCQzE1VGZqYUdKTG9pbHgxUFlnaTNN?oc=5": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWlJ2SkU1WmtzNENxUE5VZ202cVI0RnlmWkhyOUhiWWpSRy05b3JOMHlYWm1jS1dIUFRkeTIzaWMyVzJvOThZZm50X1VfWi04VU15MEZmV05aSkYwMkdiVjZsaVNvclpZSUE?oc=5": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzkwQkJjOFNONHpBM3VMOUFxSmROXzlXa09RSlY5cXNBWlQ1M1JZUEoxRk4tbEx1OVk2am1VYWN2blEwdXRreTBBcnhvb1lVZ1poajRsRzhsZzJDX3pCa1VNSUUwNGczZEY2dU5pajV0QTRWbDNuNWU2TDB1Z2M2TzVqb04yODJ2RGVvUmhVRGhDdmpqaklfek9QS3pKdUNJSF84?oc=5": "2026-07-23",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTQWZnYTdpQk94dlR4eHhNam1KbmRTVG1LTGVaeEdzZnJEUDZMbGVabFV3UXdDVEZnNUIyR3dBc0pqZi1lYmFlUjViT1NHaVRJcHVPeWl5V1hEOUU?oc=5": "2026-07-23",
     "https://oneder.hakuhodody-one.co.jp/blog/google-search-console-platform-property": "2026-07-24",
     "https://news.yahoo.co.jp/articles/413bf8b539e42239cca37e60cf2b7677a070eeda": "2026-07-24",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LaFBZaDIyMUs3RWVsS2hCWUNaN25pTi1RMUVFWHJFREpEMVpmeFRNWkhQdVk2NWRpekFHZFRiT1BoQlVzYnBrdDlOR3hUNHJ4d3JrQXRSZWNLMXRNSWFCNmVmblRxVnIzSnEyV2V3WmNHLU1BdG9ycFBOdw?oc=5": "2026-07-24",
@@ -289,49 +279,19 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xRjVVSk5VaVhNWnl3RTQ1R0FOQ0N0azBQX3VCWnFuVHJMY1FKOTZCdG1ra1pIaXdmLTdXVFZnNDFzeHk2aFdlMGZPSGxFcHlFQkV1WVB3?oc=5": "2026-08-22",
     "https://news.yahoo.co.jp/articles/df6afbef384c54211ce0b086fc5245c53940db0b": "2026-08-22",
     "https://news.yahoo.co.jp/articles/3b7ad76254cce4ada388819b7a0c85d97b59d912": "2026-08-22",
-    "https://news.yahoo.co.jp/articles/961b05022205175e63d0a77f6b79dfad37c18f47": "2026-08-22"
+    "https://news.yahoo.co.jp/articles/961b05022205175e63d0a77f6b79dfad37c18f47": "2026-08-22",
+    "https://dentsudigital.co.jp/news/release/services/2026-0721-000336": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcl9zN21SNEhWNE5yVzhiOEp4b3NWTXF4RDlNdzQyeTJsTGZRMUlfT2JvZDNJdTFYR3FGV0JfUVY2NExIbVl0ODF4bHAwbktoN1FKVGpnSkpFOEVoVkVOUy1oOUxNbUc5YVF4LWZSbEJUYVpKbWdXR1JUOU5JeWgzVndvbFJ6QQ?oc=5": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMURXLXVvamtCcEV4Z3Q5bWdMZWNRYjhoZF9aNUJKTDFTZ2wzUUlqWVNPdnZGbTRTNUJkd19CbU9LV2tWTXkzN3RaMjA0ckFKNExrOTVPbXBlXzRvb0JkNzdoQ3RVak5NQXBtQkJxY0NqLU1iaHB0X2V5NXlVX0pwb0NjYjBzR09WT3V6S0FMbTRaM2ZDR2ZtTk5lUlJWSm5kUG5SY1AtSQ?oc=5": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KdlF5WmJUYTVUb0lCbzFpaFVINkJGM0ZEMjMzZTRiMVBVa2FKNVJscXRXelhfNWt0cVJpcW84YWVBamdwRG9abUk5RDh3eGhuYzl2LXV3?oc=5": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjc3hMbGl2S19RMTB2M0EzTEFrNXRRRjVkdTVtc3prNkNhRVgwd0ZGN3FjSmFTZnpLaW5ZZk5zMFBWenhjMTJxa01n?oc=5": "2026-08-23",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feWZBNjhQendMYTRpenExNTZCVURWZ0h5Y21EWU9PaWl2cGUtOGMycEt6cDZ2RVJfQTk1NXJ5dFVzNmZCNGVsQ0ZYTUhNanBtZ0owQTZJcG5IMEU?oc=5": "2026-08-23",
+    "https://news.yahoo.co.jp/articles/2da27cda498a6b6658acf65c5eff193fef09934b": "2026-08-23",
+    "https://news.yahoo.co.jp/articles/825b759910715c87f6c1a50fa3469cf5e1d47814": "2026-08-23"
   },
   "titles": [
-    {
-      "title": "生活者のAI活用実態調査を実施　AI利用者の約3人に1人が購買行動においてAIに相談　旅行や金融で顕著",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "顧客体験とデータを「統合」する、次世代ロイヤルティマーケティング 〜LINEミニアプリを武器に、他社を圧倒するパーソナライズ戦略〜【セミナーレポート】",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "ChatGPT広告、出稿済み31.1%・検討中41.1%―キーワードマーケティング調査で判明 - コマースピック",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "SnowflakeのコンテキストとMetaキャンペーン：シグナルループの完結 - Snowflake",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "最新マーケティングを学べる無料セミナーを開催― GDNからデマンド・ジェネレーションへ Google広告の未来を読み解く― - PR TIMES",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "「AIで仕事が速くなっただけで代理店は生き残れない」 米国広告代理店協会が暴く不都合な真実 (1/3) - MarkeZine",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "【7/28(火)】Meta広告のAI運用をテーマとした無料オンラインセミナーを開催 - PR TIMES",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Google広告に関する13年間の知見：SaltechのCEOが、ベトナムの中小企業が不必要に損失を出している理由を明かす。 - Vietnam.vn",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "求人サイト「らくらく求人検索」、株式会社イオレの運用型求人広告プラットフォーム「HR Ads Platform」との連携を開始 - valuepress",
-      "date": "2026-07-23"
-    },
     {
       "title": "Google 、Search Consoleに「プラットフォームプロパティ」を実装",
       "date": "2026-07-24"
@@ -1463,99 +1423,49 @@
     {
       "title": "【プロが3分で語る】媒体選びはここで差がつく！「デジタルサイネージ最前線」セミナー…対象者：デジタルサイネージ活用を検討中の企業経営者、マーケティング担当者、広告代理店 プログラム：10社×各社3分プレゼン ■こんな方におすすめ ・サイネ…Yahoo!ニュース PR［PR］産業8/21(金) 10:54",
       "date": "2026-08-22"
+    },
+    {
+      "title": "AI時代に対応する「次世代オウンドメディア戦略・構築支援」を提供開始",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "大正製薬は Gemini を​マーケターの​伴走者に、​「思考の​壁打ち」で​意思決定を​加速 - Google Business Profile",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "スウェーデンはTikTokとMetaに対し、犯罪行為を勧誘する広告を削除するよう強制した。 - Vietnam.vn",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "福岡市博多区の広告代理業者が破産手続き開始決定 - 西日本新聞me",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "ログリー 、求人広告代理店事業の子会社motoを譲渡 - M＆A Online",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "DB証券、KTナスミディアのデジタル広告の回復により利益改善を予測、目標株価を17.8%引き上げ - jp.ajunews.com",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "タイ500万人にAIパスポート 100ポイントでチャットGPT解禁…ではないかとの指摘も出ている。野党側は、コンビニ1500店舗以上でのデジタル広告掲出など特殊な条件を問題視し、国家汚職防止委員会に調査を求めた。【バンコク小泉大士】…毎日新聞アジア・オセアニア8/23(日) 7:10",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "【ヤリスクロスやヴェゼルを撃破できるか？】オプション込み実質350万円の新型「キックス」が挑む下剋上の戦い…みてください」的に言い切る、挑戦的なプロモーションである。 当然ながら消費者庁が定める条件を順守しつつ、アメリカ人とは少々異なる日本人ユーザーのメンタ…carview！経済総合8/22(土) 8:30",
+      "date": "2026-08-23"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "生活者のAI活用実態調査を実施　AI利用者の約3人に1人が購買行動においてAIに相談　旅行や金融で顕著",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0723-000335",
-      "summary": "・電通デジタルが「with AIラボ」を設立し生活者のAI活用実態調査を実施した\n・AI利用者の約3人に1人が商品購入やサービス選定時にAIへ相談していると判明\n・特に旅行プラン検討や金融商品選びなどの分野でAI活用が顕著に進んでいる",
-      "score": 6,
-      "reason": "AI活用による購買行動変化は広告戦略設計に示唆あり",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "顧客体験とデータを「統合」する、次世代ロイヤルティマーケティング 〜LINEミニアプリを武器に、他社を圧倒するパーソナライズ戦略〜【セミナーレポート】",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-loyalty-marketing-line-mini-app",
-      "summary": "・従来のキャンペーンやポイント施策だけでは継続的な顧客関係構築が困難になっている現状を指摘\n・顧客の反応や関心変化を捉え次のコミュニケーションへつなげる設計の重要性を提唱している\n・LINEミニアプリを活用し顧客体験とデータを統合することでLTV向上を目指す戦略を紹介",
-      "score": 4,
-      "reason": "CRM寄りのセミナーレポートで広告運用直結度は低い",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
-      "summary": "・サイバーエージェントが広告運用AIエージェント「効果おまかせAI」の提供を開始した\n・Meta広告で先行導入し化粧品分野などで効果を検証、段階的に機能を拡張予定\n・Microsoft広告やTikTok広告など対応プラットフォームを順次拡大していく方針",
-      "score": 9,
-      "reason": "CA社の広告運用AIエージェント新機能で即実務影響",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "ChatGPT広告、出稿済み31.1%・検討中41.1%―キーワードマーケティング調査で判明 - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82QU1CSkRhN3RYdUlBLUxsOUdNMWs5eXFYaTdDVXpQREZpbHlXOVdpSEhvSUtoQmo4U2F0VEZucmotOVQ5Z3VIWnlESWlSSFNXMWpPZTRB?oc=5",
-      "summary": "・キーワードマーケティングの調査でChatGPT広告の出稿済み企業が31.1%に達したことが判明\n・さらに41.1%の企業がChatGPT広告への出稿を検討中で、関心の高さが浮き彫りとなった\n・出稿済みと検討中を合わせると7割超となり、生成AI広告市場の急速な拡大が示唆される",
-      "score": 8,
-      "reason": "ChatGPT広告の出稿動向は実務判断に直結",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "SnowflakeのコンテキストとMetaキャンペーン：シグナルループの完結 - Snowflake",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNzdWs4Wk1pTEhBVzZHRko5aW9VenpqaUdFa01hS3R3NG1DOUloY3JJY3RrVWxmd1FOdVJoV2xrUjYxOVUwZEpIQ2lGZDQyVTFyMHFrY01mR3Rud2JOeG9mbU9RWi11TG9XVXpnOFpHdlFwdkUzVVY3TlM0c0l3QXR5dkRVWXVNVGtTaDVNSUU?oc=5",
-      "summary": "・SnowflakeのデータクラウドとMeta広告キャンペーンを連携しシグナルループを構築する取り組みを紹介\n・ファーストパーティデータをSnowflake経由でMetaに安全に共有し広告配信の精度向上を実現\n・Cookie廃止時代に対応したデータクリーンルーム活用で広告効果測定の完全なループを完結させる",
-      "score": 7,
-      "reason": "Meta広告×Snowflakeのシグナル連携は実務的",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "最新マーケティングを学べる無料セミナーを開催― GDNからデマンド・ジェネレーションへ Google広告の未来を読み解く― - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWGttTWZtVm9QN3M2Y2lRengta2N5YUQtS243VmtCWXRONXZweVRxWk84ZUVXcFR5UENTWm5pbmU2dDZjNlczVXVnenF1TmFuYkg4bzVhNWZtRk9HSnB1Y29yclNnaXoxb1E?oc=5",
-      "summary": "・Google広告がGDNからデマンドジェネレーションへ移行する最新動向を解説する無料セミナーが開催される\n・セミナーではGoogle広告の今後の展望や最新マーケティング手法について学べる内容が提供される\n・PR TIMESを通じて告知され、マーケティング担当者やデジタル広告運用者を対象とした実践的な講座となる",
-      "score": 7,
-      "reason": "GDNからDemandGen移行は実務に直結する内容",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "「AIで仕事が速くなっただけで代理店は生き残れない」 米国広告代理店協会が暴く不都合な真実 (1/3) - MarkeZine",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMlZGcjlDdTVUZ29JcC1kb1ZmQTNrYWdMd29scUp2czZjRG12d0R6TEJJZ091UXA2ZkhrUzBCQzE1VGZqYUdKTG9pbHgxUFlnaTNN?oc=5",
-      "summary": "・米国広告代理店協会（4A's）がAI活用における代理店の課題について警鐘を鳴らしている\n・単なる業務効率化や作業スピード向上だけではAI時代に代理店が生き残れないと指摘\n・代理店には速さを超えた戦略的価値やクリエイティブの差別化が今後より一層求められる",
-      "score": 6,
-      "reason": "AI時代の代理店戦略論で業界動向として有用",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "【7/28(火)】Meta広告のAI運用をテーマとした無料オンラインセミナーを開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWlJ2SkU1WmtzNENxUE5VZ202cVI0RnlmWkhyOUhiWWpSRy05b3JOMHlYWm1jS1dIUFRkeTIzaWMyVzJvOThZZm50X1VfWi04VU15MEZmV05aSkYwMkdiVjZsaVNvclpZSUE?oc=5",
-      "summary": "・Meta広告のAI活用運用をテーマにした無料オンラインセミナーが7月28日に開催される\n・セミナーではMeta広告におけるAI機能の最新活用法や運用ノウハウが紹介される見込み\n・PR TIMESを通じて告知されており、オンライン形式で誰でも参加可能となっている",
-      "score": 6,
-      "reason": "Meta広告AI運用セミナー告知で学習機会",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "Google広告に関する13年間の知見：SaltechのCEOが、ベトナムの中小企業が不必要に損失を出している理由を明かす。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzkwQkJjOFNONHpBM3VMOUFxSmROXzlXa09RSlY5cXNBWlQ1M1JZUEoxRk4tbEx1OVk2am1VYWN2blEwdXRreTBBcnhvb1lVZ1poajRsRzhsZzJDX3pCa1VNSUUwNGczZEY2dU5pajV0QTRWbDNuNWU2TDB1Z2M2TzVqb04yODJ2RGVvUmhVRGhDdmpqaklfek9QS3pKdUNJSF84?oc=5",
-      "summary": "・Saltech CEOが13年のGoogle広告運用経験をもとにベトナム中小企業の広告損失の原因を指摘\n・多くの中小企業が適切な知識や戦略なくGoogle広告に投資し不必要なコストを発生させている\n・広告運用の最適化や専門知識の不足がベトナム中小企業の競争力低下と損失拡大を招いている",
-      "score": 4,
-      "reason": "ベトナム向けで日本実務への適用度は限定的",
-      "date": "2026-07-23"
-    },
-    {
-      "source": "Google News",
-      "title": "求人サイト「らくらく求人検索」、株式会社イオレの運用型求人広告プラットフォーム「HR Ads Platform」との連携を開始 - valuepress",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTQWZnYTdpQk94dlR4eHhNam1KbmRTVG1LTGVaeEdzZnJEUDZMbGVabFV3UXdDVEZnNUIyR3dBc0pqZi1lYmFlUjViT1NHaVRJcHVPeWl5V1hEOUU?oc=5",
-      "summary": "・求人サイト「らくらく求人検索」がイオレの「HR Ads Platform」と連携を開始した\n・HR Ads Platformは運用型の求人広告プラットフォームで複数媒体への配信が可能\n・連携により求人情報の掲載先が拡大し、求職者へのリーチ向上が期待される",
-      "score": 3,
-      "reason": "求人広告プラットフォーム連携のプレスリリース",
-      "date": "2026-07-23"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "Google 、Search Consoleに「プラットフォームプロパティ」を実装",
@@ -4102,6 +4012,96 @@
       "score": 3,
       "reason": "デジタルサイネージセミナー告知、運用型広告と異領域",
       "date": "2026-08-22"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI時代に対応する「次世代オウンドメディア戦略・構築支援」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0721-000336",
+      "summary": "・電通デジタルがAI時代に対応した「次世代オウンドメディア戦略・構築支援」を新たに提供開始した\n・企業のウェブサイト・アプリ・AIエージェントなど多様なオウンドメディアが支援対象となる\n・戦略策定から構築までを一気通貫で統合支援するサービスとして展開される",
+      "score": 3,
+      "reason": "企業の新サービス発表で広告運用への直接的影響薄い",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
+      "summary": "・2024年のネット広告媒体費は前年比108.8%の約2兆8,525億円に達し成長が継続した\n・動画広告が大きく伸長しコ",
+      "score": 8,
+      "reason": "電通のネット広告費詳細分析は市場動向把握に有用",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5",
+      "summary": "・政府が景品表示法における不実証広告規制の見直しに着手する方針を明らかにした\n・消費者庁と事業者間の対話を強化し、広告表示の適正化と予見可能性向上を図る\n・ウェルネス業界など健康関連広告の規制運用に大きな影響を与える可能性がある",
+      "score": 6,
+      "reason": "景表法の不実証広告規制見直しは広告表現に影響",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "大正製薬は Gemini を​マーケターの​伴走者に、​「思考の​壁打ち」で​意思決定を​加速 - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcl9zN21SNEhWNE5yVzhiOEp4b3NWTXF4RDlNdzQyeTJsTGZRMUlfT2JvZDNJdTFYR3FGV0JfUVY2NExIbVl0ODF4bHAwbktoN1FKVGpnSkpFOEVoVkVOUy1oOUxNbUc5YVF4LWZSbEJUYVpKbWdXR1JUOU5JeWgzVndvbFJ6QQ?oc=5",
+      "summary": "・大正製薬がGoogleのAI「Gemini」をマーケティング業務の伴走ツールとして導入・活用している\n・マーケターがGeminiを「思考の壁打ち」相手として使い、アイデア整理や戦略検討を効率化\n・AI活用により意思決定のスピードが向上し、マーケティング施策の推進を加速させている",
+      "score": 6,
+      "reason": "Geminiのマーケティング活用事例で実務参考になる",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "スウェーデンはTikTokとMetaに対し、犯罪行為を勧誘する広告を削除するよう強制した。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMURXLXVvamtCcEV4Z3Q5bWdMZWNRYjhoZF9aNUJKTDFTZ2wzUUlqWVNPdnZGbTRTNUJkd19CbU9LV2tWTXkzN3RaMjA0ckFKNExrOTVPbXBlXzRvb0JkNzdoQ3RVak5NQXBtQkJxY0NqLU1iaHB0X2V5NXlVX0pwb0NjYjBzR09WT3V6S0FMbTRaM2ZDR2ZtTk5lUlJWSm5kUG5SY1AtSQ?oc=5",
+      "summary": "・スウェーデン政府がTikTokとMetaに対し犯罪行為を勧誘する広告の削除を強制する措置を実施した\n・両プラットフォーム上で犯罪への参加を促す違法広告が問題視され当局が規制に乗り出した\n・欧州各国でSNS上の違法コンテンツへの規制強化が進む中スウェーデンが具体的な対応を示した",
+      "score": 4,
+      "reason": "海外の広告規制動向で日本実務への直接影響は薄い",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "福岡市博多区の広告代理業者が破産手続き開始決定 - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KdlF5WmJUYTVUb0lCbzFpaFVINkJGM0ZEMjMzZTRiMVBVa2FKNVJscXRXelhfNWt0cVJpcW84YWVBamdwRG9abUk5RDh3eGhuYzl2LXV3?oc=5",
+      "summary": "・福岡市博多区に所在する広告代理業者が破産手続きの開始決定を受けた\n・西日本新聞が同社の経営破綻について報じたが詳細情報は限定的である\n・広告代理店業界の競争激化や経営環境の厳しさが背景にあると推察される",
+      "score": 3,
+      "reason": "広告代理業者の破産で業界動向だが実務無関係",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "ログリー 、求人広告代理店事業の子会社motoを譲渡 - M＆A Online",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjc3hMbGl2S19RMTB2M0EzTEFrNXRRRjVkdTVtc3prNkNhRVgwd0ZGN3FjSmFTZnpLaW5ZZk5zMFBWenhjMTJxa01n?oc=5",
+      "summary": "・ログリーが求人広告代理店事業を展開する子会社motoの譲渡を発表した\n・M&A Onlineが報じたもので事業ポートフォリオの見直しが背景とみられる\n・子会社売却により中核事業への経営資源集中を図る狙いがあると考えられる",
+      "score": 3,
+      "reason": "ログリー子会社譲渡の企業ニュース",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Google News",
+      "title": "DB証券、KTナスミディアのデジタル広告の回復により利益改善を予測、目標株価を17.8%引き上げ - jp.ajunews.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feWZBNjhQendMYTRpenExNTZCVURWZ0h5Y21EWU9PaWl2cGUtOGMycEt6cDZ2RVJfQTk1NXJ5dFVzNmZCNGVsQ0ZYTUhNanBtZ0owQTZJcG5IMEU?oc=5",
+      "summary": "・DB証券がKTナスミディアの目標株価を17.8%引き上げ、投資評価を上方修正した\n・デジタル広告市場の回復がKTナスミディアの業績改善を牽引すると分析している\n・広告事業の成長期待を背景に、今後の利益拡大が見込まれると予測された",
+      "score": 2,
+      "reason": "韓国企業の株価予測で日本の実務に無関係",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイ500万人にAIパスポート 100ポイントでチャットGPT解禁…ではないかとの指摘も出ている。野党側は、コンビニ1500店舗以上でのデジタル広告掲出など特殊な条件を問題視し、国家汚職防止委員会に調査を求めた。【バンコク小泉大士】…毎日新聞アジア・オセアニア8/23(日) 7:10",
+      "link": "https://news.yahoo.co.jp/articles/2da27cda498a6b6658acf65c5eff193fef09934b",
+      "summary": "・タイ政府が500万人を対象にAIパスポートを発行し100ポイント取得でChatGPT利用を解禁する施策を推進中\n・コンビニ1500店舗以上でのデジタル広告掲出など特殊な入札条件に不透明さが指摘されている\n・野党が利権構造を問題視し国家汚職防止委員会に正式な調査を求める事態に発展した",
+      "score": 2,
+      "reason": "タイの政策ニュースで広告運用と無関係",
+      "date": "2026-08-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【ヤリスクロスやヴェゼルを撃破できるか？】オプション込み実質350万円の新型「キックス」が挑む下剋上の戦い…みてください」的に言い切る、挑戦的なプロモーションである。 当然ながら消費者庁が定める条件を順守しつつ、アメリカ人とは少々異なる日本人ユーザーのメンタ…carview！経済総合8/22(土) 8:30",
+      "link": "https://news.yahoo.co.jp/articles/825b759910715c87f6c1a50fa3469cf5e1d47814",
+      "summary": "・日産新型キックスがオプション込み実質350万円でコンパクトSUV市場に参入し競合に挑む\n・トヨタ・ヤリスクロスやホンダ・ヴェゼルとの激戦区で下剋上を狙う戦略を展開\n・日本市場向けに挑戦的なプロモーションを展開しつつ消費者庁基準を順守する方針",
+      "score": 2,
+      "reason": "自動車プロモーション紹介だが運用実務と無関係",
+      "date": "2026-08-23"
     }
   ]
 }
