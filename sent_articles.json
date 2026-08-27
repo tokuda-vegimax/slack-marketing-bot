@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0625-000331": "2026-07-27",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55QjdEcFZqSmhKU0Y1WE52MUdhcjU0QnVxWWhWTnRYRDhYNHFwXzZrajlZSVVjaEU4aXR6QW0xY2FqVGJUeGY4d2RwaThHTzhsRU1VUTkxeS03b05icHptUEdSNnJMOFR1Q2VzRw?oc=5": "2026-07-27",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREU5MEpaN0FuNHV3WTRDdmYzczUzR25HMno0WG5XU3Uxcnh6TUNodUNRRVp4UFhiaDI0Mm1wbkRrNm1XMTZDQ3pNb1h6ZGpUT1EwVHlEWjBaSkQ5VE1KVVJCMkJZenJmbzBMSGlGSnlhRWpDRWNvSFdrYnVDaUE1UlloNXJqLS1lV2RTdWpwWDlKMkNnNEpGLdIBmAFBVV95cUxNREU5MEpaN0FuNHV3WTRDdmYzczUzR25HMno0WG5XU3Uxcnh6TUNodUNRRVp4UFhiaDI0Mm1wbkRrNm1XMTZDQ3pNb1h6ZGpUT1EwVHlEWjBaSkQ5VE1KVVJCMkJZenJmbzBMSGlGSnlhRWpDRWNvSFdrYnVDaUE1UlloNXJqLS1lV2RTdWpwWDlKMkNnNEpGLQ?oc=5": "2026-07-27",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14TzcyOHl2am91eEJ3am1NcWtaOS1zRFZSbHhSVlhya0FtdFFrLTl1TFNuVVRsbW9oN3FoUkFXNUg4alBybWJ6cGhMS2cwQ1l1OFVValZCTWw1SVkyd2c?oc=5": "2026-07-27",
-    "https://news.yahoo.co.jp/articles/5c164a57522aafd6d872cfc4306c70c0e8cccacf": "2026-07-27",
-    "https://news.yahoo.co.jp/articles/e4e7bfbe2418a5beed7ed9bcfc96ee39593b7607": "2026-07-27",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYb3RzV0J1MDJFZlA5V0dVVFNXZndzenpHNGpsa3hobVRSQ29ySHZ5NkhfcFU3VGhFRzJfbXI5QjVGSVZma1l3MndCRFV1UE9WX1Bsam1PbTM3eEVkSXdOSkpoRG1IcUtjSEE?oc=5": "2026-07-27",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iM24wU3BjWE9BS3B1MmtaNkVNTl9BWVpzUmtPckdKTGJ6VFFhV1U5UFlPT082NVJmR0JXVXpUN1FYcmJTWFo3ZUQ5cHVjaXFWZkFhd0VxUnF1dkdpNUxXLUUtcHhOWmFjZzJLNlRDSzFxQ3RQbnBON3Fn?oc=5": "2026-07-27",
-    "https://news.yahoo.co.jp/articles/9d7e95fbdddfbe52d0d629f965bf75e5e0ad6377": "2026-07-27",
     "https://dentsudigital.co.jp/news/release/services/2026-0727-000337": "2026-07-28",
     "https://www.facebook.com/business/news/2026-holiday-small-business": "2026-07-28",
     "https://www.lycbiz.com/jp/column/ly-ads/guideline/advertising-data-usage-guidelines/?list=23496": "2026-07-28",
@@ -291,45 +282,19 @@
     "https://news.yahoo.co.jp/articles/f7dbdcd5545f6d54759227c7824ac192f750d2eb": "2026-08-26",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVElqN19zSzFIZklNR0N0VTlFMDRRaUpIbWQzMmQ5M29BUHowa0J2TlNQTUFFd2NwQXJpQUV6S0pMVnI5cUxIOFVjU2FZbTl3MzFZTzR2RFViNzRGSGh4QTd2V3dlSUl3WFE?oc=5": "2026-08-26",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rZ3BBU0FISzBfMkVzYmZ6NTEtRWd0THk2SWFiNVdJRXNyMlpaUGYxcTJnMlFveHR2UGNDWDhwaWs5TUF4aHF3RkgxYmNuMFhuV0hsTGhRRVZjR2J4NEJN?oc=5": "2026-08-26",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UdDhuckw3YVJDSUU2eWp4RnNLNFFjQVNxb0R6em1Nc29yVHJvb3BWOXpWU0F3NTJ6alhHMExzTWQzWTgwUUhSUnlRT2pPNjBkaXg5NWMxRGpFcWV1TzJiSzlTLWw?oc=5": "2026-08-26"
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UdDhuckw3YVJDSUU2eWp4RnNLNFFjQVNxb0R6em1Nc29yVHJvb3BWOXpWU0F3NTJ6alhHMExzTWQzWTgwUUhSUnlRT2pPNjBkaXg5NWMxRGpFcWV1TzJiSzlTLWw?oc=5": "2026-08-26",
+    "https://www.lycbiz.com/jp/column/line-official-account/service-information/business-manager-examination/": "2026-08-27",
+    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-08": "2026-08-27",
+    "https://www.lycbiz.com/jp/column/line-official-account/restaurant/service-information/line-restaurant-plus/": "2026-08-27",
+    "https://dentsudigital.co.jp/news/release/services/2026-0827-000342": "2026-08-27",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ueGFfZnR5dDRFQXJuelhfaVJHX291cUZaYVZHclg3c3BIc05FczBDeGpLV0lmcFlLdzN4Z0FkemozRFZ6LXBHd2dfQUh2QWZMa3hIQkVsTUw2blhyM0UxSkRaWlZGVkJMX3c?oc=5": "2026-08-27",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1I5dkU5QlNZQTh0YW9VMEo4ZmU2eC1GNGcydW01VEtjMm9pM0JjaFJVbWhLYms1bkVJNjZhZzVGOHNHT253MnE1OHYxRDEtcVhNLW0tYzFPS1FnZURZWlp3OTMxT3F4SlE0MUdfUnR0dHNLSk96QlduUzIzM19EYnd4M2ZuanVqaEpLR0lmWUh2RTVzeGI1dUR5YzF0NUhqcG1zOWJNcXpsaWNNLTdiZ0dCWVd6Sl96?oc=5": "2026-08-27",
+    "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af": "2026-08-27",
+    "https://news.yahoo.co.jp/articles/0f2de48d16e06c468d4468f22afcb50916fd2877": "2026-08-27",
+    "https://news.yahoo.co.jp/articles/ae9b48940ad0d01bc7d0f97a823561fb3d1fe437": "2026-08-27",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByM05WSk83bi1KMG5qM2F3Zk5TS2VuNkdtQWZlcTV1U0N2eTFrSWk0LWJILWUxUk1xRWlsb21LVGNpUklaMUMyRGxwb0R3QzA3d1dtUE1Ea2RRVDdyNWFJaHlzUmpOLUUy?oc=5": "2026-08-27"
   },
   "titles": [
-    {
-      "title": "電通デジタルと電通、データクリーンルーム分析を自然言語で支援する「Tobiras Agent」を開発",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "運用型広告を蘇らせるIntent IQのID技術－「運用型広告の限界」と「PMPが売れない壁」をどう突破するか？[イベントレポート] - Exchangewire Japan",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Meta（META）がLightspeedと提携 実店舗売上と広告効果の連携へ - simplywall.st",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "TikTok広告だけで月5万ドル稼ぐアプリを構築した｜Starter Story - BigGo ファイナンス",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "育毛・養毛剤「効果ゼロ」でも返金認められず？ 消費者が知っておくべき“法的救済”の難しさ【弁護士解説】…で公開されていたA社の育毛剤の広告について、医薬部外品であるため「発毛効果はうたえない」として、薬機法および景品表示法に違反する恐れがあると指摘した。弁護士JPニュース社会7/26(日) 10:40",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "【14年連続流通額1位の理由は】「makeshop」 末次敦氏「『越境EC』『AI活用』支援を大幅強化」…能だ。これによりEC事業者だけでなく、制作会社やコンサルティング会社、広告代理店などのパートナー企業も、ECデータを活用した新たな提案や分析サービスを…日本ネット経済新聞経済総合7/27(月) 10:35",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "越境ECのジグザグ、海外向け広告の戦略設計から運用・改善まで支援する「WorldShopping BIZ Growth」の提供を開始 - PR TIMES",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Googleリスティング広告運用代行サービス―株式会社Shinker地域密着の伴走力を活かし、問い合わせに直結する運用を提供 - イザ！",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "ウルトラマン、環境素材で参上 CHUKOU ―宙光―」の完成発表会を都内で開いた。デザイナーや大手広告代理店の関係者など約50人が来場した。 春日社長は「ウルトラマンと伝統工芸、…ニュースイッチ産業7/27(月) 9:10",
-      "date": "2026-07-27"
-    },
     {
       "title": "アドビと連携し「Adobe LLM Optimizer」を活用したGEO支援を開始",
       "date": "2026-07-28"
@@ -1473,90 +1438,49 @@
     {
       "title": "B2Bマーケティング支援の強化に向け、広告主・パートナー企業向け専用サイト「HEARST Media Solutions」を新設 - ハースト婦人画報社",
       "date": "2026-08-26"
+    },
+    {
+      "title": "ビジネスマネージャーの審査とは？CRMオプションなどの利用前に知っておきたい準備と進め方",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "日本の中高年はゲーム好き？ 最新行動データからひも解く令和シニアのWeb・アプリ行動〜アプリ編〜 ー進化する令和シニアのスマートライフ【第8回】",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "LINEレストランプラスとは？飲食店のモバイルオーダー・会計・集客をLINEに集約",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "AI時代に求められる企業・団体のCX高度化を支援する「dentsu CX-Connect」を駐在・伴走型支援サービスとしてアップデート",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "プレイド、Googleの統合取り込みAPI「Google Data Manager API」に対応開始 - PR TIMES",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "YouTubeショートの広告費は伸び悩み。TikTokやリールに勝てない理由 - DIGIDAY［日本版］",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方…現性を高めることです。 2. 広告運用の判断基準 Google広告、Meta広告、モール内広告について、どのKPIで評価し、どの基準で予算を増減させて…ネットショップ担当者フォーラムIT総合8/26(水) 16:01",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "業界の壁を越えた“ワンチーム”で活動する「日本オンライン詐欺対策アライアンス」（JASA）設立…けでは不十分で、社会全体で連携した対策が必要になると指摘した。 Google広告では、不実表示に関するポリシーを改訂したほか、AIを活用した検出シス…INTERNET WatchIT総合8/27(木) 7:30",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション…ューション「DV Authentic Attention(R)」をTikTok広告へも適用。直接的なインプレッションレベルのシグナルを統合することで、…ウォーカープラス経済総合4/2(木) 14:00",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "＜シップス＞デジタル広告におけるブランドセーフティ・アドフラウド対策を強化 - ニコニコニュース",
+      "date": "2026-08-27"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "電通デジタルと電通、データクリーンルーム分析を自然言語で支援する「Tobiras Agent」を開発",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0625-000331",
-      "summary": "・電通デジタルと電通がAIエージェント「Tobiras Agent」を開発し運用を開始した\n・データクリーンルーム分析を自然言語の対話形式で支援するツールである\n・従来は高度な専門知識が必要だった分析作業の敷居を大幅に引き下げる狙いがある",
-      "score": 4,
-      "reason": "電通グループの新ツール発表プレスリリース",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Google News",
-      "title": "運用型広告を蘇らせるIntent IQのID技術－「運用型広告の限界」と「PMPが売れない壁」をどう突破するか？[イベントレポート] - Exchangewire Japan",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55QjdEcFZqSmhKU0Y1WE52MUdhcjU0QnVxWWhWTnRYRDhYNHFwXzZrajlZSVVjaEU4aXR6QW0xY2FqVGJUeGY4d2RwaThHTzhsRU1VUTkxeS03b05icHptUEdSNnJMOFR1Q2VzRw?oc=5",
-      "summary": "・Intent IQのID技術が運用型広告の課題であるCookie規制後のターゲティング精度低下を解決する手段として注目されている\n・PMPの販売が伸び悩む背景にはリーチ不足や在庫の限定性があり、ID技術によるオーディエンス拡張が突破口となり得る\n・同社の技術はCookieレス環境でもユーザー識別を可能にし、広告主・媒体社双方の収益改善に寄与する点が紹介された",
-      "score": 7,
-      "reason": "ID技術によるCookie代替と運用型広告改善の実践的知見",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta（META）がLightspeedと提携 実店舗売上と広告効果の連携へ - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREU5MEpaN0FuNHV3WTRDdmYzczUzR25HMno0WG5XU3Uxcnh6TUNodUNRRVp4UFhiaDI0Mm1wbkRrNm1XMTZDQ3pNb1h6ZGpUT1EwVHlEWjBaSkQ5VE1KVVJCMkJZenJmbzBMSGlGSnlhRWpDRWNvSFdrYnVDaUE1UlloNXJqLS1lV2RTdWpwWDlKMkNnNEpGLdIBmAFBVV95cUxNREU5MEpaN0FuNHV3WTRDdmYzczUzR25HMno0WG5XU3Uxcnh6TUNodUNRRVp4UFhiaDI0Mm1wbkRrNm1XMTZDQ3pNb1h6ZGpUT1EwVHlEWjBaSkQ5VE1KVVJCMkJZenJmbzBMSGlGSnlhRWpDRWNvSFdrYnVDaUE1UlloNXJqLS1lV2RTdWpwWDlKMkNnNEpGLQ?oc=5",
-      "summary": "・MetaがPOSプロバイダーのLightspeedと戦略的提携を発表した\n・実店舗での売上データとMeta広告の効果測定を直接連携させる仕組みを構築\n・オンラインとオフラインの広告効果を統合しROAS可視化の精度向上を目指す",
-      "score": 6,
-      "reason": "Meta広告のオフライン売上連携は効果測定に関連",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok広告だけで月5万ドル稼ぐアプリを構築した｜Starter Story - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14TzcyOHl2am91eEJ3am1NcWtaOS1zRFZSbHhSVlhya0FtdFFrLTl1TFNuVVRsbW9oN3FoUkFXNUg4alBybWJ6cGhMS2cwQ1l1OFVValZCTWw1SVkyd2c?oc=5",
-      "summary": "・TikTok広告のみを活用し月間5万ドルの収益を上げるアプリが構築された\n・広告チャネルをTikTokに一本化することで効率的な集客と収益化を実現した\n・Starter Storyが紹介する本事例はアプリ×SNS広告の成功モデルとして注目される",
-      "score": 5,
-      "reason": "TikTok広告活用の事例紹介だが詳細不明",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "育毛・養毛剤「効果ゼロ」でも返金認められず？ 消費者が知っておくべき“法的救済”の難しさ【弁護士解説】…で公開されていたA社の育毛剤の広告について、医薬部外品であるため「発毛効果はうたえない」として、薬機法および景品表示法に違反する恐れがあると指摘した。弁護士JPニュース社会7/26(日) 10:40",
-      "link": "https://news.yahoo.co.jp/articles/5c164a57522aafd6d872cfc4306c70c0e8cccacf",
-      "summary": "・育毛・養毛剤は医薬部外品のため発毛効果をうたえず、広告表現が薬機法や景品表示法に違反する恐れがあると弁護士が指摘\n・効果がなくても消費者が返金を求める法的救済は難しく、立証責任や契約条件が大きな壁となっている\n・消費者は購入前に医薬部外品と医薬品の違いや広告表現の限界を理解し、冷静な判断が求められる",
-      "score": 4,
-      "reason": "薬機法・景表法の広告規制事例だが実務直結度は低い",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【14年連続流通額1位の理由は】「makeshop」 末次敦氏「『越境EC』『AI活用』支援を大幅強化」…能だ。これによりEC事業者だけでなく、制作会社やコンサルティング会社、広告代理店などのパートナー企業も、ECデータを活用した新たな提案や分析サービスを…日本ネット経済新聞経済総合7/27(月) 10:35",
-      "link": "https://news.yahoo.co.jp/articles/e4e7bfbe2418a5beed7ed9bcfc96ee39593b7607",
-      "summary": "・GMOメイクショップの「makeshop」が14年連続でEC流通額1位を達成し、その強さの背景を末次氏が語った\n・今後は越境EC対応とAI活用の支援機能を大幅に強化し、EC事業者の売上拡大を後押しする方針を示した\n・ECデータのAPI連携により制作会社や広告代理店など外部パートナーの分析・提案活用も可能にする",
-      "score": 3,
-      "reason": "EC支援サービス紹介で広告運用との関連は間接的",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Google News",
-      "title": "越境ECのジグザグ、海外向け広告の戦略設計から運用・改善まで支援する「WorldShopping BIZ Growth」の提供を開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYb3RzV0J1MDJFZlA5V0dVVFNXZndzenpHNGpsa3hobVRSQ29ySHZ5NkhfcFU3VGhFRzJfbXI5QjVGSVZma1l3MndCRFV1UE9WX1Bsam1PbTM3eEVkSXdOSkpoRG1IcUtjSEE?oc=5",
-      "summary": "・越境EC支援のジグザグが海外向け広告の戦略設計から運用・改善まで一貫支援する新サービスを開始した\n・新サービス「WorldShopping BIZ Growth」は越境EC事業者の海外集客課題を包括的に解決する\n・既存の購入代行サービスに広告運用支援を加え、越境EC参入企業の売上拡大を総合的にサポートする",
-      "score": 3,
-      "reason": "越境EC広告支援の新サービスPRリリース",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Google News",
-      "title": "Googleリスティング広告運用代行サービス―株式会社Shinker地域密着の伴走力を活かし、問い合わせに直結する運用を提供 - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iM24wU3BjWE9BS3B1MmtaNkVNTl9BWVpzUmtPckdKTGJ6VFFhV1U5UFlPT082NVJmR0JXVXpUN1FYcmJTWFo3ZUQ5cHVjaXFWZkFhd0VxUnF1dkdpNUxXLUUtcHhOWmFjZzJLNlRDSzFxQ3RQbnBON3Fn?oc=5",
-      "summary": "・株式会社ShinkerがGoogleリスティング広告の運用代行サービスを提供開始した\n・地域密着型の伴走支援を強みとし、クライアントに寄り添った広告運用を展開する\n・問い合わせ獲得に直結する成果重視の広告運用を目指すサービス内容となっている",
-      "score": 2,
-      "reason": "広告代行会社のプレスリリースで実務知見なし",
-      "date": "2026-07-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ウルトラマン、環境素材で参上 CHUKOU ―宙光―」の完成発表会を都内で開いた。デザイナーや大手広告代理店の関係者など約50人が来場した。 春日社長は「ウルトラマンと伝統工芸、…ニュースイッチ産業7/27(月) 9:10",
-      "link": "https://news.yahoo.co.jp/articles/9d7e95fbdddfbe52d0d629f965bf75e5e0ad6377",
-      "summary": "・円谷プロと伝統工芸が連携し環境素材を活用したウルトラマン作品「CHUKOU―宙光―」を発表\n・完成発表会を都内で開催しデザイナーや大手広告代理店関係者ら約50人が来場した\n・春日社長がウルトラマンと伝統工芸の融合による新たなブランド展開の意義を語った",
-      "score": 1,
-      "reason": "広告運用と無関係の製品発表イベント記事",
-      "date": "2026-07-27"
-    },
     {
       "source": "電通デジタル",
       "title": "アドビと連携し「Adobe LLM Optimizer」を活用したGEO支援を開始",
@@ -4130,6 +4054,96 @@
       "score": 3,
       "reason": "メディア企業のB2B向けサイト新設プレスリリース",
       "date": "2026-08-26"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "ビジネスマネージャーの審査とは？CRMオプションなどの利用前に知っておきたい準備と進め方",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/service-information/business-manager-examination/",
+      "summary": "・LINEヤフーのビジネスマネージャー利用にはCRMオプション等の機能開放前に審査が必要となる\n・審査通過に向けた事前準備や必要書類、具体的な申請手順についての解説記事である\n・LINEヤフー法人向けサービスの最新活用方法やノウハウも併せて紹介されている",
+      "score": 5,
+      "reason": "LINE広告周辺のCRM準備情報で間接的に実務関連",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "日本の中高年はゲーム好き？ 最新行動データからひも解く令和シニアのWeb・アプリ行動〜アプリ編〜 ー進化する令和シニアのスマートライフ【第8回】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-08",
+      "summary": "・日本の60代スマホ保有率は9割に達し、中高年層のゲームアプリ利用が拡大している\n・日米比較の行動データから令和シニアのオンラインゲーム利用実態を分析している\n・アプリ編として中高年のゲーム関連アプリの具体的な利用動向をデータで解説している",
+      "score": 5,
+      "reason": "シニア層の行動データはターゲティング設計の参考になる",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "LINEレストランプラスとは？飲食店のモバイルオーダー・会計・集客をLINEに集約",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/restaurant/service-information/line-restaurant-plus/",
+      "summary": "・LINEレストランプラスは飲食店向けにモバイルオーダー・会計・集客機能をLINE上に一元化するサービス\n・顧客はLINEアプリから注文や決済が可能となり、店舗オペレーションの効率化と顧客体験の向上を実現\n・LINEヤフーが法人向けに提供し、LINE公式アカウントと連携した集客・リピーター獲得にも活用できる",
+      "score": 3,
+      "reason": "飲食店向けサービス紹介で広告運用との関連薄い",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI時代に求められる企業・団体のCX高度化を支援する「dentsu CX-Connect」を駐在・伴走型支援サービスとしてアップデート",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0827-000342",
+      "summary": "・電通デジタルが電通・電通プロモーションと共同で「dentsu CX-Connect」を刷新し提供開始した\n・AI時代に対応した企業・団体のCX（顧客体験）高度化を支援するサービスへとアップデートした\n・従来のサービスを駐在・伴走型の支援モデルに進化させクライアントとの密接な連携を強化する",
+      "score": 3,
+      "reason": "電通グループのサービス刷新プレスリリース",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "Google News",
+      "title": "プレイド、Googleの統合取り込みAPI「Google Data Manager API」に対応開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ueGFfZnR5dDRFQXJuelhfaVJHX291cUZaYVZHclg3c3BIc05FczBDeGpLV0lmcFlLdzN4Z0FkemozRFZ6LXBHd2dfQUh2QWZMa3hIQkVsTUw2blhyM0UxSkRaWlZGVkJMX3c?oc=5",
+      "summary": "・プレイドがGoogleの統合データ取り込みAPI「Google Data Manager API」への対応を開始した\n・同APIによりGoogle広告などへのファーストパーティデータ連携が効率化される見込み\n・Cookie規制強化を背景に自社データ活用の広告配信ニーズの高まりに対応する施策といえる",
+      "score": 8,
+      "reason": "Google Data Manager API対応は運用データ連携に直結",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "Google News",
+      "title": "YouTubeショートの広告費は伸び悩み。TikTokやリールに勝てない理由 - DIGIDAY［日本版］",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1I5dkU5QlNZQTh0YW9VMEo4ZmU2eC1GNGcydW01VEtjMm9pM0JjaFJVbWhLYms1bkVJNjZhZzVGOHNHT253MnE1OHYxRDEtcVhNLW0tYzFPS1FnZURZWlp3OTMxT3F4SlE0MUdfUnR0dHNLSk96QlduUzIzM19EYnd4M2ZuanVqaEpLR0lmWUh2RTVzeGI1dUR5YzF0NUhqcG1zOWJNcXpsaWNNLTdiZ0dCWVd6Sl96?oc=5",
+      "summary": "・YouTubeショートの広告費が伸び悩み、TikTokやInstagramリールに後れを取っている状況が明らかに\n・短尺動画市場での競争が激化する中、YouTubeショートは広告主からの投資獲得に苦戦している\n・クリエイターエコシステムや広告フォーマットの成熟度の差が競合との差を生む要因とされる",
+      "score": 8,
+      "reason": "YouTube Shorts広告費動向は予算配分判断に有用",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方…現性を高めることです。 2. 広告運用の判断基準 Google広告、Meta広告、モール内広告について、どのKPIで評価し、どの基準で予算を増減させて…ネットショップ担当者フォーラムIT総合8/26(水) 16:01",
+      "link": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
+      "summary": "・AI時代にEC事業の価値を高めるには顧客データやデジタル資産の整備が重要と指摘\n・Google広告やMeta広告等の運用ではKPI設定と予算増減の判断基準の明確化が必要\n・買い手に評価されるEC事業には再現性ある広告運用ノウハウの体系化が求められる",
+      "score": 7,
+      "reason": "広告運用KPI・予算判断基準の実践的解説",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "業界の壁を越えた“ワンチーム”で活動する「日本オンライン詐欺対策アライアンス」（JASA）設立…けでは不十分で、社会全体で連携した対策が必要になると指摘した。 Google広告では、不実表示に関するポリシーを改訂したほか、AIを活用した検出シス…INTERNET WatchIT総合8/27(木) 7:30",
+      "link": "https://news.yahoo.co.jp/articles/0f2de48d16e06c468d4468f22afcb50916fd2877",
+      "summary": "・業界横断の「日本オンライン詐欺対策アライアンス（JASA）」が設立され官民連携で詐欺対策を推進する体制が整った\n・個別企業の対策だけでは不十分とし、社会全体でのワンチーム連携による包括的な詐欺対策の必要性が指摘された\n・Google広告は不実表示ポリシーを改訂しAI活用の検出システム導入など、プラットフォーム側の対策も強化している",
+      "score": 7,
+      "reason": "Google広告の詐欺対策ポリシー改訂情報あり",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "デジタル広告が主流の今、マーケターが向き合うべきリスクとは？広告の透明性を変える「DoubleVerify」のソリューション…ューション「DV Authentic Attention(R)」をTikTok広告へも適用。直接的なインプレッションレベルのシグナルを統合することで、…ウォーカープラス経済総合4/2(木) 14:00",
+      "link": "https://news.yahoo.co.jp/articles/ae9b48940ad0d01bc7d0f97a823561fb3d1fe437",
+      "summary": "・デジタル広告主流の時代にマーケターが直面する広告詐欺やブランド毀損などのリスクを解説\n・DoubleVerifyが広告の透明性と品質を担保する「DV Authentic Attention」を提供している\n・同ソリューションをTikTok広告にも拡大しインプレッションレベルで効果測定が可能に",
+      "score": 7,
+      "reason": "DV活用やTikTok広告計測の実務的知見",
+      "date": "2026-08-27"
+    },
+    {
+      "source": "Google News",
+      "title": "＜シップス＞デジタル広告におけるブランドセーフティ・アドフラウド対策を強化 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByM05WSk83bi1KMG5qM2F3Zk5TS2VuNkdtQWZlcTV1U0N2eTFrSWk0LWJILWUxUk1xRWlsb21LVGNpUklaMUMyRGxwb0R3QzA3d1dtUE1Ea2RRVDdyNWFJaHlzUmpOLUUy?oc=5",
+      "summary": "・アパレルブランド「シップス」がデジタル広告のブランドセーフティ対策を強化する方針を発表した\n・不正な広告表示や詐欺的クリックを防ぐアドフラウド対策にも本格的に取り組む姿勢を示した\n・広告配信先の品質管理を徹底し、ブランド毀損リスクの低減と広告効果の最大化を目指す",
+      "score": 6,
+      "reason": "ブランドセーフティ対策事例で実務参考になる",
+      "date": "2026-08-27"
     }
   ]
 }
