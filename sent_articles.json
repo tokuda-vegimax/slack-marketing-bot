@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBseVRlMjBJeUwtU0YxVm5JWHUyUnpoVkdrT2hYNXNSdUZrS2ZMT1N6WWJuZEV4bjJzVkFLYWE5YzdIcHpQUFNkakFHUEdfd1N4NHRJ?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LQWxPV0N0Nnl1bHMtWVlYMU95bEEyTzdIRGlHYk1LSUtsOVV3QWI5UUd4Uk1UcWNWSTVQQ3BWVzRhTHgzVmVaOThSQUt1R2RyS1lYZjdXcHprdmV0QXFlczFfNzhuMEtVUEw4SklXbk9ZYTRaOEVTQQ?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWm83ZGF4eGpfYjJrRHdpTXQ3a3lhTVFoZU1DRmVMR2dzR1E3bVhDcG54Q1ZLLVVNTXpWb0lnM0tNcTNvSjY0T1lIeTVjRVA0b2JnMFp3?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE14dGpHeVI1MFRuMXRvQUJqOExlU3MyVklGZmIyeE5WcWM5eHhucG9JaGZXRk02XzlfTkpycVhVTllpTndGMlFudGV4VU80M0tRY0JRb3VWSGVSWkJ5WDdOeEJpUGptZjJiV0E?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWNxTHJwWVI0UnZldm9qMzJtd085a0RpM3dBUnRLZjNWSmdYQ0RORUdXT19IWlhUOGxmVjNPN1lkNk12NHlpdUFJSlB3ZUc3UkNONUtSVGhmeXpDc0k3U2F2Yk92MkdzbnloT1FjVGhMQmNiaXM2ZlJYekw5Y0RiYkFRNnNsQQ?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GQU9pRjVvQ3NyaGRYOTA1NVd6eFlrUGRyckpvRnBtMGoxUmplNGRlV1ptaFpBdVF3RVNMQmF2Mk45dFB1QTBWZ0hUaHNkQQ?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lcXlGSDdEWG1qckFTRHFhRDdfTlhsVnZXZXlVeGYwMVQ3anFDOUhkZlBDdlRGY3FhZXFFWEoyU2xuT3RwSF8wT2lyYlRYWFFTWnhsVGZhdGdCWENPbzJmY3psR0tjT0drUldPMnBHZnV2TUJ6NnBFcm5kVQ?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjRmSmxtWVZTMjJDdWFUaTBIOXBSeUVuX196ek41WmhCZHB2NXcxdzRnOXhuLUM0ZTl1aGlld285UkVGbnZyMzBzVmV6WmZyemswUEwxQ3VlcnVuSUMyTXdkeDVqNDRqOUJhbVNnTTBZLTZfS1pQSC1rUlEzeUo4c0ExZlBJak5keHNLQTVlbFFIWG1sRDhOWEFUXzZoNTN2eGc?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZHlINzRKcjZOaGZJdXV2MVhTMUdUUnlhd3ZXRzRxMEo1ejAyQzNDY3JTM3JJV2taT2VHSU1oaVlOSWQxOUdHUTNEczFhTTdzTmtyZ0VhU24xQ1FPSmFIT3djZ3NPc0hsSW1naUszblB3TGZ4RjBfRzY0UQ?oc=5": "2026-08-01",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTnpxRDlobGhacFhzM2c2N2NGT1VDWHdBcDM3Vkx5dUpwbVRybHpCOG1oa0Fsakptc3prTWVYLUxxRnJsWmtfalQ2UE15NkpjeGIxUFVYUXU0YlMzNjVvcWU0SGRzR3lsNkE?oc=5": "2026-08-01",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2Q5RnN1bTg4a254OWduQ3hCMTZUWjdjemJPdHZQcm5QZjEyOTVZMHFXTjJ3S1VXOTY0QWtKV1UtVjNudUxGOWF2TGhOby1FTy14OUdoUlM5dVZTQWppTk00RGpMUXpvSWpUeWljSUN2dVc0X21CWWxpZElsTm1kVFk0QUU3ZUpVWWdBVVVn?oc=5": "2026-08-02",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXZBRkZ4S1NSSDBmcUcwM2JJekFCU2JNSW5qTl82a1A5bVRpRTR1ODNuckxmNHd5bEFwZ2pTUkxaNjBhbWR3cGVfRDNmX2dkSVljOUo1ZW4tU2poemJ4c1NudkFTQ3R5QVVTMi0wUmJnYk13dmJQMkROOVFFSi1Ga0JRZlYteUY5UXdzQ0ZpczR5dzh6T21zYlRyOGpaM0x4OFNyYUNfR0NycVRiektQVA?oc=5": "2026-08-02",
     "https://news.yahoo.co.jp/articles/2ddfaccfc9e086438941965d72a0f135f31da434": "2026-08-02",
@@ -287,49 +277,18 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wczV1SVFCaUJsa2RTdEFKWXB6ZlV4LU45ZmF0TDctR0VSQ202cHdQTU10MjNyRHg3TDRDY3lDZXdMYlJWd3ZLQks3cVUzUnlkbFBWcHBMQnFsNzFBb251NjVxYnJMTWQyUUE?oc=5": "2026-08-31",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MbkQtNnlRcm1OSUw0RGloUTJlQk80M0JpNXVQNF9HR2JSUW5sZktQMDg4ZGV0dk5Jc3FVV3RuWjJZQktpcmptTmlockNoVDU4emYxWkpjNnpaMk15c19WOXpFUTAwSHZNU3c?oc=5": "2026-08-31",
     "https://news.yahoo.co.jp/articles/dc0579c49840f8ce42ee4b6799ea15f9ea11cbc9": "2026-08-31",
-    "https://news.yahoo.co.jp/articles/0b062f00e15881ae97d2bb3052bf2536fda54d35": "2026-08-31"
+    "https://news.yahoo.co.jp/articles/0b062f00e15881ae97d2bb3052bf2536fda54d35": "2026-08-31",
+    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-09": "2026-09-01",
+    "https://dentsudigital.co.jp/news/release/services/2026-0901-000343": "2026-09-01",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/business-manager/?list=23496": "2026-09-01",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vd3ZteTZjZ3FBc1AwVm5BWDFFenJiU3hraDBjR0dPWjFwa19pSjZVSGsxYVBfT0o1dVlKSGJhWEY1LXFBTWdXenpBVExtY2ZFMW8xTUdlWGRDVVJBS3RYRFlGdnl0UkNu?oc=5": "2026-09-01",
+    "https://news.yahoo.co.jp/articles/74cd9a2cba7b59c9db784ae0ad171d5377bfc40e": "2026-09-01",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LUVBzdGdXSURtYmxVb1VFQm9ZaGhYZmhlajJ5U3BvZUd1dTY4alZRc1ZIMEM4cGRCWktaUVVfM1U2RWV6QnhhMXpKT1lFdU5UVUgxUVlQZHg4aWNBMFc3aVZ3aE1sNkpBZTRRRVk0ZEE?oc=5": "2026-09-01",
+    "https://news.yahoo.co.jp/articles/3f577cae5de9826a23985af6eb9acf22b4bc6a9a": "2026-09-01",
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NN0d0ZVZqWmFyN3FjeXo3RVhaS2JpNWJkQmlhUjRicnNqM2FyNFBsWThJT2FzX1VvRkJoUm9ySFEtRUk?oc=5": "2026-09-01",
+    "https://news.yahoo.co.jp/articles/9c2112a902668628013e92383a866d914157cbb9": "2026-09-01"
   },
   "titles": [
-    {
-      "title": "CV・予約数が2倍！美容クリニック事例に学ぶ、「量と質」を両立するTikTok広告活用 (1/3) - MarkeZine",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "TikTok for Businessとマキアージュが挑む、MMMを通じたデジタル広告キャンペーン検証 - 宣伝会議",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "東京都、広告監視の結果を公表 令和7年度、ネット・SNS広告で377件指導 - ウェルネスデイリーニュース",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.5.29 | 株式会社REGAL COREのプレスリリース - PR TIMES",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Google の​日本での​調査 5 本を​時系列で​振り返る —— パルス消費から​情報ドリフティングへ - Google Business Profile",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "スイッチメディア、デジタル広告運用インハウス化の費用対効果を試算できる「インハウス化ROIシミュレーター」を提供開始 - アットプレス",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "AIコピーライターの衝撃 広告代理店は今後どうなる？（画像）（3/10枚目） - ITmedia",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "メタの広告エンジンは強固。クラウドが新たな不確実要因に - Moomoo",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Google、広告サービスの「AdWords」や「DoubleClick」を改称し再編成（画像）（1/4枚目） - ITmedia",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "【継続率91％】Shinker、動画制作から改善まで一気通貫で支援する「TikTok広告運用代行サービス」を提供 - PR TIMES",
-      "date": "2026-08-01"
-    },
     {
       "title": "Google Ads Safety Report 2025 年版のハイライト - blog.google",
       "date": "2026-08-02"
@@ -1453,99 +1412,49 @@
     {
       "title": "「才能が神」ロッチ・コカド、自作の“ドット柄”シャツを披露！圧巻クオリティに「お店で売ってるレベル」称賛の声続々…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/31(月) 6:40",
       "date": "2026-08-31"
+    },
+    {
+      "title": "令和シニアのSNS最新動向2025— なぜ60代にInstagramが選ばれているのか ー進化する令和シニアのスマートライフ【第9回】",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "「日本語コピーライティング特化型生成AI」の開発に向けた共同研究成果を公表",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "LINEヤフー広告の開設で迷わない！ビジネスマネージャーとLINE公式アカウント接続時の注意点",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "生成AI広告、月130点を7か月。neko punch株式会社が「FREECASH」の制作事例を公開 - ニコニコニュース",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "FTCと22州、Amazonを提訴 広告オークションで「隠れた上乗せ」と主張 Amazonは「見当違い」と反論…も主張されている。2021年12月にはクリック単価の急騰で大手広告主や広告代理店から20件近い苦情が寄せられたが、Amazonは広報部門と法務部門の確…ITmedia NEWSIT総合9/1(火) 9:44",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Meta Platformsはいつグーグル検索をデジタル広告で抜くのか？バーンスタインが分析 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "偽タイマー、過度な割引、同意なき更新…消費者誤解させる「ダークパターン」 規制強化へ…指す。実際には普段と同じ価格にも関わらず、タイムセールと表示したり、デジタル広告を消すボタンを小さく表示して、誤操作させて商品サイトに誘導したりと、イ…産経新聞経済総合8/31(月) 17:12",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "～医薬品・医薬部外品・化粧品・医療機器等の広告審査をAIが網羅的にレビュー〜 - 株式会社LegalOn Technologies",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "伊藤忠、電通総研のTOBを決定－非公開化で電通Gとの親子上場解消…ディアでの協力も明らかにした。ファミリーマートのサイネージを活用したデジタル広告に取り組む伊藤忠グループのゲート・ワンやデータ・ワンが電通と業務提携す…Bloomberg経済総合8/31(月) 8:51",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "偽タイマー、過度な割引、同意なき更新…消費者誤解させる「ダークパターン」 規制強化へ…消費者庁は31日、インターネット上のサブスクリプション（定額利用）サービスや商品の定期購入に関し、重要事項について嘘をつくなど事業者の不当な解約妨害…産経新聞経済総合8/31(月) 17:12",
+      "date": "2026-09-01"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "CV・予約数が2倍！美容クリニック事例に学ぶ、「量と質」を両立するTikTok広告活用 (1/3) - MarkeZine",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBseVRlMjBJeUwtU0YxVm5JWHUyUnpoVkdrT2hYNXNSdUZrS2ZMT1N6WWJuZEV4bjJzVkFLYWE5YzdIcHpQUFNkakFHUEdfd1N4NHRJ?oc=5",
-      "summary": "・美容クリニックがTikTok広告を活用しCV・予約数を2倍に伸ばした成功事例を紹介\n・広告配信における「量と質」の両立が課題となる中、効果的な運用手法を解説\n・TikTok広告特有のクリエイティブ戦略がコンバージョン改善に大きく貢献した",
-      "score": 8,
-      "reason": "TikTok広告のCV改善事例で実践的運用ノウハウが豊富",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok for Businessとマキアージュが挑む、MMMを通じたデジタル広告キャンペーン検証 - 宣伝会議",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LQWxPV0N0Nnl1bHMtWVlYMU95bEEyTzdIRGlHYk1LSUtsOVV3QWI5UUd4Uk1UcWNWSTVQQ3BWVzRhTHgzVmVaOThSQUt1R2RyS1lYZjdXcHprdmV0QXFlczFfNzhuMEtVUEw4SklXbk9ZYTRaOEVTQQ?oc=5",
-      "summary": "・TikTok for Businessと資生堂マキアージュがMMM（マーケティング・ミックス・モデリング）を活用し広告効果を検証\n・デジタル広告キャンペーンの各メディア貢献度を統計的に分析し、TikTok広告の投資対効果を可視化した\n・MMM導入により媒体横断での最適な予算配分や今後のマーケティング戦略の意思決定精度向上を目指す",
-      "score": 7,
-      "reason": "TikTok×MMM活用の具体的検証事例で実務参考になる",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "東京都、広告監視の結果を公表 令和7年度、ネット・SNS広告で377件指導 - ウェルネスデイリーニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWm83ZGF4eGpfYjJrRHdpTXQ3a3lhTVFoZU1DRmVMR2dzR1E3bVhDcG54Q1ZLLVVNTXpWb0lnM0tNcTNvSjY0T1lIeTVjRVA0b2JnMFp3?oc=5",
-      "summary": "・東京都が令和7年度の広告監視結果を公表し、不適切な広告への対応状況を明らかにした\n・インターネット広告やSNS広告を中心に合計377件の指導が行われた\n・健康・美容関連のウェルネス分野における誇大広告や虚偽表示が主な対象とみられる",
-      "score": 6,
-      "reason": "ネット広告規制・指導事例は広告表現の注意喚起に有用",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.5.29 | 株式会社REGAL COREのプレスリリース - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14dGpHeVI1MFRuMXRvQUJqOExlU3MyVklGZmIyeE5WcWM5eHhucG9JaGZXRk02XzlfTkpycVhVTllpTndGMlFudGV4VU80M0tRY0JRb3VWSGVSWkJ5WDdOeEJpUGptZjJiV0E?oc=5",
-      "summary": "・株式会社REGAL COREが薬機法・景品表示法違反の恐れがある広告表現の実例を定期調査として公開した\n・2026年5月29日付で違反リスクのあるデジタル広告の具体的な配信事例をまとめプレスリリースで発表\n・広告主や代理店に向け法令違反リスクの高い表現への注意喚起と適正な広告運用を促す内容となっている",
-      "score": 6,
-      "reason": "薬機法・景表法違反の配信実例は広告審査対策に有用",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "Google の​日本での​調査 5 本を​時系列で​振り返る —— パルス消費から​情報ドリフティングへ - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWNxTHJwWVI0UnZldm9qMzJtd085a0RpM3dBUnRLZjNWSmdYQ0RORUdXT19IWlhUOGxmVjNPN1lkNk12NHlpdUFJSlB3ZUc3UkNONUtSVGhmeXpDc0k3U2F2Yk92MkdzbnloT1FjVGhMQmNiaXM2ZlJYekw5Y0RiYkFRNnNsQQ?oc=5",
-      "summary": "・Googleが日本市場で実施した消費者行動に関する5つの調査を時系列で整理し振り返る内容である\n・衝動的な購買行動を示す「パルス消費」から受動的な情報接触「情報ドリフティング」への変遷を追う\n・日本の消費者の意思決定プロセスや情報行動の変化をGoogleの調査データで体系的に解説している",
-      "score": 6,
-      "reason": "Google消費者行動調査は広告戦略立案の参考になる",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "スイッチメディア、デジタル広告運用インハウス化の費用対効果を試算できる「インハウス化ROIシミュレーター」を提供開始 - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GQU9pRjVvQ3NyaGRYOTA1NVd6eFlrUGRyckpvRnBtMGoxUmplNGRlV1ptaFpBdVF3RVNMQmF2Mk45dFB1QTBWZ0hUaHNkQQ?oc=5",
-      "summary": "・スイッチメディアがデジタル広告運用のインハウス化によるROIを試算できるシミュレーターを提供開始した\n・広告主が代理店委託からインハウス運用へ移行した場合の費用対効果を具体的に可視化できるツールである\n・インハウス化を検討する企業がコスト削減効果や投資回収期間を事前に把握し意思決定を支援する狙いがある",
-      "score": 5,
-      "reason": "インハウス化検討の参考になるが具体運用ノウハウは薄い",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "AIコピーライターの衝撃 広告代理店は今後どうなる？（画像）（3/10枚目） - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lcXlGSDdEWG1qckFTRHFhRDdfTlhsVnZXZXlVeGYwMVQ3anFDOUhkZlBDdlRGY3FhZXFFWEoyU2xuT3RwSF8wT2lyYlRYWFFTWnhsVGZhdGdCWENPbzJmY3psR0tjT0drUldPMnBHZnV2TUJ6NnBFcm5kVQ?oc=5",
-      "summary": "・AIコピーライターの台頭が広告業界に大きな変革をもたらしつつある\n・広告代理店のクリエイティブ業務がAIに代替される可能性が議論されている\n・ITmediaが全10枚の画像付きで広告業界の今後の展望を詳しく報じている",
-      "score": 5,
-      "reason": "AI×広告業界の動向考察だが具体的運用知見は限定的",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "メタの広告エンジンは強固。クラウドが新たな不確実要因に - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjRmSmxtWVZTMjJDdWFUaTBIOXBSeUVuX196ek41WmhCZHB2NXcxdzRnOXhuLUM0ZTl1aGlld285UkVGbnZyMzBzVmV6WmZyemswUEwxQ3VlcnVuSUMyTXdkeDVqNDRqOUJhbVNnTTBZLTZfS1pQSC1rUlEzeUo4c0ExZlBJak5keHNLQTVlbFFIWG1sRDhOWEFUXzZoNTN2eGc?oc=5",
-      "summary": "・メタの広告エンジンは依然として強固な収益基盤を維持していると評価されている\n・クラウド事業が新たな不確実要因として浮上し今後の業績に影響を与える可能性がある\n・広告事業の安定性とクラウド分野のリスクが投資家の注目ポイントとなっている",
-      "score": 5,
-      "reason": "Meta広告事業の業績動向で中長期的な参考情報",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "Google、広告サービスの「AdWords」や「DoubleClick」を改称し再編成（画像）（1/4枚目） - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZHlINzRKcjZOaGZJdXV2MVhTMUdUUnlhd3ZXRzRxMEo1ejAyQzNDY3JTM3JJV2taT2VHSU1oaVlOSWQxOUdHUTNEczFhTTdzTmtyZ0VhU24xQ1FPSmFIT3djZ3NPc0hsSW1naUszblB3TGZ4RjBfRzY0UQ?oc=5",
-      "summary": "・GoogleがAdWordsをGoogle Adsに、DoubleClickをGoogle Marketing Platformに改称した\n・広告サービスを再編成し、広告主や代理店にとってよりわかりやすいブランド体系へ刷新\n・18年間使われたAdWordsの名称を廃止し、広告プラットフォーム全体の統合を推進した",
-      "score": 4,
-      "reason": "Google広告再編成の過去記事で現在の実務影響は限定的",
-      "date": "2026-08-01"
-    },
-    {
-      "source": "Google News",
-      "title": "【継続率91％】Shinker、動画制作から改善まで一気通貫で支援する「TikTok広告運用代行サービス」を提供 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTnpxRDlobGhacFhzM2c2N2NGT1VDWHdBcDM3Vkx5dUpwbVRybHpCOG1oa0Fsakptc3prTWVYLUxxRnJsWmtfalQ2UE15NkpjeGIxUFVYUXU0YlMzNjVvcWU0SGRzR3lsNkE?oc=5",
-      "summary": "・Shinkerが動画制作から改善まで一貫対応するTikTok広告運用代行サービスを開始した\n・継続率91％を誇り、広告クリエイティブの企画・制作・運用・分析改善をワンストップで提供\n・TikTok特有の縦型動画ノウハウを活かし、広告主の運用負担軽減と成果最大化を支援する",
-      "score": 4,
-      "reason": "TikTok広告代行サービスのPRで運用知見は限定的",
-      "date": "2026-08-01"
-    },
     {
       "source": "Google News",
       "title": "Google Ads Safety Report 2025 年版のハイライト - blog.google",
@@ -4074,6 +3983,96 @@
       "score": 2,
       "reason": "芸能ニュースが主で広告運用との関連が薄い",
       "date": "2026-08-31"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "令和シニアのSNS最新動向2025— なぜ60代にInstagramが選ばれているのか ー進化する令和シニアのスマートライフ【第9回】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-09",
+      "summary": "・総務省の2025年6月最新調査で60代のネット平均利用時間がさらに伸長している\n・60代シニア層にInstagramが選ばれる傾向が顕著になっていることが明らかに\n・令和シニアのスマートライフが進化しSNS利用の多様化が加速している",
+      "score": 5,
+      "reason": "シニア層のSNS利用動向はターゲティング戦略の参考になる",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "「日本語コピーライティング特化型生成AI」の開発に向けた共同研究成果を公表",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0901-000343",
+      "summary": "・電通・電通デジタル・SB Intuitionsの3社が日本語コピーライティング特化型生成AIの共同研究成果を公表した\n・研究では日本語の広告コピーを自動で評価する技術の開発に取り組んでいる\n・生成AIを活用し広告コピー制作の品質向上と効率化を目指す取り組みとして注目される",
+      "score": 4,
+      "reason": "広告コピーAI共同研究の成果公表でありPR寄り",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告の開設で迷わない！ビジネスマネージャーとLINE公式アカウント接続時の注意点",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/business-manager/?list=23496",
+      "summary": "・LINEヤフー広告開設に必須のビジネスマネージャーの役割や導入メリットを詳しく解説している\n・LINE公式アカウントとビジネスマネージャーの接続手順や審査・認証プロセスを網羅的に紹介\n・接続時に起こりやすいトラブルや注意点を整理し、スムーズな広告運用開始を支援する内容",
+      "score": 7,
+      "reason": "LINEヤフー広告の実務的な開設手順と注意点の解説",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Google News",
+      "title": "生成AI広告、月130点を7か月。neko punch株式会社が「FREECASH」の制作事例を公開 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vd3ZteTZjZ3FBc1AwVm5BWDFFenJiU3hraDBjR0dPWjFwa19pSjZVSGsxYVBfT0o1dVlKSGJhWEY1LXFBTWdXenpBVExtY2ZFMW8xTUdlWGRDVVJBS3RYRFlGdnl0UkNu?oc=5",
+      "summary": "・neko punch株式会社が報酬サービス「FREECASH」の生成AI広告制作事例を公開した\n・月間約130点の広告クリエイティブを生成AIで制作し7か月間継続運用している\n・大量の広告素材を短期間で制作できる生成AI活用の実践的な成功事例として注目される",
+      "score": 7,
+      "reason": "生成AIでの広告クリエイティブ量産事例で実践的",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FTCと22州、Amazonを提訴 広告オークションで「隠れた上乗せ」と主張 Amazonは「見当違い」と反論…も主張されている。2021年12月にはクリック単価の急騰で大手広告主や広告代理店から20件近い苦情が寄せられたが、Amazonは広報部門と法務部門の確…ITmedia NEWSIT総合9/1(火) 9:44",
+      "link": "https://news.yahoo.co.jp/articles/74cd9a2cba7b59c9db784ae0ad171d5377bfc40e",
+      "summary": "・FTCと22州がAmazonを提訴し広告オークションで「隠れた上乗せ」により広告費を不当に引き上げたと主張\n・2021年12月にはクリック単価の急騰に対し大手広告主や代理店から約20件の苦情が寄せられていた\n・Amazonは訴訟内容を「見当違い」と反論し広報・法務部門を通じて対応姿勢を示している",
+      "score": 7,
+      "reason": "Amazon広告オークション不正疑惑は出稿者に重要",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta Platformsはいつグーグル検索をデジタル広告で抜くのか？バーンスタインが分析 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LUVBzdGdXSURtYmxVb1VFQm9ZaGhYZmhlajJ5U3BvZUd1dTY4alZRc1ZIMEM4cGRCWktaUVVfM1U2RWV6QnhhMXpKT1lFdU5UVUgxUVlQZHg4aWNBMFc3aVZ3aE1sNkpBZTRRRVk0ZEE?oc=5",
+      "summary": "・バーンスタインがMetaのデジタル広告収益がGoogle検索を追い抜く時期について分析レポートを公開した\n・Metaは広告プラットフォームの成長を加速させており、Google検索との収益差が縮小傾向にある\n・デジタル広告市場の競争激化を背景に両社の勢力図が今後大きく変わる可能性が指摘されている",
+      "score": 5,
+      "reason": "MetavsGoogle広告市場分析で業界動向として参考",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "偽タイマー、過度な割引、同意なき更新…消費者誤解させる「ダークパターン」 規制強化へ…指す。実際には普段と同じ価格にも関わらず、タイムセールと表示したり、デジタル広告を消すボタンを小さく表示して、誤操作させて商品サイトに誘導したりと、イ…産経新聞経済総合8/31(月) 17:12",
+      "link": "https://news.yahoo.co.jp/articles/3f577cae5de9826a23985af6eb9acf22b4bc6a9a",
+      "summary": "・偽のタイムセールや誤操作を誘う小さな閉じるボタンなど消費者を欺くダークパターンが問題化している\n・実際には通常価格と同じにもかかわらず割引表示を行うなど悪質な手法がデジタル広告で横行している\n・政府や関係機関はダークパターンに対する規制強化の方針を打ち出し消費者保護の取り組みを進める",
+      "score": 5,
+      "reason": "ダークパターン規制は広告表現の注意喚起に有用",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Google News",
+      "title": "～医薬品・医薬部外品・化粧品・医療機器等の広告審査をAIが網羅的にレビュー〜 - 株式会社LegalOn Technologies",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NN0d0ZVZqWmFyN3FjeXo3RVhaS2JpNWJkQmlhUjRicnNqM2FyNFBsWThJT2FzX1VvRkJoUm9ySFEtRUk?oc=5",
+      "summary": "・LegalOn TechnologiesがAIによる医薬品・化粧品等の広告審査レビュー機能を提供開始した\n・医薬品・医薬部外品・化粧品・医療機器など幅広い分野の広告表現をAIが網羅的にチェックする\n・薬機法等の関連法規に基づく広告審査を自動化し、企業のコンプライアンス強化を支援する",
+      "score": 5,
+      "reason": "薬機法AI審査ツールは広告表現チェックに参考",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊藤忠、電通総研のTOBを決定－非公開化で電通Gとの親子上場解消…ディアでの協力も明らかにした。ファミリーマートのサイネージを活用したデジタル広告に取り組む伊藤忠グループのゲート・ワンやデータ・ワンが電通と業務提携す…Bloomberg経済総合8/31(月) 8:51",
+      "link": "https://news.yahoo.co.jp/articles/9c2112a902668628013e92383a866d914157cbb9",
+      "summary": "・伊藤忠商事が電通総研へのTOBを決定し非公開化により電通Gとの親子上場を解消する方針\n・ファミマのサイネージ活用デジタル広告を手がけるゲート・ワンやデータ・ワンが電通と業務提携\n・伊藤忠グループと電通グループがメディア・広告領域での協力関係を強化していく方向性を提示",
+      "score": 4,
+      "reason": "電通総研TOB・リテールメディア動向の企業ニュース",
+      "date": "2026-09-01"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "偽タイマー、過度な割引、同意なき更新…消費者誤解させる「ダークパターン」 規制強化へ…消費者庁は31日、インターネット上のサブスクリプション（定額利用）サービスや商品の定期購入に関し、重要事項について嘘をつくなど事業者の不当な解約妨害…産経新聞経済総合8/31(月) 17:12",
+      "link": "https://news.yahoo.co.jp/articles/3f577cae5de9826a23985af6eb9acf22b4bc6a9a",
+      "summary": "・消費者庁がネット上のダークパターン規制強化に乗り出し不当な解約妨害への対策を進める方針を示した\n・偽タイマーや過度な割引表示など消費者を誤解させるUI設計手法が問題視されている\n・サブスクや定期購入で重要事項の虚偽説明や同意なき自動更新が規制対象として検討される",
+      "score": 4,
+      "reason": "ダークパターン規制動向はLP設計時の注意に関連",
+      "date": "2026-09-01"
     }
   ]
 }
