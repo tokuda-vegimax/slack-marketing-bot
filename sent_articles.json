@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/management/2026-0807-000339": "2026-08-08",
-    "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496": "2026-08-08",
-    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202606": "2026-08-08",
-    "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496": "2026-08-08",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWhfU1R0LTRhRTMwRXFoTHFtTWxETUtjQ09LMV9Rdm9wSS03d29nTkZhR3lFZTFPRjM4RC1lTmVqSGFxU1dQWC1pTFdabVZzam03R0drcThFYUY0MHdIbGRWaHZJZks1YllaT0Y2XzJMZ2p2cG96X1RQcENBMEY5RlRORXNvY2dxMGdnWkNueW43N2xqMkF3VkhaMVhEdHBUNmk4?oc=5": "2026-08-08",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Bd0dGdVYzMHUyT1pfQWluNTBkc0FJejRZVUIyR3pxWnNBVnV5VUZXSmJuX2JrU1dCWGtjZldTNlQxQWF1WVc1WHlvbmJYaHh5Rmlxb3J1ekIwRjhHUWNmNWtMTGZFYXAxdm1B?oc=5": "2026-08-08",
-    "https://news.yahoo.co.jp/articles/04adb3f78a55f3735631bc9d69baf2eec5a1776f": "2026-08-08",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qbXpMWDNNMXJLYi0tWGEwMGJNN19VWTZLZzZPTlJvbjhTamtqTXZKSTdfcGpITW9LbWJyaVRubFVZSVpOTGk3NUR6LXpLalFyZXpUOWF1RUg0anNTbzVlMWJRM1N4cnJxYlE?oc=5": "2026-08-08",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZjlKeTR5d3luQV8tTmZhaDRWSW95ckpXSXVMMTNjOTY4V08teUVpTnVQSllsRTdEZVFwZmZDWlZxYmFvby0tTmktdk95MjQ2UGtmNmx4ajVnN0E3YnZPWnFpTQ?oc=5": "2026-08-08",
-    "https://news.yahoo.co.jp/articles/737d01a59418086c0f517d16eaa7d75e8052b7e3": "2026-08-08",
     "https://www.facebook.com/business/news/muse-image-for-businesses": "2026-08-09",
     "https://news.yahoo.co.jp/articles/3cc98620faa339db5289f10a093b948308730b68": "2026-08-09",
     "https://news.yahoo.co.jp/articles/e72efba8e937eaa4ec13b06e7da0c6adaadf0248": "2026-08-09",
@@ -290,49 +280,19 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Feld4MGNiMkJDa2tyU3dHWkZKZkhJYjR1VF9ETkRMOXVfbVhoRWFNSm05LWtvQTFneFcySEZ1SDZGSmRTWkEySHNIN1NtVkxrclE?oc=5": "2026-09-07",
     "https://news.yahoo.co.jp/articles/69e34be3d79549dd44eb64ebe23563818686a171": "2026-09-07",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CbndEQWtiaFJYMHBLbXNmTnR2d1lfNEtoX3BBM0tyMGRKNlBpYnZwWTRSUW1rQjc3MjFDUHphemlBWngxYjlGVzM5dW15dw?oc=5": "2026-09-07",
-    "https://news.yahoo.co.jp/articles/81a46e8a2ec2746b1c65fe10a7068e8a436cf519": "2026-09-07"
+    "https://news.yahoo.co.jp/articles/81a46e8a2ec2746b1c65fe10a7068e8a436cf519": "2026-09-07",
+    "https://oneder.hakuhodody-one.co.jp/blog/buyer-direct-transparency": "2026-09-08",
+    "https://dentsudigital.co.jp/news/release/services/2026-0907-000344": "2026-09-08",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIN29RWC1nOUFsVWpwemwwbHgtNmNnQ2I2d2xFSEJsWUZjQjBpWk9FOFM2VHN3dElDbmxmSGtWQkxIYUZZcTdSc2FBXzNUaExQR2oxU293?oc=5": "2026-09-08",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRkptNTIyNUdheEhqSl91VW1USG1OcVFsUUtaUTZ6LVJRNl9oNnhzdlRRYmZTWndxVENrOUxUZWdaUXhUWk0wTEJYNlRiYW5Mc2M5d2ZZdzNESkFBY3h2NHRiZTBxSnJ1MHc?oc=5": "2026-09-08",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KaDh2RVM5TzZLSnNCd094NkJKMzExVDdzX2F3a2pnWEwyY2s2RlpNdXd3Sy00c3ppb0p3dml5Z3h4QWlVa1RkWlRWWmxNOEhQcTFGWUhkV2h3dWlkVGtUeWJWQQ?oc=5": "2026-09-08",
+    "https://news.yahoo.co.jp/articles/95b9723dcf8b4edb801235bec67d842b375b02db": "2026-09-08",
+    "https://news.yahoo.co.jp/articles/e64ba2e839a10b54ffa0e98d91b0757a89e9bd78": "2026-09-08",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWNzeFM5X19sSUdtSW50eWZtUEdJTnlWY0FiR2JIdzNKckQzR3lhNFFOdndRci1pM29IdlRselBocE81eXJpNFZnSG5KclZveGg5N2M1Zk9tUUpyR25tZGlGb3ZTdmdNMVNtWGZfSnFIT2JVUXdqWlNRX3NYOXQtaFVRb0FKWHBN?oc=5": "2026-09-08",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5": "2026-09-08",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQVJYd2IydnpHWGdtS0tUeGtiOWMwT1BkNHYxN1dUTTdVSy1qZXVjQ3JfMW93ZVQ5cllhbFNZVlJ2UW1hTEljLXk0YmZfWmhqNDdXelFRaHZzMHc?oc=5": "2026-09-08"
   },
   "titles": [
-    {
-      "title": "設立10年の軌跡とAI時代の価値創造プロセスを示す「電通デジタル統合レポート2026」を発行",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年6月）",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Google が目指す “ 最高の広告 ” は「答えそのもの」—— 理想を追求した Google 広告の 25 年間 - Google Business Profile",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "警察庁ら、Google、LINEヤフーなどデジタル広告プラットフォーム5社に「なりすまし詐欺広告」対策強化を要請 - INTERNET Watch",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "警察庁ら、Google、LINEヤフーなどデジタル広告プラットフォーム5社に「なりすまし詐欺広告」対策強化を要請…8月7日、SNSなどにおけるなりすまし詐欺広告への対策強化について、デジタル広告プラットフォーム5社に文書による要請を行った。 対象の5社は次のとおり。INTERNET WatchIT総合8/7(金) 15:10",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁（1/2 ページ） - ITmedia",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "写真加工アプリでステマ 「ＳＮＯＷ」運営会社に措置命令―消費者庁 - 時事ドットコム",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "成り済まし広告詐欺対策を、政府 SNS大手5社に要請…ライン広告を端緒とする詐欺被害が拡大しているとして、交流サイト（SNS）事業者など大手5社に対し、対策を要請した。デジタル庁や警察庁、消費者庁など7省…共同通信社会8/7(金) 19:41",
-      "date": "2026-08-08"
-    },
     {
       "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
       "date": "2026-08-09"
@@ -1472,99 +1432,49 @@
     {
       "title": "とんねるず・木梨憲武の交友関係の広さに驚きの声！“10年ぶり”KABA.ちゃんも…豪華集合ショットに反響…れません。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/6(日) 16:15",
       "date": "2026-09-07"
+    },
+    {
+      "title": "広告配信の“経路”を見直す時代へ。Google「Buyer Direct」が実現する透明性と高純度なデータ連携",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "AI活用を前提にCXデザイン業務を再設計する「AI×CX業務リデザイン」を提供開始",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "ダークパターン規制で変わるネット商法、解約フォームからSNS勧誘、タイムセール表示まで広がる規制の射程 消費者庁が特定商取引法改正を検討、コンバージョン最適化と違法の境界線、「申込3クリック、解約は電話」はNG(1/5) - JBpress",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "最新WEBマーケティングを学べる無料セミナーを開催― Meta広告はなぜ“その人”に表示される？AI配信の仕組みを解説― - PR TIMES",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "グーグル、広告事業の一部売却回避 独禁訴訟、司法省要求退ける―米地裁 - 時事ドットコム",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "被害総額3兆円超え 悪質なウェブ表示「ダークパターン」の実態 日本人がだまされやすい手口 数字の前に「￥」マーク、中国人民元で決済…た。 被害規模は2年前から約2倍に拡大しており、消費者庁は9月2日、規制強化へ乗り出した。 ◆消費者庁が規制強化 インターネットを利用した際、次のよう…FNNプライムオンライン（フジテレビ系）社会9/8(火) 7:42",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "【独自】アデランス子会社がステマ 外部企業に報酬払って投稿を依頼 宣伝であることが消費者に明確に伝わらないような広告表示は、23年10月から規制された。消費者庁によると、規制前の投稿でも現在も閲覧可能ならば、ステ…共同通信社会9/8(火) 2:00",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "TikTok、違法薬物広告が相次ぐ──密売業者の出稿から広告収入を獲得 - Yahoo!ニュース",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "市内店舗のデジタル広告を支援します - city.atsugi.kanagawa.jp",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "アナグラム株式会社、新卒採用を開始「一人でも食べていける力がつく」運用型広告コンサルタント職 - 朝日新聞",
+      "date": "2026-09-08"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "設立10年の軌跡とAI時代の価値創造プロセスを示す「電通デジタル統合レポート2026」を発行",
-      "link": "https://dentsudigital.co.jp/news/release/management/2026-0807-000339",
-      "summary": "・電通デジタルが統合報告書「電通デジタル統合レポート2026」を発行しコーポレートサイトで公開した\n・設立10年の軌跡を振り返り、これまでの成長と事業展開の歩みをまとめている\n・AI時代における同社の価値創造プロセスを示し、今後の方向性を提示している",
-      "score": 3,
-      "reason": "企業IRレポート発行のプレスリリース",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496",
-      "summary": "・2026年4〜6月に実施されたLINEヤフー広告の主要アップデートをまとめた記事\n・検索広告における新機能や仕様変更点について解説している\n・ディスプレイ広告の新機能や変更点も含めた包括的な情報を提供",
-      "score": 9,
-      "reason": "主要プラットフォームの四半期アップデート総まとめで即実務に直結",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年6月）",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202606",
-      "summary": "・ChatGPTが国内AI検索エンジンシェア約68%を獲得し前月比1.61pt増と成長を継続\n・Geminiは前月比2.76pt減少しシェアを落とす結果となり競争力に陰りが見える\n・AI検索エンジン市場ではChatGPTの独走が鮮明になりつつある状況が浮き彫りに",
-      "score": 6,
-      "reason": "AI検索シェア動向は広告出稿先判断に参考になる業界データ",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
-      "link": "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496",
-      "summary": "・生成AI活用が広がる広告現場でアンコンシャス・バイアスの再生産リスクが課題となっている\n・対応策としてDE&I（多様性・公平性・包括性）の視点を取り入れる重要性を解説している\n・多様な受け手に配慮したクリエイティブ制作の具体的なポイントを紹介している",
-      "score": 5,
-      "reason": "広告クリエイティブ制作の一般的知見でDE&I視点の啓発記事",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Google News",
-      "title": "Google が目指す “ 最高の広告 ” は「答えそのもの」—— 理想を追求した Google 広告の 25 年間 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWhfU1R0LTRhRTMwRXFoTHFtTWxETUtjQ09LMV9Rdm9wSS03d29nTkZhR3lFZTFPRjM4RC1lTmVqSGFxU1dQWC1pTFdabVZzam03R0drcThFYUY0MHdIbGRWaHZJZks1YllaT0Y2XzJMZ2p2cG96X1RQcENBMEY5RlRORXNvY2dxMGdnWkNueW43N2xqMkF3VkhaMVhEdHBUNmk4?oc=5",
-      "summary": "・Google広告は25年間「最高の広告は答えそのもの」という理念を掲げ進化を続けてきた\n・ユーザーの検索意図に最も合致する情報を広告として届けることを理想像としている\n・Google広告の歴史は検索体験と広告体験の融合を追求してきた軌跡といえる",
-      "score": 7,
-      "reason": "Google広告の思想・方向性を理解する良資料",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Google News",
-      "title": "警察庁ら、Google、LINEヤフーなどデジタル広告プラットフォーム5社に「なりすまし詐欺広告」対策強化を要請 - INTERNET Watch",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Bd0dGdVYzMHUyT1pfQWluNTBkc0FJejRZVUIyR3pxWnNBVnV5VUZXSmJuX2JrU1dCWGtjZldTNlQxQWF1WVc1WHlvbmJYaHh5Rmlxb3J1ekIwRjhHUWNmNWtMTGZFYXAxdm1B?oc=5",
-      "summary": "・警察庁らがGoogle・LINEヤフーなど広告プラットフォーム5社に対しなりすまし詐欺広告への対策強化を正式に要請した\n・著名人や企業を騙る偽広告が社会問題化しており、利用者の金銭被害が深刻化している背景がある\n・広告審査の厳格化や本人確認の強化など、プラットフォーム側の具体的な取り組み加速が求められている",
-      "score": 6,
-      "reason": "広告審査・規制強化は運用ポリシーに影響しうる",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "警察庁ら、Google、LINEヤフーなどデジタル広告プラットフォーム5社に「なりすまし詐欺広告」対策強化を要請…8月7日、SNSなどにおけるなりすまし詐欺広告への対策強化について、デジタル広告プラットフォーム5社に文書による要請を行った。 対象の5社は次のとおり。INTERNET WatchIT総合8/7(金) 15:10",
-      "link": "https://news.yahoo.co.jp/articles/04adb3f78a55f3735631bc9d69baf2eec5a1776f",
-      "summary": "・警察庁らが8月7日、なりすまし詐欺広告の対策強化をデジタル広告大手5社に文書で要請した\n・対象はGoogleやLINEヤフーなど主要デジタル広告プラットフォーム事業者5社である\n・SNS上で著名人になりすました詐欺広告の被害拡大を受け、官民連携で対策を強化する方針",
-      "score": 6,
-      "reason": "id0と同内容、詐欺広告規制は審査影響あり",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Google News",
-      "title": "写真加工アプリ「SNOW」にステマで措置命令 報酬付きでX投稿依頼、広告表示なし 消費者庁（1/2 ページ） - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qbXpMWDNNMXJLYi0tWGEwMGJNN19VWTZLZzZPTlJvbjhTamtqTXZKSTdfcGpITW9LbWJyaVRubFVZSVpOTGk3NUR6LXpLalFyZXpUOWF1RUg0anNTbzVlMWJRM1N4cnJxYlE?oc=5",
-      "summary": "・消費者庁が写真加工アプリ「SNOW」運営元にステルスマーケティングで措置命令を出した\n・報酬を支払いインフルエンサー等にX（旧Twitter）での投稿を依頼しながら広告表示をしていなかった\n・ステマ規制強化の流れの中で、広告であることを明示しない手法が景品表示法違反と判断された",
-      "score": 6,
-      "reason": "ステマ規制の措置命令事例は広告表示の参考",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Google News",
-      "title": "写真加工アプリでステマ 「ＳＮＯＷ」運営会社に措置命令―消費者庁 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZjlKeTR5d3luQV8tTmZhaDRWSW95ckpXSXVMMTNjOTY4V08teUVpTnVQSllsRTdEZVFwZmZDWlZxYmFvby0tTmktdk95MjQ2UGtmNmx4ajVnN0E3YnZPWnFpTQ?oc=5",
-      "summary": "・消費者庁が写真加工アプリ「SNOW」運営会社にステルスマーケティングで措置命令を出した\n・広告であることを隠してSNS等で宣伝していた行為が景品表示法違反と認定された\n・ステマ規制強化の流れの中でアプリ事業者への措置命令として注目される事例となった",
-      "score": 6,
-      "reason": "id6と同内容、ステマ規制事例として有用",
-      "date": "2026-08-08"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "成り済まし広告詐欺対策を、政府 SNS大手5社に要請…ライン広告を端緒とする詐欺被害が拡大しているとして、交流サイト（SNS）事業者など大手5社に対し、対策を要請した。デジタル庁や警察庁、消費者庁など7省…共同通信社会8/7(金) 19:41",
-      "link": "https://news.yahoo.co.jp/articles/737d01a59418086c0f517d16eaa7d75e8052b7e3",
-      "summary": "・政府がSNS大手5社に対し成り済まし広告詐欺への対策強化を正式に要請した\n・LINE広告を端緒とする詐欺被害が拡大しており深刻な社会問題となっている\n・デジタル庁・警察庁・消費者庁など7省庁が連携し共同で対策要請に踏み切った",
-      "score": 6,
-      "reason": "なりすまし詐欺広告要請の重複記事",
-      "date": "2026-08-08"
-    },
     {
       "source": "Meta for Business",
       "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
@@ -4129,6 +4039,96 @@
       "score": 1,
       "reason": "芸能ニュースが主体で広告運用と無関係",
       "date": "2026-09-07"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "広告配信の“経路”を見直す時代へ。Google「Buyer Direct」が実現する透明性と高純度なデータ連携",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/buyer-direct-transparency",
+      "summary": "・デジタル広告の取引経路が複雑化し透明性やデータ精度の課題が顕在化している\n・Google「Buyer Direct」は広告主とパブリッシャーを直接つなぎ中間経路を簡素化する仕組み\n・高純度なデータ連携と取引の透明性向上により広告効果の最大化を目指す新潮流となる",
+      "score": 7,
+      "reason": "Google Buyer Direct解説で広告取引透明性に直結",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI活用を前提にCXデザイン業務を再設計する「AI×CX業務リデザイン」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0907-000344",
+      "summary": "・電通デジタルがAI活用を前提にCX業務を再設計する新サービスを提供開始した\n・企業の顧客体験デザインに関わる業務プロセス全体をAI前提で刷新する内容である\n・業務プロセスの再設計だけでなく組織への浸透までを総合的に支援する点が特徴",
+      "score": 3,
+      "reason": "電通デジタルの新サービス発表で実務直結度低い",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Google News",
+      "title": "ダークパターン規制で変わるネット商法、解約フォームからSNS勧誘、タイムセール表示まで広がる規制の射程 消費者庁が特定商取引法改正を検討、コンバージョン最適化と違法の境界線、「申込3クリック、解約は電話」はNG(1/5) - JBpress",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIN29RWC1nOUFsVWpwemwwbHgtNmNnQ2I2d2xFSEJsWUZjQjBpWk9FOFM2VHN3dElDbmxmSGtWQkxIYUZZcTdSc2FBXzNUaExQR2oxU293?oc=5",
+      "summary": "・消費者庁が特定商取引法改正を検討し、ネット上のダークパターンへの規制強化に本格的に乗り出す方針を示した\n・申込は簡単なのに解約は電話のみなど、意図的に消費者を不利に誘導するUI設計が規制対象として明確化される見通し\n・タイムセールの虚偽表示やSNS勧誘も射程に入り、CVR最適化と違法行為の境界線が厳格に問われる時代に突入する",
+      "score": 7,
+      "reason": "CV最適化と違法の境界線は広告LP設計に直結",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Google News",
+      "title": "最新WEBマーケティングを学べる無料セミナーを開催― Meta広告はなぜ“その人”に表示される？AI配信の仕組みを解説― - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRkptNTIyNUdheEhqSl91VW1USG1OcVFsUUtaUTZ6LVJRNl9oNnhzdlRRYmZTWndxVENrOUxUZWdaUXhUWk0wTEJYNlRiYW5Mc2M5d2ZZdzNESkFBY3h2NHRiZTBxSnJ1MHc?oc=5",
+      "summary": "・Meta広告がなぜ特定ユーザーに表示されるかAI配信の仕組みを解説する無料セミナーが開催される\n・最新WEBマーケティングの知識を学べる内容でPR TIMESにて告知されている\n・Meta広告のターゲティング精度を支えるAI技術の理解を深める実践的な講座となっている",
+      "score": 7,
+      "reason": "Meta広告AI配信の仕組み解説セミナーで実務的",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Google News",
+      "title": "グーグル、広告事業の一部売却回避 独禁訴訟、司法省要求退ける―米地裁 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KaDh2RVM5TzZLSnNCd094NkJKMzExVDdzX2F3a2pnWEwyY2s2RlpNdXd3Sy00c3ppb0p3dml5Z3h4QWlVa1RkWlRWWmxNOEhQcTFGWUhkV2h3dWlkVGtUeWJWQQ?oc=5",
+      "summary": "・米連邦地裁がグーグルの広告技術独禁訴訟で司法省の事業売却要求を退ける判断を下した\n・グーグルはデジタル広告仲介事業の一部売却を回避し、事業維持が可能となった\n・司法省は広告市場での独占的地位を問題視していたが裁判所は全面的な分割を認めず",
+      "score": 7,
+      "reason": "Google広告事業の独禁訴訟結果は業界影響大",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "被害総額3兆円超え 悪質なウェブ表示「ダークパターン」の実態 日本人がだまされやすい手口 数字の前に「￥」マーク、中国人民元で決済…た。 被害規模は2年前から約2倍に拡大しており、消費者庁は9月2日、規制強化へ乗り出した。 ◆消費者庁が規制強化 インターネットを利用した際、次のよう…FNNプライムオンライン（フジテレビ系）社会9/8(火) 7:42",
+      "link": "https://news.yahoo.co.jp/articles/95b9723dcf8b4edb801235bec67d842b375b02db",
+      "summary": "・悪質なウェブデザイン「ダークパターン」による被害総額が3兆円を超え2年で約2倍に拡大している\n・価格表示に￥マークを使いつつ実際は中国人民元で決済させる手口など日本人が騙されやすい事例が報告された\n・消費者庁は9月2日よりダークパターンに対する規制強化に本格的に乗り出す方針を示した",
+      "score": 6,
+      "reason": "ダークパターン規制は広告表現の注意喚起になる",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【独自】アデランス子会社がステマ 外部企業に報酬払って投稿を依頼 宣伝であることが消費者に明確に伝わらないような広告表示は、23年10月から規制された。消費者庁によると、規制前の投稿でも現在も閲覧可能ならば、ステ…共同通信社会9/8(火) 2:00",
+      "link": "https://news.yahoo.co.jp/articles/e64ba2e839a10b54ffa0e98d91b0757a89e9bd78",
+      "summary": "・アデランス子会社が外部企業に報酬を支払い、広告と明示しないステルスマーケティング投稿を依頼していたことが判明\n・2023年10月施行のステマ規制により、宣伝と分からない広告表示は景品表示法違反の対象となっている\n・消費者庁は規制前の投稿でも現在閲覧可能であれば規制対象になるとの見解を示している",
+      "score": 6,
+      "reason": "ステマ規制の実例で広告表示の法令遵守に有用",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok、違法薬物広告が相次ぐ──密売業者の出稿から広告収入を獲得 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWNzeFM5X19sSUdtSW50eWZtUEdJTnlWY0FiR2JIdzNKckQzR3lhNFFOdndRci1pM29IdlRselBocE81eXJpNFZnSG5KclZveGg5N2M1Zk9tUUpyR25tZGlGb3ZTdmdNMVNtWGZfSnFIT2JVUXdqWlNRX3NYOXQtaFVRb0FKWHBN?oc=5",
+      "summary": "・TikTok上で違法薬物の広告が複数確認され、密売業者が正規の広告枠を利用して出稿している実態が判明\n・TikTokはこれら違法広告から広告収入を得ており、プラットフォームの審査体制の不備が問題視されている\n・広告審査プロセスの厳格化や違法コンテンツ排除の仕組み強化がTikTokに対して強く求められている",
+      "score": 5,
+      "reason": "TikTok広告の信頼性問題で出稿判断に影響",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Google News",
+      "title": "市内店舗のデジタル広告を支援します - city.atsugi.kanagawa.jp",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5",
+      "summary": "・厚木市が市内店舗を対象にデジタル広告の活用を支援する施策を実施している\n・地域の小売店や飲食店などの集客・売上向上を目的とした取り組みとみられる\n・自治体主導で地元事業者のデジタルマーケティング推進を後押しする内容である",
+      "score": 3,
+      "reason": "自治体の補助金情報で実務ノウハウではない",
+      "date": "2026-09-08"
+    },
+    {
+      "source": "Google News",
+      "title": "アナグラム株式会社、新卒採用を開始「一人でも食べていける力がつく」運用型広告コンサルタント職 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQVJYd2IydnpHWGdtS0tUeGtiOWMwT1BkNHYxN1dUTTdVSy1qZXVjQ3JfMW93ZVQ5cllhbFNZVlJ2UW1hTEljLXk0YmZfWmhqNDdXelFRaHZzMHc?oc=5",
+      "summary": "・アナグラム株式会社が運用型広告コンサルタント職の新卒採用を新たに開始した\n・「一人でも食べていける力がつく」を掲げ、高い専門スキル習得を訴求している\n・運用型広告の専門企業として即戦力人材の早期育成を目指す採用方針を打ち出した",
+      "score": 3,
+      "reason": "アナグラム新卒採用情報で採用プレスリリース",
+      "date": "2026-09-08"
     }
   ]
 }
