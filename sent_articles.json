@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.facebook.com/business/news/muse-image-for-businesses": "2026-08-09",
-    "https://news.yahoo.co.jp/articles/3cc98620faa339db5289f10a093b948308730b68": "2026-08-09",
-    "https://news.yahoo.co.jp/articles/e72efba8e937eaa4ec13b06e7da0c6adaadf0248": "2026-08-09",
-    "https://news.yahoo.co.jp/articles/78f6a4457df941f9141d5d6b93c61bc331ca3745": "2026-08-09",
-    "https://news.yahoo.co.jp/articles/771fc82203f6eaf1030ff866860ed2f1b9131ad4": "2026-08-09",
-    "https://news.yahoo.co.jp/articles/f5914484876314357b17e74cc0d68b205b2818ea": "2026-08-09",
     "https://www.lycbiz.com/jp/column/line-research/service-information/20180119-02/": "2026-08-10",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFbzFBVEwzbmxvTjNYQnB2X1hnbzhEWkdHMlBYQTVaUFhSanRYNnJhcTdaaE04WHV1MXJma1c5RHV5TTZ6dG90LVRlVjRBMzc1eS1FOFpSN1Ytck5wc0JPYTZQVy1qQkM3NU9KVXRyZmJQbk9IWlgwYXI0LWs?oc=5": "2026-08-10",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyajZMRU9LX0RsRjRQSTdwRFZsTkIwMVJDbE80R1o1LWZvYVIwNU1SVTB1SEs5bFNEbzd5MURrZzdKU0FnT2RiSzFGZG1MQQ?oc=5": "2026-08-10",
@@ -290,33 +284,19 @@
     "https://news.yahoo.co.jp/articles/e64ba2e839a10b54ffa0e98d91b0757a89e9bd78": "2026-09-08",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWNzeFM5X19sSUdtSW50eWZtUEdJTnlWY0FiR2JIdzNKckQzR3lhNFFOdndRci1pM29IdlRselBocE81eXJpNFZnSG5KclZveGg5N2M1Zk9tUUpyR25tZGlGb3ZTdmdNMVNtWGZfSnFIT2JVUXdqWlNRX3NYOXQtaFVRb0FKWHBN?oc=5": "2026-09-08",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeS1SZ3dVeE9ydUJBWDBFSHRKOGlYekFHU3VYM3BMMjhzdTVYb2M2TUNFcmtJbmUybnVOaFFPNlFrS3B4VFE4N0pUY0xybjNMYXNSYlYzd0N3Z2RBaGNxMnNiUVoyZHlJM0FsaXRJcVRyc3B5UXNvRlNjR2hUblhkeFZWWFFxcjRlb2F1VVhEQjJDWDQwdExTSE9yb0M0YXFWdkJlWHFuRnBwWE9qMWxRTA?oc=5": "2026-09-08",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQVJYd2IydnpHWGdtS0tUeGtiOWMwT1BkNHYxN1dUTTdVSy1qZXVjQ3JfMW93ZVQ5cllhbFNZVlJ2UW1hTEljLXk0YmZfWmhqNDdXelFRaHZzMHc?oc=5": "2026-09-08"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQVJYd2IydnpHWGdtS0tUeGtiOWMwT1BkNHYxN1dUTTdVSy1qZXVjQ3JfMW93ZVQ5cllhbFNZVlJ2UW1hTEljLXk0YmZfWmhqNDdXelFRaHZzMHc?oc=5": "2026-09-08",
+    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202607": "2026-09-09",
+    "https://oneder.hakuhodody-one.co.jp/blog/advertimes-discovery-commerce": "2026-09-09",
+    "https://dentsudigital.co.jp/news/release/services/2026-0908-000345": "2026-09-09",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496": "2026-09-09",
+    "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496": "2026-09-09",
+    "https://dentsudigital.co.jp/index%2ephp/news/release/management/2026-0807-000339": "2026-09-09",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wTFlJR1RiYi1hOHBHMzVTYmF3Q0ZieGY3TU9COG5ET3p3QXA0enNPUjJDRl9YMFptbGp6QjZSU3NnT0lYM3JFdVhfd2pSbUgwanlBSnVoOA?oc=5": "2026-09-09",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbGV1VVp2YV95cnRoa0dWSjlnalpidGNpWl9MbmpnLWJ5SWJ2a3RGTEJIbjhpVjVROE9nb003ekhpTFljZktkRGRSVFE4UQ?oc=5": "2026-09-09",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sUGlLRnJ1OG8xcXNFU3hkS1p0cWZ6aE5Va3ptRWNVYml3ZUUtNnFfWTdvM0NiaGJUYlNGSDY4LW12b3FPd2JJd3NJX09LQUVvQ2llQ0F2M2JfVnVOYm9J?oc=5": "2026-09-09",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MW9WYUN4ZWpRVC1oejd4QVhZeGNHS255OGliRXRPMXhvSkJkVEMtZXZmZDVrZnI5RU0tbFRvb2hKcTVpQTBOREJDV25LYU03NFdpeGZKVEEyUi1zWU5aZ2xxY2JqMlRJ?oc=5": "2026-09-09"
   },
   "titles": [
-    {
-      "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "ChatGPTユーザー4割が離脱 プライバシーを守るイノベーションがネット利用を変革している…ウェブサイトを横断して追跡する前に明確な許可を得るよう求めることで、デジタル広告の経済学を根本から変えた。 ユーザーの多くは追跡を許可しなかったため、…Forbes JAPANIT総合8/7(金) 12:00",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "「なりすまし詐欺広告」に強力な対策を 警察庁などがSNS各社に共同要請…する大規模事業者に対して、なりすまし詐欺広告への対策強化について、文書により要請した。警察庁、金融庁、消費者庁、総務省、法務省、経済産業省、デジタル庁…Impress WatchIT総合8/7(金) 18:07",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "著名人の「なりすまし詐欺広告」対策強化を要請 Google・LINEヤフー・Xなど対象 7府省庁合同で…ことが背景にある。 今回の要請は、警察庁に加え、デジタル庁、金融庁、消費者庁、総務省、法務省、経済産業省が合同で実施した。米Googleと米Meta…ITmedia NEWSIT総合8/7(金) 16:36",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "【毎日書評】手作業を手放して、自分にしかできない仕事に没頭する。ユニクロ流・働き方のリデザイン…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/8(土) 21:41",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "「昔ならなかった…」人気絶頂の川口春奈がサッカー日本代表・板倉滉との結婚にみる「芸能界の変化」…綾瀬もトップランナーとして走り続け、所属事務所に多大な貢献をしてきた。広告代理店関係者は 「ここまで稼いでくれたタレントには事務所側も本人の意志を尊重…FRIDAYエンタメ総合8/8(土) 11:00",
-      "date": "2026-08-09"
-    },
     {
       "title": "LINEリサーチ特長:国内最大級のモニター数",
       "date": "2026-08-10"
@@ -1472,63 +1452,49 @@
     {
       "title": "アナグラム株式会社、新卒採用を開始「一人でも食べていける力がつく」運用型広告コンサルタント職 - 朝日新聞",
       "date": "2026-09-08"
+    },
+    {
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年7月）",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "10万円のコーヒーマシンをどう売ったのか？Hakuhodo DY ONEが挑む、広告の枠を超えた「エンドツーエンド」の事業共創",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "設立10年の軌跡とAI時代の価値創造プロセスを示す「電通デジタル統合レポート2026」を発行",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "ChatGPT広告は「売上」を期待すべきか？EC事業者が知っておきたい現在地と評価の考え方 - コマースピック",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "広告成果の「壁」を突破する“第3のインサイト”とは？ - ECのミカタ",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "【総務省・JICDAQ登壇】AIによる広告最適化と新たな脅威。 今、広告主に求められる「ブランド価値の守り方」 - trans-cosmos.co.jp",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "雨の日は惣菜、猛暑日はアイス。SEデジタルの天気連動型広告、第二弾は流通・小売向けパッケージを提供開始 - news.nicovideo.jp",
+      "date": "2026-09-09"
     }
   ],
   "articles": [
-    {
-      "source": "Meta for Business",
-      "title": "Muse Image Brings Next-Generation AI to Image Generation for Businesses",
-      "link": "https://www.facebook.com/business/news/muse-image-for-businesses",
-      "summary": "・Meta Superintelligence Labsが次世代AI画像生成ツール「Muse Image」を企業向けに発表した\n・エージェント型推論技術を広告クリエイティブ制作に導入し高度な画像生成を実現する\n・AI部屋リスタイリング機能で消費者が自宅空間に商品を配置・視覚化できる体験を提供する",
-      "score": 8,
-      "reason": "Meta新AI画像生成で広告クリエイティブ制作に直接影響",
-      "date": "2026-08-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ChatGPTユーザー4割が離脱 プライバシーを守るイノベーションがネット利用を変革している…ウェブサイトを横断して追跡する前に明確な許可を得るよう求めることで、デジタル広告の経済学を根本から変えた。 ユーザーの多くは追跡を許可しなかったため、…Forbes JAPANIT総合8/7(金) 12:00",
-      "link": "https://news.yahoo.co.jp/articles/3cc98620faa339db5289f10a093b948308730b68",
-      "summary": "・ChatGPTユーザーの約4割が利用を離脱しており、AI活用の定着に課題が浮上している\n・プライバシー保護の技術革新がウェブサイト横断追跡に明確な同意を求める仕組みを普及させた\n・多くのユーザーが追跡を拒否した結果、デジタル広告の収益モデルが根本的に変化している",
-      "score": 6,
-      "reason": "プライバシー規制による広告追跡制限の動向解説",
-      "date": "2026-08-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「なりすまし詐欺広告」に強力な対策を 警察庁などがSNS各社に共同要請…する大規模事業者に対して、なりすまし詐欺広告への対策強化について、文書により要請した。警察庁、金融庁、消費者庁、総務省、法務省、経済産業省、デジタル庁…Impress WatchIT総合8/7(金) 18:07",
-      "link": "https://news.yahoo.co.jp/articles/e72efba8e937eaa4ec13b06e7da0c6adaadf0248",
-      "summary": "・警察庁など7省庁がSNS各社に対し「なりすまし詐欺広告」の対策強化を文書で共同要請した\n・著名人や企業を騙る偽広告が深刻化し、大規模SNS事業者への規制強化が求められている\n・警察庁・金融庁・消費者庁・総務省など省庁横断で連携し包括的な対応に乗り出した",
-      "score": 6,
-      "reason": "詐欺広告規制強化は広告審査・運用に影響しうる",
-      "date": "2026-08-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "著名人の「なりすまし詐欺広告」対策強化を要請 Google・LINEヤフー・Xなど対象 7府省庁合同で…ことが背景にある。 今回の要請は、警察庁に加え、デジタル庁、金融庁、消費者庁、総務省、法務省、経済産業省が合同で実施した。米Googleと米Meta…ITmedia NEWSIT総合8/7(金) 16:36",
-      "link": "https://news.yahoo.co.jp/articles/78f6a4457df941f9141d5d6b93c61bc331ca3745",
-      "summary": "・7府省庁が合同でGoogle・Meta・LINEヤフー・Xなどに著名人なりすまし詐欺広告への対策強化を要請した\n・警察庁・デジタル庁・金融庁・消費者庁・総務省・法務省・経産省が連携し異例の合同対応を実施した\n・著名人の画像や名前を無断使用した投資詐欺等の偽広告が深刻化していることが要請の背景にある",
-      "score": 6,
-      "reason": "主要広告媒体への詐欺広告対策要請で審査厳格化の可能性",
-      "date": "2026-08-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】手作業を手放して、自分にしかできない仕事に没頭する。ユニクロ流・働き方のリデザイン…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/8(土) 21:41",
-      "link": "https://news.yahoo.co.jp/articles/771fc82203f6eaf1030ff866860ed2f1b9131ad4",
-      "summary": "・ユニクロ流の働き方改革として手作業を手放し本質的業務に集中する方法を紹介\n・書評家・印南敦史氏が実際に体験し、業務リデザインの効果を検証している\n・自分にしかできない仕事へ没頭するための具体的な働き方の見直しを提案",
-      "score": 1,
-      "reason": "書評記事で広告運用とは無関係",
-      "date": "2026-08-09"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「昔ならなかった…」人気絶頂の川口春奈がサッカー日本代表・板倉滉との結婚にみる「芸能界の変化」…綾瀬もトップランナーとして走り続け、所属事務所に多大な貢献をしてきた。広告代理店関係者は 「ここまで稼いでくれたタレントには事務所側も本人の意志を尊重…FRIDAYエンタメ総合8/8(土) 11:00",
-      "link": "https://news.yahoo.co.jp/articles/f5914484876314357b17e74cc0d68b205b2818ea",
-      "summary": "・人気絶頂の川口春奈がサッカー日本代表・板倉滉との結婚を発表し大きな話題となった\n・以前は事務所が人気タレントの結婚を制限する傾向があったが芸能界の慣習が変化している\n・長年貢献したタレントの意志を事務所側が尊重する流れが業界全体に広がりつつある",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用とは無関係",
-      "date": "2026-08-09"
-    },
     {
       "source": "LINE for Business (LYCBiz)",
       "title": "LINEリサーチ特長:国内最大級のモニター数",
@@ -4129,6 +4095,96 @@
       "score": 3,
       "reason": "アナグラム新卒採用情報で採用プレスリリース",
       "date": "2026-09-08"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年7月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202607",
+      "summary": "・ChatGPTの国内AI検索シェアは約66%だが前月比1.31pt減と微減傾向にある\n・Geminiが前月比4.59pt増と大きくシェアを伸ばし存在感を高めている\n・AI検索市場はChatGPT一強からGemini台頭による競争激化の兆しが見える",
+      "score": 6,
+      "reason": "AI検索シェア動向は検索広告戦略の参考になる",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "10万円のコーヒーマシンをどう売ったのか？Hakuhodo DY ONEが挑む、広告の枠を超えた「エンドツーエンド」の事業共創",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/advertimes-discovery-commerce",
+      "summary": "・Hakuhodo DY ONEが10万円の高額コーヒーマシン販売で広告枠を超えた事業共創モデルに挑戦した\n・商品発見から購入までの時間が長いほど購買意欲が低下するという課題に着目している\n・SNS投稿や生成AIなど多様な接点から商品認知・購入に至る消費者行動の変化に対応している",
+      "score": 5,
+      "reason": "事業共創の事例紹介で広告運用の直接的知見は限定的",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0908-000345",
+      "summary": "・電通デジタルがAIエージェント活用のレビュー支援ソリューション「DeGA」を提供開始した\n・企業のデザインガイドラインやブランドルールに基づくデジタル制作物の確認を自動化する\n・正式名称はDesign Governance Agentで制作物の品質管理業務の効率化を目指す",
+      "score": 3,
+      "reason": "制作物レビュー自動化ツールのプレスリリース",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496",
+      "summary": "・2026年4〜6月に実施されたLINEヤフー広告の主要アップデートをまとめた記事\n・検索広告における新機能や仕様変更点について詳しく解説している\n・ディスプレイ広告の機能追加や変更点も網羅的に紹介している",
+      "score": 9,
+      "reason": "主要プラットフォームの四半期アップデートまとめで即実務に直結",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
+      "link": "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496",
+      "summary": "・生成AIの広告活用拡大に伴い、学習データに含まれるアンコンシャス・バイアスが再生産されるリスクが指摘されている\n・対応策としてDE&I（多様性・公平性・包括性）の視点を制作プロセスに組み込む重要性が高まっている\n・多様な受け手の背景や価値観に配慮したクリエイティブ制作の具体的なポイントや注意点を解説している",
+      "score": 5,
+      "reason": "広告制作の視点として参考になるがDE&Iは間接的",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "設立10年の軌跡とAI時代の価値創造プロセスを示す「電通デジタル統合レポート2026」を発行",
+      "link": "https://dentsudigital.co.jp/index%2ephp/news/release/management/2026-0807-000339",
+      "summary": "・電通デジタルが統合報告書「電通デジタル統合レポート2026」を発行しコーポレートサイトで公開した\n・設立10年の軌跡を振り返り、これまでの成長と事業展開の歩みを体系的にまとめている\n・AI時代における価値創造プロセスを提示し、今後の事業方針やビジョンを示す内容となっている",
+      "score": 3,
+      "reason": "企業の統合報告書発行のプレスリリース",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Google News",
+      "title": "ChatGPT広告は「売上」を期待すべきか？EC事業者が知っておきたい現在地と評価の考え方 - コマースピック",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wTFlJR1RiYi1hOHBHMzVTYmF3Q0ZieGY3TU9COG5ET3p3QXA0enNPUjJDRl9YMFptbGp6QjZSU3NnT0lYM3JFdVhfd2pSbUgwanlBSnVoOA?oc=5",
+      "summary": "・ChatGPT広告はEC事業者にとって売上直結よりもブランド認知や検討段階での接点として捉えるべき段階にある\n・従来のリスティングやSNS広告と異なりAI対話型広告の効果測定には新たな評価指標の導入が求められる\n・EC事業者は短期的な売上成果より中長期的な顧客接点構築の視点でChatGPT広告を評価すべきと提言",
+      "score": 8,
+      "reason": "ChatGPT広告の評価方法、新チャネル実務指針",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Google News",
+      "title": "広告成果の「壁」を突破する“第3のインサイト”とは？ - ECのミカタ",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbGV1VVp2YV95cnRoa0dWSjlnalpidGNpWl9MbmpnLWJ5SWJ2a3RGTEJIbjhpVjVROE9nb003ekhpTFljZktkRGRSVFE4UQ?oc=5",
+      "summary": "・広告運用において成果が頭打ちになる「壁」の存在とその要",
+      "score": 7,
+      "reason": "広告成果改善のインサイト手法、実践的内容",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Google News",
+      "title": "【総務省・JICDAQ登壇】AIによる広告最適化と新たな脅威。 今、広告主に求められる「ブランド価値の守り方」 - trans-cosmos.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sUGlLRnJ1OG8xcXNFU3hkS1p0cWZ6aE5Va3ptRWNVYml3ZUUtNnFfWTdvM0NiaGJUYlNGSDY4LW12b3FPd2JJd3NJX09LQUVvQ2llQ0F2M2JfVnVOYm9J?oc=5",
+      "summary": "・総務省とJICDAQが登壇しAI活用の広告最適化がもたらす新たなリスクについて解説した\n・アドフラウドやブランドセーフティなど広告品質を脅かす脅威への対策が急務と指摘\n・広告主が主体的にブランド価値を守るための管理体制や業界基準の活用を提言した",
+      "score": 6,
+      "reason": "ブランドセーフティとAI最適化の業界動向",
+      "date": "2026-09-09"
+    },
+    {
+      "source": "Google News",
+      "title": "雨の日は惣菜、猛暑日はアイス。SEデジタルの天気連動型広告、第二弾は流通・小売向けパッケージを提供開始 - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MW9WYUN4ZWpRVC1oejd4QVhZeGNHS255OGliRXRPMXhvSkJkVEMtZXZmZDVrZnI5RU0tbFRvb2hKcTVpQTBOREJDV25LYU03NFdpeGZKVEEyUi1zWU5aZ2xxY2JqMlRJ?oc=5",
+      "summary": "・SEデジタルが天気連動型広告の第二弾として流通・小売業界向けパッケージの提供を開始した\n・雨の日に惣菜、猛暑日にアイスなど天候に応じた商品訴求を自動で切り替える仕組みを提供\n・気象条件と購買行動の相関を活用し小売店舗の販促効果を高めるデジタル広告ソリューションである",
+      "score": 6,
+      "reason": "天気連動型広告の新パッケージ、実務参考になる",
+      "date": "2026-09-09"
     }
   ]
 }
