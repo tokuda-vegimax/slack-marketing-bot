@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.yahoo.co.jp/articles/74d2a19b777318e9a42ff53fd926f3602a72c311": "2026-08-12",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jUEZER3h2cndXaDM3MVZnOTlqdUIzTGlwSUZEY2hQcGRwYU5JSzVFU3B5Wi1ZRmdBTGdZbXZEWkRKblNVRzNXbjI2dFRkQ3ZGT09weXRvWTlQdGNCS00xRmpqTGs5bkJYVmc?oc=5": "2026-08-12",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MNTQzYmVrTGRqNmZXbURLbnJRdU9VSEpkOGxtWURuV3g3Y1RkaVF6VjB2NWJPdmhGR0w4bXViVk5VWnIyU1F3YzFSdVV6MFZFNDNYak9kaw?oc=5": "2026-08-12",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83YzE4T3hlTXdDeG9leUtMSnBTV2gwU3BuTWxGZjJKdTdkcHk5N1o4UTdiRGtvYWlXUUxmTzM1aVZCUWlVUW45dlJWRFlYSmQtc1dDaDBTVkxSTkxlbjYtTkl1OFVnbGhYOEpLOQ?oc=5": "2026-08-12",
-    "https://news.yahoo.co.jp/articles/781a0bb155980d99aed34ed3d987357671086458": "2026-08-12",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc19tYzhpZ2w1ME9xUENnS3FfRnN2alN1aHo5MmhZQ19tbGphTkpFNG1OOUFOTmRtU19MWW1iU29faENOS1RlSW43cVdPUmYxZFJoWjRUNXRWOTllc0k0a0ZUNzVDQ1ZEZFZLd3hTU01qR0ZYNTdYNXVyNUJ6ajNoVHBNekZoMlVlcmVRVFY2NzdfTEdKTEIydjdqV2V3UmsxMTVGalgyanp0R19sRTBZ?oc=5": "2026-08-12",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9icTZCYkQ1VTl2ZFdESk41LWh5b0E2RDNvV282OUhPRlJ2TTkwQ0FlQkdKODFmLTU4T2lza2w5em41SVNfbk1ZcnVYeEthN2UzdWc3UzVxSmZzNHJrelZMT0pKazA4WDAzT1E?oc=5": "2026-08-12",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuX1ZHaklaZGpLU01uZWxJc0E2Y2FqV2hid2lzQWxLQUZyX015cjhSQjhRaXdNVHpTVXFQdFIwdmdvYnplY0lmNnEycmdlRnJ2X0F5VGFUVEZ2emNYU1JJdm5jSG11NjcxQlE?oc=5": "2026-08-12",
-    "https://news.yahoo.co.jp/articles/9c58c0a75bd7b659a13de04e74d9452e60616bed": "2026-08-12",
-    "https://news.yahoo.co.jp/articles/1f0d9acc84dd82e0d18b447c5a5541ea744206c7": "2026-08-12",
     "https://oneder.hakuhodody-one.co.jp/blog/retail-comm-mads-260708": "2026-08-13",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/line-placement/": "2026-08-13",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcWE3YzZ1b2lRallZS29FRTRfQ3l4MkI0eldUYktNNjdJb0owcG9EVmk4czVVd1pwWUUyc3VEWTZ5aDhidnR1XzhUdEJBeU1VaWhZZVU1MXJaaHZi?oc=5": "2026-08-13",
@@ -294,49 +284,17 @@
     "https://news.yahoo.co.jp/articles/30c0f95693f0143adcaac86de746bd481348643b": "2026-09-11",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sZmxEekVXUnROa1BuRlQ1bGN4T2xhOEVRejNOSjNHMk5GVXVMZ0pld1B2dFBaTEZHM1RWZVpBLS1fdw?oc=5": "2026-09-11",
     "https://news.yahoo.co.jp/articles/c1499940114c865bef2915ffcdca575869f0575c": "2026-09-11",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OTy00OEQ3NC04cl9oRW5oZjZpVHhYX21OZXduYmRkWk40c21VcEZFczd6cVh0T0dfT3hnSlc0eWltWjdYSF85cUNqektYQTNuRWJ3cXpFZmlkeDZoTG90aENZZzNGdkxR?oc=5": "2026-09-11"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OTy00OEQ3NC04cl9oRW5oZjZpVHhYX21OZXduYmRkWk40c21VcEZFczd6cVh0T0dfT3hnSlc0eWltWjdYSF85cUNqektYQTNuRWJ3cXpFZmlkeDZoTG90aENZZzNGdkxR?oc=5": "2026-09-11",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUHpBN0hwbm9iY0tobUpEMENtdFVnZjVOOE9Zd3lRazRMMXd6M2tQMFFwSGpsUTA4ZXg2NFQtWTlGVnc1bXAxZDJHSGZ0ZE9HUEZUelNKM0podHJvOGF4YUdYSXJ3elpncERIanA1alpGZ2pWSkk0M21yTk1sYTQ?oc=5": "2026-09-12",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnpQMFNibFRVdk5Ha2htaTNmMi1UNGRuNU5RbGFvOEhxNjRrd3g2X3Zvb3pNU3ZIMFhWX2NReHNISHpIX1hkd0FrNnFtckRtX1YwYWw1YkZ3NkwxaE9kZXhucWFUcXdra2dCbGdHRnliRFpVR19KS2dmOE9KV0lwMzN2d1oxUzg?oc=5": "2026-09-12",
+    "https://news.yahoo.co.jp/articles/74298b8bacb2834f87d22f480b2e072134e1af1a": "2026-09-12",
+    "https://news.yahoo.co.jp/articles/09055055006c0dc29dfea1f84c6a8fb121d556bd": "2026-09-12",
+    "https://news.yahoo.co.jp/articles/1f8cb4252a55da6530682438d298de2e0f3c15c0": "2026-09-12",
+    "https://news.yahoo.co.jp/articles/cf6170eb04651c3a761ad27b61aa51beb7ccd394": "2026-09-12",
+    "https://news.yahoo.co.jp/articles/c97feb6ea7403ad0f1de1be32b1205ce0007c1a3": "2026-09-12",
+    "https://news.yahoo.co.jp/articles/c9b19488b485a4ee005da0f4c9608c4a3c65780d": "2026-09-12"
   },
   "titles": [
-    {
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに…施することが、結果として事業成長につながるかと思います」とコメント。 運用型広告における「効率」の追求は重要ですが、一歩間違えればブランドに致命的な打…まいどなニュースライフ総合7/10(金) 15:40",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.8.10 - PR TIMES",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Meta、2026年第２四半期決算：広告収益27％増、AI活用が広告から接客・販売へ - コマースピック",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "「TikTok」動画広告で売上高100億円へ Z世代の新興企業が台頭 - 日本経済新聞",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "豪州、ニュース「ただ乗り」規制へ IT大手に対価支払い実質義務化…商業契約を結ぶよう求める。IT大手が契約も交渉もしない場合、国内でのデジタル広告の売上高の約2.5%に相当する課徴金が課され、政府が報道機関に分配する仕組みだ。朝日新聞アジア・オセアニア8/11(火) 13:00",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "GOOGL対META：広告で同様に巨額の収益を上げているのに、なぜ今私はむしろAlphabetを支持するのか？ - Moomoo",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "PubMatic、AIがデジタル広告を変革する中、さらなる成長加速に向けMegan RammをグローバルCROに任命 - PR TIMES",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "SHElikes、2つの新コース「TikTok Shop 動画制作コース」「縦型ショート動画広告コース」を2週連続で提供開始 - PR TIMES",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "【毎日書評】「宇宙人に会ったらどうする？」NASAの本気なガイドラインを見てみたら…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合8/12(水) 8:11",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "〈秋山具義の今月のオスス麺〉有名店出身の店主がオープンした、スープが濃くておいしいラーメン店…だというラーメン店です。 2026年7月のオスス麺「絆ラーメン」私が広告代理店に勤めていた1990年代の20代の頃、会社の先輩や仕事仲間と、当時は深…食べログマガジンライフ総合8/12(水) 6:32",
-      "date": "2026-08-12"
-    },
     {
       "title": "\"店頭で選ばれる\"をつくる購買直前コミュニケーション 〜広告主・広告会社のためのリテール戦略設計〜【セミナーレポート】",
       "date": "2026-08-13"
@@ -1492,99 +1450,41 @@
     {
       "title": "見る角度を変えると「KEYWORD」が現れる。キーワードマーケティングがコーポレートサイトを全面リニューアル - ニコニコニュース",
       "date": "2026-09-11"
+    },
+    {
+      "title": "【倒産】WEBデザインやグラフィックデザインを手掛ける広告代理店 女性ならではの視点を強みに事業展開するも、競合激化で売上減少、資金繰り限界に…破産手続開始決定 負債総額約4000万円（BSS山陰放送） - Yahoo!ニュース",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "出雲市の広告代理店「ブリッジプラス」破産手続開始決定 負債総額は約4000万円 - 日テレNEWS NNN",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "こどもたちがソーシャルメディアを安全に使いこなすために〜青少年の健全育成とソーシャルメディア規制〜【調査情報デジタル】…デジタルメディア時代における表現の自由及び報道の自由に関する論稿多数。総務省・デジタル広告ワーキンググループ、同・青少年保護ワーキンググループ構成員、日本ファク…TBS NEWS DIG Powered by JNN社会9/12(土) 9:00",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "平愛梨が夫・長友佑都への応援横断幕に想いを吐露！温かい家族の姿にSNSで反響…」と喜びました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/10(木) 21:41",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "不用品回収を『定額』の広告で頼んだのに、積み込み後に追加料金を請求されました。荷物を回収済みでも支払いを断れますか？…があります。 また、消費者庁では、「追加費用一切なし」「定額パック料金にすべて含まれる」と表示していたにもかかわらず、実際には広告になかった処分費など…ファイナンシャルフィールド経済総合9/10(木) 9:40",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "｢働かざる者食うべからず｣のリフレインが止まらない…生活保護13万円受給の30代女性の霊安室の記憶…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合9/12(土) 10:15",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "小泉今日子の顔のシワが露わに…『団地のふたり』で魅せた等身大の50代のリアルとは？ “老いを隠さない姿”が胸を打つワケ…静かに信じさせてくれる。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合9/12(土) 8:30",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "【全文公開】スーツ姿で銀座に登場…永野芽郁が自ら選んだ「キャバ嬢役で復帰」ロケ現場をキャッチ…おり、永野本人も会見を開くなど、説明の場を設けることはなかった。怖くて広告代理店は広告主に提案できないし、起用に難色を示す企業は少なくない。当面は配信…FRIDAYエンタメ総合9/12(土) 8:00",
+      "date": "2026-09-12"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!ニュース",
-      "title": "不適切サイトへの広告掲載、約8割が「企業の印象が悪化する」 デジタル広告の“露出リスク”が浮き彫りに…施することが、結果として事業成長につながるかと思います」とコメント。 運用型広告における「効率」の追求は重要ですが、一歩間違えればブランドに致命的な打…まいどなニュースライフ総合7/10(金) 15:40",
-      "link": "https://news.yahoo.co.jp/articles/74d2a19b777318e9a42ff53fd926f3602a72c311",
-      "summary": "・不適切サイトへの広告掲載で約8割の消費者が企業イメージ悪化と回答した調査結果が公表された\n・運用型広告の効率追求がブランド毀損リスクを招く「露出リスク」の深刻さが浮き彫りになった\n・ブランドセーフティ対策の実施が企業の信頼維持と中長期的な事業成長に不可欠と指摘されている",
-      "score": 7,
-      "reason": "ブランドセーフティの実態調査で運用改善に直結",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Google News",
-      "title": "【定期調査】薬機法・景品表示法違反の恐れがある広告表現の配信実例 2026.8.10 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jUEZER3h2cndXaDM3MVZnOTlqdUIzTGlwSUZEY2hQcGRwYU5JSzVFU3B5Wi1ZRmdBTGdZbXZEWkRKblNVRzNXbjI2dFRkQ3ZGT09weXRvWTlQdGNCS00xRmpqTGs5bkJYVmc?oc=5",
-      "summary": "・薬機法・景品表示法に違反する恐れのある広告表現の配信実例を定期調査として公開\n・PR TIMESにて2026年8月10日付で発表された最新の違反疑い事例をまとめた報告\n・デジタル広告における法令違反リスクの実態把握と業界の適正化を目的とした調査",
-      "score": 7,
-      "reason": "薬機法・景表法違反の広告事例は審査対策に有用",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta、2026年第２四半期決算：広告収益27％増、AI活用が広告から接客・販売へ - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MNTQzYmVrTGRqNmZXbURLbnJRdU9VSEpkOGxtWURuV3g3Y1RkaVF6VjB2NWJPdmhGR0w4bXViVk5VWnIyU1F3YzFSdVV6MFZFNDNYak9kaw?oc=5",
-      "summary": "・Metaの2026年Q2決算で広告収益が前年同期比27％増と大幅な成長を記録した\n・AI技術の活用領域が従来の広告最適化から接客・販売支援へと拡大している\n・広告以外の商取引プロセス全体にAIを組み込む戦略がMetaの成長を牽引している",
-      "score": 7,
-      "reason": "Meta広告収益・AI活用動向は運用戦略に影響",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Google News",
-      "title": "「TikTok」動画広告で売上高100億円へ Z世代の新興企業が台頭 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83YzE4T3hlTXdDeG9leUtMSnBTV2gwU3BuTWxGZjJKdTdkcHk5N1o4UTdiRGtvYWlXUUxmTzM1aVZCUWlVUW45dlJWRFlYSmQtc1dDaDBTVkxSTkxlbjYtTkl1OFVnbGhYOEpLOQ?oc=5",
-      "summary": "・Z世代が率いる新興企業がTikTok動画広告を活用し売上高100億円規模を目指している\n・短尺動画によるSNS広告戦略がZ世代消費者の購買行動を大きく変えている\n・従来の大手広告代理店に依存しない新たなマーケティング手法が台頭しつつある",
-      "score": 6,
-      "reason": "TikTok広告活用の成功事例で市場動向把握に有用",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "豪州、ニュース「ただ乗り」規制へ IT大手に対価支払い実質義務化…商業契約を結ぶよう求める。IT大手が契約も交渉もしない場合、国内でのデジタル広告の売上高の約2.5%に相当する課徴金が課され、政府が報道機関に分配する仕組みだ。朝日新聞アジア・オセアニア8/11(火) 13:00",
-      "link": "https://news.yahoo.co.jp/articles/781a0bb155980d99aed34ed3d987357671086458",
-      "summary": "・豪州がIT大手にニュース使用の対価支払いを実質義務化する規制を導入へ\n・IT大手が報道機関と商業契約も交渉もしない場合、デジタル広告売上の約2.5%の課徴金を課す\n・徴収された課徴金は政府を通じて報道機関に分配される仕組みとなっている",
-      "score": 4,
-      "reason": "豪州の規制動向で日本実務への直接影響は薄い",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Google News",
-      "title": "GOOGL対META：広告で同様に巨額の収益を上げているのに、なぜ今私はむしろAlphabetを支持するのか？ - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc19tYzhpZ2w1ME9xUENnS3FfRnN2alN1aHo5MmhZQ19tbGphTkpFNG1OOUFOTmRtU19MWW1iU29faENOS1RlSW43cVdPUmYxZFJoWjRUNXRWOTllc0k0a0ZUNzVDQ1ZEZFZLd3hTU01qR0ZYNTdYNXVyNUJ6ajNoVHBNekZoMlVlcmVRVFY2NzdfTEdKTEIydjdqV2V3UmsxMTVGalgyanp0R19sRTBZ?oc=5",
-      "summary": "・AlphabetとMetaは共に広告事業で巨額収益を上げる二大デジタル広告企業として比較されている\n・筆者は両社の広告収益が同水準にもかかわらず、現時点ではAlphabet（GOOGL）を支持する立場を表明\n・Moomoo上で投資判断の観点からGOOGLの優位性についての分析・見解が示されている",
-      "score": 4,
-      "reason": "投資判断視点で広告運用実務への直接示唆は少ない",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Google News",
-      "title": "PubMatic、AIがデジタル広告を変革する中、さらなる成長加速に向けMegan RammをグローバルCROに任命 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9icTZCYkQ1VTl2ZFdESk41LWh5b0E2RDNvV282OUhPRlJ2TTkwQ0FlQkdKODFmLTU4T2lza2w5em41SVNfbk1ZcnVYeEthN2UzdWc3UzVxSmZzNHJrelZMT0pKazA4WDAzT1E?oc=5",
-      "summary": "・PubMaticがMegan Rammを新たなグローバル最高収益責任者(CRO)に任命したと発表\n・AI技術がデジタル広告業界を大きく変革する中、同社のさらなる成長加速が狙い\n・Rammは収益戦略を統括し、グローバル規模での事業拡大をリードする役割を担う",
-      "score": 3,
-      "reason": "アドテク企業の人事異動プレスリリース",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Google News",
-      "title": "SHElikes、2つの新コース「TikTok Shop 動画制作コース」「縦型ショート動画広告コース」を2週連続で提供開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuX1ZHaklaZGpLU01uZWxJc0E2Y2FqV2hid2lzQWxLQUZyX015cjhSQjhRaXdNVHpTVXFQdFIwdmdvYnplY0lmNnEycmdlRnJ2X0F5VGFUVEZ2emNYU1JJdm5jSG11NjcxQlE?oc=5",
-      "summary": "・SHElikesがTikTok Shop動画制作と縦型ショート動画広告の新コース2つを2週連続で開始した\n・TikTok Shopコースでは商品紹介動画の企画・制作スキルを学びEC販売力の習得を目指す\n・縦型ショート動画広告コースではSNS広告向けの短尺動画クリエイティブ制作を学べる",
-      "score": 3,
-      "reason": "スクール新コース開設のプレスリリース",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】「宇宙人に会ったらどうする？」NASAの本気なガイドラインを見てみたら…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパンライフ総合8/12(水) 8:11",
-      "link": "https://news.yahoo.co.jp/articles/9c58c0a75bd7b659a13de04e74d9452e60616bed",
-      "summary": "・印南敦史氏がNASAの宇宙人遭遇ガイドラインを紹介する書籍を書評している\n・NASAが本気で策定した地球外知的生命体との接触手順が話題の中心である\n・ライフハッカー・ジャパンに掲載された書評記事で科学的好奇心を刺激する内容",
-      "score": 1,
-      "reason": "広告運用と無関係の書評記事",
-      "date": "2026-08-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "〈秋山具義の今月のオスス麺〉有名店出身の店主がオープンした、スープが濃くておいしいラーメン店…だというラーメン店です。 2026年7月のオスス麺「絆ラーメン」私が広告代理店に勤めていた1990年代の20代の頃、会社の先輩や仕事仲間と、当時は深…食べログマガジンライフ総合8/12(水) 6:32",
-      "link": "https://news.yahoo.co.jp/articles/1f0d9acc84dd82e0d18b447c5a5541ea744206c7",
-      "summary": "・広告デザイナー秋山具義氏が2026年7月のオスス麺として「絆ラーメン」を紹介\n・有名店出身の店主が開業した濃厚スープが特徴のラーメン店として注目されている\n・1990年代から続くラーメン愛を背景に食べログマガジンで連載中のグルメコラム",
-      "score": 1,
-      "reason": "広告運用と無関係のグルメ記事",
-      "date": "2026-08-12"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "\"店頭で選ばれる\"をつくる購買直前コミュニケーション 〜広告主・広告会社のためのリテール戦略設計〜【セミナーレポート】",
@@ -4185,6 +4085,78 @@
       "score": 3,
       "reason": "広告代理店のサイトリニューアルで企業プレスリリース",
       "date": "2026-09-11"
+    },
+    {
+      "source": "Google News",
+      "title": "【倒産】WEBデザインやグラフィックデザインを手掛ける広告代理店 女性ならではの視点を強みに事業展開するも、競合激化で売上減少、資金繰り限界に…破産手続開始決定 負債総額約4000万円（BSS山陰放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUHpBN0hwbm9iY0tobUpEMENtdFVnZjVOOE9Zd3lRazRMMXd6M2tQMFFwSGpsUTA4ZXg2NFQtWTlGVnc1bXAxZDJHSGZ0ZE9HUEZUelNKM0podHJvOGF4YUdYSXJ3elpncERIanA1alpGZ2pWSkk0M21yTk1sYTQ?oc=5",
+      "summary": "・WEB・グラフィックデザインを手掛ける山陰地方の広告代理店が破産手続開始決定を受けた\n・女性視点を強みに事業展開していたが、業界の競合激化により売上が減少し続けた\n・資金繰りが限界に達し経営継続が困難となり、負債総額は約4000万円に上る",
+      "score": 3,
+      "reason": "広告代理店の倒産報道で業界動向としてわずかに参考",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Google News",
+      "title": "出雲市の広告代理店「ブリッジプラス」破産手続開始決定 負債総額は約4000万円 - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnpQMFNibFRVdk5Ha2htaTNmMi1UNGRuNU5RbGFvOEhxNjRrd3g2X3Zvb3pNU3ZIMFhWX2NReHNISHpIX1hkd0FrNnFtckRtX1YwYWw1YkZ3NkwxaE9kZXhucWFUcXdra2dCbGdHRnliRFpVR19KS2dmOE9KV0lwMzN2d1oxUzg?oc=5",
+      "summary": "・島根県出雲市の広告代理店「ブリッジプラス」が破産手続開始決定を受けた\n・負債総額は約4000万円と報じられており、事業継続が困難となった模様\n・地方広告代理店の経営環境の厳しさを示す事例として注目される",
+      "score": 3,
+      "reason": "同上の倒産報道で運用型広告の実務には無関係",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "こどもたちがソーシャルメディアを安全に使いこなすために〜青少年の健全育成とソーシャルメディア規制〜【調査情報デジタル】…デジタルメディア時代における表現の自由及び報道の自由に関する論稿多数。総務省・デジタル広告ワーキンググループ、同・青少年保護ワーキンググループ構成員、日本ファク…TBS NEWS DIG Powered by JNN社会9/12(土) 9:00",
+      "link": "https://news.yahoo.co.jp/articles/74298b8bacb2834f87d22f480b2e072134e1af1a",
+      "summary": "・青少年がソーシャルメディアを安全に利用するための規制と健全育成策を論じた記事である\n・総務省デジタル広告WGや青少年保護WG構成員が表現の自由との均衡を踏まえ考察している\n・デジタルメディア時代における子どもの保護と情報環境整備の課題を多角的に検討している",
+      "score": 2,
+      "reason": "青少年SNS規制の話題で広告運用実務と無関係",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平愛梨が夫・長友佑都への応援横断幕に想いを吐露！温かい家族の姿にSNSで反響…」と喜びました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/10(木) 21:41",
+      "link": "https://news.yahoo.co.jp/articles/09055055006c0dc29dfea1f84c6a8fb121d556bd",
+      "summary": "・平愛梨が夫・長友佑都への応援横断幕に感謝の想いをSNSで発信し反響を呼んだ\n・総務省調査でネット利用時間がテレビを上回り、デジタル広告市場が急拡大している\n・記事本文が未提供のため、詳細な数値や背景情報については確認が必要である",
+      "score": 2,
+      "reason": "芸能ニュース中心でデジタル広告市場の言及は付随的",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不用品回収を『定額』の広告で頼んだのに、積み込み後に追加料金を請求されました。荷物を回収済みでも支払いを断れますか？…があります。 また、消費者庁では、「追加費用一切なし」「定額パック料金にすべて含まれる」と表示していたにもかかわらず、実際には広告になかった処分費など…ファイナンシャルフィールド経済総合9/10(木) 9:40",
+      "link": "https://news.yahoo.co.jp/articles/1f8cb4252a55da6530682438d298de2e0f3c15c0",
+      "summary": "・「定額」広告の不用品回収で積み込み後に追加料金を請求される消費者トラブルが問題化している\n・消費者庁は「追加費用なし」と表示しながら実際に処分費等を請求する行為を問題視している\n・広告と異なる料金請求は契約内容と相違するため、消費者は追加料金の支払いを拒否できる可能性がある",
+      "score": 2,
+      "reason": "不用品回収の消費者トラブルで広告運用と無関係",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "｢働かざる者食うべからず｣のリフレインが止まらない…生活保護13万円受給の30代女性の霊安室の記憶…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合9/12(土) 10:15",
+      "link": "https://news.yahoo.co.jp/articles/cf6170eb04651c3a761ad27b61aa51beb7ccd394",
+      "summary": "・生活保護月額13万円を受給する30代女性の過酷な実体験を描いたノンフィクション記事\n・「働かざる者食うべからず」という社会的圧力が受給者を精神的に追い詰める構造を指摘\n・霊安室の記憶など壮絶な経験を通じ生活保護制度と社会の偏見の問題を提起している",
+      "score": 1,
+      "reason": "生活保護の記事で広告運用と完全に無関係",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小泉今日子の顔のシワが露わに…『団地のふたり』で魅せた等身大の50代のリアルとは？ “老いを隠さない姿”が胸を打つワケ…静かに信じさせてくれる。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合9/12(土) 8:30",
+      "link": "https://news.yahoo.co.jp/articles/c97feb6ea7403ad0f1de1be32b1205ce0007c1a3",
+      "summary": "・小泉今日子がドラマ『団地のふたり』で加工や修正なしの自然な姿を披露し話題を呼んでいる\n・50代のシワや老いを隠さず等身大のリアルな姿を見せる演技スタイルが視聴者の共感を獲得\n・年齢を重ねた変化を肯定的に映し出す姿勢が「静かに信じさせる」説得力として高く評価された",
+      "score": 1,
+      "reason": "ドラマレビュー記事で広告運用と完全に無関係",
+      "date": "2026-09-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【全文公開】スーツ姿で銀座に登場…永野芽郁が自ら選んだ「キャバ嬢役で復帰」ロケ現場をキャッチ…おり、永野本人も会見を開くなど、説明の場を設けることはなかった。怖くて広告代理店は広告主に提案できないし、起用に難色を示す企業は少なくない。当面は配信…FRIDAYエンタメ総合9/12(土) 8:00",
+      "link": "https://news.yahoo.co.jp/articles/c9b19488b485a4ee005da0f4c9608c4a3c65780d",
+      "summary": "・永野芽郁が銀座でキャバ嬢役のドラマ撮影に臨む姿がキャッチされ復帰が本格化している\n・騒動後に本人が会見を開かず説明不足のため広告代理店が起用提案を躊躇している状況\n・広告主側も起用に難色を示す企業が多く当面はCMより配信作品中心の活動になる見通し",
+      "score": 1,
+      "reason": "芸能ゴシップ記事で広告運用と完全に無関係",
+      "date": "2026-09-12"
     }
   ]
 }
