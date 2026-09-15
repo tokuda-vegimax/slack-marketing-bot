@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/": "2026-08-15",
-    "https://news.yahoo.co.jp/articles/35862194375ff1e5d1b531f36af5a8993933bf48": "2026-08-15",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NEt6Mk4zTEgwcWdVQ3hrVmdsZUduY2dOc3pRNVpMRkdFRFdDRVY1Snpwbm0ycndaNEVPSzZKUmh0OF9nRnZfNUF3TFUtb3ZnYkJFcF9USXM?oc=5": "2026-08-15",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50N29fMHZ5MkpacWdad2xrQUhtcmFORXdPakdrMHJCTTZOakFIdTEwMTcyRTlxNUNZcUFkRnJ1aDlaZmZKTUl6RkFJUU9fV3UxaHlYRmhFQmR2am9rR1JB?oc=5": "2026-08-15",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Sy1URnNCdl9TSTAwT0RMUkNMMWU4c2ZkQU4zY2ZsYm9JNl9QLXBib19QQmRRNVpoM1hmY0x5Uy05S0xvUllEUm0tSzctMzJRc1BSZG5LNmdTZw?oc=5": "2026-08-15",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yeGhIVXV2YkpvZGpLMlRBcGFiMG1uUlJHNkNCQjNRSU9OVkVlczQweTVHNG1PZmNNbmVyQXZyVFNENno3a0o2cHp5blNGYnU0X3ZOZ0NXVHJXTS00X2E2T3lmMC1zcVhpVmw1cXMzLVItU2E3ZThmMUZ3?oc=5": "2026-08-15",
-    "https://news.yahoo.co.jp/articles/0b5574e620d8a9b224e07df73c6c5e2d201dc25d": "2026-08-15",
-    "https://news.yahoo.co.jp/articles/caad612a127cb309a4c43971e5c690e834f552c1": "2026-08-15",
-    "https://news.yahoo.co.jp/articles/a72d0c559a00c3337717564079f506ef3de2b566": "2026-08-15",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RG00d3BkMnpJcUhzSmFTc1BPcUlPUXAyZXRyampBc3h5MUtXSGljUjVjdXl4dlNvRUtCX2tPTFE5Z29tWmpVaXFPVC11MnRJbWZYZGxEZWlmdw?oc=5": "2026-08-15",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1g4d05xVXYtdExXUU9WX0VmLUp6dEM0R19paGtGbjRfdEtDbnBsQ0Yyb0hhVlRpVlo4NWhrU1pyeE05NS1ONllUdFJxZXVFR0xyVzgtYmRndEJlQ0VTTzJIVi15TU54aGtCSWpwOFNUaXJFaWllZ3k5SmVzcF9MdERvaG4wQno0Rm1CUTJn?oc=5": "2026-08-16",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfWUNhaG15T3BqTV8wR0RyS2xZRzlJUjRkSldSWGgxTnY4QzFVZXVTSGR6Rld5dnN1VV9TaDltWlBMdDJoVTdVenQ0Nm1wYlgyQzNuYXhTenBKQQ?oc=5": "2026-08-16",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwYmI4R05YWnk1LUtHbHp3aWFpTXVJY2ctdW5GakViLUViNHdPVDN0YlhhMlo0N3hXLURzZTg2MHk4YzNoMk9pbGpMWHNOS2NlZlFmRk1yYXhTLUV6cjhtS2hHN3BOcERFa3dZc2pqT1o1YzNj?oc=5": "2026-08-16",
@@ -289,49 +279,19 @@
     "https://news.yahoo.co.jp/articles/8f9268a90d621cb184df9a93c3a7d58da3301065": "2026-09-14",
     "https://news.yahoo.co.jp/articles/acae469a64d3602230c35aa7ae2b172450c956b4": "2026-09-14",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmQTFwX1h4YXVYZzNfd1pGVmpVUDd4UHJZU2RJLVlSQVphQkZ6VjZEc0pCQTRXQnVFZ2hadFdXMzFwZFVyNnJKVl8zeUlENk43TC1UaHpwR21fZ3dCQkNpX3JlR3ZPb3REcGc?oc=5": "2026-09-14",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KenV3cEJOa0hfRFl4RC0wY1BEY2ZEXzEwbmRYRnJGdi1wRVg3VjJzODhtOWhmYloxdlZyVm5wRzJpZG92cEpBMU52dVN6OEN0Y19BeTVXTWFPZjRHQ19ZaXRB?oc=5": "2026-09-14"
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KenV3cEJOa0hfRFl4RC0wY1BEY2ZEXzEwbmRYRnJGdi1wRVg3VjJzODhtOWhmYloxdlZyVm5wRzJpZG92cEpBMU52dVN6OEN0Y19BeTVXTWFPZjRHQ19ZaXRB?oc=5": "2026-09-14",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/what-to-do-after-opening-ly-ads-account/?list=23496": "2026-09-15",
+    "https://dentsudigital.co.jp/news/release/services/2026-0915-000348": "2026-09-15",
+    "https://www.lycbiz.com/jp/column/ly-ads/marketing/what-is-instream-ad/?list=23496": "2026-09-15",
+    "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-line-insurance-finance-260730": "2026-09-15",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXQxdlZvcEEyUXJEMjdGVmVZUXFXXzZ2bF9vaktVSEhtdWdob0FfYVM2NEQ5NE5HaDZrN3J5enYxRmU2MjJaVm9hdnF6akxISU5jd3hNUGxPSG9udm5pZGZ3U042dkZHYXU5TUdtZFl2Z0VGb05YbjdfNG8zTjV6Qnhac3BvN1Q5clVILUdlMVpLamFRM0lnM18xZkpwT1RKVGI5ZGgycENDRkd5Z1dQNtIBsAFBVV95cUxPNXQxdlZvcEEyUXJEMjdGVmVZUXFXXzZ2bF9vaktVSEhtdWdob0FfYVM2NEQ5NE5HaDZrN3J5enYxRmU2MjJaVm9hdnF6akxISU5jd3hNUGxPSG9udm5pZGZ3U042dkZHYXU5TUdtZFl2Z0VGb05YbjdfNG8zTjV6Qnhac3BvN1Q5clVILUdlMVpLamFRM0lnM18xZkpwT1RKVGI5ZGgycENDRkd5Z1dQNg?oc=5": "2026-09-15",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YRldFREFPVnRKY1A0aklFMm9NLUtJcENKYlJLUDJ6NGZLbnFZRUgxbjkzR19menZTU3BseDBkekVpcTFzazF1a0JweVNlYjVlREc2ekpiOA?oc=5": "2026-09-15",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5": "2026-09-15",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BRm9fQWNPS09NdHhEbkZJNGR1blVoT2w5VTRRQTlaYWRIaDBzZEMxd0NsYTRMZmE5SlBzZ2pRcWJxcy1vOXd2dUpvdjJjVlhRMUhqbw?oc=5": "2026-09-15",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5VWlxbW1XbXJtSzN5RVhpdThRUUthUTM4cTQtYU5ieVZHR09nTmhoNVBxR3lXeUkzU0prZkwzcFB4VDVGX2F5T19kN205U2Y3UVZaQ2NRT2xRVEtGWXo3ZmZzSjVwZw?oc=5": "2026-09-15",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWVUZwWkkzR19WdzJVMkJWU0V4UWYwMU1zQWplZl9WYW1VeWJrUVdyYUhjWnlmQ2tHaUNhVDlLYm9aRHJVYUYyZkNXaXUwa3pFQ1diWFMzLVp4V19fYkE?oc=5": "2026-09-15"
   },
   "titles": [
-    {
-      "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "アナグラムが生成AIとの会話に基づく「ChatGPT広告」の出稿・運用支援サービスを開始…運用型広告コンサルティング・マーケティング支援事業のアナグラムは、AI開発の米国OpenAIの広告サービス「ChatGPT広告」の出稿・運用支援サー…Web担当者ForumIT総合7/13(月) 15:02",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "日本テレビ、伊藤忠商事・データ・ワンと「TV×リテールメディア×デジタル広告」で協業合意。6000万ID超の購買データで広告バイイングが可能に - Brand New Creativity",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "Vol.1 広告代理店とコンサル、いつから競合になったのか 最初に狙われた「効果検証」 - AdverTimes.（アドタイ） by 宣伝会議",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "『イモトのWiFi』“広告表記”、社長が謝罪&いきさつ説明 消費者庁から違反の指摘受け「全てはわたくしどもの会社の責任」 - オリコンニュース",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "Google広告を悪用した偽サイトでHyperliquidユーザーが約55万ドルを喪失 - FinanceFeeds",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "「カッコいい」現役美大生のナイツ土屋、“馬の絵”を披露「自分にとって慣れない表現」もSNS反響…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/15(土) 7:40",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "木梨憲武、久々の「矢島美容室」“マーガレットママ”姿に「涙がでるくらい嬉しい」「懐かしい」ファン歓喜の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/14(金) 12:31",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "「オタク感激」第1子出産の藤田ニコル 緑広がる自然の中で我が子＆愛犬とピクニック「幸せいっぱい」の声…1枚です。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/14(金) 11:40",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "元広告代理店社員が「しし踊り」の担い手に 遠野に移住して10年 現代音楽と融合させ、新たな表現に挑む 岩手 - TBS NEWS DIG",
-      "date": "2026-08-15"
-    },
     {
       "title": "膨らむ AIコスト はどこに消える？ 広告代理店が選んだ現実的な費用の落としどころ - DIGIDAY［日本版］",
       "date": "2026-08-16"
@@ -1467,99 +1427,49 @@
     {
       "title": "【プレスリリース】 慶應義塾大学グローバルリサーチインスティテュートX Dignityセンターが「AI時代のデジタル広告倫理ヴィジョン」の骨子案を公表 | お知らせ - keio.ac.jp",
       "date": "2026-09-14"
+    },
+    {
+      "title": "LINEヤフー広告を開設したら何をする？広告掲載までの流れと確認ポイント",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "AI時代の購買体験に対応する「エージェンティックコマース最適化」支援サービスを提供開始",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "インストリーム広告とは？ 種類やメリット、費用、出稿方法を解説",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "【保険・金融業界向け】業界特有の課題を解決！LINE通知メッセージ実践セミナー ～“通知して終わり”にしない！資料請求・契約後の接点を活かし、CV改善・CRM活用を実現～【セミナーレポート】",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Criteoが楽天の運用型ディスプレイ広告「TDA Expansion」と連携開始、楽天市場の外に広告配信 - ｄメニューニュース",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Criteo、楽天市場の運用型ディスプレイ広告「TDA Expansion」と連携開始―セラーの集客力向上を支援 - コマースピック",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "ビザップ株式会社、GA4・Google広告・Meta広告のレポート作成ツール「InsightBase」を9月14日に正式リリース - ニコニコニュース",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Google広告に約3万円使ったらアプリのインストールの約60％がボットだったという報告 - gigazine.net",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Google広告に約3万円使ったらアプリのインストールの約60％がボットだったという報告 (2026年9月14日掲載) - ライブドアニュース",
+      "date": "2026-09-15"
     }
   ],
   "articles": [
-    {
-      "source": "Google広告",
-      "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
-      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
-      "summary": "・YouTubeが7月のDemand Gen Dropでホリデーシーズン向け新機能群を発表した\n・目標ROAS入札の改良によりキャンペーンの収益最適化がさらに強化された\n・チェックアウトリンク機能の追加で動画広告から購入までの導線が短縮される",
-      "score": 9,
-      "reason": "Demand Gen主要機能更新で実務影響大",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "アナグラムが生成AIとの会話に基づく「ChatGPT広告」の出稿・運用支援サービスを開始…運用型広告コンサルティング・マーケティング支援事業のアナグラムは、AI開発の米国OpenAIの広告サービス「ChatGPT広告」の出稿・運用支援サー…Web担当者ForumIT総合7/13(月) 15:02",
-      "link": "https://news.yahoo.co.jp/articles/35862194375ff1e5d1b531f36af5a8993933bf48",
-      "summary": "・アナグラムがOpenAIの「ChatGPT広告」出稿・運用支援サービスを新たに開始した\n・生成AIとの会話文脈に基づき表示される新型広告フォーマットへの対応を支援する\n・運用型広告コンサルティング企業として早期参入し広告主の活用を後押しする方針",
-      "score": 9,
-      "reason": "ChatGPT広告の出稿・運用支援開始で実務に直結する新情報",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Google News",
-      "title": "日本テレビ、伊藤忠商事・データ・ワンと「TV×リテールメディア×デジタル広告」で協業合意。6000万ID超の購買データで広告バイイングが可能に - Brand New Creativity",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NEt6Mk4zTEgwcWdVQ3hrVmdsZUduY2dOc3pRNVpMRkdFRFdDRVY1Snpwbm0ycndaNEVPSzZKUmh0OF9nRnZfNUF3TFUtb3ZnYkJFcF9USXM?oc=5",
-      "summary": "・日本テレビが伊藤忠商事・データ・ワンと「TV×リテールメディア×デジタル広告」領域で協業に合意した\n・データ・ワンが保有する6000万ID超の購買データを活用し精緻な広告バイイングが可能になる\n・テレビ広告とデジタル広告を購買データで横断的に連携させ広告効果の最大化を目指す",
-      "score": 6,
-      "reason": "購買データ活用の新たな広告手法で業界動向として参考になる",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Google News",
-      "title": "Vol.1 広告代理店とコンサル、いつから競合になったのか 最初に狙われた「効果検証」 - AdverTimes.（アドタイ） by 宣伝会議",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50N29fMHZ5MkpacWdad2xrQUhtcmFORXdPakdrMHJCTTZOakFIdTEwMTcyRTlxNUNZcUFkRnJ1aDlaZmZKTUl6RkFJUU9fV3UxaHlYRmhFQmR2am9rR1JB?oc=5",
-      "summary": "・広告代理店とコンサルティング企業が競合関係に至った経緯を探る連載の第1回記事\n・コンサル企業が広告領域へ参入する際、最初に狙ったのは「効果検証」の分野だった\n・データ分析やROI測定を強みとするコンサルが効果検証から広告業界進出を拡大した",
-      "score": 5,
-      "reason": "代理店vsコンサルの競合構造は業界理解に有用",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Google News",
-      "title": "『イモトのWiFi』“広告表記”、社長が謝罪&いきさつ説明 消費者庁から違反の指摘受け「全てはわたくしどもの会社の責任」 - オリコンニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Sy1URnNCdl9TSTAwT0RMUkNMMWU4c2ZkQU4zY2ZsYm9JNl9QLXBib19QQmRRNVpoM1hmY0x5Uy05S0xvUllEUm0tSzctMzJRc1BSZG5LNmdTZw?oc=5",
-      "summary": "・イモトのWiFi運営会社が広告表記の景品表示法違反で消費者庁から指摘を受けた\n・社長が公式に謝罪し違反に至った経緯や原因について説明を行った\n・社長は「全て自社の責任」と明言し再発防止と改善に取り組む姿勢を示した",
-      "score": 4,
-      "reason": "広告表記違反事例で景表法注意喚起になるが間接的",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Google News",
-      "title": "Google広告を悪用した偽サイトでHyperliquidユーザーが約55万ドルを喪失 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yeGhIVXV2YkpvZGpLMlRBcGFiMG1uUlJHNkNCQjNRSU9OVkVlczQweTVHNG1PZmNNbmVyQXZyVFNENno3a0o2cHp5blNGYnU0X3ZOZ0NXVHJXTS00X2E2T3lmMC1zcVhpVmw1cXMzLVItU2E3ZThmMUZ3?oc=5",
-      "summary": "・Google広告を悪用しHyperliquidの偽サイトが検索上位に表示されユーザーが誘導された\n・偽サイトを通じてHyperliquidユーザーが合計約55万ドル（約8千万円相当）の資産を喪失した\n・暗号資産分野でGoogle広告を利用したフィッシング詐欺が依然として深刻な脅威となっている",
-      "score": 3,
-      "reason": "Google広告悪用の注意喚起だが運用実務への影響は限定的",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「カッコいい」現役美大生のナイツ土屋、“馬の絵”を披露「自分にとって慣れない表現」もSNS反響…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/15(土) 7:40",
-      "link": "https://news.yahoo.co.jp/articles/0b5574e620d8a9b224e07df73c6c5e2d201dc25d",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急速に拡大しデジタル広告市場も成長を続けている\n・メディア接触の構造変化により広告予算のデジタルシフトが一層加速する見通しである",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "木梨憲武、久々の「矢島美容室」“マーガレットママ”姿に「涙がでるくらい嬉しい」「懐かしい」ファン歓喜の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/14(金) 12:31",
-      "link": "https://news.yahoo.co.jp/articles/caad612a127cb309a4c43971e5c690e834f552c1",
-      "summary": "・木梨憲武が「矢島美容室」マーガレットママ姿を披露しファンから歓喜の声が殺到した\n・総務省調査でネット1日平均利用時間がテレビを超過しデジタル広告市場が急拡大している\n・記事本文が未提供のため詳細な数値や背景情報については確認が必要である",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「オタク感激」第1子出産の藤田ニコル 緑広がる自然の中で我が子＆愛犬とピクニック「幸せいっぱい」の声…1枚です。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/14(金) 11:40",
-      "link": "https://news.yahoo.co.jp/articles/a72d0c559a00c3337717564079f506ef3de2b566",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴を上回り逆転が鮮明になった\n・過去10年間でネット利用時間が急伸しデジタル広告市場も拡大を続けている\n・メディア接触の主軸がデジタルへ移行し広告戦略の再構築が急務となっている",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-08-15"
-    },
-    {
-      "source": "Google News",
-      "title": "元広告代理店社員が「しし踊り」の担い手に 遠野に移住して10年 現代音楽と融合させ、新たな表現に挑む 岩手 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RG00d3BkMnpJcUhzSmFTc1BPcUlPUXAyZXRyampBc3h5MUtXSGljUjVjdXl4dlNvRUtCX2tPTFE5Z29tWmpVaXFPVC11MnRJbWZYZGxEZWlmdw?oc=5",
-      "summary": "・元広告代理店社員が岩手県遠野市に移住し、伝統芸能「しし踊り」の担い手として活動している\n・移住から10年が経過し、地域に根差しながら伝統文化の継承に取り組んでいる\n・しし踊りと現代音楽を融合させた新たな芸術表現に挑戦し注目を集めている",
-      "score": 1,
-      "reason": "元代理店社員の移住話で広告運用と無関係",
-      "date": "2026-08-15"
-    },
     {
       "source": "Google News",
       "title": "膨らむ AIコスト はどこに消える？ 広告代理店が選んだ現実的な費用の落としどころ - DIGIDAY［日本版］",
@@ -4115,6 +4025,96 @@
       "score": 3,
       "reason": "学術的な倫理ビジョン骨子案で実務への即時影響は小さい",
       "date": "2026-09-14"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告を開設したら何をする？広告掲載までの流れと確認ポイント",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/what-to-do-after-opening-ly-ads-account/?list=23496",
+      "summary": "・LINEヤフー広告のアカウント開設後に必要な設定手順と広告掲載までの流れを解説している\n・広告の目的・商品・遷移先・利用する広告タイプなど事前確認すべきポイントを整理している\n・初心者でも迷わず広告配信を開始できるよう、各ステップを分かりやすく紹介する内容である",
+      "score": 6,
+      "reason": "LINEヤフー広告の初期設定解説で初心者向け基礎情報",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI時代の購買体験に対応する「エージェンティックコマース最適化」支援サービスを提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0915-000348",
+      "summary": "・電通デジタルがAIエージェント向け新サービス「エージェンティックコマース最適化（ACO）」の提供を開始した\n・AIエージェントが商品情報や購入条件を正確に理解し適切に比較・推薦できるよう最適化を支援する\n・AI主導の購買体験が広がる時代に対応し企業の商品がAI経由で正しく選ばれる環境構築を目指す",
+      "score": 6,
+      "reason": "AIエージェント時代の新サービスで今後の広告動向に関連",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "インストリーム広告とは？ 種類やメリット、費用、出稿方法を解説",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/marketing/what-is-instream-ad/?list=23496",
+      "summary": "・インストリーム広告は動画コンテンツの再生前後や途中に表示される動画広告形式である\n・スキップ可能型や不可型など複数の種類があり課金方式や費用体系も異なる\n・広告予算の設計方法から具体的な出稿手順まで基礎知識を体系的に解説している",
+      "score": 5,
+      "reason": "インストリーム広告の基礎解説で広告知識の一般的内容",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "【保険・金融業界向け】業界特有の課題を解決！LINE通知メッセージ実践セミナー ～“通知して終わり”にしない！資料請求・契約後の接点を活かし、CV改善・CRM活用を実現～【セミナーレポート】",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-line-insurance-finance-260730",
+      "summary": "・保険・金融業界向けにLINE通知メッセージの活用法を解説するセミナーが開催された\n・資料請求や契約後の顧客接点を活かしCV改善・CRM活用を実現する手法を紹介\n・\"通知して終わり\"にせず業界特有の課題を解決する実践的なアプローチを提示した",
+      "score": 5,
+      "reason": "LINE通知メッセージ活用事例で業界特化CRM寄り",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Google News",
+      "title": "Criteoが楽天の運用型ディスプレイ広告「TDA Expansion」と連携開始、楽天市場の外に広告配信 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXQxdlZvcEEyUXJEMjdGVmVZUXFXXzZ2bF9vaktVSEhtdWdob0FfYVM2NEQ5NE5HaDZrN3J5enYxRmU2MjJaVm9hdnF6akxISU5jd3hNUGxPSG9udm5pZGZ3U042dkZHYXU5TUdtZFl2Z0VGb05YbjdfNG8zTjV6Qnhac3BvN1Q5clVILUdlMVpLamFRM0lnM18xZkpwT1RKVGI5ZGgycENDRkd5Z1dQNtIBsAFBVV95cUxPNXQxdlZvcEEyUXJEMjdGVmVZUXFXXzZ2bF9vaktVSEhtdWdob0FfYVM2NEQ5NE5HaDZrN3J5enYxRmU2MjJaVm9hdnF6akxISU5jd3hNUGxPSG9udm5pZGZ3U042dkZHYXU5TUdtZFl2Z0VGb05YbjdfNG8zTjV6Qnhac3BvN1Q5clVILUdlMVpLamFRM0lnM18xZkpwT1RKVGI5ZGgycENDRkd5Z1dQNg?oc=5",
+      "summary": "・Criteoが楽天の運用型ディスプレイ広告「TDA Expansion」との連携を開始したと発表\n・本連携により楽天市場の外部サイトへも広告配信が可能となり配信面が大幅に拡大\n・楽天の購買データとCriteoの広告配信技術を掛け合わせ広告効果の向上を目指す",
+      "score": 8,
+      "reason": "Criteo×楽天TDA連携は運用型広告の重要アップデート",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Google News",
+      "title": "Criteo、楽天市場の運用型ディスプレイ広告「TDA Expansion」と連携開始―セラーの集客力向上を支援 - コマースピック",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YRldFREFPVnRKY1A0aklFMm9NLUtJcENKYlJLUDJ6NGZLbnFZRUgxbjkzR19menZTU3BseDBkekVpcTFzazF1a0JweVNlYjVlREc2ekpiOA?oc=5",
+      "summary": "・Criteoが楽天市場の運用型ディスプレイ広告「TDA Expansion」との連携を開始した\n・楽天市場に出店するセラーの集客力向上を支援する取り組みとなる\n・Criteoの広告技術と楽天の広告枠を組み合わせ販促効果の拡大を目指す",
+      "score": 8,
+      "reason": "同上、Criteo×楽天TDA連携の詳細情報",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5",
+      "summary": "・Meta広告の優秀プランナーを表彰する「Planner of the Year」受賞者が一堂に集結した\n・受賞者たちがMeta広告プラットフォームの具体的な活用ノウハウや成功事例を共有している\n・トップランナーの知見を通じてMeta広告運用の最新トレンドや最適化手法が紹介されている",
+      "score": 8,
+      "reason": "Meta広告トップランナーの運用ノウハウ、実践的知見",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Google News",
+      "title": "ビザップ株式会社、GA4・Google広告・Meta広告のレポート作成ツール「InsightBase」を9月14日に正式リリース - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BRm9fQWNPS09NdHhEbkZJNGR1blVoT2w5VTRRQTlaYWRIaDBzZEMxd0NsYTRMZmE5SlBzZ2pRcWJxcy1vOXd2dUpvdjJjVlhRMUhqbw?oc=5",
+      "summary": "・ビザップ株式会社がGA4・Google広告・Meta広告対応のレポート作成ツール「InsightBase」を9月14日に正式リリースした\n・InsightBaseは複数の広告プラットフォームやアクセス解析データを統合し、効率的なレポート作成を実現するツールである\n・デジタル広告運用者やマーケターの分析・報告業務の工数削減と意思決定の迅速化を支援する目的で開発された",
+      "score": 7,
+      "reason": "GA4・Google/Meta広告レポートツール、実務効率化に有用",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告に約3万円使ったらアプリのインストールの約60％がボットだったという報告 - gigazine.net",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5VWlxbW1XbXJtSzN5RVhpdThRUUthUTM4cTQtYU5ieVZHR09nTmhoNVBxR3lXeUkzU0prZkwzcFB4VDVGX2F5T19kN205U2Y3UVZaQ2NRT2xRVEtGWXo3ZmZzSjVwZw?oc=5",
+      "summary": "・Google広告に約3万円を投じたところ、アプリインストールの約60％がボットによる不正なものだったと報告された\n・広告費の大部分が実際のユーザー獲得に繋がらず、ボットトラフィックに浪費されていた可能性が指摘されている\n・デジタル広告におけるアドフラウド（広告詐欺）の深刻さを示す事例として注目を集めている",
+      "score": 7,
+      "reason": "Google広告のボット問題報告、広告品質管理に重要",
+      "date": "2026-09-15"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告に約3万円使ったらアプリのインストールの約60％がボットだったという報告 (2026年9月14日掲載) - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWVUZwWkkzR19WdzJVMkJWU0V4UWYwMU1zQWplZl9WYW1VeWJrUVdyYUhjWnlmQ2tHaUNhVDlLYm9aRHJVYUYyZkNXaXUwa3pFQ1diWFMzLVp4V19fYkE?oc=5",
+      "summary": "・Google広告に約3万円を投じた結果、アプリインストールの約60％がボットによる不正なものだったと報告された\n・広告費の大部分が実際のユーザー獲得に繋がらず、ボットトラフィックに浪費されていた可能性が指摘されている\n・デジタル広告におけるアドフラウド（広告不正）の深刻さを示す事例として注目を集めている",
+      "score": 7,
+      "reason": "id15と同内容、Google広告ボット問題の報告",
+      "date": "2026-09-15"
     }
   ]
 }
