@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-04": "2026-08-19",
-    "https://dentsudigital.co.jp/news/release/services/2026-0818-000340": "2026-08-19",
-    "https://dentsudigital.co.jp/news/release/services/2026-0717-000334": "2026-08-19",
-    "https://news.yahoo.co.jp/articles/9be10299746a8b47fa99cedca2299d07b26604a8": "2026-08-19",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5SVlaSHRRRURvMHVVRDZ1RFMyREJNdW92Z0xoYUl2Z2xBOHV2T0pNOXpCM09SaFEwS3pHRncwMk1aR013M1ozWXA1NTBzbVkwY1N2QWJvMEctR1ZsNWoyYmdMbG9yR0Q5bXFZQzFxdHJpb2xZdGlUMWtlMA?oc=5": "2026-08-19",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUUzZ3ZWSVI0N20zMVlmTmRqSWdTaVVOZy1NNnZmU2hhTm5XNnkyUlQyRkoyNENRbm9VRWpLV0dWODk5WXRmYjFWZ2owbkIwTXJsMHppZEFYNzZLQlNDTVdGcTRINmsxLWZXaktYSzVBcnFrOHQwV3Y3UXROWmRXdUppY2NSSWNkZjdFRA?oc=5": "2026-08-19",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWG81YXVaeldOU2hvNWs2ZTJpaThxdlZmX0pSRDJDU2h1UWJIZnRFQzRTYTFsZ3plNS1UUmg2RTVUY21fVGdxWWRKcmt6ZHptaVVwdklyRWRZZ0dKRk40?oc=5": "2026-08-19",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFByMlRrTGhpcmUxeDJOSUNDcFE2SThfeEpjU015UzVuZTNfRWs5b0dIMEZOclR6SERUdlhYdkN4bXpabmpsWDFaMTVsdGR3T1ZPU3hkYkc0MkZoT00yYUVjU3IyRzMwT3JIUktJOTJ0WQ?oc=5": "2026-08-19",
-    "https://news.yahoo.co.jp/articles/824ebe0992906ebcbc2ebc04fa34ed4d5a124017": "2026-08-19",
     "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-05": "2026-08-20",
     "https://www.facebook.com/business/news/game-changers-series-1": "2026-08-20",
     "https://dentsudigital.co.jp/news/release/services/2026-0819-000341": "2026-08-20",
@@ -296,49 +287,19 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnY0MmctSWpHN1RtVW9aMHBLWnVMZ0R3c0RWaG1kb2RPMlNhZGdJV29Bdm05VnJISFB2NzFXbkRlYmJFNl82LXVJcjhENUdjRl9WZ3cyU1ppYlVOdWQ5d0QtVjZ5VHhFX1NGUTY3SXFNZGxXbV8tcnRtT2hxQjhrQ00zeDlOLXhvZkg4dmw3MVNicUVOU05Nejh3?oc=5": "2026-09-18",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RY2hFOThSU2ZmVllQcEZRV0l3Zmt6RG1JWU1FNHg1Z1JOazhiaFBrNy16dFdtWDR0bXhEWEZWOVR3dEJ2RHhZNHhkSkdVaExuYlBTX2lMSHJpakVYbmpncWZzS1VMUWFtTHUyQVBLY3BMTkNKUGFUSnBRaFlzdw?oc=5": "2026-09-18",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LTEN6U0xVMTB4RlpfMHNPSEM5YzFibW1WZzNwSjlhcWcxMUdiZVRWR1ZGQlpXSk43bnRjYjBvczJVZUVhX3Q2VDloU1Jsc0tEQTJMOEo1LUFRQUY2SHh2N3Vfd1U2X1ZG?oc=5": "2026-09-18",
-    "https://news.yahoo.co.jp/articles/4564654ca679322d06d73fa8cb728d806ae23540": "2026-09-18"
+    "https://news.yahoo.co.jp/articles/4564654ca679322d06d73fa8cb728d806ae23540": "2026-09-18",
+    "https://oneder.hakuhodody-one.co.jp/blog/advertimes-tiktok-shop": "2026-09-19",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-site-reputation-update": "2026-09-19",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VERhbG1saGwzaTVrN0ppWEJ0NlltVnotTUlDRjFoVWhFcThQTmxndF9GVkZSb1RKRGgyZXQ3cDNkVHAtUTBjM3RJZFNoeEtIVTBv?oc=5": "2026-09-19",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xQzRTM3Naa1VwM2w4SWJFRjFlMUZfU2hRM2oxWml0dlBKdDIxTE9SbV9LNjJ0NXpMYkNUZm9nWHZuZ0diSzhnTmh3ZFgxbWtpU25ILWkxclAwRTVyWjlCSlBfYUcyUzNGVmxXX2NuYjY1UmY1NGlwN25R?oc=5": "2026-09-19",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRjNmYzRqVmsycmhFNVlIZVB2cG5MNWxEYVpxS3ZaYmg4S28yS2ZYaElPdmNvQmFiYlVpZGJ2TV8yend6X0pMNmR5M3dEa2YyOGs0OTRCMUdWNVBJY055YklzcG9BTzQ5SHc?oc=5": "2026-09-19",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbW9SMElyYVFGazFGUGNPOXhHZDZfbU1keTc4V1JKUUs5U3Q4ZjR3Z0JSWTZzMU1YTEZSMGUzSzM5SlNsck5IZ0VmUWx3YzNXVUFIRGN3?oc=5": "2026-09-19",
+    "https://news.yahoo.co.jp/articles/7249ebec37789e2fea735878e392c0b3aeaa3ff5": "2026-09-19",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mSnFkamlTSGNESjV1aWJMQjd6WVNHVXJaZ3NidHdVeDY1VXk5THNGd05vM3lhQ09namRmXzctV0tDSHFqNWww?oc=5": "2026-09-19",
+    "https://news.yahoo.co.jp/articles/515f0a7605f171d3489e40edc14781efd39fd1cc": "2026-09-19",
+    "https://news.yahoo.co.jp/articles/47c99ddc06f0dfe7086a86abbcabcbe16d9e73cc": "2026-09-19"
   },
   "titles": [
-    {
-      "title": "「令和シニアの検索トレンド（2025年上半期）」 ー進化する令和シニアのスマートライフ【第4回】",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "電通デジタルと電通、心理学理論とAIで顧客群の性格特性を可視化し、広告分析・配信を高度化する「BPTS（Big5 Personality Trait Segment）」を提供開始",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "GoogleとAI領域における協業を加速",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Cookie規制下で「見えなくなったCV」をどう取り戻すか？ デジタル広告のCV計測精度をあげる方法！…Cookie規制などによって計測環境が変化し、きちんとCVが計測できていないケースが発生している。そこで、「Web担当者Forum Meeting …Web担当者ForumIT総合8/18(火) 15:16",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Cookie規制下で「見えなくなったCV」をどう取り戻すか？ デジタル広告のCV計測精度をあげる方法！…るため、データ欠損がおこり、CVの計測数に影響を与えることになる。Google広告のCookieだけでなく、条件を満たすと「すべてのJavaScript…Web担当者ForumIT総合8/18(火) 15:16",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "【オンラインセミナー】機械学習を味方につけて成果を2倍にしたP-MAXの事例紹介／8月26日（水）開催 - ニコニコニュース",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "メタ、26年デジタル広告純収入でグーグル抜き世界首位へ＝調査会社 - ロイター",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "景表法の規制見直しへ、法運用の透明性高める 「不実証広告規制」 - 通販新聞社",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "セブン新広告会社の社長に聞く 好調の裏にある決定的な課題と対策 - 日経クロストレンド",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "グーグルのトップAI人材が新会社設立、加速するAI人材の大移動に必要な専門性の磨き方…リーである。新会社のウェブサイトによれば、彼らはGoogle検索、Google広告、Googleニュース、Google翻訳、TensorFlow、Ge…Forbes JAPAN社会8/17(月) 13:00",
-      "date": "2026-08-19"
-    },
     {
       "title": "注目を集めるシニア世代のインフルエンサー「グランフルエンサー」 ー進化する令和シニアのスマートライフ【第5回】",
       "date": "2026-08-20"
@@ -1498,99 +1459,49 @@
     {
       "title": "〈和牛バーガー4000円でも大繁盛〉客単価3万円、月商2000万円超…観光地の“高すぎる店”に外国人が殺到するワケ…oogleマップなどに大量の広告を出稿し、検索需要を獲得している。Google広告ではクリックごとに広告費が発生するCPC方式が一般的で、クリック単価…集英社オンライン経済総合9/18(金) 10:00",
       "date": "2026-09-18"
+    },
+    {
+      "title": "TikTok Shopは「検索しないEC」をどう変えるか　売上を左右する動画量と“検討併存型”の日本市場",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Google 、「サイトの評判の不正使用」スパムポリシーを変更",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Metaアプリ広告の新常識。ROASが約12.7倍改善した「バリュー最適化（VO）」活用のポイント (1/3) - MarkeZine",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "【9/30（水）13 時～】ChatGPT広告（ChatGPT Ads）徹底解説セミナー（アーカイブ配信） - イザ！",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "X広告代理店カオスマップ2026を公開｜全面委託企業の85.7％が一部自社運用を計画・検討 - PR TIMES",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "米地裁が退けたグーグル広告事業の分割、司法が直面する現実主義と法執行の境界線 - JBpress",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Google 依存脱却へ米国メディアはどう動いた？ 組織再編と最新施策実例…では、ページビューの減少も一因となり、総収益が前年同期比8.3％減、デジタル広告収益が9.2％減となった。 USAトゥデイ・カンパニーの広報担当者であ…DIGIDAY［日本版］IT総合9/18(金) 10:11",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "第3回「TikTok Ad Awards 2026 Japan」、広告キャンペーン全5部門のノミネート作品発表 - MEDIAMIXI",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "2:32商品棚が“接客”する時代へ！スーパーなどで広がる「棚前サイネージ」｜タッチパネルで進む接客支援。次なる可能性は生成AI！？【後編】…会社impact mirAI 取締役の櫻田和秀さん。街中にある大型のデジタル広告とは異なり、商品の認知を高めたり、特徴や使い方を伝えたりして、店頭で商…ソーシャル・イノベーション・ニュース環境9/17(木) 18:20",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "「家族葬10万円のはずが80万円に…」格安をうたう葬儀広告でなぜトラブルが多発するのか？ 葬儀社仲介業者の「グレーゾーン広告戦略」と監督官庁がない弊害…介業者のトップ企業であるU社が消費者庁などから指摘を受けた事例だと思います。 U社は、「追加料金は発生しない」と広告でうたっておきながら、葬儀終了後…マネーポストWEB経済総合9/17(木) 16:12",
+      "date": "2026-09-19"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "「令和シニアの検索トレンド（2025年上半期）」 ー進化する令和シニアのスマートライフ【第4回】",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-04",
-      "summary": "・令和シニアの2025年上半期の検索行動を分析しスマートライフの進化を調査した連載第4回\n・シニア層は長年の経験を活かした「検索のベテラン」として積極的に情報収集を行っている\n・高齢者のデジタル活用が進化し検索行動においても独自のトレンドが顕在化している",
-      "score": 5,
-      "reason": "シニア層の検索行動知見でターゲティング参考になる",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "電通デジタルと電通、心理学理論とAIで顧客群の性格特性を可視化し、広告分析・配信を高度化する「BPTS（Big5 Personality Trait Segment）」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0818-000340",
-      "summary": "・電通デジタルと電通が顧客の性格特性を可視化する新ソリューション「BPTS」を提供開始した\n・心理学の「Big5理論」に基づき10万人規模の調査データとAI・統計モデルを活用して分析する\n・顧客群の性格特性を把握することで広告の分析・配信の高度化を実現する",
-      "score": 4,
-      "reason": "電通の新ソリューション発表で直接的運用Tips少ない",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "GoogleとAI領域における協業を加速",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0717-000334",
-      "summary": "・電通デジタルがGoogleとAI領域での協業を加速すると発表した\n・自社AIソリューション「∞AI MC Planning」とGoogle広告APIを接続する\n・Googleの効果測定ソリューションとの連携により広告運用の高度化を図る",
-      "score": 4,
-      "reason": "企業間協業の発表で実務への即時影響は限定的",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "Cookie規制下で「見えなくなったCV」をどう取り戻すか？ デジタル広告のCV計測精度をあげる方法！…Cookie規制などによって計測環境が変化し、きちんとCVが計測できていないケースが発生している。そこで、「Web担当者Forum Meeting …Web担当者ForumIT総合8/18(火) 15:16",
-      "link": "https://news.yahoo.co.jp/articles/9be10299746a8b47fa99cedca2299d07b26604a8",
-      "summary": "・Cookie規制の影響でデジタル広告のCV計測が不完全になるケースが増加している\n・従来のCookie依存型の計測手法では正確なコンバージョン把握が困難になっている\n・Web担当者Forum Meetingにて計測精度を向上させる具体的な対策手法が紹介された",
-      "score": 9,
-      "reason": "Cookie規制下のCV計測改善は実務直結の重要テーマ",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "Cookie規制下で「見えなくなったCV」をどう取り戻すか？ デジタル広告のCV計測精度をあげる方法！…るため、データ欠損がおこり、CVの計測数に影響を与えることになる。Google広告のCookieだけでなく、条件を満たすと「すべてのJavaScript…Web担当者ForumIT総合8/18(火) 15:16",
-      "link": "https://news.yahoo.co.jp/articles/9be10299746a8b47fa99cedca2299d07b26604a8",
-      "summary": "・Cookie規制によりCV計測データの欠損が発生し広告効果の正確な把握が困難になっている\n・Google広告のCookieに加え条件次第で全JavaScriptが制限されCV数に影響が出る\n・デジタル広告のCV計測精度向上にはデータ欠損を補完する新たな手法の導入が必要である",
-      "score": 9,
-      "reason": "Google広告Cookie規制のCV欠損対策で実務直結",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Google News",
-      "title": "【オンラインセミナー】機械学習を味方につけて成果を2倍にしたP-MAXの事例紹介／8月26日（水）開催 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5SVlaSHRRRURvMHVVRDZ1RFMyREJNdW92Z0xoYUl2Z2xBOHV2T0pNOXpCM09SaFEwS3pHRncwMk1aR013M1ozWXA1NTBzbVkwY1N2QWJvMEctR1ZsNWoyYmdMbG9yR0Q5bXFZQzFxdHJpb2xZdGlUMWtlMA?oc=5",
-      "summary": "・8月26日にP-MAXキャンペーンの成果改善をテーマとしたオンラインセミナーが開催される\n・機械学習を活用しP-MAXで成果を2倍に向上させた具体的な事例が紹介される予定\n・Google広告の自動化機能を効果的に運用するノウハウが学べる内容となっている",
-      "score": 8,
-      "reason": "P-MAX活用事例セミナーで機械学習運用の実践知見",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Google News",
-      "title": "メタ、26年デジタル広告純収入でグーグル抜き世界首位へ＝調査会社 - ロイター",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUUzZ3ZWSVI0N20zMVlmTmRqSWdTaVVOZy1NNnZmU2hhTm5XNnkyUlQyRkoyNENRbm9VRWpLV0dWODk5WXRmYjFWZ2owbkIwTXJsMHppZEFYNzZLQlNDTVdGcTRINmsxLWZXaktYSzVBcnFrOHQwV3Y3UXROWmRXdUppY2NSSWNkZjdFRA?oc=5",
-      "summary": "・調査会社の予測によりメタが2026年にデジタル広告純収入で世界首位になる見通し\n・現在首位のグーグルを抜きメタがデジタル広告市場のトップに立つと報じられた\n・SNS広告の成長が追い風となりメタの広告収入がグーグルを逆転する構図が鮮明に",
-      "score": 6,
-      "reason": "Meta・Google広告収入の勢力図変化は業界動向として有用",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Google News",
-      "title": "景表法の規制見直しへ、法運用の透明性高める 「不実証広告規制」 - 通販新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWG81YXVaeldOU2hvNWs2ZTJpaThxdlZmX0pSRDJDU2h1UWJIZnRFQzRTYTFsZ3plNS1UUmg2RTVUY21fVGdxWWRKcmt6ZHptaVVwdklyRWRZZ0dKRk40?oc=5",
-      "summary": "・景品表示法の規制見直しが進められ、不実証広告規制の運用透明性向上が焦点となっている\n・広告の効果効能を裏付ける合理的根拠の提出を求める不実証広告規制の適用基準が議論対象に\n・法運用の予見可能性を高め、事業者が適正な広告表示を行いやすい環境整備を目指す方針",
-      "score": 5,
-      "reason": "不実証広告規制の見直しは広告表現の法的リスクに関連",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Google News",
-      "title": "セブン新広告会社の社長に聞く 好調の裏にある決定的な課題と対策 - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByMlRrTGhpcmUxeDJOSUNDcFE2SThfeEpjU015UzVuZTNfRWs5b0dIMEZOclR6SERUdlhYdkN4bXpabmpsWDFaMTVsdGR3T1ZPU3hkYkc0MkZoT00yYUVjU3IyRzMwT3JIUktJOTJ0WQ?oc=5",
-      "summary": "・セブン&アイ系列の新広告会社が好調な業績を上げている背景を社長が解説\n・好調の裏に潜む決定的な課題について経営トップ自らが具体的に言及\n・課題克服に向けた今後の対策や成長戦略の方向性を示している",
-      "score": 5,
-      "reason": "セブンのリテールメディア戦略は業界動向として参考",
-      "date": "2026-08-19"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "グーグルのトップAI人材が新会社設立、加速するAI人材の大移動に必要な専門性の磨き方…リーである。新会社のウェブサイトによれば、彼らはGoogle検索、Google広告、Googleニュース、Google翻訳、TensorFlow、Ge…Forbes JAPAN社会8/17(月) 13:00",
-      "link": "https://news.yahoo.co.jp/articles/824ebe0992906ebcbc2ebc04fa34ed4d5a124017",
-      "summary": "・グーグルのトップAI人材が退職し新会社を設立、検索や広告等の主要部門出身者が参画\n・Google検索・広告・翻訳・TensorFlow等の中核技術経験者が新会社に集結している\n・AI業界で大手テック企業からの人材流出が加速し専門性の磨き方が重要課題となっている",
-      "score": 4,
-      "reason": "Google AI人材流出の話題で広告運用への直接影響は限定的",
-      "date": "2026-08-19"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "注目を集めるシニア世代のインフルエンサー「グランフルエンサー」 ー進化する令和シニアのスマートライフ【第5回】",
@@ -4200,6 +4111,96 @@
       "score": 6,
       "reason": "Google広告CPC活用の実例紹介で運用参考になる",
       "date": "2026-09-18"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "TikTok Shopは「検索しないEC」をどう変えるか　売上を左右する動画量と“検討併存型”の日本市場",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/advertimes-tiktok-shop",
+      "summary": "・TikTok Shopが日本でサービス開始し国内ECトップ10規模を目指す動きが本格化している\n・Hakuhodo DY ONEが専用支援サービス「BUZZ BUY BOOSTER」を同時提供開始した\n・戦略・制作・配信・広告運用に加え物流や顧客対応まで一気通貫で支援する体制を構築",
+      "score": 6,
+      "reason": "TikTok Shop日本展開の動向で広告運用にも間接的に関連",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、「サイトの評判の不正使用」スパムポリシーを変更",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-site-reputation-update",
+      "summary": "・Googleが「サイトの評判の不正使用」に関するスパムポリシーを変更した\n・EEA外のユーザー向け検索結果において手動対策の適用方法が更新された\n・対策はサイト全体でなく該当部分のみに影響し他の部分は従来通り表示される",
+      "score": 5,
+      "reason": "SEO寄りのスパムポリシー変更で広告運用への直接影響は限定的",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Google News",
+      "title": "Metaアプリ広告の新常識。ROASが約12.7倍改善した「バリュー最適化（VO）」活用のポイント (1/3) - MarkeZine",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VERhbG1saGwzaTVrN0ppWEJ0NlltVnotTUlDRjFoVWhFcThQTmxndF9GVkZSb1RKRGgyZXQ3cDNkVHAtUTBjM3RJZFNoeEtIVTBv?oc=5",
+      "summary": "・Metaアプリ広告で「バリュー最適化（VO）」を活用しROASが約12.7倍改善した事例が紹介されている\n・VOは広告配信時にユーザーの購買価値を基に最適化を行い、高LTVユーザーの獲得を目指す手法である\n・従来のインストール最適化から価値ベースの最適化へ移行することがアプリ広告の新常識となりつつある",
+      "score": 9,
+      "reason": "Meta広告バリュー最適化の実践テクニックで即実務活用",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Google News",
+      "title": "【9/30（水）13 時～】ChatGPT広告（ChatGPT Ads）徹底解説セミナー（アーカイブ配信） - イザ！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xQzRTM3Naa1VwM2w4SWJFRjFlMUZfU2hRM2oxWml0dlBKdDIxTE9SbV9LNjJ0NXpMYkNUZm9nWHZuZ0diSzhnTmh3ZFgxbWtpU25ILWkxclAwRTVyWjlCSlBfYUcyUzNGVmxXX2NuYjY1UmY1NGlwN25R?oc=5",
+      "summary": "・ChatGPT広告（ChatGPT Ads）を徹底解説するオンラインセミナーが開催される\n・開催日時は9月30日（水）13時からでアーカイブ配信にも対応している\n・生成AI上の新たな広告枠として注目されるChatGPT広告の活用法を紹介予定",
+      "score": 7,
+      "reason": "ChatGPT Ads新広告枠の解説セミナーで実務直結",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Google News",
+      "title": "X広告代理店カオスマップ2026を公開｜全面委託企業の85.7％が一部自社運用を計画・検討 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRjNmYzRqVmsycmhFNVlIZVB2cG5MNWxEYVpxS3ZaYmg4S28yS2ZYaElPdmNvQmFiYlVpZGJ2TV8yend6X0pMNmR5M3dEa2YyOGs0OTRCMUdWNVBJY055YklzcG9BTzQ5SHc?oc=5",
+      "summary": "・X広告代理店カオスマップ2026年版がPR TIMESにて公開された\n・広告運用を全面委託している企業の85.7％が一部自社運用への移行を計画・検討中\n・X広告市場でインハウス化の流れが加速し代理店との役割分担が変化しつつある",
+      "score": 7,
+      "reason": "X広告代理店カオスマップと自社運用動向で実務参考",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Google News",
+      "title": "米地裁が退けたグーグル広告事業の分割、司法が直面する現実主義と法執行の境界線 - JBpress",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbW9SMElyYVFGazFGUGNPOXhHZDZfbU1keTc4V1JKUUs5U3Q4ZjR3Z0JSWTZzMU1YTEZSMGUzSzM5SlNsck5IZ0VmUWx3YzNXVUFIRGN3?oc=5",
+      "summary": "・米地裁がグーグルの広告事業分割を退け、独禁法執行における司法判断の限界が浮き彫りになった\n・広告技術市場の独占是正と事業分割の現実的な実行可能性の間で裁判所が慎重な姿勢を示した\n・司法が競争政策の理念と市場への実際の影響を天秤にかける「現実主義と法執行の境界線」が争点となった",
+      "score": 6,
+      "reason": "Google広告事業分割訴訟の業界動向として有用",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Google 依存脱却へ米国メディアはどう動いた？ 組織再編と最新施策実例…では、ページビューの減少も一因となり、総収益が前年同期比8.3％減、デジタル広告収益が9.2％減となった。 USAトゥデイ・カンパニーの広報担当者であ…DIGIDAY［日本版］IT総合9/18(金) 10:11",
+      "link": "https://news.yahoo.co.jp/articles/7249ebec37789e2fea735878e392c0b3aeaa3ff5",
+      "summary": "・米国メディア各社がGoogle依存から脱却するため組織再編や新施策に取り組んでいる\n・ページビュー減少を一因に総収益が前年同期比8.3％減、デジタル広告収益も9.2％減と低迷\n・USAトゥデイなど大手メディアが検索流入に頼らない収益モデルの構築を模索している",
+      "score": 5,
+      "reason": "メディアのGoogle依存脱却動向で業界知見",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Google News",
+      "title": "第3回「TikTok Ad Awards 2026 Japan」、広告キャンペーン全5部門のノミネート作品発表 - MEDIAMIXI",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mSnFkamlTSGNESjV1aWJMQjd6WVNHVXJaZ3NidHdVeDY1VXk5THNGd05vM3lhQ09namRmXzctV0tDSHFqNWww?oc=5",
+      "summary": "・第3回「TikTok Ad Awards 2026 Japan」が開催され広告キャンペーン全5部門のノミネート作品が発表された\n・TikTok上で展開された優れた広告キャンペーンを表彰する日本国内向けの年次アワード企画である\n・MEDIAMIXIが本アワードのノミネート情報を報じ、今後グランプリ等の受賞作品発表が注目される",
+      "score": 4,
+      "reason": "TikTok広告賞ノミネート発表で事例参考程度",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2:32商品棚が“接客”する時代へ！スーパーなどで広がる「棚前サイネージ」｜タッチパネルで進む接客支援。次なる可能性は生成AI！？【後編】…会社impact mirAI 取締役の櫻田和秀さん。街中にある大型のデジタル広告とは異なり、商品の認知を高めたり、特徴や使い方を伝えたりして、店頭で商…ソーシャル・イノベーション・ニュース環境9/17(木) 18:20",
+      "link": "https://news.yahoo.co.jp/articles/515f0a7605f171d3489e40edc14781efd39fd1cc",
+      "summary": "・スーパー等の商品棚に設置する「棚前サイネージ」が店頭の接客手段として普及拡大中\n・タッチパネル機能で商品の認知向上や特徴・使い方の訴求など接客支援を実現している\n・今後は生成AIの活用により棚前サイネージの接客機能がさらに高度化する可能性がある",
+      "score": 3,
+      "reason": "店頭デジタルサイネージの話題で運用型広告と距離",
+      "date": "2026-09-19"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「家族葬10万円のはずが80万円に…」格安をうたう葬儀広告でなぜトラブルが多発するのか？ 葬儀社仲介業者の「グレーゾーン広告戦略」と監督官庁がない弊害…介業者のトップ企業であるU社が消費者庁などから指摘を受けた事例だと思います。 U社は、「追加料金は発生しない」と広告でうたっておきながら、葬儀終了後…マネーポストWEB経済総合9/17(木) 16:12",
+      "link": "https://news.yahoo.co.jp/articles/47c99ddc06f0dfe7086a86abbcabcbe16d9e73cc",
+      "summary": "・「家族葬10万円」等の格安広告で集客し実際には80万円請求されるなど葬儀仲介業者との料金トラブルが多発している\n・大手仲介業者U社は「追加料金なし」と広告しながら事後に高額請求し消費者庁から指摘を受けるグレーゾーン広告を展開していた\n・葬儀仲介業には明確な監督官庁が存在せず広告表示や料金体系への規制が不十分なことが被害拡大の一因となっている",
+      "score": 3,
+      "reason": "葬儀広告のグレーゾーン戦略で景表法知見程度",
+      "date": "2026-09-19"
     }
   ]
 }
