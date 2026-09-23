@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0721-000336": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcl9zN21SNEhWNE5yVzhiOEp4b3NWTXF4RDlNdzQyeTJsTGZRMUlfT2JvZDNJdTFYR3FGV0JfUVY2NExIbVl0ODF4bHAwbktoN1FKVGpnSkpFOEVoVkVOUy1oOUxNbUc5YVF4LWZSbEJUYVpKbWdXR1JUOU5JeWgzVndvbFJ6QQ?oc=5": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMURXLXVvamtCcEV4Z3Q5bWdMZWNRYjhoZF9aNUJKTDFTZ2wzUUlqWVNPdnZGbTRTNUJkd19CbU9LV2tWTXkzN3RaMjA0ckFKNExrOTVPbXBlXzRvb0JkNzdoQ3RVak5NQXBtQkJxY0NqLU1iaHB0X2V5NXlVX0pwb0NjYjBzR09WT3V6S0FMbTRaM2ZDR2ZtTk5lUlJWSm5kUG5SY1AtSQ?oc=5": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KdlF5WmJUYTVUb0lCbzFpaFVINkJGM0ZEMjMzZTRiMVBVa2FKNVJscXRXelhfNWt0cVJpcW84YWVBamdwRG9abUk5RDh3eGhuYzl2LXV3?oc=5": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjc3hMbGl2S19RMTB2M0EzTEFrNXRRRjVkdTVtc3prNkNhRVgwd0ZGN3FjSmFTZnpLaW5ZZk5zMFBWenhjMTJxa01n?oc=5": "2026-08-23",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feWZBNjhQendMYTRpenExNTZCVURWZ0h5Y21EWU9PaWl2cGUtOGMycEt6cDZ2RVJfQTk1NXJ5dFVzNmZCNGVsQ0ZYTUhNanBtZ0owQTZJcG5IMEU?oc=5": "2026-08-23",
-    "https://news.yahoo.co.jp/articles/2da27cda498a6b6658acf65c5eff193fef09934b": "2026-08-23",
-    "https://news.yahoo.co.jp/articles/825b759910715c87f6c1a50fa3469cf5e1d47814": "2026-08-23",
     "https://oneder.hakuhodody-one.co.jp/blog/meta-ads-ai": "2026-08-24",
     "https://dentsudigital.co.jp/news/release/services/2026-0723-000335": "2026-08-24",
     "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-08-24",
@@ -296,49 +286,17 @@
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DTlpfNWczOUtBRUNMQ05rRTZSN3pYTWJUUXJTdFN3NjNtTFhFX0xCRlVMTHAtdWN3ZVZPbHBVNkxYSDVzZWdxVEdQQ2JoeV81M1JsMGxJV3lGWGlnZHF6T0RCaw?oc=5": "2026-09-22",
     "https://news.yahoo.co.jp/articles/6d5c370d8f6b526182ee2f96564c606bad20a4d0": "2026-09-22",
     "https://news.yahoo.co.jp/articles/43f52751f0a625bd5c63334c3746bedad4230730": "2026-09-22",
-    "https://news.yahoo.co.jp/articles/5fced1bbfc6904b2c2d07a2410973c3817623f95": "2026-09-22"
+    "https://news.yahoo.co.jp/articles/5fced1bbfc6904b2c2d07a2410973c3817623f95": "2026-09-22",
+    "https://news.yahoo.co.jp/articles/1743d845bc7ac43d20d466f07f181cce0ab7507d": "2026-09-23",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGltUmNqVEF4QUo1V2xWVUxRMm0wR092RVc0SU1xZUNiVVVpMHFrTzN5MGkwMkRxTTdjbENzYjFRSkl2V1ZDNnI1SG8tczM3MHhEdE9DSmtOdVI0NHNVN0ljcjBWRWs5OHRkYXJwQjN1a1k2Y1Y2dWd3SnV6MnZqZXlqVDZZdw?oc=5": "2026-09-23",
+    "https://news.yahoo.co.jp/articles/df6afbef384c54211ce0b086fc5245c53940db0b": "2026-09-23",
+    "https://news.yahoo.co.jp/articles/f752746d0d350a69f5bdccdbb19d9206d04936c4": "2026-09-23",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGdfZVhWQm1qb0RoeWo3c0JkRC1WcUh2d0hQa0VuNG5YRHZzMTNEY1F1V2dtTy01c1R3bUhxSDZRU2dMb2ZZNGdHbWZZdDNSOVZ3MGdROVhBZlJ0T1BQekxNNm80SzZwWU1PbHFlVXFYaWtPTzQwck0yUXc1RklnSnRRZVlDSzZRNmtZTWtXUXNFdVFGb0HSAZYBQVVfeXFMTzBnX2VYVkJtam9EaHlqN3NCZEQtVnFIdndIUGtFbjRuWER2czEzRGNRdVdnbU8tNXNUd21IcUg2UVNnTG9mWTRnR21mWXQzUjlWdzBnUTlYQWZSdE9QUHpMTTZvNEs2cFlNT2xxZVVxWGlrT080MHJNMlF3NUZJZ0p0UWVZQ0s2UTZrWU1rV1FzRXVRRm9B?oc=5": "2026-09-23",
+    "https://news.yahoo.co.jp/articles/c012c34d7180337482b4e423d11cac304ad37638": "2026-09-23",
+    "https://news.yahoo.co.jp/articles/9d750d60e1af0b38323110aa31e6acdd307a1c94": "2026-09-23",
+    "https://news.yahoo.co.jp/articles/90f9c3a2d24f0dc04022bf35d1639c611a47e3ec": "2026-09-23"
   },
   "titles": [
-    {
-      "title": "AI時代に対応する「次世代オウンドメディア戦略・構築支援」を提供開始",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "大正製薬は Gemini を​マーケターの​伴走者に、​「思考の​壁打ち」で​意思決定を​加速 - Google Business Profile",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "スウェーデンはTikTokとMetaに対し、犯罪行為を勧誘する広告を削除するよう強制した。 - Vietnam.vn",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "福岡市博多区の広告代理業者が破産手続き開始決定 - 西日本新聞me",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "ログリー 、求人広告代理店事業の子会社motoを譲渡 - M＆A Online",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "DB証券、KTナスミディアのデジタル広告の回復により利益改善を予測、目標株価を17.8%引き上げ - jp.ajunews.com",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "タイ500万人にAIパスポート 100ポイントでチャットGPT解禁…ではないかとの指摘も出ている。野党側は、コンビニ1500店舗以上でのデジタル広告掲出など特殊な条件を問題視し、国家汚職防止委員会に調査を求めた。【バンコク小泉大士】…毎日新聞アジア・オセアニア8/23(日) 7:10",
-      "date": "2026-08-23"
-    },
-    {
-      "title": "【ヤリスクロスやヴェゼルを撃破できるか？】オプション込み実質350万円の新型「キックス」が挑む下剋上の戦い…みてください」的に言い切る、挑戦的なプロモーションである。 当然ながら消費者庁が定める条件を順守しつつ、アメリカ人とは少々異なる日本人ユーザーのメンタ…carview！経済総合8/22(土) 8:30",
-      "date": "2026-08-23"
-    },
     {
       "title": "Meta広告AIの進化とは？4つのアルゴリズムから考える、広告運用で見直すべき前提",
       "date": "2026-08-24"
@@ -1498,99 +1456,41 @@
     {
       "title": "ごわつき、くすみ、毛穴、エイジング...夏にダメージを受けた肌。この秋、40〜50代のスキンケアのおすすめを美容のプロに聞きました【プチプラ〜デパコス】…る。 長谷川真弓/美容エディター・ライター 編集プロダクションを経て、広告代理店で化粧品メーカーの営業を7年半担当。化粧品のおもしろさに目覚めたのち、…webマガジン mi-molletライフ総合9/22(火) 8:03",
       "date": "2026-09-22"
+    },
+    {
+      "title": "なぜウェブ広告はこんなに閉じにくい?ダークパターンが生み出した「使いやすさ」より「数字」が優先されるネット広告の事情…日本を含む6か国での調査をもとに、新しいタイプの広告が追加されました。 ■日本でも動き始めた 消費者庁のダークパターン対策は、2026年に一段進みまし…静岡放送（SBS）静岡9/23(水) 6:00",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "世界の小売業界は、デジタル広告の分野に参入しつつある。 - Vietnam.vn",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "「『権威』だけでは読まれない」メディアへの信頼なき時代の“活路”とは 英FTジリアン・テットの問いかけ…は、太い広告主を頼りにするメディアにも、オンラインで無料記事を量産して運用型広告収入を得る媒体にも、政治と距離が近いメディアにも、それぞれ欠点が存在するからです。デイリー新潮社会8/21(金) 6:02",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "安田成美、モンチッチへの“手編み帽子”に称賛の声相次ぐ「色遣いが天才」「愛情たっぷり」…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/23(水) 6:50",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "愛知・名古屋アジア大会で混乱相次ぐ、大型広告代理店不在で組織体制に課題か―中国メディア - ｄメニューニュース",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "「現実を生き抜くためのファンタジー」上田岳弘×川村真司『ノー・ファンタジー』刊行記念対談 そのうちそれが発展していってミュージックビデオを作れないかという話が出た時、自分は当時広告代理店にいてそっちの仕事で稼いでいたので、「いいよ。自前でできる範囲で考える…集英社オンラインエンタメ総合9/23(水) 11:00",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "世代間ギャップに遭遇して、若者の生きた言葉を学んでいます。例えば「えっぐ」とか。【中川正子さんフォトエッセイVol.4】…達に聞いてみる。 これってどういうニュアンスかな？そもそも、使う？ 「広告代理店の営業が使う印象はありますね。でも初めてご依頼するメールの地の文には僕…クウネル・サロンライフ総合9/23(水) 10:00",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "【ナゼ】官公庁が話題の映画や番組とタイアップも間もなく中止…｢犯罪を美化｣｢配慮が欠けている｣と批判殺到…っかかったところです｣ 行政機関の施策が関係するこれらの騒動。大手広告代理店で官公庁の業務にも関わった、桜美林大学の西山守准教授は。 (桜美林大学･西山守…読売テレビ社会9/23(水) 8:00",
+      "date": "2026-09-23"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "AI時代に対応する「次世代オウンドメディア戦略・構築支援」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0721-000336",
-      "summary": "・電通デジタルがAI時代に対応した「次世代オウンドメディア戦略・構築支援」を新たに提供開始した\n・企業のウェブサイト・アプリ・AIエージェントなど多様なオウンドメディアが支援対象となる\n・戦略策定から構築までを一気通貫で統合支援するサービスとして展開される",
-      "score": 3,
-      "reason": "企業の新サービス発表で広告運用への直接的影響薄い",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
-      "summary": "・2024年のネット広告媒体費は前年比108.8%の約2兆8,525億円に達し成長が継続した\n・動画広告が大きく伸長しコ",
-      "score": 8,
-      "reason": "電通のネット広告費詳細分析は市場動向把握に有用",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5",
-      "summary": "・政府が景品表示法における不実証広告規制の見直しに着手する方針を明らかにした\n・消費者庁と事業者間の対話を強化し、広告表示の適正化と予見可能性向上を図る\n・ウェルネス業界など健康関連広告の規制運用に大きな影響を与える可能性がある",
-      "score": 6,
-      "reason": "景表法の不実証広告規制見直しは広告表現に影響",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "大正製薬は Gemini を​マーケターの​伴走者に、​「思考の​壁打ち」で​意思決定を​加速 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcl9zN21SNEhWNE5yVzhiOEp4b3NWTXF4RDlNdzQyeTJsTGZRMUlfT2JvZDNJdTFYR3FGV0JfUVY2NExIbVl0ODF4bHAwbktoN1FKVGpnSkpFOEVoVkVOUy1oOUxNbUc5YVF4LWZSbEJUYVpKbWdXR1JUOU5JeWgzVndvbFJ6QQ?oc=5",
-      "summary": "・大正製薬がGoogleのAI「Gemini」をマーケティング業務の伴走ツールとして導入・活用している\n・マーケターがGeminiを「思考の壁打ち」相手として使い、アイデア整理や戦略検討を効率化\n・AI活用により意思決定のスピードが向上し、マーケティング施策の推進を加速させている",
-      "score": 6,
-      "reason": "Geminiのマーケティング活用事例で実務参考になる",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "スウェーデンはTikTokとMetaに対し、犯罪行為を勧誘する広告を削除するよう強制した。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMURXLXVvamtCcEV4Z3Q5bWdMZWNRYjhoZF9aNUJKTDFTZ2wzUUlqWVNPdnZGbTRTNUJkd19CbU9LV2tWTXkzN3RaMjA0ckFKNExrOTVPbXBlXzRvb0JkNzdoQ3RVak5NQXBtQkJxY0NqLU1iaHB0X2V5NXlVX0pwb0NjYjBzR09WT3V6S0FMbTRaM2ZDR2ZtTk5lUlJWSm5kUG5SY1AtSQ?oc=5",
-      "summary": "・スウェーデン政府がTikTokとMetaに対し犯罪行為を勧誘する広告の削除を強制する措置を実施した\n・両プラットフォーム上で犯罪への参加を促す違法広告が問題視され当局が規制に乗り出した\n・欧州各国でSNS上の違法コンテンツへの規制強化が進む中スウェーデンが具体的な対応を示した",
-      "score": 4,
-      "reason": "海外の広告規制動向で日本実務への直接影響は薄い",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "福岡市博多区の広告代理業者が破産手続き開始決定 - 西日本新聞me",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KdlF5WmJUYTVUb0lCbzFpaFVINkJGM0ZEMjMzZTRiMVBVa2FKNVJscXRXelhfNWt0cVJpcW84YWVBamdwRG9abUk5RDh3eGhuYzl2LXV3?oc=5",
-      "summary": "・福岡市博多区に所在する広告代理業者が破産手続きの開始決定を受けた\n・西日本新聞が同社の経営破綻について報じたが詳細情報は限定的である\n・広告代理店業界の競争激化や経営環境の厳しさが背景にあると推察される",
-      "score": 3,
-      "reason": "広告代理業者の破産で業界動向だが実務無関係",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "ログリー 、求人広告代理店事業の子会社motoを譲渡 - M＆A Online",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjc3hMbGl2S19RMTB2M0EzTEFrNXRRRjVkdTVtc3prNkNhRVgwd0ZGN3FjSmFTZnpLaW5ZZk5zMFBWenhjMTJxa01n?oc=5",
-      "summary": "・ログリーが求人広告代理店事業を展開する子会社motoの譲渡を発表した\n・M&A Onlineが報じたもので事業ポートフォリオの見直しが背景とみられる\n・子会社売却により中核事業への経営資源集中を図る狙いがあると考えられる",
-      "score": 3,
-      "reason": "ログリー子会社譲渡の企業ニュース",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Google News",
-      "title": "DB証券、KTナスミディアのデジタル広告の回復により利益改善を予測、目標株価を17.8%引き上げ - jp.ajunews.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feWZBNjhQendMYTRpenExNTZCVURWZ0h5Y21EWU9PaWl2cGUtOGMycEt6cDZ2RVJfQTk1NXJ5dFVzNmZCNGVsQ0ZYTUhNanBtZ0owQTZJcG5IMEU?oc=5",
-      "summary": "・DB証券がKTナスミディアの目標株価を17.8%引き上げ、投資評価を上方修正した\n・デジタル広告市場の回復がKTナスミディアの業績改善を牽引すると分析している\n・広告事業の成長期待を背景に、今後の利益拡大が見込まれると予測された",
-      "score": 2,
-      "reason": "韓国企業の株価予測で日本の実務に無関係",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "タイ500万人にAIパスポート 100ポイントでチャットGPT解禁…ではないかとの指摘も出ている。野党側は、コンビニ1500店舗以上でのデジタル広告掲出など特殊な条件を問題視し、国家汚職防止委員会に調査を求めた。【バンコク小泉大士】…毎日新聞アジア・オセアニア8/23(日) 7:10",
-      "link": "https://news.yahoo.co.jp/articles/2da27cda498a6b6658acf65c5eff193fef09934b",
-      "summary": "・タイ政府が500万人を対象にAIパスポートを発行し100ポイント取得でChatGPT利用を解禁する施策を推進中\n・コンビニ1500店舗以上でのデジタル広告掲出など特殊な入札条件に不透明さが指摘されている\n・野党が利権構造を問題視し国家汚職防止委員会に正式な調査を求める事態に発展した",
-      "score": 2,
-      "reason": "タイの政策ニュースで広告運用と無関係",
-      "date": "2026-08-23"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【ヤリスクロスやヴェゼルを撃破できるか？】オプション込み実質350万円の新型「キックス」が挑む下剋上の戦い…みてください」的に言い切る、挑戦的なプロモーションである。 当然ながら消費者庁が定める条件を順守しつつ、アメリカ人とは少々異なる日本人ユーザーのメンタ…carview！経済総合8/22(土) 8:30",
-      "link": "https://news.yahoo.co.jp/articles/825b759910715c87f6c1a50fa3469cf5e1d47814",
-      "summary": "・日産新型キックスがオプション込み実質350万円でコンパクトSUV市場に参入し競合に挑む\n・トヨタ・ヤリスクロスやホンダ・ヴェゼルとの激戦区で下剋上を狙う戦略を展開\n・日本市場向けに挑戦的なプロモーションを展開しつつ消費者庁基準を順守する方針",
-      "score": 2,
-      "reason": "自動車プロモーション紹介だが運用実務と無関係",
-      "date": "2026-08-23"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "Meta広告AIの進化とは？4つのアルゴリズムから考える、広告運用で見直すべき前提",
@@ -4200,6 +4100,78 @@
       "score": 1,
       "reason": "スキンケア記事で広告運用と無関係",
       "date": "2026-09-22"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜウェブ広告はこんなに閉じにくい?ダークパターンが生み出した「使いやすさ」より「数字」が優先されるネット広告の事情…日本を含む6か国での調査をもとに、新しいタイプの広告が追加されました。 ■日本でも動き始めた 消費者庁のダークパターン対策は、2026年に一段進みまし…静岡放送（SBS）静岡9/23(水) 6:00",
+      "link": "https://news.yahoo.co.jp/articles/1743d845bc7ac43d20d466f07f181cce0ab7507d",
+      "summary": "・ウェブ広告の閉じにくさはダークパターンに起因し、ユーザビリティより数値成果が優先されている現状がある\n・日本を含む6か国の調査結果をもとに、新たなタイプのダークパターン広告が分類・追加された\n・消費者庁によるダークパターン規制対策は2026年に一段階進む見通しで、国内でも本格的な動きが始まっている",
+      "score": 5,
+      "reason": "ダークパターン規制動向は広告運用者の知識として有用",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Google News",
+      "title": "世界の小売業界は、デジタル広告の分野に参入しつつある。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGltUmNqVEF4QUo1V2xWVUxRMm0wR092RVc0SU1xZUNiVVVpMHFrTzN5MGkwMkRxTTdjbENzYjFRSkl2V1ZDNnI1SG8tczM3MHhEdE9DSmtOdVI0NHNVN0ljcjBWRWs5OHRkYXJwQjN1a1k2Y1Y2dWd3SnV6MnZqZXlqVDZZdw?oc=5",
+      "summary": "・世界の大手小売企業がデジタル広告事業へ本格的に参入し始めている\n・小売業者が持つ購買データを活用した広告配信が新たな収益源として注目される\n・リテールメディアの台頭により既存のデジタル広告市場の構造が変化しつつある",
+      "score": 4,
+      "reason": "小売リテールメディア動向だが具体的実務情報が乏しい",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「『権威』だけでは読まれない」メディアへの信頼なき時代の“活路”とは 英FTジリアン・テットの問いかけ…は、太い広告主を頼りにするメディアにも、オンラインで無料記事を量産して運用型広告収入を得る媒体にも、政治と距離が近いメディアにも、それぞれ欠点が存在するからです。デイリー新潮社会8/21(金) 6:02",
+      "link": "https://news.yahoo.co.jp/articles/df6afbef384c54211ce0b086fc5245c53940db0b",
+      "summary": "・英FTジリアン・テットが権威だけでは読者を獲得できない時代のメディアの課題を提起している\n・大口広告主依存・無料記事量産の運用型広告・政治との近接性など各収益モデルに欠点があると指摘\n・メディアへの信頼が揺らぐ中で持続可能なジャーナリズムの新たな活路を模索する議論が展開されている",
+      "score": 3,
+      "reason": "メディア論寄りで運用型広告の実務には直結しない",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安田成美、モンチッチへの“手編み帽子”に称賛の声相次ぐ「色遣いが天才」「愛情たっぷり」…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/23(水) 6:50",
+      "link": "https://news.yahoo.co.jp/articles/f752746d0d350a69f5bdccdbb19d9206d04936c4",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急速に拡大しデジタルシフトが加速している\n・メディア接触の変化に伴いデジタル広告市場が急拡大し広告戦略の転換が求められている",
+      "score": 2,
+      "reason": "芸能ニュース中心でデジタル広告の実務と無関係",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Google News",
+      "title": "愛知・名古屋アジア大会で混乱相次ぐ、大型広告代理店不在で組織体制に課題か―中国メディア - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGdfZVhWQm1qb0RoeWo3c0JkRC1WcUh2d0hQa0VuNG5YRHZzMTNEY1F1V2dtTy01c1R3bUhxSDZRU2dMb2ZZNGdHbWZZdDNSOVZ3MGdROVhBZlJ0T1BQekxNNm80SzZwWU1PbHFlVXFYaWtPTzQwck0yUXc1RklnSnRRZVlDSzZRNmtZTWtXUXNFdVFGb0HSAZYBQVVfeXFMTzBnX2VYVkJtam9EaHlqN3NCZEQtVnFIdndIUGtFbjRuWER2czEzRGNRdVdnbU8tNXNUd21IcUg2UVNnTG9mWTRnR21mWXQzUjlWdzBnUTlYQWZSdE9QUHpMTTZvNEs2cFlNT2xxZVVxWGlrT080MHJNMlF3NUZJZ0p0UWVZQ0s2UTZrWU1rV1FzRXVRRm9B?oc=5",
+      "summary": "・愛知・名古屋アジア大会で運営上の混乱が複数発生し大会組織体制の問題が表面化した\n・大型広告代理店が関与していないことが組織運営の混乱の一因と中国メディアが指摘\n・電通など大手代理店不在により大規模イベント運営のノウハウ不足が課題として浮上した",
+      "score": 1,
+      "reason": "アジア大会運営の話題で広告運用と無関係",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「現実を生き抜くためのファンタジー」上田岳弘×川村真司『ノー・ファンタジー』刊行記念対談 そのうちそれが発展していってミュージックビデオを作れないかという話が出た時、自分は当時広告代理店にいてそっちの仕事で稼いでいたので、「いいよ。自前でできる範囲で考える…集英社オンラインエンタメ総合9/23(水) 11:00",
+      "link": "https://news.yahoo.co.jp/articles/c012c34d7180337482b4e423d11cac304ad37638",
+      "summary": "・上田岳弘と川村真司が小説『ノー・ファンタジー』刊行を記念し対談を実施した\n・川村は広告代理店勤務時代にMV制作を自前で手がけた経緯を語っている\n・「現実を生き抜くためのファンタジー」をテーマに創作と広告の接点を議論した",
+      "score": 1,
+      "reason": "文学対談記事で広告運用とは無関係",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世代間ギャップに遭遇して、若者の生きた言葉を学んでいます。例えば「えっぐ」とか。【中川正子さんフォトエッセイVol.4】…達に聞いてみる。 これってどういうニュアンスかな？そもそも、使う？ 「広告代理店の営業が使う印象はありますね。でも初めてご依頼するメールの地の文には僕…クウネル・サロンライフ総合9/23(水) 10:00",
+      "link": "https://news.yahoo.co.jp/articles/9d750d60e1af0b38323110aa31e6acdd307a1c94",
+      "summary": "・写真家・中川正子氏が世代間の言葉のギャップに着目しフォトエッセイ第4弾を公開した\n・若者言葉「えっぐ」など生きた表現のニュアンスを若い世代に直接取材し学んでいる\n・広告代理店の営業的な言い回しとの違いにも触れ世代別の言語感覚の差を考察している",
+      "score": 1,
+      "reason": "フォトエッセイで広告運用とは無関係",
+      "date": "2026-09-23"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【ナゼ】官公庁が話題の映画や番組とタイアップも間もなく中止…｢犯罪を美化｣｢配慮が欠けている｣と批判殺到…っかかったところです｣ 行政機関の施策が関係するこれらの騒動。大手広告代理店で官公庁の業務にも関わった、桜美林大学の西山守准教授は。 (桜美林大学･西山守…読売テレビ社会9/23(水) 8:00",
+      "link": "https://news.yahoo.co.jp/articles/90f9c3a2d24f0dc04022bf35d1639c611a47e3ec",
+      "summary": "・官公庁が話題の映画や番組とタイアップした施策に対し批判が殺到し中止に追い込まれる事態が発生した\n・「犯罪を美化している」「配慮が欠けている」などの声が相次ぎコンテンツ選定の問題点が浮き彫りになった\n・桜美林大学の西山守准教授が大手広告代理店での経験を踏まえ行政タイアップの課題を指摘している",
+      "score": 1,
+      "reason": "官公庁タイアップ批判の社会ニュースで運用と無関係",
+      "date": "2026-09-23"
     }
   ]
 }
