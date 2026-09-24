@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/meta-ads-ai": "2026-08-24",
-    "https://dentsudigital.co.jp/news/release/services/2026-0723-000335": "2026-08-24",
-    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-08-24",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUSl9JcXdFZER5NUI4S0pnS0wxYWROQklFZUdqVXpNZ25mdU00N0JHTEJaSDI4OG9maThNRkhyRXd0azR4QVgwUkhCRy14MTEtRlhnaXBUYkY0UWFfVXRjdUZva1ZkUQ?oc=5": "2026-08-24",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGhGNHgyeTJOX3UzQ2NVa1ozcVpSbVJ0RWpyN0R0OWxUb0o3SUhNLVNsRzFkYXVEUTNFeFdzMk16WXl3elVxU01FRG1MLXVkTTh3UjBSSk5zTlJSRzZOSVBzcHR1R1JXV0dBdEVIRUlMemRzWGMyRWQwX0U4LTAydVBVOEVYOFpNbGtkTU9JSGs4aHluSl9v?oc=5": "2026-08-24",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWlJ2SkU1WmtzNENxUE5VZ202cVI0RnlmWkhyOUhiWWpSRy05b3JOMHlYWm1jS1dIUFRkeTIzaWMyVzJvOThZZm50X1VfWi04VU15MEZmV05aSkYwMkdiVjZsaVNvclpZSUE?oc=5": "2026-08-24",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDdoU3hqQnp0TWM3YnJIUXBDS01QclpNRnVuTGxBd3Z0TVI0TWxwek1qUkFEdFJnSmhCYldCSldoZnI1bC00Yi1xbXlYOE0tZWNoVGtmbzRGc0N6Z3FRNVQ3VDd3b0o4QVducjBZamI5SDd2dGZxd1ZDX194Z0NTOFcxQWxXdGRYTFhmTktxbTlmWDNqeGQ2MtIBmAFBVV95cUxQeDdoU3hqQnp0TWM3YnJIUXBDS01QclpNRnVuTGxBd3Z0TVI0TWxwek1qUkFEdFJnSmhCYldCSldoZnI1bC00Yi1xbXlYOE0tZWNoVGtmbzRGc0N6Z3FRNVQ3VDd3b0o4QVducjBZamI5SDd2dGZxd1ZDX194Z0NTOFcxQWxXdGRYTFhmTktxbTlmWDNqeGQ2Mg?oc=5": "2026-08-24",
-    "https://news.yahoo.co.jp/articles/659bf566b900b88eef04fe439d20985455e6cda1": "2026-08-24",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZnk1MVhKSkp4eTViWnlpRkhiVkdMaGxpV3pXcWJoMmxrSkdGbHdtby1nenpra0xyYmJENWs0a1c4MHdfMEFPRDJ4RGpOekRnTTdvMzdOT2VWcmxSN013dXJLYjZBNG8zYnFFelFmanNMV0VCX1hfbmZaYnQyd1hRWXFB0gGCAUFVX3lxTE5meTUxWEpKSnh5NWJaeWlGSGJWR0xobGlXeldxYmgybGtKR0Zsd21vLWd6emtrTHJiYkQ1azRrVzgwd18wQU9EMnhEak56RGdNN28zN05PZVZybFI3TXd1cktiNkE0bzNicUV6UWZqc0xXRUJfWF9uZlpidDJ3WFFZcUE?oc=5": "2026-08-24",
-    "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-08-24",
     "https://oneder.hakuhodody-one.co.jp/blog/seminar-report-line-retail-property-260623": "2026-08-25",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3clJMMmhtNU53eUhYOTYzbGZXQzBpc092WEMxdlFiOG96ZXdjelFvdUZadXVFX3ktRU54N3VCMnJrcnpVTGtNSWVWR1RYaDVScnMwZThjSzRJV3ZwWl9laG5YMG5mVkhX?oc=5": "2026-08-25",
     "https://news.yahoo.co.jp/articles/1ffd52fd6b1e8d8fbde837975a870ff60b0658d4": "2026-08-25",
@@ -294,49 +284,17 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGdfZVhWQm1qb0RoeWo3c0JkRC1WcUh2d0hQa0VuNG5YRHZzMTNEY1F1V2dtTy01c1R3bUhxSDZRU2dMb2ZZNGdHbWZZdDNSOVZ3MGdROVhBZlJ0T1BQekxNNm80SzZwWU1PbHFlVXFYaWtPTzQwck0yUXc1RklnSnRRZVlDSzZRNmtZTWtXUXNFdVFGb0HSAZYBQVVfeXFMTzBnX2VYVkJtam9EaHlqN3NCZEQtVnFIdndIUGtFbjRuWER2czEzRGNRdVdnbU8tNXNUd21IcUg2UVNnTG9mWTRnR21mWXQzUjlWdzBnUTlYQWZSdE9QUHpMTTZvNEs2cFlNT2xxZVVxWGlrT080MHJNMlF3NUZJZ0p0UWVZQ0s2UTZrWU1rV1FzRXVRRm9B?oc=5": "2026-09-23",
     "https://news.yahoo.co.jp/articles/c012c34d7180337482b4e423d11cac304ad37638": "2026-09-23",
     "https://news.yahoo.co.jp/articles/9d750d60e1af0b38323110aa31e6acdd307a1c94": "2026-09-23",
-    "https://news.yahoo.co.jp/articles/90f9c3a2d24f0dc04022bf35d1639c611a47e3ec": "2026-09-23"
+    "https://news.yahoo.co.jp/articles/90f9c3a2d24f0dc04022bf35d1639c611a47e3ec": "2026-09-23",
+    "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/": "2026-09-24",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-09-24",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMV9Na0c3d210bms3X1c5MnBDYkdkWnd0emc2M2FBdXhqdXpfUTFJRW0zbVRUOTRmbUVha0ctanM4TFliVXFJNGZzUlZMMk51bTBua2l3dWd2TVdIN2tZcTMyajRvZkFkQ3RTZWNoNXF0Yk9HQWtRN00wX2h1TGVzMDNuOG5uQ2lubF9n?oc=5": "2026-09-24",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-09-24",
+    "https://news.yahoo.co.jp/articles/2dbeab5f30f4f828a4dbc22de29a929b96c8a736": "2026-09-24",
+    "https://news.yahoo.co.jp/articles/4ddf472a142005d01afb7d7178b0a21a9822e761": "2026-09-24",
+    "https://news.yahoo.co.jp/articles/152c48bfc24ca3794372587af0bfd17bc9d4f78e": "2026-09-24",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Cd21yRDFodTJpMFZteTZON1NlYVMyZEdpNkd3eFpDelNKR2pEMzl6cnJiQ2Q3SUNQZWJjWk1JMDZzeGRnNkZUY0VR?oc=5": "2026-09-24"
   },
   "titles": [
-    {
-      "title": "Meta広告AIの進化とは？4つのアルゴリズムから考える、広告運用で見直すべき前提",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "生活者のAI活用実態調査を実施　AI利用者の約3人に1人が購買行動においてAIに相談　旅行や金融で顕著",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "サイバーエージェント広告事業に異変 5年ぶり減収で挑むAI革命 - 日経クロストレンド",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "YouTube の​トレンドから、​視聴者が​見たくなる​広告を​生み出す - Google Business Profile",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "【7/28(火)】Meta広告のAI運用をテーマとした無料オンラインセミナーを開催 - PR TIMES",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "TikTok規制で注目したい米国デジタル広告株3選 - simplywall.st",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "【スコアあとからカード」がひらくD2C定期通販のLTV最大化戦略】SENDo 益田啓光氏×SCORE 森裕士氏「後払い顧客のカード切り替えを促す新アプローチ 」…さらに、値引き額は、事業者ごとに変動させて最適な条件を検証することが可能だ。 広告代理店など支援事業者の事業拡大にも寄与ーー今後、どのような事業者にサービス…日本ネット経済新聞経済総合8/24(月) 7:00",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "【日本】消費者庁、環境ラベルの開示方法で景品表示法上の在り方提示。グリーンウォッシュ防止 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "date": "2026-08-24"
-    },
     {
       "title": "【商業施設・小売業界向け】業界特有の課題を解決！LINE通知メッセージ実践セミナー 〜導入事例から学ぶ、会員向け通知設計と来店・購買・継続につなげる活用のポイント〜【セミナーレポート】",
       "date": "2026-08-25"
@@ -1488,99 +1446,49 @@
     {
       "title": "【ナゼ】官公庁が話題の映画や番組とタイアップも間もなく中止…｢犯罪を美化｣｢配慮が欠けている｣と批判殺到…っかかったところです｣ 行政機関の施策が関係するこれらの騒動。大手広告代理店で官公庁の業務にも関わった、桜美林大学の西山守准教授は。 (桜美林大学･西山守…読売テレビ社会9/23(水) 8:00",
       "date": "2026-09-23"
+    },
+    {
+      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Google広告事業の米裁判「独占認定」も分割せず 行動規制にとどまる - 日経クロストレンド",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "通販の格安「お試し」商品、実際は定期購入契約のトラブル多発…「１回分のみ購入できる」と思わせる詐欺的な定期購入商法に注意…定期購入であることを明示することが義務化された。 有識者らでつくる消費者庁の「デジタル取引・特定商取引法等検討会」は今月、議論を整理した中間取りま…読売新聞オンライン社会9/23(水) 12:50",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "『1日30分睡眠』を公言する堀大輔氏の「睡眠改善プログラム」が物議…“科学的根拠”不明な高額ビジネスも「直ちに違法」といえないワケ【弁護士解説】…大幅に優れているかのように見せる広告表示のことだ。 さらに荒木弁護士は「不実証広告規制」についても触れた。 「消費者庁は、効果をうたう表示が優良誤認に…弁護士JPニュース社会9/24(木) 10:20",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "「家族葬10万円」実際は30万円超で措置命令 40万円→250万円の例も...なぜ葬儀で料金トラブル多発 「家族葬 10.45万円～」。そんなテレビCMを流していた葬儀会社に、消費者庁が待ったをかけた。 消費者庁は2026年9月18日、「小さな森の家」の屋号で家族葬サ…J-CASTニュース経済総合9/23(水) 19:30",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "通販の格安「お試し」商品、実際は定期購入契約のトラブル多発…「１回分のみ購入できる」と思わせる詐欺的な定期購入商法に注意…のに、実際は定期購入契約で解約にも手数料が約５０００円かかることから、景品表示法違反（有利誤認）にあたると主張。最終確認画面では、定期購入であることな…読売新聞オンライン社会9/23(水) 12:50",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "アジア太平洋地域のデジタル広告医薬品市場分析：業界シェア、トレンド、収益、2026年から - pando.life",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "『1日30分睡眠』を公言する堀大輔氏の「睡眠改善プログラム」が物議…“科学的根拠”不明な高額ビジネスも「直ちに違法」といえないワケ【弁護士解説】…を実際のものよりも著しく優良であると示す表示は、『優良誤認表示』として景品表示法5条1号で禁止されています」 優良誤認表示とは、商品やサービスの品質・…弁護士JPニュース社会9/24(木) 10:20",
+      "date": "2026-09-24"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "Meta広告AIの進化とは？4つのアルゴリズムから考える、広告運用で見直すべき前提",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/meta-ads-ai",
-      "summary": "・Meta広告AIは単一の仕組みではなく主に4つのアルゴリズムで構成され近年段階的に導入が進んでいる\n・各アルゴリズムの進化過程を理解することでMeta広告の最適化の仕組みをより深く把握できる\n・AI進化に伴い従来の広告運用の前提を見直し新たな運用方針への転換が求められている",
-      "score": 8,
-      "reason": "Meta広告AIアルゴリズムの実践的解説",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "生活者のAI活用実態調査を実施　AI利用者の約3人に1人が購買行動においてAIに相談　旅行や金融で顕著",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0723-000335",
-      "summary": "・電通デジタルが「with AIラボ」を設立し生活者のAI活用実態調査を実施した\n・AI利用者の約3人に1人が商品購入やサービス選定時にAIへ相談していると判明\n・特に旅行プラン検討や金融商品選びなどの高関与領域でAI活用が顕著に進んでいる",
-      "score": 5,
-      "reason": "生活者のAI活用動向で広告戦略の参考になる",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
-      "summary": "・サイバーエージェントが広告配信運用を自動化するAIエージェント「効果おまかせAI」の提供を開始した\n・Meta広告での先行導入を経て、Microsoft広告やTikTok広告など対応媒体を順次拡大予定\n・化粧品分野など具体的な広告主での導入実績をもとに段階的に機能拡張を進める方針",
-      "score": 9,
-      "reason": "CA広告運用AIエージェント新機能で即実務影響あり",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Google News",
-      "title": "サイバーエージェント広告事業に異変 5年ぶり減収で挑むAI革命 - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUSl9JcXdFZER5NUI4S0pnS0wxYWROQklFZUdqVXpNZ25mdU00N0JHTEJaSDI4OG9maThNRkhyRXd0azR4QVgwUkhCRy14MTEtRlhnaXBUYkY0UWFfVXRjdUZva1ZkUQ?oc=5",
-      "summary": "・サイバーエージェントの広告事業が5年ぶりの減収となり転換期を迎えている\n・厳しい市場環境の中でAI活用による事業変革に本格的に取り組む方針を示した\n・生成AIなど先端技術を広告運用に導入し競争力の回復と成長再加速を目指す",
-      "score": 7,
-      "reason": "CA広告事業の構造変化とAI活用動向で業界知見あり",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Google News",
-      "title": "YouTube の​トレンドから、​視聴者が​見たくなる​広告を​生み出す - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGhGNHgyeTJOX3UzQ2NVa1ozcVpSbVJ0RWpyN0R0OWxUb0o3SUhNLVNsRzFkYXVEUTNFeFdzMk16WXl3elVxU01FRG1MLXVkTTh3UjBSSk5zTlJSRzZOSVBzcHR1R1JXV0dBdEVIRUlMemRzWGMyRWQwX0U4LTAydVBVOEVYOFpNbGtkTU9JSGs4aHluSl9v?oc=5",
-      "summary": "・YouTubeの最新視聴トレンドを分析し広告クリエイティブに活用する手法を紹介\n・視聴者が自発的に見たくなる広告設計にはトレンド理解と共感が不可欠と提唱\n・Googleビジネスプロフィールが広告効果を高めるトレンド活用の具体策を解説",
-      "score": 7,
-      "reason": "YouTube広告クリエイティブ制作の公式知見で実践的",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Google News",
-      "title": "【7/28(火)】Meta広告のAI運用をテーマとした無料オンラインセミナーを開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWlJ2SkU1WmtzNENxUE5VZ202cVI0RnlmWkhyOUhiWWpSRy05b3JOMHlYWm1jS1dIUFRkeTIzaWMyVzJvOThZZm50X1VfWi04VU15MEZmV05aSkYwMkdiVjZsaVNvclpZSUE?oc=5",
-      "summary": "・Meta広告のAI活用運用をテーマにした無料オンラインセミナーが7月28日に開催される\n・PR TIMESを通じて告知されており、デジタル広告運用者向けの内容と想定される\n・AI技術を活用したMeta広告の最適化や効率的な運用手法が解説される見込み",
-      "score": 6,
-      "reason": "Meta広告AI運用セミナー告知で実務参考になる",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok規制で注目したい米国デジタル広告株3選 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDdoU3hqQnp0TWM3YnJIUXBDS01QclpNRnVuTGxBd3Z0TVI0TWxwek1qUkFEdFJnSmhCYldCSldoZnI1bC00Yi1xbXlYOE0tZWNoVGtmbzRGc0N6Z3FRNVQ3VDd3b0o4QVducjBZamI5SDd2dGZxd1ZDX194Z0NTOFcxQWxXdGRYTFhmTktxbTlmWDNqeGQ2MtIBmAFBVV95cUxQeDdoU3hqQnp0TWM3YnJIUXBDS01QclpNRnVuTGxBd3Z0TVI0TWxwek1qUkFEdFJnSmhCYldCSldoZnI1bC00Yi1xbXlYOE0tZWNoVGtmbzRGc0N6Z3FRNVQ3VDd3b0o4QVducjBZamI5SDd2dGZxd1ZDX194Z0NTOFcxQWxXdGRYTFhmTktxbTlmWDNqeGQ2Mg?oc=5",
-      "summary": "・米国でのTikTok規制強化を背景に恩恵を受けうるデジタル広告関連銘柄3社を紹介\n・TikTok広告費の流出先としてMeta・Google等の大手プラットフォームに注目が集まる\n・規制によるSNS広告市場の再編が米国デジタル広告企業の成長機会になると分析",
-      "score": 4,
-      "reason": "米国株投資情報で広告運用実務とは間接的",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【スコアあとからカード」がひらくD2C定期通販のLTV最大化戦略】SENDo 益田啓光氏×SCORE 森裕士氏「後払い顧客のカード切り替えを促す新アプローチ 」…さらに、値引き額は、事業者ごとに変動させて最適な条件を検証することが可能だ。 広告代理店など支援事業者の事業拡大にも寄与ーー今後、どのような事業者にサービス…日本ネット経済新聞経済総合8/24(月) 7:00",
-      "link": "https://news.yahoo.co.jp/articles/659bf566b900b88eef04fe439d20985455e6cda1",
-      "summary": "・SCOREの「あとからカード」は後払い利用者をカード決済へ切り替え促進しD2C定期通販のLTV最大化を支援する新サービスである\n・値引き額を事業者ごとに変動設定し最適な切り替え条件をABテスト的に検証できる柔軟な仕組みが特徴となっている\n・広告代理店など支援事業者の事業拡大にも寄与し定期通販の継続率・収益改善を多方面から後押しする狙いがある",
-      "score": 4,
-      "reason": "D2C通販のLTV戦略で広告運用とは間接的",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Google News",
-      "title": "【日本】消費者庁、環境ラベルの開示方法で景品表示法上の在り方提示。グリーンウォッシュ防止 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZnk1MVhKSkp4eTViWnlpRkhiVkdMaGxpV3pXcWJoMmxrSkdGbHdtby1nenpra0xyYmJENWs0a1c4MHdfMEFPRDJ4RGpOekRnTTdvMzdOT2VWcmxSN013dXJLYjZBNG8zYnFFelFmanNMV0VCX1hfbmZaYnQyd1hRWXFB0gGCAUFVX3lxTE5meTUxWEpKSnh5NWJaeWlGSGJWR0xobGlXeldxYmgybGtKR0Zsd21vLWd6emtrTHJiYkQ1azRrVzgwd18wQU9EMnhEak56RGdNN28zN05PZVZybFI3TXd1cktiNkE0bzNicUV6UWZqc0xXRUJfWF9uZlpidDJ3WFFZcUE?oc=5",
-      "summary": "・消費者庁が環境ラベルの表示方法について景品表示法上の考え方を公表した\n・企業の環境訴求における曖昧な表現や根拠不十分な主張をグリーンウォッシュとして規制強化\n・環境配慮を謳う商品・サービスの表示に具体的根拠と適切な開示を求める方針を提示した",
-      "score": 3,
-      "reason": "景表法関連だが広告運用実務への直接影響は薄い",
-      "date": "2026-08-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "link": "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e",
-      "summary": "・TikTokがYouTuberに代わる次世代クリエイター育成の場として注目され始めている\n・2019年が「TikTok広告元年」とされ企業の広告活用事例が相次いで登場している\n・徳力基彦氏がTikTok広告を早期導入する企業の動向と全貌を分析し紹介している",
-      "score": 3,
-      "reason": "2019年の古い記事でTikTok広告の現状と乖離",
-      "date": "2026-08-24"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "【商業施設・小売業界向け】業界特有の課題を解決！LINE通知メッセージ実践セミナー 〜導入事例から学ぶ、会員向け通知設計と来店・購買・継続につなげる活用のポイント〜【セミナーレポート】",
@@ -4172,6 +4080,96 @@
       "score": 1,
       "reason": "官公庁タイアップ批判の社会ニュースで運用と無関係",
       "date": "2026-09-23"
+    },
+    {
+      "source": "Google広告",
+      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+      "link": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
+      "summary": "・AI Max キャンペーンの作成支援ツール「AI Brief」が対応言語を拡大し多言語で利用可能になる\n・AI Maxに新たなレポート機能が追加されキャンペーン成果の把握が容易になる\n・両機能の強化によりAI Maxキャンペーンの作成・運用がより簡単になることを目指す",
+      "score": 8,
+      "reason": "Google広告AI Maxの新レポート機能追加で実務影響大",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Google News",
+      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - dentsu.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
+      "summary": "・電通が2024年のネット広告媒体費を詳細分析し、前年比約8%増の継続成長を報告した\n・動画広告・ソーシャル広告が高い伸び率を示し、運用型広告",
+      "score": 7,
+      "reason": "日本のネット広告費の詳細分析で市場把握に有用",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告事業の米裁判「独占認定」も分割せず 行動規制にとどまる - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMV9Na0c3d210bms3X1c5MnBDYkdkWnd0emc2M2FBdXhqdXpfUTFJRW0zbVRUOTRmbUVha0ctanM4TFliVXFJNGZzUlZMMk51bTBua2l3dWd2TVdIN2tZcTMyajRvZkFkQ3RTZWNoNXF0Yk9HQWtRN00wX2h1TGVzMDNuOG5uQ2lubF9n?oc=5",
+      "summary": "・米裁判所がGoogleの広告技術事業について独占状態にあると認定する判決を下した\n・米司法省が求めていた事業分割などの構造的是正措置は採用されなかった\n・判決は行動規制にとどまり、Googleの広告事業の基本構造は維持される見通しとなった",
+      "score": 7,
+      "reason": "Google広告独占裁判の結果は業界構造に影響大",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Google News",
+      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5",
+      "summary": "・政府が景品表示法における不実証広告規制の見直しに着手する方針を示した\n・消費者庁と事業者間の対話を強化し、広告表示の適正化を図る狙いがある\n・ウェルネス業界など健康関連広告の規制運用に大きな影響を与える可能性がある",
+      "score": 6,
+      "reason": "景表法運用見直しは広告表現の規制動向として重要",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "通販の格安「お試し」商品、実際は定期購入契約のトラブル多発…「１回分のみ購入できる」と思わせる詐欺的な定期購入商法に注意…定期購入であることを明示することが義務化された。 有識者らでつくる消費者庁の「デジタル取引・特定商取引法等検討会」は今月、議論を整理した中間取りま…読売新聞オンライン社会9/23(水) 12:50",
+      "link": "https://news.yahoo.co.jp/articles/2dbeab5f30f4f828a4dbc22de29a929b96c8a736",
+      "summary": "・通販の格安「お試し」商品が実は定期購入契約だったというトラブルが多発している\n・1回限りの購入と誤認させる詐欺的な定期購入商法が消費者被害を拡大させている\n・消費者庁検討会が議論を進め、定期購入である旨の明示が事業者に義務化された",
+      "score": 5,
+      "reason": "定期購入LP表示規制は通販広告運用者に参考",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "『1日30分睡眠』を公言する堀大輔氏の「睡眠改善プログラム」が物議…“科学的根拠”不明な高額ビジネスも「直ちに違法」といえないワケ【弁護士解説】…大幅に優れているかのように見せる広告表示のことだ。 さらに荒木弁護士は「不実証広告規制」についても触れた。 「消費者庁は、効果をうたう表示が優良誤認に…弁護士JPニュース社会9/24(木) 10:20",
+      "link": "https://news.yahoo.co.jp/articles/4ddf472a142005d01afb7d7178b0a21a9822e761",
+      "summary": "・堀大輔氏の「1日30分睡眠」を掲げる睡眠改善プログラムが科学的根拠の不透明さから批判を集めている\n・消費者庁の優良誤認表示や不実証広告規制の観点から高額ビジネスの問題点が指摘されている\n・弁護士は現行法上「直ちに違法」とは断定しにくい法的グレーゾーンの構造を解説した",
+      "score": 4,
+      "reason": "不実証広告規制の解説だが個別事例寄り",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「家族葬10万円」実際は30万円超で措置命令 40万円→250万円の例も...なぜ葬儀で料金トラブル多発 「家族葬 10.45万円～」。そんなテレビCMを流していた葬儀会社に、消費者庁が待ったをかけた。 消費者庁は2026年9月18日、「小さな森の家」の屋号で家族葬サ…J-CASTニュース経済総合9/23(水) 19:30",
+      "link": "https://news.yahoo.co.jp/articles/152c48bfc24ca3794372587af0bfd17bc9d4f78e",
+      "summary": "・消費者庁が「小さな森の家」に対し家族葬の広告表示で景品表示法違反の措置命令を出した\n・「10万円～」と宣伝しながら実際は30万円超かかり、40万円が250万円になった事例も報告された\n・葬儀業界では不明瞭な料金体系や追加費用が常態化し、消費者トラブルが多発している",
+      "score": 4,
+      "reason": "景表法違反事例だが広告運用実務との関連は薄い",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "通販の格安「お試し」商品、実際は定期購入契約のトラブル多発…「１回分のみ購入できる」と思わせる詐欺的な定期購入商法に注意…のに、実際は定期購入契約で解約にも手数料が約５０００円かかることから、景品表示法違反（有利誤認）にあたると主張。最終確認画面では、定期購入であることな…読売新聞オンライン社会9/23(水) 12:50",
+      "link": "https://news.yahoo.co.jp/articles/2dbeab5f30f4f828a4dbc22de29a929b96c8a736",
+      "summary": "・通販の格安「お試し」商品が実は定期購入契約だったというトラブルが多発している\n・1回限りの購入と誤認させる手法が景品表示法違反の有利誤認にあたると指摘されている\n・解約時に約5000円の手数料が発生し、最終確認画面での定期購入表示も不十分と問題視",
+      "score": 4,
+      "reason": "id5と重複、定期購入の有利誤認事例",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Google News",
+      "title": "アジア太平洋地域のデジタル広告医薬品市場分析：業界シェア、トレンド、収益、2026年から - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Cd21yRDFodTJpMFZteTZON1NlYVMyZEdpNkd3eFpDelNKR2pEMzl6cnJiQ2Q3SUNQZWJjWk1JMDZzeGRnNkZUY0VR?oc=5",
+      "summary": "・アジア太平洋地域の医薬品デジタル広告市場について業界シェアや収益動向を分析した報告が公開された\n・2026年以降の市場予測を含み、同地域における成長トレンドや主要プレイヤーの動向を網羅している\n・医薬品業界のデジタル広告投資拡大を背景に市場規模の継続的な拡大が見込まれている",
+      "score": 3,
+      "reason": "地域市場レポートで実務への直接的影響は薄い",
+      "date": "2026-09-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "『1日30分睡眠』を公言する堀大輔氏の「睡眠改善プログラム」が物議…“科学的根拠”不明な高額ビジネスも「直ちに違法」といえないワケ【弁護士解説】…を実際のものよりも著しく優良であると示す表示は、『優良誤認表示』として景品表示法5条1号で禁止されています」 優良誤認表示とは、商品やサービスの品質・…弁護士JPニュース社会9/24(木) 10:20",
+      "link": "https://news.yahoo.co.jp/articles/4ddf472a142005d01afb7d7178b0a21a9822e761",
+      "summary": "・1日30分睡眠を主張する堀大輔氏の高額な睡眠改善プログラムが科学的根拠の欠如を指摘され物議を醸している\n・弁護士は効果を実際より著しく優良に見せる「優良誤認表示」は景品表示法で禁止と解説している\n・ただし立証の難しさや表現の曖昧さから「直ちに違法」とは断定しにくい法的グレーゾーンにあると指摘",
+      "score": 3,
+      "reason": "id3と重複、個別事例の法律解説",
+      "date": "2026-09-24"
     }
   ]
 }
