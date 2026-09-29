@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.facebook.com/business/news/2026-holiday-small-business": "2026-08-29",
-    "https://dentsudigital.co.jp/news/release/services/2026-0727-000337": "2026-08-29",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mSjVFT3laZ3ZUVXY5QWZuTWlxMmQ1alctNzBXRzIyZXV5al9jczhIcTFkOWQ2dGZ3RWg4RXNCeGxNbEJUMGEzR1NDakc0dXhaWkRORVVKZzZqX29mQ0psZjN0UQ?oc=5": "2026-08-29",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YM2I1ZmMyakNuZ1lwRk1nQlFLZEwxem1QOFZEQ2RLRUMzbVRMclluaXRnZGlOYjNralJyQmFSTVprM19hX2M4ZlNxSHNod3dQREVUbHFlRnJqU1MyZ2MxN1JEN1dWQzFXMlE?oc=5": "2026-08-29",
-    "https://news.yahoo.co.jp/articles/db64bf4740332972d9d97df7398e6ba7d4ecdab5": "2026-08-29",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE05dzU4dlN5WlNSUGlzVmpJZUtkRHRpckpPaWUzTVpBUU5KVVRZc2lXZ3BUZXUzWmIxaDFULWg5QW03Sm1XbmZVSXRxeldheDVDNGJmNGhFc3o5QnZlQkdTaE1aVGJxb0ZqREhhVGJR?oc=5": "2026-08-29",
-    "https://news.yahoo.co.jp/articles/601beca4cf0e5ee7406ef16f69238db086098959": "2026-08-29",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cUJ5cThvaVFHd1FLVjZZaE5ycVI3RGRZaGh3c1ZSc2RtdHlKbTZ3UGw5MGpSdVpwNW02eHhzeWFDZXRQTkRCZmRjN2pvQ1FaVy0yN2NPMHljQ2U5N1NNb3ptcDhmMFF5a0JhOXJWOEI2Sm1pajdZX0swMUdmT3M?oc=5": "2026-08-29",
-    "https://news.yahoo.co.jp/articles/7267c181d34bc23acf59fa3f61c26ce9c6de9687": "2026-08-29",
-    "https://news.yahoo.co.jp/articles/14e90b3ce7d77ab561b9394e4e8c500679cdd7d2": "2026-08-29",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ZWE5bldISFBTYWlhdFFBN3FBVHN0dkkxOUhzMHRvLVhkUXg3cmhUUE5JX1ZadnZPa0lXYnVMZzhrOVZaT1FBQy1QMVBFblh5QjVTZDFMTktaQXJjYmhvRjVXZlIzNFdSOUE?oc=5": "2026-08-30",
     "https://news.yahoo.co.jp/expert/articles/865b103d996cb84e9c61299f1b4a4f85777c1e0d": "2026-08-30",
     "https://news.yahoo.co.jp/articles/5b0f7d17ba1a63789c13cb4c9b1a430173b9b14b": "2026-08-30",
@@ -291,49 +281,19 @@
     "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXNVY3dlhTbTFTeUFlSEZtQVMxZjA1UmpOakZrOGp5UjJsMW12eFgwNlR3TUhNR1R5T3dqaHBlaXQ2RGY5ZFJ4bzFnVGFiaVA1MVJrZ0FTemNJbmN5MTBCWUtFRVlEUENLZlV3VA?oc=5": "2026-09-28",
     "https://news.yahoo.co.jp/articles/2bf41c03f0460a3582d255d8225eb90a684f105f": "2026-09-28",
     "https://news.yahoo.co.jp/articles/c2e8af16aa2fa0a8e4e47bab6328372c85d07a6c": "2026-09-28",
-    "https://news.yahoo.co.jp/articles/ea6a2d6f308984b91aebcb8e488ff600a82e910d": "2026-09-28"
+    "https://news.yahoo.co.jp/articles/ea6a2d6f308984b91aebcb8e488ff600a82e910d": "2026-09-28",
+    "https://www.facebook.com/business/news/holiday-advantage-is-creative-advantage": "2026-09-29",
+    "https://news.yahoo.co.jp/articles/7acee723b9ecca0dbab82c36363d8d6ff4e15955": "2026-09-29",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GUFBHekppUlJIbTVZZEJkbTB2Y2o1VjBMTXVaVU5UQzVUazVSVGYxTE1CVnVWbllXYWprZnB3WGtIOFF6cmJZcGlFX0xEWldKRnYzZ3dMMTFPQQ?oc=5": "2026-09-29",
+    "https://news.yahoo.co.jp/articles/0513f44123fc022cbac2153075896ed549a732c0": "2026-09-29",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1a01VdmIxWGRoZmRpVDVLRjFKWEktVUEtX0tXai0ySVRkWlltYU5QZWRMMzBBR0RKRUlKekdpMkJXN2dKZ3dkdVJUUjRKS2luRkE?oc=5": "2026-09-29",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Q1dLQmdCakVhaUlyVnJTLU5rdmFxVmc5MUc0OWRvLUh6WUdZcERicFB6WUp3T3E3MTRhRlpmZTl3R1NCX3A1OHlnQ1dUbDZzcWZuRmlacW9HRjUtVFVJ?oc=5": "2026-09-29",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oaGJXamNSeVFvcjhUeHBtVUtYaXVQekhuTGsyOXpBeDFDTndTenFpVU1wdWVhcUNnMmlIYzN3NnlEbFhFU2hEUThadE9GUEdkb2RKU1R6VkkzbDJoWUI4ZG9rNDFzZHpYSkE?oc=5": "2026-09-29",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BYVJ4emRYZDRfMzFRRS1lblVIdzNDZFJzZGk0M1FMYnZoUkxlLW5wLWpmZFhCMnk5V3lOaUdLY2lRMjh2RG1mcmxrNFc4MUR6aUFFUjMxSUhBM3pwMUFJQ3RnNWpEeENnZmc?oc=5": "2026-09-29",
+    "https://news.yahoo.co.jp/articles/2dc59097e8033053d3ec41cffbb0ca8a03dedfc5": "2026-09-29",
+    "https://news.yahoo.co.jp/articles/511790f3c1504b7032e5d199aae1be6da5a93879": "2026-09-29"
   },
   "titles": [
-    {
-      "title": "2026 Holiday Small Business",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "アドビと連携し「Adobe LLM Optimizer」を活用したGEO支援を開始",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "「ダークパターン」規制強化へ 誤認招く手法対象、中間案公表―消費者庁：時事ドットコム - 時事ドットコム",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "【2026年最新】成果が伸びるWEB広告設計論 ～Google広告・購買/人流データ・クリエイティブ運用～【9月9日開催】 - PR TIMES",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "ジグザグ、海外向け広告運用支援「WorldShopping BIZ Growth」提供開始…た広告施策を設計します。 2．Meta広告・Google広告に対応 Facebook・Instagram等のMeta広告とGoogle広告を、ショップ…Yahoo!ニュース PR［PR］経済総合7/27(月) 12:02",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "48カ国・地域で“伝わる”広告表現にネイティブ対応～現地の特性に合わせ、Google・Meta・Microsoft・LinkedIn広告向け静止画クリエイティブの企画・制作を支援～ - tv-tokyo.co.jp",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "RIIZE ウォンビン、温泉スパ発想ヘアケアブランド「Off＆Relax」初のジャパンブランドアンバサダーに就任！…今回のアンバサダー就任を機に、ブランドムービー公開、全国店頭プロモーション、デジタル広告、SNSキャンペーン、POPUPイベントなど、過去最大規模のプロモーシ…Kstyleアジア・韓流8/28(金) 14:03",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "ピーク時売上高3億9000万円の金沢の広告代理店「セ・ビアン」が破産 何が経営を追い詰めたのか（石川テレビ） - Yahoo!ニュース",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "反町隆史、『GTO』バイクにまたがる姿に「28年前と変わらない鬼塚先生」SNSで絶賛の声…生徒役・森本陸斗との2ショット…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/28(金) 11:40",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "祝・Web担創刊20周年！ 各業界の専門家から届いたお祝いコメント（後編） Yuwai株式会社 田中広樹氏 創刊20周年おめでとうございます🎉運用型広告の世界に入って17年目になりますが、Web担当者Forumさんは、右も…Web担当者ForumIT総合8/27(木) 15:16",
-      "date": "2026-08-29"
-    },
     {
       "title": "「キャッチコピーはどう作る？」 広告代理店で中学生向け職場体験 - PR TIMES",
       "date": "2026-08-30"
@@ -1485,99 +1445,49 @@
     {
       "title": "「年収9割減でも東京より幸せ」元人気ライターの移住生活。お金を使わないと築けない人間関係なんてクソ…唐津に移住。お金よりも幸福度を高めるための選択だった。 「大学卒業後、広告代理店を経てフリーの編集・ライターに。来た仕事は全部引き受けてがむしゃらに働…SPA!ライフ総合9/28(月) 8:55",
       "date": "2026-09-28"
+    },
+    {
+      "title": "Win over shoppers with ad formats they're engaging with",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "セール頼みの成長から脱却するためには？ 確実性を積み上げる「ボトムアッププランニング」のポイント…ペーン・媒体予算は、事前に見通しと感覚を持ち入力する D2Cでは定石の運用型広告やコンテンツ制作だけでなく、繁忙期のキャンペーン予算についても、プラン…ネットショップ担当者フォーラムIT総合9/28(月) 16:01",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "クッキー廃止後の世界、広告代理店はマーケティングROIをどう証明するか - Forbes JAPAN",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "AI経由の米小売りサイト訪問、年末商戦で130％増へ-アドビ…ットフォームズ、アマゾン・ドット・コムが支配する4000億ドル規模のデジタル広告市場をどう変革し得るかを探る手掛かりとなる。 アドビのデジタルインサイ…TBS CROSS DIG with Bloomberg経済総合9/29(火) 0:32",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "オリコ、サイバーエージェント子会社と金融データを活用したデジタル広告開発 - netdenjd.com",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "〈謎に包まれた実像〉広告業界のおばけ｢アクセンチュア ソング｣の正体…幹部直撃｢日本の売り上げ成長は際立っている｣ - toyokeizai.net",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Base44、アプリ制作者向けにGoogle広告キャンペーン作成・管理機能をアプリ内で直接統合可能に - PR TIMES",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "studio15が「TikTok Marketing Partners」Agencyバッジを取得。TikTok特化型のマーケティング支援体制をさらに強化 - PR TIMES",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "アングル：米共和党、下院選「安全圏」で接戦警戒 トランプ氏圧勝区にも資金投入…月５日以降、共和党のグループがテキストメッセージ、ダイレクトメール、デジタル広告に計約２００万ドルを投入してきた。クック・ポリティカル・レポートは２５…ロイター北米9/28(月) 14:56",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "星野真里「本当にありがとうございました」『24時間テレビ』マラソン後の投稿に「感動しました」「無理せず休んでください」反響相次ぐ…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/28(月) 14:40",
+      "date": "2026-09-29"
     }
   ],
   "articles": [
-    {
-      "source": "Meta for Business",
-      "title": "2026 Holiday Small Business",
-      "link": "https://www.facebook.com/business/news/2026-holiday-small-business",
-      "summary": "・Metaが2026年ホリデーシーズン向け「Holiday Insights Center」を無料公開した\n・消費者調査データやプラットフォームベンチマークを集約した情報ハブを提供する\n・中小企業が顧客の購買行動を理解しホリデー商戦に備えることを支援する内容である",
-      "score": 6,
-      "reason": "Meta広告主向けホリデー消費者調査・ベンチマーク提供",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "アドビと連携し「Adobe LLM Optimizer」を活用したGEO支援を開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0727-000337",
-      "summary": "・電通デジタルがアドビと連携し「Adobe LLM Optimizer」を活用したGEO支援サービスを開始した\n・生成AI上でのブランド可視性を分析し改善を図るソリューションを企業向けに提供する\n・従来のSEOに加え生成エンジン最適化（GEO）領域での支援体制を本格的に強化する",
-      "score": 4,
-      "reason": "電通デジタルの新サービス発表プレスリリース",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Google News",
-      "title": "「ダークパターン」規制強化へ 誤認招く手法対象、中間案公表―消費者庁：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mSjVFT3laZ3ZUVXY5QWZuTWlxMmQ1alctNzBXRzIyZXV5al9jczhIcTFkOWQ2dGZ3RWg4RXNCeGxNbEJUMGEzR1NDakc0dXhaWkRORVVKZzZqX29mQ0psZjN0UQ?oc=5",
-      "summary": "・消費者庁がネット上の「ダークパターン」規制強化に向けた中間案を公表した\n・消費者の誤認を招くデザインや表示手法が規制の主な対象となる見通し\n・意図しない購入や解約困難など悪質なUI設計への対策が本格化する方針",
-      "score": 6,
-      "reason": "ダークパターン規制はLP・広告表現に影響し得る",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Google News",
-      "title": "【2026年最新】成果が伸びるWEB広告設計論 ～Google広告・購買/人流データ・クリエイティブ運用～【9月9日開催】 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YM2I1ZmMyakNuZ1lwRk1nQlFLZEwxem1QOFZEQ2RLRUMzbVRMclluaXRnZGlOYjNralJyQmFSTVprM19hX2M4ZlNxSHNod3dQREVUbHFlRnJqU1MyZ2MxN1JEN1dWQzFXMlE?oc=5",
-      "summary": "・2026年最新のWEB広告設計論をテーマにしたセミナーが9月9日に開催される\n・Google広告・購買データ・人流データ・クリエイティブ運用の最新手法を解説予定\n・成果向上を目指す広告担当者向けに実践的な広告設計ノウハウを提供する内容",
-      "score": 6,
-      "reason": "Google広告設計論セミナー告知で実務的学びの機会",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ジグザグ、海外向け広告運用支援「WorldShopping BIZ Growth」提供開始…た広告施策を設計します。 2．Meta広告・Google広告に対応 Facebook・Instagram等のMeta広告とGoogle広告を、ショップ…Yahoo!ニュース PR［PR］経済総合7/27(月) 12:02",
-      "link": "https://news.yahoo.co.jp/articles/db64bf4740332972d9d97df7398e6ba7d4ecdab5",
-      "summary": "・ジグザグが海外向けEC広告運用を支援する新サービス「WorldShopping BIZ Growth」を提供開始した\n・Meta広告（Facebook・Instagram）とGoogle広告に対応し、海外向け広告施策を設計・運用する\n・越境EC事業者の海外集客課題を解決し、効果的な広告配信によるグローバル販売拡大を支援する",
-      "score": 5,
-      "reason": "海外向けMeta/Google広告運用支援サービスの紹介",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Google News",
-      "title": "48カ国・地域で“伝わる”広告表現にネイティブ対応～現地の特性に合わせ、Google・Meta・Microsoft・LinkedIn広告向け静止画クリエイティブの企画・制作を支援～ - tv-tokyo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05dzU4dlN5WlNSUGlzVmpJZUtkRHRpckpPaWUzTVpBUU5KVVRZc2lXZ3BUZXUzWmIxaDFULWg5QW03Sm1XbmZVSXRxeldheDVDNGJmNGhFc3o5QnZlQkdTaE1aVGJxb0ZqREhhVGJR?oc=5",
-      "summary": "・48カ国・地域に対応した多言語・多文化向け静止画広告クリエイティブの企画・制作支援サービスが発表された\n・Google・Meta・Microsoft・LinkedInの主要広告プラットフォーム向けにネイティブ品質の表現を提供する\n・現地の文化や言語特性を踏まえた広告制作により、海外市場での広告効果向上を目指す",
-      "score": 4,
-      "reason": "多言語広告クリエイティブ制作サービスのプレスリリース",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "RIIZE ウォンビン、温泉スパ発想ヘアケアブランド「Off＆Relax」初のジャパンブランドアンバサダーに就任！…今回のアンバサダー就任を機に、ブランドムービー公開、全国店頭プロモーション、デジタル広告、SNSキャンペーン、POPUPイベントなど、過去最大規模のプロモーシ…Kstyleアジア・韓流8/28(金) 14:03",
-      "link": "https://news.yahoo.co.jp/articles/601beca4cf0e5ee7406ef16f69238db086098959",
-      "summary": "・RIIZEウォンビンがヘアケアブランド「Off＆Relax」初のジャパンアンバサダーに就任した\n・ブランドムービー公開や全国店頭プロモーション、デジタル広告など過去最大規模の展開を実施\n・SNSキャンペーンやPOPUPイベントも含め多角的なプロモーション施策を展開予定",
-      "score": 3,
-      "reason": "ブランドのプロモーション施策紹介で実務参考度は低い",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Google News",
-      "title": "ピーク時売上高3億9000万円の金沢の広告代理店「セ・ビアン」が破産 何が経営を追い詰めたのか（石川テレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cUJ5cThvaVFHd1FLVjZZaE5ycVI3RGRZaGh3c1ZSc2RtdHlKbTZ3UGw5MGpSdVpwNW02eHhzeWFDZXRQTkRCZmRjN2pvQ1FaVy0yN2NPMHljQ2U5N1NNb3ptcDhmMFF5a0JhOXJWOEI2Sm1pajdZX0swMUdmT3M?oc=5",
-      "summary": "・金沢の広告代理店「セ・ビアン」がピーク時売上高3億9000万円から業績悪化し破産手続きに入った\n・地方広告市場の縮小やデジタルシフトへの対応遅れなどが経営を圧迫した可能性が指摘される\n・地方の中小広告代理店が厳しい経営環境に直面している現状を象徴する事例となった",
-      "score": 3,
-      "reason": "地方広告代理店の倒産ニュースで業界動向程度",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "反町隆史、『GTO』バイクにまたがる姿に「28年前と変わらない鬼塚先生」SNSで絶賛の声…生徒役・森本陸斗との2ショット…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合8/28(金) 11:40",
-      "link": "https://news.yahoo.co.jp/articles/7267c181d34bc23acf59fa3f61c26ce9c6de9687",
-      "summary": "・反町隆史がGTOバイクにまたがる写真を公開し28年前と変わらないとSNSで絶賛された\n・総務省調査でネット利用時間がテレビを超過しデジタル広告市場が急拡大している\n・記事本文が未提供のため詳細な数値や背景情報については確認が必要である",
-      "score": 2,
-      "reason": "芸能ニュースが主体で広告運用と直接無関係",
-      "date": "2026-08-29"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "祝・Web担創刊20周年！ 各業界の専門家から届いたお祝いコメント（後編） Yuwai株式会社 田中広樹氏 創刊20周年おめでとうございます🎉運用型広告の世界に入って17年目になりますが、Web担当者Forumさんは、右も…Web担当者ForumIT総合8/27(木) 15:16",
-      "link": "https://news.yahoo.co.jp/articles/14e90b3ce7d77ab561b9394e4e8c500679cdd7d2",
-      "summary": "・Web担当者Forumが創刊20周年を迎え各業界専門家から祝辞が届いた後編記事\n・Yuwai田中広樹氏は運用型広告歴17年でWeb担を長年参考にしてきたと語る\n・マーケティングやデジタル広告分野の情報発信メディアとしての貢献が評価された",
-      "score": 2,
-      "reason": "Web担20周年お祝いコメントで実務知見なし",
-      "date": "2026-08-29"
-    },
     {
       "source": "Google News",
       "title": "「キャッチコピーはどう作る？」 広告代理店で中学生向け職場体験 - PR TIMES",
@@ -4169,6 +4079,96 @@
       "score": 1,
       "reason": "移住体験談で広告運用と無関係",
       "date": "2026-09-28"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Win over shoppers with ad formats they're engaging with",
+      "link": "https://www.facebook.com/business/news/holiday-advantage-is-creative-advantage",
+      "summary": "・ホリデーシーズンを発見・セール・ギフト・新年の4つの購買マインドに分類し戦略を提示\n・各フェーズに合わせた広告クリエイティブの使い分けが購買者エンゲージメント向上の鍵と強調\n・4つの消費者心理に対応するプレイブックを活用し全期間で効果的な広告展開を推奨している",
+      "score": 7,
+      "reason": "Meta公式の広告クリエイティブ実践ガイド",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "セール頼みの成長から脱却するためには？ 確実性を積み上げる「ボトムアッププランニング」のポイント…ペーン・媒体予算は、事前に見通しと感覚を持ち入力する D2Cでは定石の運用型広告やコンテンツ制作だけでなく、繁忙期のキャンペーン予算についても、プラン…ネットショップ担当者フォーラムIT総合9/28(月) 16:01",
+      "link": "https://news.yahoo.co.jp/articles/7acee723b9ecca0dbab82c36363d8d6ff4e15955",
+      "summary": "・D2C企業がセール依存の売上成長から脱却するためのボトムアッププランニング手法を解説\n・運用型広告やコンテンツ制作に加え繁忙期キャンペーン予算も事前に見通しを立てて計画すべきと提言\n・媒体別予算配分は感覚と実績データを組み合わせ確実性を積み上げる設計が重要と指摘",
+      "score": 7,
+      "reason": "運用型広告の予算計画・実践的運用テクニック",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Google News",
+      "title": "クッキー廃止後の世界、広告代理店はマーケティングROIをどう証明するか - Forbes JAPAN",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GUFBHekppUlJIbTVZZEJkbTB2Y2o1VjBMTXVaVU5UQzVUazVSVGYxTE1CVnVWbllXYWprZnB3WGtIOFF6cmJZcGlFX0xEWldKRnYzZ3dMMTFPQQ?oc=5",
+      "summary": "・サードパーティクッキー廃止によりユーザー追跡が困難になり広告効果測定の手法が大きな転換期を迎えている\n・広告代理店はファーストパーティデータやMMM等の代替手法を活用しマーケティングROIの可視化を模索している\n・クッキーに依存しない計測基盤の構築が代理店の競争力を左右する重要な経営課題となっている",
+      "score": 7,
+      "reason": "クッキー廃止後のROI測定手法は実務に直結",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI経由の米小売りサイト訪問、年末商戦で130％増へ-アドビ…ットフォームズ、アマゾン・ドット・コムが支配する4000億ドル規模のデジタル広告市場をどう変革し得るかを探る手掛かりとなる。 アドビのデジタルインサイ…TBS CROSS DIG with Bloomberg経済総合9/29(火) 0:32",
+      "link": "https://news.yahoo.co.jp/articles/0513f44123fc022cbac2153075896ed549a732c0",
+      "summary": "・アドビの調査によると米小売サイトへのAI経由訪問が年末商戦で前年比130％増の見通し\n・AI検索の普及が4000億ドル規模のデジタル広告市場を変革する可能性が示唆されている\n・グーグルやアマゾンが支配する広告市場の構造がAI台頭で大きく変わり得ると注目される",
+      "score": 5,
+      "reason": "AI経由トラフィック増加の業界動向情報",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Google News",
+      "title": "オリコ、サイバーエージェント子会社と金融データを活用したデジタル広告開発 - netdenjd.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1a01VdmIxWGRoZmRpVDVLRjFKWEktVUEtX0tXai0ySVRkWlltYU5QZWRMMzBBR0RKRUlKekdpMkJXN2dKZ3dkdVJUUjRKS2luRkE?oc=5",
+      "summary": "・オリエントコーポレーションがサイバーエージェント子会社と業務提携しデジタル広告を共同開発する\n・オリコが保有する金融関連データを活用し広告配信の精度やターゲティング向上を目指す\n・金融業界とアドテク企業の連携によりデータドリブンな広告ソリューションの実現を図る",
+      "score": 4,
+      "reason": "金融データ活用の広告開発、企業提携ニュース",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Google News",
+      "title": "〈謎に包まれた実像〉広告業界のおばけ｢アクセンチュア ソング｣の正体…幹部直撃｢日本の売り上げ成長は際立っている｣ - toyokeizai.net",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Q1dLQmdCakVhaUlyVnJTLU5rdmFxVmc5MUc0OWRvLUh6WUdZcERicFB6WUp3T3E3MTRhRlpmZTl3R1NCX3A1OHlnQ1dUbDZzcWZuRmlacW9HRjUtVFVJ?oc=5",
+      "summary": "・アクセンチュアの広告・マーケティング部門「アクセンチュア ソング」の実態に迫る記事が公開された\n・同部門は広告業界で急成長を遂げており、幹部は日本市場での売上成長が特に際立っていると語った\n・コンサル発の広告事業として従来の広告会社とは異なるアプローチで存在感を拡大している",
+      "score": 4,
+      "reason": "アクセンチュアソングの企業紹介記事",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Google News",
+      "title": "Base44、アプリ制作者向けにGoogle広告キャンペーン作成・管理機能をアプリ内で直接統合可能に - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oaGJXamNSeVFvcjhUeHBtVUtYaXVQekhuTGsyOXpBeDFDTndTenFpVU1wdWVhcUNnMmlIYzN3NnlEbFhFU2hEUThadE9GUEdkb2RKU1R6VkkzbDJoWUI4ZG9rNDFzZHpYSkE?oc=5",
+      "summary": "・Base44がアプリ制作者向けにGoogle広告キャンペーンの作成・管理機能を直接統合できる新機能を発表した\n・アプリ内からGoogle広告の運用が可能になり、外部ツールを使わずに広告管理を一元化できる\n・アプリ開発者の広告運用ハードルを下げ、マーケティング施策の効率化と迅速な展開を支援する",
+      "score": 4,
+      "reason": "Google広告連携ツールだが対象がアプリ制作者",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Google News",
+      "title": "studio15が「TikTok Marketing Partners」Agencyバッジを取得。TikTok特化型のマーケティング支援体制をさらに強化 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BYVJ4emRYZDRfMzFRRS1lblVIdzNDZFJzZGk0M1FMYnZoUkxlLW5wLWpmZFhCMnk5V3lOaUdLY2lRMjh2RG1mcmxrNFc4MUR6aUFFUjMxSUhBM3pwMUFJQ3RnNWpEeENnZmc?oc=5",
+      "summary": "・studio15がTikTok公式の「TikTok Marketing Partners」Agencyバッジを取得した\n・同社はTikTok特化型マーケティング支援の専門性と実績が公式に認定された形となる\n・今回の認定により企業向けTikTokマーケティング支援体制をさらに強化していく方針",
+      "score": 4,
+      "reason": "TikTokパートナー取得の企業プレスリリース",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アングル：米共和党、下院選「安全圏」で接戦警戒 トランプ氏圧勝区にも資金投入…月５日以降、共和党のグループがテキストメッセージ、ダイレクトメール、デジタル広告に計約２００万ドルを投入してきた。クック・ポリティカル・レポートは２５…ロイター北米9/28(月) 14:56",
+      "link": "https://news.yahoo.co.jp/articles/2dc59097e8033053d3ec41cffbb0ca8a03dedfc5",
+      "summary": "・米共和党が下院選でトランプ氏圧勝区含む安全圏の選挙区にも防衛資金を投入し接戦を警戒している\n・共和党グループがテキスト・ダイレクトメール・デジタル広告に計約200万ドルを投じた\n・クック・ポリティカル・レポートの分析により従来安全とされた選挙区の競争激化が浮き彫りに",
+      "score": 1,
+      "reason": "米政治選挙資金の話題で広告運用と無関係",
+      "date": "2026-09-29"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "星野真里「本当にありがとうございました」『24時間テレビ』マラソン後の投稿に「感動しました」「無理せず休んでください」反響相次ぐ…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/28(月) 14:40",
+      "link": "https://news.yahoo.co.jp/articles/511790f3c1504b7032e5d199aae1be6da5a93879",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・メディア接触時間の変化に伴いデジタル広告市場が急拡大を続けている\n・広告主はテレビ偏重からデジタルシフトへの予算配分見直しが急務となっている",
+      "score": 1,
+      "reason": "芸能ニュースで広告運用と無関係",
+      "date": "2026-09-29"
     }
   ]
 }
