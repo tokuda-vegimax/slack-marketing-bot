@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ZWE5bldISFBTYWlhdFFBN3FBVHN0dkkxOUhzMHRvLVhkUXg3cmhUUE5JX1ZadnZPa0lXYnVMZzhrOVZaT1FBQy1QMVBFblh5QjVTZDFMTktaQXJjYmhvRjVXZlIzNFdSOUE?oc=5": "2026-08-30",
-    "https://news.yahoo.co.jp/expert/articles/865b103d996cb84e9c61299f1b4a4f85777c1e0d": "2026-08-30",
-    "https://news.yahoo.co.jp/articles/5b0f7d17ba1a63789c13cb4c9b1a430173b9b14b": "2026-08-30",
-    "https://news.yahoo.co.jp/articles/3af332c0ee376e36156f6bbc284f60da79f0d1a0": "2026-08-30",
-    "https://news.yahoo.co.jp/articles/40ef95edaa1b3ec86a2eb15fe4091400d13511ee": "2026-08-30",
     "https://www.lycbiz.com/jp/column/line-ads/service-information/campaign/?list=23496": "2026-08-31",
     "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/": "2026-08-31",
     "https://www.lycbiz.com/jp/column/ly-ads/searchads/technique/small-budget-advertising/": "2026-08-31",
@@ -291,29 +286,19 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oaGJXamNSeVFvcjhUeHBtVUtYaXVQekhuTGsyOXpBeDFDTndTenFpVU1wdWVhcUNnMmlIYzN3NnlEbFhFU2hEUThadE9GUEdkb2RKU1R6VkkzbDJoWUI4ZG9rNDFzZHpYSkE?oc=5": "2026-09-29",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BYVJ4emRYZDRfMzFRRS1lblVIdzNDZFJzZGk0M1FMYnZoUkxlLW5wLWpmZFhCMnk5V3lOaUdLY2lRMjh2RG1mcmxrNFc4MUR6aUFFUjMxSUhBM3pwMUFJQ3RnNWpEeENnZmc?oc=5": "2026-09-29",
     "https://news.yahoo.co.jp/articles/2dc59097e8033053d3ec41cffbb0ca8a03dedfc5": "2026-09-29",
-    "https://news.yahoo.co.jp/articles/511790f3c1504b7032e5d199aae1be6da5a93879": "2026-09-29"
+    "https://news.yahoo.co.jp/articles/511790f3c1504b7032e5d199aae1be6da5a93879": "2026-09-29",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VbkNhd0JWcVVkcDA3R2RKbXl6Y2FXbW95SWpvdHp5VjFYR0xNM3ptdlVyZkRia2RXQ2J1QmtHbzNwX2lDWnZpd2FNd3ExQWcwUkhYRXlwS2pWZGZXX2NwNnhrS2FxZzhX?oc=5": "2026-09-30",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnNObFZOM2x0N19GLTZzQUlPY2tOSjlzNXQwZVgzVVN1X1F1VFo3aU5kUmxRZ0hGMkxiZS1lVmNVMngyMnhVN1B3V29IUkFYS3N0dzF5SEt5XzFhSWtqMjgzRkg5V0FobEZlS2dLMVdTY3JwTEJfWjZnSkdzd0pISUJGYlVjZkNoYWNHSURGV1RUSE5KOUplQzlrQk9aYUxxdWtSUzRRTUxXMTg?oc=5": "2026-09-30",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVEdGWmN4UnNqSmhPN05KUGdHcHNfdnI4V3psWDUwMlYzQ2NYNDJBYUJUTnQ4UGlLTEIyUVlfZDZLX1dubE43VWF0VVpBLTFNS3VCV3BKU2hTSm8?oc=5": "2026-09-30",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSlp6Y0lNel9nZnNmaVpJYzAwMTc3bk95R2lCTXdMT3dVeFRPT1pOSDlCZGRzTFAzZTRwckFEeGowYnpYV3haMWRaelN6Q1B0Nk1aUGhpZTRVZkNMcXMyMmczNEtlSURmRDgw?oc=5": "2026-09-30",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCT0dWUjB3eElHOVc1VU1IY0J4b2hOTHNOSVR6NEJHRHZtbjlObUc1LVZHeU84TlE4TkNiM0F6QmVQbUI1bFlCT2JlS0NSYVRXQUluM3BGcDdDcjVPbnFrSDk5VXROUzUweWc?oc=5": "2026-09-30",
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMEUyZWRsVWcxOW5rRFJkTHRGZXpMdVFsRUNTdzB6VUdtem1RbWpybFVyejFkd19rOHRta1pXbE5VbmtZQUE?oc=5": "2026-09-30",
+    "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-09-30",
+    "https://news.yahoo.co.jp/articles/e916434d84c23dfaee40684a713c7d5c851ebe7b": "2026-09-30",
+    "https://news.yahoo.co.jp/articles/b917d1064b6382cf001eec204729de8ecc6babd0": "2026-09-30",
+    "https://news.yahoo.co.jp/articles/05a602337ba68ee6292952db30bae015b577fa71": "2026-09-30"
   },
   "titles": [
-    {
-      "title": "「キャッチコピーはどう作る？」 広告代理店で中学生向け職場体験 - PR TIMES",
-      "date": "2026-08-30"
-    },
-    {
-      "title": "儲からない食品デリバリーとゴーストレストランがなぜ増え続けるのか…も20もの「専門店」がアプリに並ぶ状況は以前から問題視されてきました。景品表示法上の優良誤認にあたる可能性が指摘され、プラットフォーム側も店名を営業許…坂口孝則経済総合8/26(水) 6:31",
-      "date": "2026-08-30"
-    },
-    {
-      "title": "「やっぱり今からでも…」43歳夫の“まさかの提案”に41歳妻が絶句。世帯年収2,200万円・40代エリート夫婦に生じた「決定的な亀裂」…世帯年収2,200万円…子どもを持たずに自由を謳歌した12年間都内の大手広告代理店で働くミサトさん（仮名・41歳）は、12年前にレンさん（仮名・43歳）…THE GOLD ONLINE（ゴールドオンライン）ライフ総合8/30(日) 7:00",
-      "date": "2026-08-30"
-    },
-    {
-      "title": "【毎日書評】別れすら愛おしい。予測不能な日常をもたらす猫との暮らし…▼あわせて読みたい猫の話 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/29(土) 21:31",
-      "date": "2026-08-30"
-    },
-    {
-      "title": "20代会社員がリアルに愛用中♡ 優秀保湿ミスト3選！…るのもうれしいポイントです！ （By Oggiコアブレーン・角野妃理／広告代理店業） ＊＊＊＊＊ Oggiコアブレーンは、働く女性の等身大の視点や言葉…Oggi.jpエンタメ総合8/29(土) 21:30",
-      "date": "2026-08-30"
-    },
     {
       "title": "LINEヤフー広告 最大16万円分はどう使う？はじめての方におすすめの活用方法",
       "date": "2026-08-31"
@@ -1485,54 +1470,49 @@
     {
       "title": "星野真里「本当にありがとうございました」『24時間テレビ』マラソン後の投稿に「感動しました」「無理せず休んでください」反響相次ぐ…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/28(月) 14:40",
       "date": "2026-09-29"
+    },
+    {
+      "title": "Google広告「配信制限」による機会損失を未然に防ぐ。広告文とリンク先のポリシー要件を自動照合する新機能を『AXer - news.nicovideo.jp",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "AIアプリ作成「Base44」で「Google広告」キャンペーンの作成から配信まで可能な機能を提供（Web担当者Forum） - ｄメニューニュース",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "ID連携不要で実績レポートから広告媒体横断分析を可能とする バーチャルパネル化技術を開発、実証実験を実施 - 株式会社ビデオリサーチ",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "博報堂DYHDは、広告会社からどう変わるのか。“情報の格差”から“知恵の格差”へ。“コスト”だった広告費が“投資”へ - GOETHE[ゲーテ]",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "「TikTok Ad Awards 2026 Japan」グランプリおよび全5部門の受賞作品を発表 - PR TIMES",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "TikTok Ad Awards 2026、日清食品がグランプリ受賞 - Koubo",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "“脳梗塞”休養中のサンド伊達、近況ショットにファン安心の声「ホッとしました」「笑顔が見れて安心」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/30(水) 6:31",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "160万円で“副業サポート”…借金勧められ 「一円も稼げなかった」被害急増、目立つ若年層…のの、返金されたのは7万円。借金が残り、家族が立て替えたという。 消費者庁などによると、20年以降、「副業サポート」などの情報商材を売る名目で、借…西日本新聞me社会9/29(火) 12:54",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "GU、3COINS！プチプラだってヘアアレンジが楽しくなる！20代OLが愛用するシュシュ♡…ュシュが増えそうな予感です。 （By Oggiコアブレーン・角野妃理／広告代理店業） ◆Oggiコアブレーンとは：働く女性の等身大の視点や言葉でお気に…Oggi.jpエンタメ総合9/30(水) 11:31",
+      "date": "2026-09-30"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "「キャッチコピーはどう作る？」 広告代理店で中学生向け職場体験 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ZWE5bldISFBTYWlhdFFBN3FBVHN0dkkxOUhzMHRvLVhkUXg3cmhUUE5JX1ZadnZPa0lXYnVMZzhrOVZaT1FBQy1QMVBFblh5QjVTZDFMTktaQXJjYmhvRjVXZlIzNFdSOUE?oc=5",
-      "summary": "・広告代理店が中学生向けの職場体験プログラムを実施しPR TIMESで発表された\n・キャッチコピー制作を通じて広告クリエイティブの仕事を実践的に学ぶ内容となっている\n・若年層に広告業界への理解と関心を促すキャリア教育の取り組みとして注目される",
-      "score": 3,
-      "reason": "広告代理店の職場体験PRで運用実務に無関係",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "儲からない食品デリバリーとゴーストレストランがなぜ増え続けるのか…も20もの「専門店」がアプリに並ぶ状況は以前から問題視されてきました。景品表示法上の優良誤認にあたる可能性が指摘され、プラットフォーム側も店名を営業許…坂口孝則経済総合8/26(水) 6:31",
-      "link": "https://news.yahoo.co.jp/expert/articles/865b103d996cb84e9c61299f1b4a4f85777c1e0d",
-      "summary": "・食品デリバリーやゴーストレストランは利益率が低いにもかかわらず参入が増加し続けている現状を分析\n・1店舗が20もの専門店名でアプリに出店する手法は景品表示法の優良誤認に該当する可能性が指摘されている\n・プラットフォーム側も店名と営業許可の整合性など規制強化に動き始めている状況が報じられている",
-      "score": 2,
-      "reason": "食品デリバリー業界の話題で広告運用と無関係",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「やっぱり今からでも…」43歳夫の“まさかの提案”に41歳妻が絶句。世帯年収2,200万円・40代エリート夫婦に生じた「決定的な亀裂」…世帯年収2,200万円…子どもを持たずに自由を謳歌した12年間都内の大手広告代理店で働くミサトさん（仮名・41歳）は、12年前にレンさん（仮名・43歳）…THE GOLD ONLINE（ゴールドオンライン）ライフ総合8/30(日) 7:00",
-      "link": "https://news.yahoo.co.jp/articles/5b0f7d17ba1a63789c13cb4c9b1a430173b9b14b",
-      "summary": "・世帯年収2200万円の広告代理店勤務41歳妻と43歳夫が子なしで12年間自由な生活を満喫してきた\n・43歳の夫が突然「今からでも子どもを」と提案し、41歳妻が絶句する事態に発展した\n・人生設計の根本的な価値観のズレが表面化し、エリート夫婦の関係に決定的な亀裂が生じた",
-      "score": 1,
-      "reason": "夫婦のライフスタイル記事で広告運用と無関係",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【毎日書評】別れすら愛おしい。予測不能な日常をもたらす猫との暮らし…▼あわせて読みたい猫の話 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合8/29(土) 21:31",
-      "link": "https://news.yahoo.co.jp/articles/3af332c0ee376e36156f6bbc284f60da79f0d1a0",
-      "summary": "・印南敦史氏による猫との暮らしを描いた書籍の書評がライフハッカーに掲載された\n・猫がもたらす予測不能な日常や別れの愛おしさなど共生の魅力を紹介している\n・関連する猫にまつわるおすすめ記事もあわせて紹介する構成となっている",
-      "score": 1,
-      "reason": "猫との暮らしの書評で広告運用と無関係",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "20代会社員がリアルに愛用中♡ 優秀保湿ミスト3選！…るのもうれしいポイントです！ （By Oggiコアブレーン・角野妃理／広告代理店業） ＊＊＊＊＊ Oggiコアブレーンは、働く女性の等身大の視点や言葉…Oggi.jpエンタメ総合8/29(土) 21:30",
-      "link": "https://news.yahoo.co.jp/articles/40ef95edaa1b3ec86a2eb15fe4091400d13511ee",
-      "summary": "・20代広告代理店勤務の会社員が実際に愛用する優秀保湿ミスト3選を紹介する記事\n・Oggiコアブレーンが働く女性の等身大の視点で選んだおすすめアイテムを掲載\n・Oggi.jpにて公開された美容系コンテンツで仕事中の保湿ケア需要に訴求している",
-      "score": 1,
-      "reason": "保湿ミスト紹介記事で広告運用と無関係",
-      "date": "2026-08-30"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "LINEヤフー広告 最大16万円分はどう使う？はじめての方におすすめの活用方法",
@@ -4169,6 +4149,96 @@
       "score": 1,
       "reason": "芸能ニュースで広告運用と無関係",
       "date": "2026-09-29"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告「配信制限」による機会損失を未然に防ぐ。広告文とリンク先のポリシー要件を自動照合する新機能を『AXer - news.nicovideo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VbkNhd0JWcVVkcDA3R2RKbXl6Y2FXbW95SWpvdHp5VjFYR0xNM3ptdlVyZkRia2RXQ2J1QmtHbzNwX2lDWnZpd2FNd3ExQWcwUkhYRXlwS2pWZGZXX2NwNnhrS2FxZzhX?oc=5",
+      "summary": "・Google広告の配信制限による機会損失を未然に防ぐための新機能がAXerに搭載された\n・広告文とリンク先ページのポリシー要件を自動で照合しリスクを事前検知する仕組み\n・ポリシー違反による突然の配信停止を防ぎ広告運用の安定性と効率向上を支援する",
+      "score": 8,
+      "reason": "Google広告ポリシー違反の自動検知ツール新機能",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Google News",
+      "title": "AIアプリ作成「Base44」で「Google広告」キャンペーンの作成から配信まで可能な機能を提供（Web担当者Forum） - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnNObFZOM2x0N19GLTZzQUlPY2tOSjlzNXQwZVgzVVN1X1F1VFo3aU5kUmxRZ0hGMkxiZS1lVmNVMngyMnhVN1B3V29IUkFYS3N0dzF5SEt5XzFhSWtqMjgzRkg5V0FobEZlS2dLMVdTY3JwTEJfWjZnSkdzd0pISUJGYlVjZkNoYWNHSURGV1RUSE5KOUplQzlrQk9aYUxxdWtSUzRRTUxXMTg?oc=5",
+      "summary": "・AIアプリ作成プラットフォーム「Base44」がGoogle広告との連携機能を新たに提供開始した\n・同機能によりBase44上でGoogle広告キャンペーンの作成から配信までを一貫して行える\n・AI活用により広告運用の効率化と専門知識がなくても広告出稿できる環境を実現する",
+      "score": 7,
+      "reason": "AIでGoogle広告キャンペーン作成の実践的新機能",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Google News",
+      "title": "ID連携不要で実績レポートから広告媒体横断分析を可能とする バーチャルパネル化技術を開発、実証実験を実施 - 株式会社ビデオリサーチ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVEdGWmN4UnNqSmhPN05KUGdHcHNfdnI4V3psWDUwMlYzQ2NYNDJBYUJUTnQ4UGlLTEIyUVlfZDZLX1dubE43VWF0VVpBLTFNS3VCV3BKU2hTSm8?oc=5",
+      "summary": "・ビデオリサーチがID連携なしで広告媒体横断分析を実現するバーチャルパネル化技術を開発した\n・実績レポートデータから仮想的なパネルを構築し複数媒体の統合的な分析を可能にする技術である\n・個人情報連携の課題を回避しつつクロスメディア効果測定を行える点が特徴で実証実験も実施した",
+      "score": 6,
+      "reason": "媒体横断分析の新技術で業界動向として有用",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Google News",
+      "title": "博報堂DYHDは、広告会社からどう変わるのか。“情報の格差”から“知恵の格差”へ。“コスト”だった広告費が“投資”へ - GOETHE[ゲーテ]",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSlp6Y0lNel9nZnNmaVpJYzAwMTc3bk95R2lCTXdMT3dVeFRPT1pOSDlCZGRzTFAzZTRwckFEeGowYnpYV3haMWRaelN6Q1B0Nk1aUGhpZTRVZkNMcXMyMmczNEtlSURmRDgw?oc=5",
+      "summary": "・博報堂DYHDは従来の広告会社から脱却し、新たなビジネスモデルへの転換を推進している\n・競争優位の源泉が\"情報の格差\"から\"知恵の格差\"へと変化する時代認識を示した\n・広告費を単なる\"コスト\"ではなく企業成長に寄与する\"投資\"として再定義する方針を掲げた",
+      "score": 4,
+      "reason": "博報堂の経営方針記事で実務への直接影響薄い",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Google News",
+      "title": "「TikTok Ad Awards 2026 Japan」グランプリおよび全5部門の受賞作品を発表 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCT0dWUjB3eElHOVc1VU1IY0J4b2hOTHNOSVR6NEJHRHZtbjlObUc1LVZHeU84TlE4TkNiM0F6QmVQbUI1bFlCT2JlS0NSYVRXQUluM3BGcDdDcjVPbnFrSDk5VXROUzUweWc?oc=5",
+      "summary": "・TikTok Ad Awards 2026 Japanの受賞結果が発表されグランプリが決定した\n・全5部門についてそれぞれの受賞作品が選出され公式に公開された\n・PR TIMESを通じて各受賞作品の詳細情報が広く発信されている",
+      "score": 4,
+      "reason": "TikTok広告の受賞発表で事例参考程度",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok Ad Awards 2026、日清食品がグランプリ受賞 - Koubo",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMEUyZWRsVWcxOW5rRFJkTHRGZXpMdVFsRUNTdzB6VUdtem1RbWpybFVyejFkd19rOHRta1pXbE5VbmtZQUE?oc=5",
+      "summary": "・TikTok Ad Awards 2026で日清食品がグランプリを受賞し最高評価を獲得した\n・TikTokの広告クリエイティブにおける優れた成果が審査で高く評価された\n・受賞情報は広告・公募情報メディアKouboにて報じられている",
+      "score": 4,
+      "reason": "TikTok広告の受賞報告で事例参考程度",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
+      "link": "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e",
+      "summary": "・TikTokが次世代YouTuberの育成プラットフォームとして台頭し始めている\n・2019年が「TikTok広告元年」と位置づけられ企業の広告活用が本格化している\n・徳力基彦氏がTikTok広告を早期活用する企業事例を紹介し注目を促している",
+      "score": 2,
+      "reason": "2019年の古い記事でTikTok広告の初期考察",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "“脳梗塞”休養中のサンド伊達、近況ショットにファン安心の声「ホッとしました」「笑顔が見れて安心」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/30(水) 6:31",
+      "link": "https://news.yahoo.co.jp/articles/e916434d84c23dfaee40684a713c7d5c851ebe7b",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・インターネット利用時間は過去10年間で大幅に増加しメディア接触構造が変化している\n・生活者のデジタルシフトに伴いデジタル広告市場が急拡大し注目度が高まっている",
+      "score": 1,
+      "reason": "芸能ニュースで広告運用と無関係",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "160万円で“副業サポート”…借金勧められ 「一円も稼げなかった」被害急増、目立つ若年層…のの、返金されたのは7万円。借金が残り、家族が立て替えたという。 消費者庁などによると、20年以降、「副業サポート」などの情報商材を売る名目で、借…西日本新聞me社会9/29(火) 12:54",
+      "link": "https://news.yahoo.co.jp/articles/b917d1064b6382cf001eec204729de8ecc6babd0",
+      "summary": "・副業サポートと称し160万円の情報商材を販売、借金まで勧める悪質商法の被害が急増している\n・被害者は「一円も稼げなかった」と訴え、返金はわずか7万円で残りの借金を家族が立て替えた\n・消費者庁によると2020年以降この種の被害相談が増加し、特に若年層の被害が目立っている",
+      "score": 1,
+      "reason": "副業詐欺の社会ニュースで広告運用と無関係",
+      "date": "2026-09-30"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GU、3COINS！プチプラだってヘアアレンジが楽しくなる！20代OLが愛用するシュシュ♡…ュシュが増えそうな予感です。 （By Oggiコアブレーン・角野妃理／広告代理店業） ◆Oggiコアブレーンとは：働く女性の等身大の視点や言葉でお気に…Oggi.jpエンタメ総合9/30(水) 11:31",
+      "link": "https://news.yahoo.co.jp/articles/05a602337ba68ee6292952db30bae015b577fa71",
+      "summary": "・GUや3COINSのプチプラシュシュを20代OLが愛用しコスパ良くヘアアレンジを楽しんでいる\n・広告代理店勤務のOggiコアブレーンがお気に入りアイテムとして紹介している\n・手頃な価格帯でもおしゃれを楽しめるプチプラヘアアクセの需要が高まっている",
+      "score": 1,
+      "reason": "ファッション記事で広告運用と無関係",
+      "date": "2026-09-30"
     }
   ]
 }
