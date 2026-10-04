@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/": "2026-09-03",
-    "https://oneder.hakuhodody-one.co.jp/blog/google-platform-properties": "2026-09-03",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tRVJNd1ZaRFpUMFFFcTM5VzhlNTdsQjM0REpOVHh5RXNFUmdpVHBtZktuOTY1dEUwdXgzZTNZdllnZw?oc=5": "2026-09-03",
-    "https://news.yahoo.co.jp/articles/a0f8cca71a2ed61e32f697b529089debeb977135": "2026-09-03",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80cGdqRFFRdWFGVURkTmR5NFpoUkMwcldYaFprUHZiS0RON0xYOWNTMHNZZmxuMS1wWlpoeWs1ZFFLN2ZqNnE5VmJpRQ?oc=5": "2026-09-03",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85ejd2WTlaTU1uYVlRUnpTYkhvdnlsTjdjQWo2MWxBQVVIYWxteVRtUjZabXNsRFFjUWhPNGJma2FjanZTOVdHS05JUF90MTd1cG9CWngwWWx4OS1DQ1E?oc=5": "2026-09-03",
-    "https://news.yahoo.co.jp/articles/369e0f06050ba48128ab785d436e0ce1f252eec5": "2026-09-03",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyaWV6TUVlQnFNMjRuUk5MYVhPOUdyQ0dDRThzdk5CU0lEdWV3eXhUcFFMN1FUcHlLbGczZUV3QmZmZFQzUTl4QzB2V2ZobXJfZHpFekRzWTQ1T0hLNnhGQlJqeEM3MXQ5UFZ2WkZ1S0ZJVVBU?oc=5": "2026-09-03",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MWJidTBpaEREWVNQb3pQSWdySVJXZGlpblRldGcxaXlEcmE0ZFZYUTZRZU9Hc1BMOUhjdWhaWURQbVBlM0g1bUFReF9iclRJaHJvckRYMENhZENGUkgwQzlTVFBJb2h2MnU0UA?oc=5": "2026-09-03",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LSk5pWjNEaW5JUW0tNG1aSk9oU010VGNIcGwyMkd3LWl1Q3EtWjhCVlRvYzJzVE9Ja2V0am16ZVlyUDJDdVc4QUNlWDE4eFkyYkV2R3djUHhURHQyWHN5cTlVWFVrZ3R0OWc?oc=5": "2026-09-03",
     "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-10": "2026-09-04",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMzM4QVR2LU8xRHc4Q1ExUExJdTNEWjVYcU5tYzFzSXY3Rk5xcThVLU1sX1R2LWp2UEJNRUh4N1JhVEt5M0pHaWNBZWR2NFpvMGQ5WFBuQ21NcGdNcTFuUnAyM3JMdTYy?oc=5": "2026-09-04",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5KR2dpV05nZDgzZ2NpR2pBTUJKV1N0NkhUUEo5b0tpZUhzVTREUFZ3UWwtMndYazJBYXpZbXZkTEtGZnBOLUhiak84T1RkVjk3N2ZublE0S1VwdGx0ZVk3SkRwT3JtQnU1aGtUWE1oVGh4Zw?oc=5": "2026-09-04",
@@ -297,49 +287,14 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TeXY1WUFwY2tXMUtfQjhXWm9semczNC1NNE15UlhKVVlydlZySjREakJabG9HcEpNRldQRlNFLTNxWkN0SHRqdUZWa0s3V0hpbGc?oc=5": "2026-10-03",
     "https://news.yahoo.co.jp/articles/1b2bd77a50507d581ff1051e8e9d9421fcdc608f": "2026-10-03",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uT0E5cDRfZk9FQ0k4TDBlUHZTcXdOZkNnSU5aWm0xQnV1UFBxMlBwRVNBY2RJZ2dEYjNRbGI1dE9icXlKVDQ1MVMxWkFhSU9PLXB2UXNJRndEQXJBUVZfSFAyUnNlM252OGFnemt6Xy1YSzBhdDl1Q0Zadl9Za1E?oc=5": "2026-10-03",
-    "https://news.yahoo.co.jp/articles/3ad5cb97a15ea44405cdf782d72643b6edfe167d": "2026-10-03"
+    "https://news.yahoo.co.jp/articles/3ad5cb97a15ea44405cdf782d72643b6edfe167d": "2026-10-03",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vV09QamhIdFR1Ym01bnEwd3FmcHVHZzQtaUZManNwb0pNUDBIWk5zX2MxdFdmWmJQOG1sLS1SUTY5clZuemlVUDdNbUZuNWtORDZaM0NOZ0ZNZzNid1M4cDhzU3NQaFpzUGExaHU5b05IN0RzWWJ5TTZn?oc=5": "2026-10-04",
+    "https://news.yahoo.co.jp/articles/ed1c6dc13c9dcf78dae77c832180a72b279abe5c": "2026-10-04",
+    "https://news.yahoo.co.jp/articles/a72ce19d864e947ed3359ef722159dd0675ea061": "2026-10-04",
+    "https://news.yahoo.co.jp/articles/6b73b3b4f7564ab220b4bf270265d4bc03796ade": "2026-10-04",
+    "https://news.yahoo.co.jp/articles/b273393a62c4d660cdf122589a23d0bf62a425e4": "2026-10-04"
   },
   "titles": [
-    {
-      "title": "Build a measurement stack you can rely on to steer your campaigns.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Google 、プラットフォームプロパティを全世界に向けて展開",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "【Web広告アップデート】Google広告「目標値ベース入札」の重要変更点＆今すぐできる3つの対策をプロが徹底解説！ - YouTube",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "10時間の定型業務がゼロ秒に コクヨ流「AIに仕組みを作らせる」自動化術…事例である。 完全未経験の担当者がMeta広告で費用対効果5倍を達成 2つ目が、B2C商材の販促を担うMeta広告の運用だ。担当者はWeb広告運用自…ITmedia エンタープライズIT総合9/3(木) 7:35",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "消費者庁、ダークパターン包括規制 悪質広告は行政処分視野 - 北日本新聞webunプラス",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "ダークパターンに包括規制 - fukuishimbun.co.jp",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "ダークパターンに包括規制 悪質広告、法改正し取り締まり…事業者に望ましい行動を選ばせる「ダークパターン」を巡り、消費者庁の有識者会議は2日、悪質な広告表示や煩雑な解約手続きに対する規制強化策を盛り込んだ中間…共同通信社会9/2(水) 14:42",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "メタ、年内にもグーグル検索を抜きデジタル広告収入で首位へ＝バーンスタイン - BigGo ファイナンス",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "メタが広告でグーグルに急迫 どちらの株が人気か - BeInCrypto",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "売れるネット広告社グループ（証券コード9235）、運用型広告専用の縦型動画制作サービスを提供開始～1本6,000円からの低価格で、動画広告の高速PDCAを実現～ - PR TIMES",
-      "date": "2026-09-03"
-    },
     {
       "title": "「シルバー」を超えて、「ゴールデン」へ。 ～人生100年時代、デバイスを「翼」に変えるスマートライフ進化論 ー進化する令和シニアのスマートライフ【第10回】",
       "date": "2026-09-04"
@@ -1511,99 +1466,29 @@
     {
       "title": "有働由美子、福山雅治との2ショット公開「羨ましいです」「笑顔がとても素敵」ファンから反響相次ぐ…れません。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/3(土) 10:31",
       "date": "2026-10-03"
+    },
+    {
+      "title": "景品表示法啓発講座：トラブルに遭う前に知っておきたいネット広告の罠～実例から広告を見抜こう～ - pref.saitama.lg.jp",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "70歳・郷ひろみが私服のデニムコーデを披露「とても素敵」とファン歓喜の秋スタイル…しょうか。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/3(土) 15:10",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "「ZABOONください」名前で指名買いされるほど有名になったネーミングはどう付いた？…業部門など洗濯機に関わるメンバー全員でアイデア出しをしています。時には広告代理店やコピーライターさんにも協力をいただくこともあり、毎回、100個以上の…GetNavi web産業10/4(日) 12:00",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "「自分はただ東大生なだけ」東大→外銀で年収1100万円→わずか9か月で退職して“刺しゅう屋”になった27歳男性が語る、学生時代の“コンプレックス”…に気が付いて。だから「ちゃんと仕事について勉強しよう」と思い、2社目の広告代理店に入りました。 そこでマーケティングの面白さに気付いて、3社目の小…文春オンライン経済総合10/4(日) 10:12",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "「誰が歌っているんだ」ジュディ・オングが語ったヒット曲「魅せられて」制作秘話 “覆面歌手”を受け入れた理由…ディレクターにお話が来て、酒井さんはすぐにジュディが合うと思ったけど、広告代理店としては名無しの人がよかった。だから酒井さんは『誰が歌ってるか分からな…スポーツ報知エンタメ総合10/4(日) 10:00",
+      "date": "2026-10-04"
     }
   ],
   "articles": [
-    {
-      "source": "Google広告",
-      "title": "Build a measurement stack you can rely on to steer your campaigns.",
-      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/",
-      "summary": "・Ads Decoded最新エピソードでマーケティング計測基盤の構築方法を解説している\n・アトリビューション・増分効果測定・メディアミックスモデルの3手法を取り上げている\n・複数の計測手法を組み合わせキャンペーン運用を確実に導く測定体制の重要性を議論している",
-      "score": 7,
-      "reason": "アトリビューションやMMM等の計測手法解説で実務に有用",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "Google 、プラットフォームプロパティを全世界に向けて展開",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-platform-properties",
-      "summary": "・Googleがプラットフォームプロパティ機能を全世界に展開しInstagram・TikTok・X・YouTubeに対応した\n・クリック数やインプレッション数などのパフォーマンス指標をGoogle上で横断的に確認できる\n・トラフィックを多く生む投稿や検索クエリの特定が可能になり各SNS運用の分析効率が向上する",
-      "score": 6,
-      "reason": "Googleプラットフォームプロパティの展開情報で参考になる",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Google News",
-      "title": "【Web広告アップデート】Google広告「目標値ベース入札」の重要変更点＆今すぐできる3つの対策をプロが徹底解説！ - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tRVJNd1ZaRFpUMFFFcTM5VzhlNTdsQjM0REpOVHh5RXNFUmdpVHBtZktuOTY1dEUwdXgzZTNZdllnZw?oc=5",
-      "summary": "・Google広告の「目標値ベース入札」に関する重要なアップデート内容を専門家が解説する動画\n・入札戦略の変更点を踏まえ、広告運用者が今すぐ実践できる3つの具体的対策を紹介\n・Google広告の自動入札機能の仕様変更に迅速に対応することで運用成果の維持向上を図る内容",
-      "score": 9,
-      "reason": "Google広告入札の重要変更点と対策の実践解説",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "10時間の定型業務がゼロ秒に コクヨ流「AIに仕組みを作らせる」自動化術…事例である。 完全未経験の担当者がMeta広告で費用対効果5倍を達成 2つ目が、B2C商材の販促を担うMeta広告の運用だ。担当者はWeb広告運用自…ITmedia エンタープライズIT総合9/3(木) 7:35",
-      "link": "https://news.yahoo.co.jp/articles/a0f8cca71a2ed61e32f697b529089debeb977135",
-      "summary": "・コクヨがAIを活用し10時間かかっていた定型業務をゼロ秒に短縮する自動化の仕組みを構築した\n・Web広告未経験の担当者がMeta広告運用でROAS5倍を達成したB2C販促事例を紹介\n・AIに業務の仕組み自体を設計させる手法で属人化を排し再現性ある成果を実現した",
-      "score": 8,
-      "reason": "Meta広告運用のAI活用実践事例で有用",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Google News",
-      "title": "消費者庁、ダークパターン包括規制 悪質広告は行政処分視野 - 北日本新聞webunプラス",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80cGdqRFFRdWFGVURkTmR5NFpoUkMwcldYaFprUHZiS0RON0xYOWNTMHNZZmxuMS1wWlpoeWs1ZFFLN2ZqNnE5VmJpRQ?oc=5",
-      "summary": "・消費者庁がダークパターンに対する包括的な規制の導入を検討している\n・消費者を欺く悪質なウェブ広告や設計に行政処分を科す方針を視野に入れる\n・デジタル広告業界は法令順守の体制整備や表示改善への対応が急務となる",
-      "score": 6,
-      "reason": "ダークパターン規制は広告表現に影響しうる",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Google News",
-      "title": "ダークパターンに包括規制 - fukuishimbun.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85ejd2WTlaTU1uYVlRUnpTYkhvdnlsTjdjQWo2MWxBQVVIYWxteVRtUjZabXNsRFFjUWhPNGJma2FjanZTOVdHS05JUF90MTd1cG9CWngwWWx4OS1DQ1E?oc=5",
-      "summary": "・消費者を誤認・誘導するダークパターンに対し包括的な規制導入が検討されている\n・購入時の意図しない定期購入誘導や解約困難な設計などが規制対象として想定される\n・消費者庁や政府がデジタル広告の不当表示や欺瞞的UIへの法整備を進める方針",
-      "score": 6,
-      "reason": "ダークパターン規制の動向、実務に関連",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ダークパターンに包括規制 悪質広告、法改正し取り締まり…事業者に望ましい行動を選ばせる「ダークパターン」を巡り、消費者庁の有識者会議は2日、悪質な広告表示や煩雑な解約手続きに対する規制強化策を盛り込んだ中間…共同通信社会9/2(水) 14:42",
-      "link": "https://news.yahoo.co.jp/articles/369e0f06050ba48128ab785d436e0ce1f252eec5",
-      "summary": "・消費者庁有識者会議がダークパターンの包括的規制に向けた中間報告をまとめた\n・悪質な広告表示や煩雑な解約手続きなど消費者を誘導する手法を法改正で取り締まる方針\n・事業者が望む行動を消費者に選ばせるダークパターンへの規制強化策を盛り込んだ",
-      "score": 6,
-      "reason": "広告表示規制強化で運用面への影響あり",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Google News",
-      "title": "メタ、年内にもグーグル検索を抜きデジタル広告収入で首位へ＝バーンスタイン - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyaWV6TUVlQnFNMjRuUk5MYVhPOUdyQ0dDRThzdk5CU0lEdWV3eXhUcFFMN1FUcHlLbGczZUV3QmZmZFQzUTl4QzB2V2ZobXJfZHpFekRzWTQ1T0hLNnhGQlJqeEM3MXQ5UFZ2WkZ1S0ZJVVBU?oc=5",
-      "summary": "・バーンスタインの分析によりメタが年内にグーグル検索を抜きデジタル広告収入で首位になる見通しと報じられた\n・メタはInstagramやFacebook等のSNS広告が好調で広告収入の急成長が続いている\n・グーグル検索広告の成長鈍化とメタのAI活用による広告効率向上が逆転の要因とみられる",
-      "score": 5,
-      "reason": "業界動向としてMeta vs Google広告収入の情報",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Google News",
-      "title": "メタが広告でグーグルに急迫 どちらの株が人気か - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MWJidTBpaEREWVNQb3pQSWdySVJXZGlpblRldGcxaXlEcmE0ZFZYUTZRZU9Hc1BMOUhjdWhaWURQbVBlM0g1bUFReF9iclRJaHJvckRYMENhZENGUkgwQzlTVFBJb2h2MnU0UA?oc=5",
-      "summary": "・メタがデジタル広告市場でグーグルとの差を急速に縮めており競争が激化している\n・両社の広告収益や成長性を比較し投資家の間でどちらの株が注目されているか分析\n・AI活用や広告プラットフォームの進化が両社の今後の競争力を左右する見通し",
-      "score": 5,
-      "reason": "Meta対Google広告市場の業界動向",
-      "date": "2026-09-03"
-    },
-    {
-      "source": "Google News",
-      "title": "売れるネット広告社グループ（証券コード9235）、運用型広告専用の縦型動画制作サービスを提供開始～1本6,000円からの低価格で、動画広告の高速PDCAを実現～ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LSk5pWjNEaW5JUW0tNG1aSk9oU010VGNIcGwyMkd3LWl1Q3EtWjhCVlRvYzJzVE9Ja2V0am16ZVlyUDJDdVc4QUNlWDE4eFkyYkV2R3djUHhURHQyWHN5cTlVWFVrZ3R0OWc?oc=5",
-      "summary": "・売れるネット広告社グループが運用型広告に特化した縦型動画制作サービスを新たに提供開始した\n・1本6,000円からの低価格設定により大量の動画クリエイティブ制作と高速PDCAを可能にする\n・証券コード9235の同社がD2C・EC事業者向けに動画広告の運用効率向上を支援する狙い",
-      "score": 4,
-      "reason": "動画制作サービスのプレスリリース",
-      "date": "2026-09-03"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "「シルバー」を超えて、「ゴールデン」へ。 ～人生100年時代、デバイスを「翼」に変えるスマートライフ進化論 ー進化する令和シニアのスマートライフ【第10回】",
@@ -4240,6 +4125,51 @@
       "score": 1,
       "reason": "芸能ニュースで広告運用と無関係",
       "date": "2026-10-03"
+    },
+    {
+      "source": "Google News",
+      "title": "景品表示法啓発講座：トラブルに遭う前に知っておきたいネット広告の罠～実例から広告を見抜こう～ - pref.saitama.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vV09QamhIdFR1Ym01bnEwd3FmcHVHZzQtaUZManNwb0pNUDBIWk5zX2MxdFdmWmJQOG1sLS1SUTY5clZuemlVUDdNbUZuNWtORDZaM0NOZ0ZNZzNid1M4cDhzU3NQaFpzUGExaHU5b05IN0RzWWJ5TTZn?oc=5",
+      "summary": "・埼玉県がネット広告の虚偽・誇大表示を見抜くための景品表示法啓発講座を開催\n・実例を用いて消費者が陥りやすいネット広告トラブルの手口や注意点を解説する内容\n・消費者保護の観点から不当表示の知識を広め、被害未然防止を目的とした取り組み",
+      "score": 4,
+      "reason": "景品表示法の知識は有用だが消費者向け啓発",
+      "date": "2026-10-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "70歳・郷ひろみが私服のデニムコーデを披露「とても素敵」とファン歓喜の秋スタイル…しょうか。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/3(土) 15:10",
+      "link": "https://news.yahoo.co.jp/articles/ed1c6dc13c9dcf78dae77c832180a72b279abe5c",
+      "summary": "・総務省調査でネット利用時間がテレビ視聴時間を上回り、10年間で大幅に増加している\n・デジタル広告市場がネット利用時間の拡大に伴い急成長を続けている状況が報告された\n・メディア消費の構造変化により広告予算のデジタルシフトが加速していることが示唆される",
+      "score": 3,
+      "reason": "デジタル広告市場動向の言及あるが内容薄い",
+      "date": "2026-10-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ZABOONください」名前で指名買いされるほど有名になったネーミングはどう付いた？…業部門など洗濯機に関わるメンバー全員でアイデア出しをしています。時には広告代理店やコピーライターさんにも協力をいただくこともあり、毎回、100個以上の…GetNavi web産業10/4(日) 12:00",
+      "link": "https://news.yahoo.co.jp/articles/a72ce19d864e947ed3359ef722159dd0675ea061",
+      "summary": "・東芝の洗濯機「ZABOON」は指名買いされるほどブランド名が浸透した成功事例である\n・ネーミングは事業部門など洗濯機関連メンバー全員で毎回100個以上のアイデアを出し検討している\n・広告代理店やコピーライターも協力し、多角的な視点から最適な名称を選定している",
+      "score": 1,
+      "reason": "洗濯機のネーミング話で広告運用と無関係",
+      "date": "2026-10-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「自分はただ東大生なだけ」東大→外銀で年収1100万円→わずか9か月で退職して“刺しゅう屋”になった27歳男性が語る、学生時代の“コンプレックス”…に気が付いて。だから「ちゃんと仕事について勉強しよう」と思い、2社目の広告代理店に入りました。 そこでマーケティングの面白さに気付いて、3社目の小…文春オンライン経済総合10/4(日) 10:12",
+      "link": "https://news.yahoo.co.jp/articles/6b73b3b4f7564ab220b4bf270265d4bc03796ade",
+      "summary": "・東大卒で外資系銀行に就職し年収1100万円を得るも、わずか9か月で退職した27歳男性の転職経緯を紹介\n・2社目の広告代理店でマーケティングの面白さに目覚め、仕事への向き合い方や自身のコンプレックスを見つめ直した\n・最終的に刺しゅう屋へ転身し、高学歴キャリアに頼らず自分の情熱を軸に働く道を選んだ経緯を語っている",
+      "score": 1,
+      "reason": "個人キャリア記事で広告運用と無関係",
+      "date": "2026-10-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「誰が歌っているんだ」ジュディ・オングが語ったヒット曲「魅せられて」制作秘話 “覆面歌手”を受け入れた理由…ディレクターにお話が来て、酒井さんはすぐにジュディが合うと思ったけど、広告代理店としては名無しの人がよかった。だから酒井さんは『誰が歌ってるか分からな…スポーツ報知エンタメ総合10/4(日) 10:00",
+      "link": "https://news.yahoo.co.jp/articles/b273393a62c4d660cdf122589a23d0bf62a425e4",
+      "summary": "・ジュディ・オングのヒット曲「魅せられて」は広告タイアップとして制作された楽曲だった\n・広告代理店側は歌手名を伏せた\"覆面歌手\"での起用を希望しディレクター酒井氏が仲介した\n・酒井氏はジュディの声質が楽曲に最適と判断し名前非公開の条件で起用を実現させた",
+      "score": 1,
+      "reason": "芸能エピソードで広告運用と無関係",
+      "date": "2026-10-04"
     }
   ]
 }
