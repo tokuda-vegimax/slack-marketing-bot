@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-10": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMzM4QVR2LU8xRHc4Q1ExUExJdTNEWjVYcU5tYzFzSXY3Rk5xcThVLU1sX1R2LWp2UEJNRUh4N1JhVEt5M0pHaWNBZWR2NFpvMGQ5WFBuQ21NcGdNcTFuUnAyM3JMdTYy?oc=5": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5KR2dpV05nZDgzZ2NpR2pBTUJKV1N0NkhUUEo5b0tpZUhzVTREUFZ3UWwtMndYazJBYXpZbXZkTEtGZnBOLUhiak84T1RkVjk3N2ZublE0S1VwdGx0ZVk3SkRwT3JtQnU1aGtUWE1oVGh4Zw?oc=5": "2026-09-04",
-    "https://news.yahoo.co.jp/articles/b7966ffa58278a1d43e8546f12cb78ab58252cc2": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55bDRhVEJJWENLdjJqektSX2JtZGNqMU1rU1lkekhYR21FcEhiRjBkQmlhYnJraWwwRlY3RFVEVTFncTBEV0hPSFFNV1Y3a1E?oc=5": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JQlZOMzJRYXdWOS1kbnlGcVBfaUhsVU9vZXVLdGVWdlhRZDM3c3JBUnpFR3ljTFlLdXV4WXNySVlTZno1bVQzVkphTnlXMWlVMTlBdTRZZVVPVjUxYTJYZkZRUlpUTnZhNDA4ZE1zUQ?oc=5": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mb1RKYW1WcUNVTjdPU3E5SXZNZTZGdGEwbzFEc2I0QjVmY0xYdF9rOFZLNXBCU3gxZmtOWGQ4WGZ1V1d0RlpvdHFHNHJ1VHYyNWg1WnhPX0IwNEtRUG5rdUZWU2FrZlpJMFpUR1NNaDBvaWx3Ynk3ZDVhTWVIUDg?oc=5": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZUEc5cFA1a0duOEU4UHV2T2ttemRpUnh5emhGblg1bXc5cDBnSGNRMVJiZjZFQzE3a2ItX1gxRDhiS1daSm9LblJYeVBMZnhMeFg3YmtfRDBScHhCVkN4SHhDM2h5ZFpRYnBFcA?oc=5": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWQXdGRUdQMGRBbVBxSTFxV2Z0a00xWHQ0WTc4ZzVFNmx5MWdOR1AyNXlTMVBHbEVEV3AycG1SZ21nVzl5OU5nTFdXdkJkUnVPenc?oc=5": "2026-09-04",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWhsMXEwUHl4endXSm5tMmNybGFsdlRLWGRWLTdzU0hSeUR0aUt5czU1dnlGZzNZUzdtazVCdU94clFNTXppT25ncUtxMWlmYjZPb0J1WHRYZW1DVG5XSWdaVm9WWmQwQjZpM19OZmRHeDJBRmJMVWgtbTNZV0pON19jUlhxQW96akJYbm5VbzBYZERNRGEzOdIBmAFBVV95cUxNMWhsMXEwUHl4endXSm5tMmNybGFsdlRLWGRWLTdzU0hSeUR0aUt5czU1dnlGZzNZUzdtazVCdU94clFNTXppT25ncUtxMWlmYjZPb0J1WHRYZW1DVG5XSWdaVm9WWmQwQjZpM19OZmRHeDJBRmJMVWgtbTNZV0pON19jUlhxQW96akJYbm5VbzBYZERNRGEzOQ?oc=5": "2026-09-04",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/delivery_expansion/?list=23496": "2026-09-05",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11alBjcFZBMElINVVySkNkdnJZMnhHVEEydmxHWHQ3VVlLMGVpdG54RTNCTHVUMU1OYjhBZ1c2WkhtRkxZamRrSzhULWpYb28?oc=5": "2026-09-05",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaTFhT3ZaYzcxVHFOa1pfdENzel9QWnlocWRvMXlfamxuSFhPZHkxZkQwUGl6VlRDOC1OSEtyWGZoVDZGb3dXOWNuRTVDaVNRR3NiWExYV0ZiNDRTRWdqcTU4LU1BcGxiRkpvd0otX1hST2RjYWJ6OTJvOFFzelVha2xCSHdKYUNiMGxsOUFB0gGTAUFVX3lxTE42SUN6RFE5VF9mY1ZrMTNZOERLc0o0SWQzeWw1VEpjZGh1MHRVX01iLW5FYUR6YWhFT3hEdGxHOVA5YzJPVVJTZTZpVjJfby1FLWtldi1RRWJiTkN2RWtGbTlTUUhEbElwek9FR0dDSnBTeU9qQUpzazJZQ3hpaGxoOEJtTlBsbm9iN1lQVlp3cHlHbw?oc=5": "2026-09-05",
@@ -292,49 +282,19 @@
     "https://news.yahoo.co.jp/articles/ed1c6dc13c9dcf78dae77c832180a72b279abe5c": "2026-10-04",
     "https://news.yahoo.co.jp/articles/a72ce19d864e947ed3359ef722159dd0675ea061": "2026-10-04",
     "https://news.yahoo.co.jp/articles/6b73b3b4f7564ab220b4bf270265d4bc03796ade": "2026-10-04",
-    "https://news.yahoo.co.jp/articles/b273393a62c4d660cdf122589a23d0bf62a425e4": "2026-10-04"
+    "https://news.yahoo.co.jp/articles/b273393a62c4d660cdf122589a23d0bf62a425e4": "2026-10-04",
+    "https://dentsudigital.co.jp/news/release/services/2026-1005-000352": "2026-10-05",
+    "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/": "2026-10-05",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HLVNHRm1LWFBkbmVQN194TjhmNDMtNFg5QUxDNWtCSnhiUlFyWVJ5aWVSY0M5ZkJVS2xoMElLd0lybVMtc0oxc0UzRnFob09LSEFZaUIyckw2MjJtdnFBdnZ1dlkzQ0FfRTB3NjVuSWdFTUxJX3A4?oc=5": "2026-10-05",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KX2hTSXJTZWNxSGhqUHJfR1NoMENQVTBBWk5pV014N1J0VF9YeV9PRUZSX05SWnZmZFhURnFKTGw5UTdLNnFNR3RVcHJfLVlneVBRbw?oc=5": "2026-10-05",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE93cFBUQXRXQ2M4M3I1a0ZRdnhEMU9GYWhtS21LTFF0dXFtYl9KbVZpTmxycmJybHZaa3R6aXdRUjY4Q2V3SGFwLWlEWGVYbGlheDE2YWpUYzM5TW1lTkpaaVloVk9aSkNtaGxna3hCa1pRQQ?oc=5": "2026-10-05",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2alI0d1VHaXc3NlRxeWdqUHNHV1JXSTFoM2xlM2RwdGl3N3hsLUJCLUk1QjIwNGg0cGdTc284QVB0ZFhyaXpZbjdKR3BFNWlSRXFXamhTc0VQajV6VUtBOXZ2WGdPUmpFN1E?oc=5": "2026-10-05",
+    "https://news.yahoo.co.jp/articles/831cfc8082652c8ae43ae1690e76532b3c7f4e98": "2026-10-05",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FM0NwZ0ZYUHJ5SmNMLXNtN1U3d1JTNHNpU2FzYTRlMHdqMWhiUmY1dklhSlphMFhQb2FvSmFybS02TkhGaTFJRmdzdkh5Y3VQYTZ3WWRWdTBiMnEyZkJ1M1d2SVJqN3BIcVBGT291WnJTQ2NvMXhMT2Q5aw?oc=5": "2026-10-05",
+    "https://news.yahoo.co.jp/articles/c0c9e6c325b8c61ba38c3c2b5bbc7d1493324928": "2026-10-05",
+    "https://news.yahoo.co.jp/articles/edd6bf0e4f27c6f4fb0e408592a2062529cca4f2": "2026-10-05"
   },
   "titles": [
-    {
-      "title": "「シルバー」を超えて、「ゴールデン」へ。 ～人生100年時代、デバイスを「翼」に変えるスマートライフ進化論 ー進化する令和シニアのスマートライフ【第10回】",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Google、広告事業で独占認定も分割回避 - AdX売却命令を退ける判決 - マイナビニュース",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Omneky、ChatGPT広告への出稿に対応 ― Meta・Google・LinkedIn・TikTok・LINE・Redditに続く新チャネルとして追加 - Infoseek",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "セブン、ファミマ、ローソンは「メディア」になれるのか 店舗と購買データを生かす広告ビジネスの実態 広告主にとっては、こうしたデータを使ってターゲットを絞り込み、サイネージやデジタル広告、店頭施策などを組み合わせた販促が可能になる。 8月31日には、ファ…ITmedia ビジネスオンライン経済総合9/4(金) 5:35",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "ダークパターン規制強化へ 悪質広告、処分も 消費者庁、法改正目指す - 福島民報デジタル",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "セブンのデータで外部メディアに広告配信 購買で効果検証が可能に - 日経クロストレンド",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "グーグル、広告事業の一部売却回避（時事通信） - Yahoo!ニュース",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Google、広告事業の分割回避 独禁訴訟で米司法省の売却案却下 - 日本経済新聞",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "【第二弾】テレビ×デジタル広告で認知拡大を実現 日世が取り組んだクロスメディア戦略 - 株式会社スイッチメディア",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "メタ・プラットフォームズ（META）、広告透明性を巡る新たな圧力に直面 - simplywall.st",
-      "date": "2026-09-04"
-    },
     {
       "title": "ディスプレイ広告（運用型）でLINE面へのアプローチを最大化する設定と運用のポイント",
       "date": "2026-09-05"
@@ -1486,99 +1446,49 @@
     {
       "title": "「誰が歌っているんだ」ジュディ・オングが語ったヒット曲「魅せられて」制作秘話 “覆面歌手”を受け入れた理由…ディレクターにお話が来て、酒井さんはすぐにジュディが合うと思ったけど、広告代理店としては名無しの人がよかった。だから酒井さんは『誰が歌ってるか分からな…スポーツ報知エンタメ総合10/4(日) 10:00",
       "date": "2026-10-04"
+    },
+    {
+      "title": "Metaと協業し、企業のThreads活用を支援する「Threadsアカウント運用サービス」を提供開始",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Rethink your strategy to drive sales this holiday season.",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "ダークパターン規制強化へ 消費者庁、悪質広告や煩雑な解約 - 山陽新聞",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "米ニールセンが広告検証大手を買収 視聴率測定から広告最適化まで事業拡大 - 民放online",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "広告代理店向け｜動画広告の改善提案を支援する感情分析AI「EMOAI」、抽選で50社限定の先行利用キャンペーンを開始 - Infoseek",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "fluctとDearOneがリテールメディア領域でシステム連携を開始 - PR TIMES",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "TikTok、米経済への効果は約12.8兆円と発表──企業76％が「事業に不可欠」…と説明した。回答結果を政府統計やTikTokのデータと組み合わせ、TikTok広告が売上につながり、生じた売上がサプライチェーンへ波及する過程をモデル化したという。Forbes JAPANIT総合10/5(月) 10:30",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "グローバルデジタル広告配信市場レポート2035 - sphericalinsights.com",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "市川團十郎、 妻・小林麻央さんとの“家族写真”を披露「心に焼き付く笑顔」「素敵なファミリー」感動の声続出…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/5(月) 7:31",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "「小さな習慣」で、人生はポジティブに軌道修正できる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合10/5(月) 8:01",
+      "date": "2026-10-05"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "「シルバー」を超えて、「ゴールデン」へ。 ～人生100年時代、デバイスを「翼」に変えるスマートライフ進化論 ー進化する令和シニアのスマートライフ【第10回】",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/jaaareports-reiwa-senior-10",
-      "summary": "・博報堂100年生活者研究所が人生100年時代のウェルビーイングをリビングラボ形式で探求している\n・巣鴨で約2年半カフェを運営し延べ2000名超へのインタビューと5万名超の定量調査を実施した\n・データだけでなく対話から得た気づきは老後不安とは異なる力強いポジティブなエネルギーだった",
-      "score": 2,
-      "reason": "広告運用と無関係のシニア生活者研究記事",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "Google、広告事業で独占認定も分割回避 - AdX売却命令を退ける判決 - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMzM4QVR2LU8xRHc4Q1ExUExJdTNEWjVYcU5tYzFzSXY3Rk5xcThVLU1sX1R2LWp2UEJNRUh4N1JhVEt5M0pHaWNBZWR2NFpvMGQ5WFBuQ21NcGdNcTFuUnAyM3JMdTYy?oc=5",
-      "summary": "・米裁判所がGoogleの広告技術事業における独占的地位を認定したが、事業分割には至らない判決を下した\n・米司法省が求めていた広告取引所「AdX」の売却命令は裁判所により退けられた\n・Googleは独占認定を受けたものの広告事業の中核を維持でき、分割リスクを回避する結果となった",
-      "score": 8,
-      "reason": "AdX売却命令却下の詳細で広告配信基盤への影響大",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "Omneky、ChatGPT広告への出稿に対応 ― Meta・Google・LinkedIn・TikTok・LINE・Redditに続く新チャネルとして追加 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KR2dpV05nZDgzZ2NpR2pBTUJKV1N0NkhUUEo5b0tpZUhzVTREUFZ3UWwtMndYazJBYXpZbXZkTEtGZnBOLUhiak84T1RkVjk3N2ZublE0S1VwdGx0ZVk3SkRwT3JtQnU1aGtUWE1oVGh4Zw?oc=5",
-      "summary": "・OmnekyがChatGPT広告への出稿対応を開始し新たな広告チャネルとして追加した\n・既存のMeta・Google・LinkedIn・TikTok・LINE・Redditに続く拡張となる\n・AI検索プラットフォーム上の広告配信により広告主の接点拡大が期待される",
-      "score": 8,
-      "reason": "ChatGPT広告出稿対応は新チャネルとして即実務影響",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "セブン、ファミマ、ローソンは「メディア」になれるのか 店舗と購買データを生かす広告ビジネスの実態 広告主にとっては、こうしたデータを使ってターゲットを絞り込み、サイネージやデジタル広告、店頭施策などを組み合わせた販促が可能になる。 8月31日には、ファ…ITmedia ビジネスオンライン経済総合9/4(金) 5:35",
-      "link": "https://news.yahoo.co.jp/articles/b7966ffa58278a1d43e8546f12cb78ab58252cc2",
-      "summary": "・セブン、ファミマ、ローソンの大手コンビニ3社が店舗と購買データを活用した広告メディア事業に本格参入している\n・広告主は購買データによるターゲティングとサイネージ・デジタル広告・店頭施策を組み合わせた販促が可能になる\n・ファミマなど各社が広告ビジネス基盤を整備し、小売業の新たな収益源としてリテールメディア化を推進している",
-      "score": 7,
-      "reason": "リテールメディア活用の実態解説で実務参考度高",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "ダークパターン規制強化へ 悪質広告、処分も 消費者庁、法改正目指す - 福島民報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55bDRhVEJJWENLdjJqektSX2JtZGNqMU1rU1lkekhYR21FcEhiRjBkQmlhYnJraWwwRlY3RFVEVTFncTBEV0hPSFFNV1Y3a1E?oc=5",
-      "summary": "・消費者庁がダークパターンの規制強化に向けた法改正を目指す方針を明らかにした\n・消費者を誤認・誘導する悪質なウェブ広告やUI設計に対し処分も視野に入れる\n・EC・デジタル広告業界は設計や表示の見直しなど早急な対応を迫られる見通し",
-      "score": 7,
-      "reason": "ダークパターン規制強化は広告表現に直接影響",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "セブンのデータで外部メディアに広告配信 購買で効果検証が可能に - 日経クロストレンド",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JQlZOMzJRYXdWOS1kbnlGcVBfaUhsVU9vZXVLdGVWdlhRZDM3c3JBUnpFR3ljTFlLdXV4WXNySVlTZno1bVQzVkphTnlXMWlVMTlBdTRZZVVPVjUxYTJYZkZRUlpUTnZhNDA4ZE1zUQ?oc=5",
-      "summary": "・セブン-イレブンが保有する購買データを活用し外部メディアへの広告配信サービスを開始した\n・店舗での実購買データに基づき広告のターゲティング精度と配信効果を高める狙いがある\n・広告接触後の購買行動を実データで検証可能にしROAS可視化を実現する仕組みとなる",
-      "score": 7,
-      "reason": "リテールメディア×広告配信・購買効果検証の実務知見",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "グーグル、広告事業の一部売却回避（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mb1RKYW1WcUNVTjdPU3E5SXZNZTZGdGEwbzFEc2I0QjVmY0xYdF9rOFZLNXBCU3gxZmtOWGQ4WGZ1V1d0RlpvdHFHNHJ1VHYyNWg1WnhPX0IwNEtRUG5rdUZWU2FrZlpJMFpUR1NNaDBvaWx3Ynk3ZDVhTWVIUDg?oc=5",
-      "summary": "・グーグルが反トラスト法訴訟で求められていた広告事業の一部売却を回避した\n・米司法省はグーグルの広告技術市場における独占的地位を問題視していた\n・売却回避により同社は広告事業の統合的な運営体制を維持する見通しとなった",
-      "score": 7,
-      "reason": "Google広告事業の独禁法判決で業界構造に影響",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "Google、広告事業の分割回避 独禁訴訟で米司法省の売却案却下 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZUEc5cFA1a0duOEU4UHV2T2ttemRpUnh5emhGblg1bXc5cDBnSGNRMVJiZjZFQzE3a2ItX1gxRDhiS1daSm9LblJYeVBMZnhMeFg3YmtfRDBScHhCVkN4SHhDM2h5ZFpRYnBFcA?oc=5",
-      "summary": "・米連邦地裁がグーグルの広告技術事業の売却を求めた米司法省の提案を却下した\n・独占禁止法訴訟でグーグルは広告事業の強制分割という最悪のシナリオを回避した\n・司法省はアドテク市場での独占的地位を問題視していたが裁判所は売却不要と判断",
-      "score": 7,
-      "reason": "Google広告分割回避の判決詳報で業界動向把握",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "【第二弾】テレビ×デジタル広告で認知拡大を実現 日世が取り組んだクロスメディア戦略 - 株式会社スイッチメディア",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWQXdGRUdQMGRBbVBxSTFxV2Z0a00xWHQ0WTc4ZzVFNmx5MWdOR1AyNXlTMVBHbEVEV3AycG1SZ21nVzl5OU5nTFdXdkJkUnVPenc?oc=5",
-      "summary": "・日世がテレビとデジタル広告を組み合わせたクロスメディア戦略で商品認知の拡大に成功した事例を紹介\n・スイッチメディアのデータを活用しテレビCMのリーチ補完としてデジタル広告を効果的に配信した\n・テレビ未接触層へのデジタル広告配信により全体のリーチを最大化し認知向上を実現した第二弾記事",
-      "score": 6,
-      "reason": "クロスメディア戦略の事例として参考になる",
-      "date": "2026-09-04"
-    },
-    {
-      "source": "Google News",
-      "title": "メタ・プラットフォームズ（META）、広告透明性を巡る新たな圧力に直面 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWhsMXEwUHl4endXSm5tMmNybGFsdlRLWGRWLTdzU0hSeUR0aUt5czU1dnlGZzNZUzdtazVCdU94clFNTXppT25ncUtxMWlmYjZPb0J1WHRYZW1DVG5XSWdaVm9WWmQwQjZpM19OZmRHeDJBRmJMVWgtbTNZV0pON19jUlhxQW96akJYbm5VbzBYZERNRGEzOdIBmAFBVV95cUxNMWhsMXEwUHl4endXSm5tMmNybGFsdlRLWGRWLTdzU0hSeUR0aUt5czU1dnlGZzNZUzdtazVCdU94clFNTXppT25ncUtxMWlmYjZPb0J1WHRYZW1DVG5XSWdaVm9WWmQwQjZpM19OZmRHeDJBRmJMVWgtbTNZV0pON19jUlhxQW96akJYbm5VbzBYZERNRGEzOQ?oc=5",
-      "summary": "・メタ・プラットフォームズが広告の透明性に関して新たな外部圧力に直面している\n・規制当局や市場関係者から広告運用の情報開示強化が求められている状況である\n・広告事業が収益の柱であるメタにとって透明性対応が今後の経営課題となる見通し",
-      "score": 6,
-      "reason": "Meta広告透明性規制は今後の運用に影響し得る",
-      "date": "2026-09-04"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "ディスプレイ広告（運用型）でLINE面へのアプローチを最大化する設定と運用のポイント",
@@ -4170,6 +4080,96 @@
       "score": 1,
       "reason": "芸能エピソードで広告運用と無関係",
       "date": "2026-10-04"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "Metaと協業し、企業のThreads活用を支援する「Threadsアカウント運用サービス」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-1005-000352",
+      "summary": "・電通デジタルがMetaと協業し企業向け「Threadsアカウント運用サービス」を提供開始した\n・企業がThreadsを効果的に活用できるよう運用面での支援を行うサービス内容となっている\n・Meta公式との連携により企業のThreads活用における成果最大化を目指す取り組みである",
+      "score": 4,
+      "reason": "企業サービス発表であり直接的な広告運用知見は薄い",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Google広告",
+      "title": "Rethink your strategy to drive sales this holiday season.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
+      "summary": "・Ads Decodedエピソードでホリデーシーズンの売上向上戦略を紹介している\n・今から実行可能な具体的ステップを共有し早期の準備を促している\n・ホリデー期間中に顧客へ効果的にリーチする広告戦略の見直しを提案",
+      "score": 6,
+      "reason": "Google公式の季節施策だが汎用的内容",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Google News",
+      "title": "ダークパターン規制強化へ 消費者庁、悪質広告や煩雑な解約 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HLVNHRm1LWFBkbmVQN194TjhmNDMtNFg5QUxDNWtCSnhiUlFyWVJ5aWVSY0M5ZkJVS2xoMElLd0lybVMtc0oxc0UzRnFob09LSEFZaUIyckw2MjJtdnFBdnZ1dlkzQ0FfRTB3NjVuSWdFTUxJX3A4?oc=5",
+      "summary": "・消費者庁がダークパターンに対する規制強化の方針を打ち出した\n・悪質なデジタル広告や意図的に煩雑化された解約手続きが主な対象となる\n・消費者の誤認や不利益を誘うUI設計への法的対応が本格化する見通し",
+      "score": 6,
+      "reason": "ダークパターン規制はLP・広告表現に影響",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Google News",
+      "title": "米ニールセンが広告検証大手を買収 視聴率測定から広告最適化まで事業拡大 - 民放online",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KX2hTSXJTZWNxSGhqUHJfR1NoMENQVTBBWk5pV014N1J0VF9YeV9PRUZSX05SWnZmZFhURnFKTGw5UTdLNnFNR3RVcHJfLVlneVBRbw?oc=5",
+      "summary": "・米ニールセンが広告検証大手企業の買収を発表し事業領域の拡大を図る\n・従来の視聴率測定事業に加え広告最適化分野への本格参入を目指す方針\n・買収により広告の配信検証から効果測定まで一気通貫のサービス提供が可能に",
+      "score": 5,
+      "reason": "広告検証買収は業界動向として参考になる",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Google News",
+      "title": "広告代理店向け｜動画広告の改善提案を支援する感情分析AI「EMOAI」、抽選で50社限定の先行利用キャンペーンを開始 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93cFBUQXRXQ2M4M3I1a0ZRdnhEMU9GYWhtS21LTFF0dXFtYl9KbVZpTmxycmJybHZaa3R6aXdRUjY4Q2V3SGFwLWlEWGVYbGlheDE2YWpUYzM5TW1lTkpaaVloVk9aSkNtaGxna3hCa1pRQQ?oc=5",
+      "summary": "・感情分析AI「EMOAI」が広告代理店向けに動画広告の改善提案を支援するサービスを展開\n・抽選で50社限定の先行利用キャンペーンを開始し、早期導入企業の募集を行っている\n・AIによる視聴者の感情データ分析で動画広告のクリエイティブ改善を効率化する狙い",
+      "score": 5,
+      "reason": "動画広告改善AIツールの紹介で参考程度",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Google News",
+      "title": "fluctとDearOneがリテールメディア領域でシステム連携を開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2alI0d1VHaXc3NlRxeWdqUHNHV1JXSTFoM2xlM2RwdGl3N3hsLUJCLUk1QjIwNGg0cGdTc284QVB0ZFhyaXpZbjdKR3BFNWlSRXFXamhTc0VQajV6VUtBOXZ2WGdPUmpFN1E?oc=5",
+      "summary": "・fluctとDearOneがリテールメディア領域でシステム連携を開始したと発表\n・両社の技術基盤を組み合わせ小売企業の広告収益化を支援する狙い\n・リテールメディア市場の拡大を背景に事業者向けソリューションを強化",
+      "score": 4,
+      "reason": "リテールメディア連携のプレスリリース",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TikTok、米経済への効果は約12.8兆円と発表──企業76％が「事業に不可欠」…と説明した。回答結果を政府統計やTikTokのデータと組み合わせ、TikTok広告が売上につながり、生じた売上がサプライチェーンへ波及する過程をモデル化したという。Forbes JAPANIT総合10/5(月) 10:30",
+      "link": "https://news.yahoo.co.jp/articles/831cfc8082652c8ae43ae1690e76532b3c7f4e98",
+      "summary": "・TikTokが米国経済への貢献額を約12.8兆円と発表し、広告プラットフォームとしての影響力を強調した\n・調査対象企業の76%がTikTokを「事業に不可欠」と回答し、ビジネス依存度の高さが浮き彫りになった\n・政府統計と自社データを組み合わせ、広告から売上・サプライチェーン波及までの経済効果をモデル化した",
+      "score": 4,
+      "reason": "TikTok経済効果の発表で業界動向として参考",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Google News",
+      "title": "グローバルデジタル広告配信市場レポート2035 - sphericalinsights.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FM0NwZ0ZYUHJ5SmNMLXNtN1U3d1JTNHNpU2FzYTRlMHdqMWhiUmY1dklhSlphMFhQb2FvSmFybS02TkhGaTFJRmdzdkh5Y3VQYTZ3WWRWdTBiMnEyZkJ1M1d2SVJqN3BIcVBGT291WnJTQ2NvMXhMT2Q5aw?oc=5",
+      "summary": "・Spherical Insightsが2035年までのグローバルデジタル広告配信市場の調査レポートを公開した\n・デジタル広告配信市場の長期的な成長予測や主要トレンドを包括的に分析している\n・市場規模・競合状況・地域別動向など業界関係者向けの詳細データを提供している",
+      "score": 3,
+      "reason": "市場レポート紹介で実務への直接影響は薄い",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市川團十郎、 妻・小林麻央さんとの“家族写真”を披露「心に焼き付く笑顔」「素敵なファミリー」感動の声続出…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/5(月) 7:31",
+      "link": "https://news.yahoo.co.jp/articles/c0c9e6c325b8c61ba38c3c2b5bbc7d1493324928",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・インターネット利用時間は過去10年間で急速に拡大しメディア接触構造が大きく変化\n・デジタル広告市場はネット利用増加を背景に拡大基調にあり広告費配分の見直しが加速",
+      "score": 2,
+      "reason": "芸能ニュース混在で広告運用と無関係",
+      "date": "2026-10-05"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「小さな習慣」で、人生はポジティブに軌道修正できる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合10/5(月) 8:01",
+      "link": "https://news.yahoo.co.jp/articles/edd6bf0e4f27c6f4fb0e408592a2062529cca4f2",
+      "summary": "・作家・書評家の印南敦史氏が「小さな習慣」による人生のポジティブな軌道修正を自身の体験から紹介\n・広告代理店勤務から音楽ライター・編集長を経て独立した経歴を持つ著者によるライフハック記事\n・ライフハッカー・ジャパンにて日常の小さな行動変容が大きな変化につながる実践法を提案",
+      "score": 1,
+      "reason": "広告運用と無関係なライフハック記事",
+      "date": "2026-10-05"
     }
   ]
 }
