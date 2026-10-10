@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202607": "2026-09-09",
-    "https://oneder.hakuhodody-one.co.jp/blog/advertimes-discovery-commerce": "2026-09-09",
-    "https://dentsudigital.co.jp/news/release/services/2026-0908-000345": "2026-09-09",
-    "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496": "2026-09-09",
-    "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496": "2026-09-09",
-    "https://dentsudigital.co.jp/index%2ephp/news/release/management/2026-0807-000339": "2026-09-09",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wTFlJR1RiYi1hOHBHMzVTYmF3Q0ZieGY3TU9COG5ET3p3QXA0enNPUjJDRl9YMFptbGp6QjZSU3NnT0lYM3JFdVhfd2pSbUgwanlBSnVoOA?oc=5": "2026-09-09",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbGV1VVp2YV95cnRoa0dWSjlnalpidGNpWl9MbmpnLWJ5SWJ2a3RGTEJIbjhpVjVROE9nb003ekhpTFljZktkRGRSVFE4UQ?oc=5": "2026-09-09",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sUGlLRnJ1OG8xcXNFU3hkS1p0cWZ6aE5Va3ptRWNVYml3ZUUtNnFfWTdvM0NiaGJUYlNGSDY4LW12b3FPd2JJd3NJX09LQUVvQ2llQ0F2M2JfVnVOYm9J?oc=5": "2026-09-09",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MW9WYUN4ZWpRVC1oejd4QVhZeGNHS255OGliRXRPMXhvSkJkVEMtZXZmZDVrZnI5RU0tbFRvb2hKcTVpQTBOREJDV25LYU03NFdpeGZKVEEyUi1zWU5aZ2xxY2JqMlRJ?oc=5": "2026-09-09",
     "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-guidelines-rejection-reasons/?list=23496": "2026-09-10",
     "https://www.lycbiz.com/jp/column/ly-ads/technique/silverweek_ad_strategy/?list=23496": "2026-09-10",
     "https://dentsudigital.co.jp/news/release/prizes/2026-0909-000347": "2026-09-10",
@@ -292,49 +282,19 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NeXJNd1p3cTZEZ0tPWU8zYWdNUWJVRUluM3U2ZDI1NWxMbGtYYVIwOVhDaEZwVFV3NmFORnJGampjbkp2QlVHZ2NsVS1uYTJadzF1aURYTm1DMG5neWRkdkROMG04ZnlIQmxzb1kyWDRHeFhUMElETm9xdw?oc=5": "2026-10-09",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BS2VzcDJTMlRzRW5GNXI4eTVZd3lZM2FqN0VpUW9GWmpQNmdBSHV4cExyTTZFYlRJRjY3MDMyd3RfMlhYRGxrek5HbkljWjNoS2JkeWlBMmo?oc=5": "2026-10-09",
     "https://news.yahoo.co.jp/articles/0cfcb061fcaa2dd03855a5a0dc911ba1601f1a5a": "2026-10-09",
-    "https://news.yahoo.co.jp/articles/32ff7d9bc1ba5af50010a0208098c445dc297a9b": "2026-10-09"
+    "https://news.yahoo.co.jp/articles/32ff7d9bc1ba5af50010a0208098c445dc297a9b": "2026-10-09",
+    "https://dentsudigital.co.jp/news/release/services/2026-0907-000344": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbTBua0lnb0tSZ1pNZi1uSjlDbThxM3U4NVREMUhtNkUxaEt1dFkycWVURHRDZUFCaUVaNGk1dXM5NmVhSDR4cEV0Y0hyRUtCYXl0R3ZPMkdKRHJ0SUc4SUEzUU14YVpObS14SS1sVUp4SEc5VVVyTVJxM1BrQQ?oc=5": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zMFpPbG1ONDY4bklpa21rdmZLSUVHX3pCeTVXQi1lbW5LdGFFLUx5eWgyZHc2LWhlamNOZnJLYV9RbUZBWV9r?oc=5": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ua1kzUm9ZenJhWDdPRUpfQlVSUGY4ZkY0WGVLblB0cGdEUUNkUjN5Y2FIazdQVDlQdHJNS3VpQTlqQTNJcnBrRlZhRm5pZnJxSmlubTBRRkw4Nks5YVh3VC11eEp5bUFyY3c?oc=5": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWx1YVdBdGJmUjJGVlZLbkxuOE92b3liRzBLRm1yN3lSQ1RxNEg4aFNkTUplV1hfQnUtdVVyQmtEaXFfbDFEeVlXVlppdXJQWC1GWDlVYTBqeWs3VXN0NHVYUVlVakIxXzZSX0Q3QWNKSkxQWDk2Q2kwVnlBdlJMLXFHdVVfUQ?oc=5": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NV0pZZ2w1U0pZeGh2THBuaFlYTllyMUZwNkxaOWZIU241UlhzU0tCTnBZdVFwT2EwTkJ4OURVYU9TX2l0d0UwWHp4Y1ZZeEJQR0EyOGFSUDhEU3VVZ0tKYkV2eTdIQTNzR1BaeWNOdkRLY2lj?oc=5": "2026-10-10",
+    "https://news.yahoo.co.jp/articles/96f1b38007af40b0c341bf36944c1aa90f2254b2": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PcWgwMndZN212RlRjVDRxX01UM052NThfZExiTnI2ekJnUGc4RHhrUnVjZXRsREdhblktbUs3RU1MT2s4Tk5KMm5pd2plR29VT0I3WUxRRQ?oc=5": "2026-10-10",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX2xzRE5iR3hlT1ZfOENFTHA2TTFyYW8zekMySE1YZnNaeDlQMS1YUl9GaXM1MUU2U3RyRDhmYU1zQ1pqU2toMUdXQ05NLXNwQkFsX2R6d3pkX3c?oc=5": "2026-10-10",
+    "https://news.yahoo.co.jp/expert/articles/08adbb29cab7fef33d46bd27c46613c6e34f091d": "2026-10-10"
   },
   "titles": [
-    {
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年7月）",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "10万円のコーヒーマシンをどう売ったのか？Hakuhodo DY ONEが挑む、広告の枠を超えた「エンドツーエンド」の事業共創",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "設立10年の軌跡とAI時代の価値創造プロセスを示す「電通デジタル統合レポート2026」を発行",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "ChatGPT広告は「売上」を期待すべきか？EC事業者が知っておきたい現在地と評価の考え方 - コマースピック",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "広告成果の「壁」を突破する“第3のインサイト”とは？ - ECのミカタ",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "【総務省・JICDAQ登壇】AIによる広告最適化と新たな脅威。 今、広告主に求められる「ブランド価値の守り方」 - trans-cosmos.co.jp",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "雨の日は惣菜、猛暑日はアイス。SEデジタルの天気連動型広告、第二弾は流通・小売向けパッケージを提供開始 - news.nicovideo.jp",
-      "date": "2026-09-09"
-    },
     {
       "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
       "date": "2026-09-10"
@@ -1486,99 +1446,49 @@
     {
       "title": "環境ラベル、本当にエコ？ 独自作成、認証偽装疑いも…証ラベルとそれ以外を明確にさせる必要がある」と話した。 消費者庁によると、環境ラベルは広告表示の一種で、国内では、日本環境協会が1989年に認証制度…共同通信社会10/6(火) 3:13",
       "date": "2026-10-09"
+    },
+    {
+      "title": "AI活用を前提にCXデザイン業務を再設計する「AI×CX業務リデザイン」を提供開始",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "メタ、自社プラットフォーム上でＴｉｋＴｏｋ広告禁止 日本含め - Reuters",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "TikTok、新広告製品を一挙発表 AIショッピングアシスタントなど | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "【10/29（木）共催ウェビナー開催】Meta広告の成果を爆発させる最新クリエイティブ戦略〜AI最適化とタレント活用の実践ノウハウ〜 - PR TIMES",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "AI との​対話は、​人々の​買い物を​どう​変えているか —— 6 種類の​調査で​見えた​「ハイレゾ消費」 - Google Business Profile",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Meta社、7カ国でTikTok広告を禁止。 - Vietnam.vn",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "【不正アクセス10月1～9日】焼肉きんぐ1078万件、ローソン215万件、JR東206万件など（発表まとめ）…で、データの漏えいを確認。詳細は調査中 ○ソルティドッグ Google広告代理店の同社が持つ管理アカウントが10月5日に不正アクセスを受け、オンライン…ITmedia ビジネスオンライン経済総合10/10(土) 8:00",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "消費者庁／消費者相談分析を公表／ネット広告起点に価格トラブル（2026年10月8日号） - 日流ウェブ",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "「DocumentOn」、薬機法の広告規制に対応 - 朝日新聞",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "公取委、ビール4社価格カルテル反則調査、民放テレビ、エンタメ、スポーツ業界に「壊滅的打撃」も…争は広告」という構造そのものが揺らぐ。ビール類の広告は、市場の縮小とデジタル広告への移行によってすでに減少傾向にあるが、今回の摘発はその流れを一気に加…郷原信郎社会10/9(金) 17:49",
+      "date": "2026-10-10"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年7月）",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202607",
-      "summary": "・ChatGPTの国内AI検索シェアは約66%だが前月比1.31pt減と微減傾向にある\n・Geminiが前月比4.59pt増と大きくシェアを伸ばし存在感を高めている\n・AI検索市場はChatGPT一強からGemini台頭による競争激化の兆しが見える",
-      "score": 6,
-      "reason": "AI検索シェア動向は検索広告戦略の参考になる",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "10万円のコーヒーマシンをどう売ったのか？Hakuhodo DY ONEが挑む、広告の枠を超えた「エンドツーエンド」の事業共創",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/advertimes-discovery-commerce",
-      "summary": "・Hakuhodo DY ONEが10万円の高額コーヒーマシン販売で広告枠を超えた事業共創モデルに挑戦した\n・商品発見から購入までの時間が長いほど購買意欲が低下するという課題に着目している\n・SNS投稿や生成AIなど多様な接点から商品認知・購入に至る消費者行動の変化に対応している",
-      "score": 5,
-      "reason": "事業共創の事例紹介で広告運用の直接的知見は限定的",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0908-000345",
-      "summary": "・電通デジタルがAIエージェント活用のレビュー支援ソリューション「DeGA」を提供開始した\n・企業のデザインガイドラインやブランドルールに基づくデジタル制作物の確認を自動化する\n・正式名称はDesign Governance Agentで制作物の品質管理業務の効率化を目指す",
-      "score": 3,
-      "reason": "制作物レビュー自動化ツールのプレスリリース",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "【2026年4～6月】LINEヤフー広告アップデートまとめ",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_matome_202607/?list=23496",
-      "summary": "・2026年4〜6月に実施されたLINEヤフー広告の主要アップデートをまとめた記事\n・検索広告における新機能や仕様変更点について詳しく解説している\n・ディスプレイ広告の機能追加や変更点も網羅的に紹介している",
-      "score": 9,
-      "reason": "主要プラットフォームの四半期アップデートまとめで即実務に直結",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "AI時代の広告・マーケティング活動の現場に求められるDE&Iの視点",
-      "link": "https://www.lycbiz.com/jp/column/other/guideline/deandi-ai/?list=23496",
-      "summary": "・生成AIの広告活用拡大に伴い、学習データに含まれるアンコンシャス・バイアスが再生産されるリスクが指摘されている\n・対応策としてDE&I（多様性・公平性・包括性）の視点を制作プロセスに組み込む重要性が高まっている\n・多様な受け手の背景や価値観に配慮したクリエイティブ制作の具体的なポイントや注意点を解説している",
-      "score": 5,
-      "reason": "広告制作の視点として参考になるがDE&Iは間接的",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "設立10年の軌跡とAI時代の価値創造プロセスを示す「電通デジタル統合レポート2026」を発行",
-      "link": "https://dentsudigital.co.jp/index%2ephp/news/release/management/2026-0807-000339",
-      "summary": "・電通デジタルが統合報告書「電通デジタル統合レポート2026」を発行しコーポレートサイトで公開した\n・設立10年の軌跡を振り返り、これまでの成長と事業展開の歩みを体系的にまとめている\n・AI時代における価値創造プロセスを提示し、今後の事業方針やビジョンを示す内容となっている",
-      "score": 3,
-      "reason": "企業の統合報告書発行のプレスリリース",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "Google News",
-      "title": "ChatGPT広告は「売上」を期待すべきか？EC事業者が知っておきたい現在地と評価の考え方 - コマースピック",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wTFlJR1RiYi1hOHBHMzVTYmF3Q0ZieGY3TU9COG5ET3p3QXA0enNPUjJDRl9YMFptbGp6QjZSU3NnT0lYM3JFdVhfd2pSbUgwanlBSnVoOA?oc=5",
-      "summary": "・ChatGPT広告はEC事業者にとって売上直結よりもブランド認知や検討段階での接点として捉えるべき段階にある\n・従来のリスティングやSNS広告と異なりAI対話型広告の効果測定には新たな評価指標の導入が求められる\n・EC事業者は短期的な売上成果より中長期的な顧客接点構築の視点でChatGPT広告を評価すべきと提言",
-      "score": 8,
-      "reason": "ChatGPT広告の評価方法、新チャネル実務指針",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "Google News",
-      "title": "広告成果の「壁」を突破する“第3のインサイト”とは？ - ECのミカタ",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qbGV1VVp2YV95cnRoa0dWSjlnalpidGNpWl9MbmpnLWJ5SWJ2a3RGTEJIbjhpVjVROE9nb003ekhpTFljZktkRGRSVFE4UQ?oc=5",
-      "summary": "・広告運用において成果が頭打ちになる「壁」の存在とその要",
-      "score": 7,
-      "reason": "広告成果改善のインサイト手法、実践的内容",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "Google News",
-      "title": "【総務省・JICDAQ登壇】AIによる広告最適化と新たな脅威。 今、広告主に求められる「ブランド価値の守り方」 - trans-cosmos.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sUGlLRnJ1OG8xcXNFU3hkS1p0cWZ6aE5Va3ptRWNVYml3ZUUtNnFfWTdvM0NiaGJUYlNGSDY4LW12b3FPd2JJd3NJX09LQUVvQ2llQ0F2M2JfVnVOYm9J?oc=5",
-      "summary": "・総務省とJICDAQが登壇しAI活用の広告最適化がもたらす新たなリスクについて解説した\n・アドフラウドやブランドセーフティなど広告品質を脅かす脅威への対策が急務と指摘\n・広告主が主体的にブランド価値を守るための管理体制や業界基準の活用を提言した",
-      "score": 6,
-      "reason": "ブランドセーフティとAI最適化の業界動向",
-      "date": "2026-09-09"
-    },
-    {
-      "source": "Google News",
-      "title": "雨の日は惣菜、猛暑日はアイス。SEデジタルの天気連動型広告、第二弾は流通・小売向けパッケージを提供開始 - news.nicovideo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MW9WYUN4ZWpRVC1oejd4QVhZeGNHS255OGliRXRPMXhvSkJkVEMtZXZmZDVrZnI5RU0tbFRvb2hKcTVpQTBOREJDV25LYU03NFdpeGZKVEEyUi1zWU5aZ2xxY2JqMlRJ?oc=5",
-      "summary": "・SEデジタルが天気連動型広告の第二弾として流通・小売業界向けパッケージの提供を開始した\n・雨の日に惣菜、猛暑日にアイスなど天候に応じた商品訴求を自動で切り替える仕組みを提供\n・気象条件と購買行動の相関を活用し小売店舗の販促効果を高めるデジタル広告ソリューションである",
-      "score": 6,
-      "reason": "天気連動型広告の新パッケージ、実務参考になる",
-      "date": "2026-09-09"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
@@ -4170,6 +4080,96 @@
       "score": 2,
       "reason": "環境ラベル問題で広告運用と無関係",
       "date": "2026-10-09"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI活用を前提にCXデザイン業務を再設計する「AI×CX業務リデザイン」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0907-000344",
+      "summary": "・電通デジタルがAI活用を前提にCX業務プロセスを再設計する新サービスを提供開始した\n・企業の顧客体験デザインに関わる一連の業務を対象に組織浸透まで総合的に支援する\n・AIによる業務効率化とCX品質向上を両立させる体制構築を目指すサービスである",
+      "score": 3,
+      "reason": "企業の新サービス発表で広告運用実務と直接関連薄い",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "メタ、自社プラットフォーム上でＴｉｋＴｏｋ広告禁止 日本含め - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbTBua0lnb0tSZ1pNZi1uSjlDbThxM3U4NVREMUhtNkUxaEt1dFkycWVURHRDZUFCaUVaNGk1dXM5NmVhSDR4cEV0Y0hyRUtCYXl0R3ZPMkdKRHJ0SUc4SUEzUU14YVpObS14SS1sVUp4SEc5VVVyTVJxM1BrQQ?oc=5",
+      "summary": "・メタがFacebookやInstagram等の自社プラットフォーム上でTikTokの広告掲載を禁止した\n・この広告禁止措置は日本を含む複数の国・地域が対象となっている\n・競合プラットフォーム間の対立激化を示す動きとして注目されている",
+      "score": 9,
+      "reason": "Meta上TikTok広告禁止は出稿戦略に即影響",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok、新広告製品を一挙発表 AIショッピングアシスタントなど | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zMFpPbG1ONDY4bklpa21rdmZLSUVHX3pCeTVXQi1lbW5LdGFFLUx5eWgyZHc2LWhlamNOZnJLYV9RbUZBWV9r?oc=5",
+      "summary": "・TikTokがAIショッピングアシスタントを含む複数の新広告製品を一挙に発表した\n・AI技術を活用し広告主の購買促進やユーザーの買い物体験向上を図る狙いがある\n・TikTokは広告プラットフォームとしての機能強化を加速しEC領域の拡大を推進している",
+      "score": 9,
+      "reason": "TikTok新広告プロダクト発表は実務直結",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "【10/29（木）共催ウェビナー開催】Meta広告の成果を爆発させる最新クリエイティブ戦略〜AI最適化とタレント活用の実践ノウハウ〜 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ua1kzUm9ZenJhWDdPRUpfQlVSUGY4ZkY0WGVLblB0cGdEUUNkUjN5Y2FIazdQVDlQdHJNS3VpQTlqQTNJcnBrRlZhRm5pZnJxSmlubTBRRkw4Nks5YVh3VC11eEp5bUFyY3c?oc=5",
+      "summary": "・10月29日にMeta広告の成果向上をテーマとした共催ウェビナーが開催される\n・AI最適化とタレント活用を組み合わせた最新クリエイティブ戦略を解説予定\n・実践的なノウハウを提供しMeta広告運用の効果最大化を目指す内容となる",
+      "score": 7,
+      "reason": "Meta広告クリエイティブ戦略の実践ウェビナー案内",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "AI との​対話は、​人々の​買い物を​どう​変えているか —— 6 種類の​調査で​見えた​「ハイレゾ消費」 - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWx1YVdBdGJmUjJGVlZLbkxuOE92b3liRzBLRm1yN3lSQ1RxNEg4aFNkTUplV1hfQnUtdVVyQmtEaXFfbDFEeVlXVlppdXJQWC1GWDlVYTBqeWs3VXN0NHVYUVlVakIxXzZSX0Q3QWNKSkxQWDk2Q2kwVnlBdlJMLXFHdVVfUQ?oc=5",
+      "summary": "・GoogleがAIとの対話が消費行動に与える影響を6種類の調査で分析した\n・AIを活用し詳細な情報を得て購買判断する「ハイレゾ消費」の傾向が明らかに\n・対話型AIが商品理解を深め、より精緻で納得感のある購買体験を促進している",
+      "score": 7,
+      "reason": "Google発AI×消費行動調査で広告戦略に示唆",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta社、7カ国でTikTok広告を禁止。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NV0pZZ2w1U0pZeGh2THBuaFlYTllyMUZwNkxaOWZIU241UlhzU0tCTnBZdVFwT2EwTkJ4OURVYU9TX2l0d0UwWHp4Y1ZZeEJQR0EyOGFSUDhEU3VVZ0tKYkV2eTdIQTNzR1BaeWNOdkRLY2lj?oc=5",
+      "summary": "・Meta社がFacebookやInstagram上でのTikTok広告掲載を7カ国で禁止する措置を講じた\n・競合プラットフォームであるTikTokのユーザー獲得を自社媒体上で支援しない方針を明確化\n・対象国の詳細は限定的だが、Meta対TikTokの競争激化を象徴する動きとして注目される",
+      "score": 7,
+      "reason": "id14と同件だが海外ソースで補足的情報",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【不正アクセス10月1～9日】焼肉きんぐ1078万件、ローソン215万件、JR東206万件など（発表まとめ）…で、データの漏えいを確認。詳細は調査中 ○ソルティドッグ Google広告代理店の同社が持つ管理アカウントが10月5日に不正アクセスを受け、オンライン…ITmedia ビジネスオンライン経済総合10/10(土) 8:00",
+      "link": "https://news.yahoo.co.jp/articles/96f1b38007af40b0c341bf36944c1aa90f2254b2",
+      "summary": "・焼肉きんぐ1078万件、ローソン215万件、JR東206万件など大規模な不正アクセス被害が相次いで発表された\n・Google広告代理店ソルティドッグでも管理アカウントが10月5日に不正アクセスを受けたことが判明した\n・各社ともデータ漏えいの可能性を認めており、被害の全容や原因について現在も調査が続いている",
+      "score": 6,
+      "reason": "Google広告管理アカウント不正アクセス事例は注意喚起",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "消費者庁／消費者相談分析を公表／ネット広告起点に価格トラブル（2026年10月8日号） - 日流ウェブ",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PcWgwMndZN212RlRjVDRxX01UM052NThfZExiTnI2ekJnUGc4RHhrUnVjZXRsREdhblktbUs3RU1MT2s4Tk5KMm5pd2plR29VT0I3WUxRRQ?oc=5",
+      "summary": "・消費者庁がネット広告に関連する消費者相談の分析結果を公表した\n・ネット広告を起点とした価格に関するトラブルが多発していることが判明\n・消費者被害の実態把握を通じ今後の広告規制強化や注意喚起につなげる方針",
+      "score": 5,
+      "reason": "ネット広告規制動向として参考になる",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Google News",
+      "title": "「DocumentOn」、薬機法の広告規制に対応 - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX2xzRE5iR3hlT1ZfOENFTHA2TTFyYW8zekMySE1YZnNaeDlQMS1YUl9GaXM1MUU2U3RyRDhmYU1zQ1pqU2toMUdXQ05NLXNwQkFsX2R6d3pkX3c?oc=5",
+      "summary": "・文書管理サービス「DocumentOn」が薬機法の広告規制に対応する新機能を導入した\n・医薬品や化粧品等の広告表現における法令違反リスクの軽減を支援する狙いがある\n・広告審査業務の効率化により企業のコンプライアンス強化に貢献する見込みである",
+      "score": 5,
+      "reason": "薬機法広告規制対応は出稿時の参考になる",
+      "date": "2026-10-10"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公取委、ビール4社価格カルテル反則調査、民放テレビ、エンタメ、スポーツ業界に「壊滅的打撃」も…争は広告」という構造そのものが揺らぐ。ビール類の広告は、市場の縮小とデジタル広告への移行によってすでに減少傾向にあるが、今回の摘発はその流れを一気に加…郷原信郎社会10/9(金) 17:49",
+      "link": "https://news.yahoo.co.jp/expert/articles/08adbb29cab7fef33d46bd27c46613c6e34f091d",
+      "summary": "・公正取引委員会がビール大手4社に対し価格カルテルの疑いで立入検査を実施した\n・ビール各社の広告費削減が民放テレビやスポーツ・エンタメ業界に深刻な影響を及ぼす懸念\n・市場縮小とデジタル広告移行に加え今回の摘発が広告出稿減少を加速させる可能性がある",
+      "score": 4,
+      "reason": "ビール業界カルテルの広告費影響は間接的",
+      "date": "2026-10-10"
     }
   ]
 }
