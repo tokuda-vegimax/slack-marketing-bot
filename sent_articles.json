@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-guidelines-rejection-reasons/?list=23496": "2026-09-10",
-    "https://www.lycbiz.com/jp/column/ly-ads/technique/silverweek_ad_strategy/?list=23496": "2026-09-10",
-    "https://dentsudigital.co.jp/news/release/prizes/2026-0909-000347": "2026-09-10",
-    "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2": "2026-09-10",
-    "https://news.yahoo.co.jp/articles/f7cfb4bab77174d021e68e4c472f3ea1e9b90668": "2026-09-10",
-    "https://news.yahoo.co.jp/expert/articles/e5f0a3d34df56c522580691b51e1ef02949fa9dc": "2026-09-10",
-    "https://news.yahoo.co.jp/articles/322c21a6874693722d47c14aa0c0999e0ae1bedc": "2026-09-10",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE96a2dna0pKZTJGalltcUV2MFVBSmdRbmdiVUZvS3RJSGREMExrQlhnSEdvR01rbWU5WllEOVFETVhCQWZIWWZjb2pnOXlOV0dMSkhDWVRHcmFIYVpoZ0xlZW5xeGMyT2xfNXdFTHZCeGpnT0lPdTVKem9HVQ?oc=5": "2026-09-10",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE83ZDdidDBfckZ6UF9MUldQTUlDb2VfOTVOekVqSnBQVWIwcEFmMkhjT0RuTHR6MVJhYmo2YVQ3b0JZT25DajNVWE5ucm96MzZseDdlZXU2c3E2RlFCb3o5U28tM3FIeXdJUFZWd1dmQzVHQQ?oc=5": "2026-09-10",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aaGE1MkFJdFV6ZzYzRTNqMVk4bFRicGctZUJDeXRJSTZ1dC1BU18zYW9UOFVuZVpzZ2dHVHdBMWI2NlNNX3VOMXhuOVdKNFJYNXlVQTVFWkVKMzdqREdnTFU3LWlTLThqVVE?oc=5": "2026-09-10",
     "https://www.lycbiz.com/jp/column/ly-ads/technique/search-display-combination/?list=23496": "2026-09-11",
     "https://dentsudigital.co.jp/news/release/services/2026-0910-000346": "2026-09-11",
     "https://www.lycbiz.com/jp/column/line-mini-app/service-information/customer-growth-consortium/": "2026-09-11",
@@ -292,49 +282,19 @@
     "https://news.yahoo.co.jp/articles/96f1b38007af40b0c341bf36944c1aa90f2254b2": "2026-10-10",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PcWgwMndZN212RlRjVDRxX01UM052NThfZExiTnI2ekJnUGc4RHhrUnVjZXRsREdhblktbUs3RU1MT2s4Tk5KMm5pd2plR29VT0I3WUxRRQ?oc=5": "2026-10-10",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX2xzRE5iR3hlT1ZfOENFTHA2TTFyYW8zekMySE1YZnNaeDlQMS1YUl9GaXM1MUU2U3RyRDhmYU1zQ1pqU2toMUdXQ05NLXNwQkFsX2R6d3pkX3c?oc=5": "2026-10-10",
-    "https://news.yahoo.co.jp/expert/articles/08adbb29cab7fef33d46bd27c46613c6e34f091d": "2026-10-10"
+    "https://news.yahoo.co.jp/expert/articles/08adbb29cab7fef33d46bd27c46613c6e34f091d": "2026-10-10",
+    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202608": "2026-10-11",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_updates_202610/?list=23496": "2026-10-11",
+    "https://dentsudigital.co.jp/news/release/services/2026-0908-000345": "2026-10-11",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdXQwajFocHgzcU5qalVKbnRIb1QxcTl4bENCV0pYV1l1UkRQY2FiWUY2dTI5c2hyZ24yUXFjdkNuaFJPNi1ISkJ5SVFMWV81cGF0X29abWpHUzJvTzRyOHRHcjNjUnIyYkx1OFk2S1Y1Ql92ZVhF?oc=5": "2026-10-11",
+    "https://news.yahoo.co.jp/articles/4351abdcc15fbdd92a070915ec4804c0a28c42a6": "2026-10-11",
+    "https://news.yahoo.co.jp/articles/ddf8031177eae19b1572ae037b2c0503181ce591": "2026-10-11",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QRlRETmRadWhYVXU0cHVCMnQzQ1hBaGJUR2NhMlpoWldwZFZHc1cxSVhJSlFWUVNhOTgwM0llS08zdXdKbUNOMl93?oc=5": "2026-10-11",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SDdjcnZ4ek84YWRLd2pRSG1IMHZjSXVaNm1ub25iQW1qcGljdVdWNTVxM3o2TGt2SnNKQlhoLXVOMVhydFAxTjlSOFBEZlk?oc=5": "2026-10-11",
+    "https://news.yahoo.co.jp/articles/67d2722c8a6bd362fc0a578d70dbe49669a0f612": "2026-10-11",
+    "https://news.yahoo.co.jp/articles/efb302846c98070f721b6e487d1a7434994f0a29": "2026-10-11"
   },
   "titles": [
-    {
-      "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "シルバーウィーク前に確認したい 広告運用の3つのポイント",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Salesforceのパートナープログラム「FDE Partner Network」のパートナーに認定",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始…ごとに異なる反応傾向を反映した専用モデルを構築。業界特性を加味して「Meta広告」に特化し、高精度にスコアリングした。これによって複数のクリエイティブ…Web担当者ForumIT総合6/2(火) 7:01",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Google またも解体回避 「違法な独占」でも事業分割されない理由…採点させるようなものだからだ。メタ（Meta）をはじめとする各社は、デジタル広告費というパイの取り分を増やすため、何らかの解体を望んだはずだ。メタが制…DIGIDAY［日本版］IT総合9/10(木) 10:11",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "なぜアデランス子会社は7年前のステマを認め謝罪したのか ステマ違法化前投稿も閲覧可能なら削除義務あり #エキスパートトピ…どを勧める回答をさせていました。ステマとは広告と明示せずに自社商品を宣伝することで、2023年の景品表示法により違法となりました。違法化するより7年前…高橋暁子IT総合9/8(火) 16:05",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "インスタやフェイスブック、児童性的虐待コンテンツを含む広告をなお掲載 インドでは削除命令後も…的虐待を取り扱った広告のいくつかは、メタのパートナー認定を受けた中国の広告代理店によって掲載されていたことが判明した。 「リセラー（再販業者）」と呼ば…BBC News国際総合9/9(水) 16:54",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "FacebookやInstagramに児童の性的虐待コンテンツを含む広告が大量掲載されていたとの報告、実在の子どもの写真をAI加工した広告も - GIGAZINE",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "FinTech、決済、デジタル広告――複雑な業務ドメインにAIを組み込むには デジタルガレージの挑戦 - ITmedia",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "【導入1,500社超】企業と求職者の最適な出会いを生む運用型求人広告プラットフォーム「HR Ads Platform」が株式会社インプリの求人アプリ「求人検索 for ハローワーク」と連携開始 - PR TIMES",
-      "date": "2026-09-10"
-    },
     {
       "title": "検索広告とディスプレイ広告を組み合わせるには？目的に応じた活用方法｜LINEヤフー広告",
       "date": "2026-09-11"
@@ -1486,99 +1446,49 @@
     {
       "title": "公取委、ビール4社価格カルテル反則調査、民放テレビ、エンタメ、スポーツ業界に「壊滅的打撃」も…争は広告」という構造そのものが揺らぐ。ビール類の広告は、市場の縮小とデジタル広告への移行によってすでに減少傾向にあるが、今回の摘発はその流れを一気に加…郷原信郎社会10/9(金) 17:49",
       "date": "2026-10-10"
+    },
+    {
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年8月）",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "【2026年7月～9月】LINEヤフー広告アップデートまとめ",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Meta、米国における自社プラットフォームでのTikTok広告を禁止 - TradingView",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "インフルエンサーが勧めても「クルマ」は全然売れない？ 信頼度わずか「17%」という現実！ 最終検討層が頼る「意外な情報源」とは 背景には、ステルスマーケティングに対する消費者の強い警戒がある。2023年10月に景品表示法上のステマ規制が始まって以降、利害関係が見えにくいSNS上のレビューや…Merkmal経済総合10/10(土) 20:51",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "多様化する“ポイ活”アプリの最新事情 歩くだけでポイント、レシート買取に“おぢさん”育成も…だ。 消費者庁が2021年3月に公表した資料「ポイントサイトの動向整理」を参考にすると、このサービスを支えているのは広告を出稿している広告主。ユーザ…リアルサウンドエンタメ総合10/9(金) 18:00",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "アジア太平洋デジタル広告医薬品市場の成長を牽引するものは何か？2026年から2033年に - pando.life",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "【名城大学】兵庫の悪ガキ、広告業界の頂点に立つ 愛知から世界におもろいを発信する - アットプレス",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "武井壮、亡き母の再婚相手との2ショット披露「幸せな時間でした」ネット感動の声相次ぐ「素敵なご報告」「こちらまで心が温かくなります」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 7:20",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "中川翔子 手作りケーキで双子1歳誕生日を祝福！「イケメン双子」「ずっと見ていきたい幸せ家族」の声…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/9(金) 13:10",
+      "date": "2026-10-11"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-guidelines-rejection-reasons/?list=23496",
-      "summary": "・LINEヤフー広告の審査で問い合わせが多い否認理由を分析し注意点を解説\n・医療広告の誇大表現や費用の過度な強調が審査否認の主要な原因となっている\n・No.1表示など最上級表現の使用ルールや確認すべきポイントを具体例で紹介",
-      "score": 8,
-      "reason": "LINEヤフー広告審査の具体的な否認理由と対策",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "シルバーウィーク前に確認したい 広告運用の3つのポイント",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/technique/silverweek_ad_strategy/?list=23496",
-      "summary": "・シルバーウィーク前に広告運用で確認すべき3つのポイントを紹介する記事\n・LINEヤフーの法人向けサービスの最新情報や活用ノウハウを提供している\n・大型連休前の広告パフォーマンス最適化に向けた実践的な運用知識を解説",
-      "score": 7,
-      "reason": "Yahoo!広告の実務的な運用チェックポイント解説",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "Salesforceのパートナープログラム「FDE Partner Network」のパートナーに認定",
-      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0909-000347",
-      "summary": "・電通デジタルがSalesforceのパートナープログラムでパートナー認定を受けたと発表した\n・認定されたプログラムは「Forward Deployed Engineering Partner Network」である\n・Salesforceとの連携強化により顧客向けソリューション提供の拡充が期待される",
-      "score": 3,
-      "reason": "パートナー認定のプレスリリースで実務影響小",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "博報堂が「Meta広告」のクリエイティブ効果を配信前にAI予測する新機能を提供開始…ごとに異なる反応傾向を反映した専用モデルを構築。業界特性を加味して「Meta広告」に特化し、高精度にスコアリングした。これによって複数のクリエイティブ…Web担当者ForumIT総合6/2(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/08d55b4fe7dbc9526608317c7001d2cf698cf8f2",
-      "summary": "・博報堂がMeta広告のクリエイティブ効果を配信前にAIで予測する新機能の提供を開始した\n・業界ごとに異なるユーザー反応傾向を反映した専用モデルを構築し高精度なスコアリングを実現\n・複数クリエイティブの事前評価により広告運用の効率化とパフォーマンス向上を目指す",
-      "score": 8,
-      "reason": "Meta広告クリエイティブのAI予測ツールで実務直結",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "Google またも解体回避 「違法な独占」でも事業分割されない理由…採点させるようなものだからだ。メタ（Meta）をはじめとする各社は、デジタル広告費というパイの取り分を増やすため、何らかの解体を望んだはずだ。メタが制…DIGIDAY［日本版］IT総合9/10(木) 10:11",
-      "link": "https://news.yahoo.co.jp/articles/f7cfb4bab77174d021e68e4c472f3ea1e9b90668",
-      "summary": "・Googleが「違法な独占」と認定されたにもかかわらず事業分割を再び回避した経緯を報じている\n・メタなど競合各社はデジタル広告市場の取り分拡大のためGoogle解体を望んでいたとされる\n・事業分割が実現しない背景には構造的な問題があり実効性ある是正措置の難しさが指摘される",
-      "score": 6,
-      "reason": "Google独占裁判の結果は広告業界動向として参考",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "なぜアデランス子会社は7年前のステマを認め謝罪したのか ステマ違法化前投稿も閲覧可能なら削除義務あり #エキスパートトピ…どを勧める回答をさせていました。ステマとは広告と明示せずに自社商品を宣伝することで、2023年の景品表示法により違法となりました。違法化するより7年前…高橋暁子IT総合9/8(火) 16:05",
-      "link": "https://news.yahoo.co.jp/expert/articles/e5f0a3d34df56c522580691b51e1ef02949fa9dc",
-      "summary": "・アデランス子会社が7年前に行ったステマ行為を認め公式に謝罪した\n・2023年景表法改正でステマが違法化され、過去の投稿も閲覧可能なら削除義務が発生\n・違法化以前の投稿でも現在閲覧できる状態なら法的責任を問われる可能性がある",
-      "score": 5,
-      "reason": "ステマ規制の実務影響があり法規制知識として有用",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "インスタやフェイスブック、児童性的虐待コンテンツを含む広告をなお掲載 インドでは削除命令後も…的虐待を取り扱った広告のいくつかは、メタのパートナー認定を受けた中国の広告代理店によって掲載されていたことが判明した。 「リセラー（再販業者）」と呼ば…BBC News国際総合9/9(水) 16:54",
-      "link": "https://news.yahoo.co.jp/articles/322c21a6874693722d47c14aa0c0999e0ae1bedc",
-      "summary": "・MetaのInstagramやFacebookで児童性的虐待コンテンツを含む広告がインドで削除命令後も掲載され続けている\n・問題広告の一部はMetaパートナー認定を受けた中国の広告代理店「リセラー」経由で掲載されていたと判明\n・Metaの広告審査体制やパートナー認定制度の管理不備が深刻な児童保護上の課題として浮上している",
-      "score": 5,
-      "reason": "Meta広告の安全性問題で広告主判断に影響しうる",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Google News",
-      "title": "FacebookやInstagramに児童の性的虐待コンテンツを含む広告が大量掲載されていたとの報告、実在の子どもの写真をAI加工した広告も - GIGAZINE",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96a2dna0pKZTJGalltcUV2MFVBSmdRbmdiVUZvS3RJSGREMExrQlhnSEdvR01rbWU5WllEOVFETVhCQWZIWWZjb2pnOXlOV0dMSkhDWVRHcmFIYVpoZ0xlZW5xeGMyT2xfNXdFTHZCeGpnT0lPdTVKem9HVQ?oc=5",
-      "summary": "・FacebookやInstagramに児童の性的虐待コンテンツを含む広告が大量に掲載されていたことが報告された\n・実在の子どもの写真をAI加工して作成した広告も含まれており、深刻な安全性の問題が指摘されている\n・Meta社の広告審査体制の不備が浮き彫りとなり、プラットフォームの児童保護対策に厳しい目が向けられている",
-      "score": 5,
-      "reason": "Meta広告の安全性問題で広告主判断に影響しうる",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Google News",
-      "title": "FinTech、決済、デジタル広告――複雑な業務ドメインにAIを組み込むには デジタルガレージの挑戦 - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83ZDdidDBfckZ6UF9MUldQTUlDb2VfOTVOekVqSnBQVWIwcEFmMkhjT0RuTHR6MVJhYmo2YVQ3b0JZT25DajNVWE5ucm96MzZseDdlZXU2c3E2RlFCb3o5U28tM3FIeXdJUFZWd1dmQzVHQQ?oc=5",
-      "summary": "・デジタルガレージがFinTech・決済・デジタル広告の複雑な業務領域へのAI導入に取り組んでいる\n・複数の専門ドメインにまたがる業務プロセスにAIを組み込む際の課題と実践的な知見を紹介\n・業務特有の複雑性を理解した上でAI活用を進めることが成功の鍵であると提示している",
-      "score": 4,
-      "reason": "AI導入事例だが具体的な広告運用ノウハウは薄い",
-      "date": "2026-09-10"
-    },
-    {
-      "source": "Google News",
-      "title": "【導入1,500社超】企業と求職者の最適な出会いを生む運用型求人広告プラットフォーム「HR Ads Platform」が株式会社インプリの求人アプリ「求人検索 for ハローワーク」と連携開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aaGE1MkFJdFV6ZzYzRTNqMVk4bFRicGctZUJDeXRJSTZ1dC1BU18zYW9UOFVuZVpzZ2dHVHdBMWI2NlNNX3VOMXhuOVdKNFJYNXlVQTVFWkVKMzdqREdnTFU3LWlTLThqVVE?oc=5",
-      "summary": "・導入1,500社超の運用型求人広告「HR Ads Platform」がインプリの求人アプリと新たに連携を開始した\n・連携先はハローワーク求人情報を検索できるアプリ「求人検索 for ハローワーク」である\n・企業と求職者の最適なマッチングを促進し、求人広告の配信面拡大による採用効果向上を狙う",
-      "score": 4,
-      "reason": "求人広告プラットフォームの連携プレスリリース",
-      "date": "2026-09-10"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "検索広告とディスプレイ広告を組み合わせるには？目的に応じた活用方法｜LINEヤフー広告",
@@ -4170,6 +4080,96 @@
       "score": 4,
       "reason": "ビール業界カルテルの広告費影響は間接的",
       "date": "2026-10-10"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "AI検索エンジンのトラフィック推移と動向（2026年8月）",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202608",
+      "summary": "・AI検索エンジン国内シェアでChatGPTが約72.44%を獲得し前月比6.04pt増と大幅に拡大した\n・ChatGPT以外の主要AI検索エンジン3サービスはいずれもシェアを落とす結果となった\n・ChatGPTの一強体制が強まりAI検索市場における競合との差がさらに広がっている",
+      "score": 6,
+      "reason": "AI検索シェア動向は広告戦略の参考になる業界データ",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "【2026年7月～9月】LINEヤフー広告アップデートまとめ",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_updates_202610/?list=23496",
+      "summary": "・2026年7月～9月のLINEヤフー広告における主要アップデートをまとめた総括記事\n・検索広告における新機能や仕様変更など最新のアップデート内容を網羅的に解説\n・ディスプレイ広告の機能追加・変更点も含め四半期の動向を一括で把握できる内容",
+      "score": 9,
+      "reason": "LINEヤフー広告の主要アップデートまとめで実務に直結",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0908-000345",
+      "summary": "・電通デジタルがAIエージェント活用の制作物レビュー支援ソリューション「DeGA」を提供開始した\n・企業のデザインガイドラインやブランドルールに基づきデジタル制作物のレビューを自動化する\n・DeGAは「Design Governance Agent」の略称で、制作現場の品質管理効率化を目指す",
+      "score": 4,
+      "reason": "制作レビュー自動化ツールで広告運用との直接関連は薄い",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta、米国における自社プラットフォームでのTikTok広告を禁止 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdXQwajFocHgzcU5qalVKbnRIb1QxcTl4bENCV0pYV1l1UkRQY2FiWUY2dTI5c2hyZ24yUXFjdkNuaFJPNi1ISkJ5SVFMWV81cGF0X29abWpHUzJvTzRyOHRHcjNjUnIyYkx1OFk2S1Y1Ql92ZVhF?oc=5",
+      "summary": "・MetaがFacebookやInstagramなど自社プラットフォーム上でのTikTok広告掲載を米国で禁止した\n・競合排除の狙いがあるとみられ、TikTokの米国内でのユーザー獲得戦略に影響を及ぼす可能性がある\n・SNS大手間の広告プラットフォーム競争が激化し、今後の業界動向が注目される",
+      "score": 7,
+      "reason": "MetaがTikTok広告禁止は主要媒体の重要動向",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インフルエンサーが勧めても「クルマ」は全然売れない？ 信頼度わずか「17%」という現実！ 最終検討層が頼る「意外な情報源」とは 背景には、ステルスマーケティングに対する消費者の強い警戒がある。2023年10月に景品表示法上のステマ規制が始まって以降、利害関係が見えにくいSNS上のレビューや…Merkmal経済総合10/10(土) 20:51",
+      "link": "https://news.yahoo.co.jp/articles/4351abdcc15fbdd92a070915ec4804c0a28c42a6",
+      "summary": "・自動車購入検討者のインフルエンサーへの信頼度はわずか17%にとどまり、SNS経由の販促効果が極めて低い現状が判明した\n・2023年10月のステマ規制強化以降、利害関係が不透明なSNSレビューへの消費者の警戒感が一層高まっている\n・最終検討層はインフルエンサーよりもディーラー担当者や既存オーナーの口コミなど実体験に基づく情報源を重視する傾向にある",
+      "score": 5,
+      "reason": "インフルエンサー施策の効果に関する知見",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "多様化する“ポイ活”アプリの最新事情 歩くだけでポイント、レシート買取に“おぢさん”育成も…だ。 消費者庁が2021年3月に公表した資料「ポイントサイトの動向整理」を参考にすると、このサービスを支えているのは広告を出稿している広告主。ユーザ…リアルサウンドエンタメ総合10/9(金) 18:00",
+      "link": "https://news.yahoo.co.jp/articles/ddf8031177eae19b1572ae037b2c0503181ce591",
+      "summary": "・歩数計測やレシート買取、育成ゲームなどポイ活アプリのジャンルが多様化し利用者層が拡大している\n・消費者庁の資料によるとポイントサイトの収益構造は広告主の出稿費用によって支えられている\n・日常行動をポイントに変換する手軽さが人気を集め各社が独自性のあるアプリ開発を競っている",
+      "score": 4,
+      "reason": "ポイ活の広告モデル解説だが運用実務と距離あり",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Google News",
+      "title": "アジア太平洋デジタル広告医薬品市場の成長を牽引するものは何か？2026年から2033年に - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QRlRETmRadWhYVXU0cHVCMnQzQ1hBaGJUR2NhMlpoWldwZFZHc1cxSVhJSlFWUVNhOTgwM0llS08zdXdKbUNOMl93?oc=5",
+      "summary": "・アジア太平洋地域の医薬品デジタル広告市場が2026年から2033年にかけて大幅な成長を見込んでいる\n・デジタル化の加速やスマートフォン普及率の向上が市場拡大の主要な牽引要因となっている\n・製薬企業によるオンライン広告投資の増加と規制環境の変化が成長を後押しする見通しである",
+      "score": 3,
+      "reason": "医薬品市場レポートで実務への直接的影響薄い",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Google News",
+      "title": "【名城大学】兵庫の悪ガキ、広告業界の頂点に立つ 愛知から世界におもろいを発信する - アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SDdjcnZ4ek84YWRLd2pRSG1IMHZjSXVaNm1ub25iQW1qcGljdVdWNTVxM3o2TGt2SnNKQlhoLXVOMVhydFAxTjlSOFBEZlk?oc=5",
+      "summary": "・名城大学関係者で兵庫県出身の人物が広告業界のトップに上り詰めた経歴が紹介されている\n・愛知県を拠点に世界へ向けて「おもろい」広告クリエイティブを発信し続けている\n・地方発でも独自の感性と実力で広告業界の頂点に立てることを体現した事例として注目される",
+      "score": 2,
+      "reason": "大学プレスリリースで運用実務と無関係",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "武井壮、亡き母の再婚相手との2ショット披露「幸せな時間でした」ネット感動の声相次ぐ「素敵なご報告」「こちらまで心が温かくなります」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 7:20",
+      "link": "https://news.yahoo.co.jp/articles/67d2722c8a6bd362fc0a578d70dbe49669a0f612",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急増しメディア接触の構造変化が加速している\n・生活者のデジタルシフトに伴いデジタル広告市場が急拡大し広告費配分の見直しが進む",
+      "score": 1,
+      "reason": "芸能ニュースで広告運用と無関係",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中川翔子 手作りケーキで双子1歳誕生日を祝福！「イケメン双子」「ずっと見ていきたい幸せ家族」の声…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/9(金) 13:10",
+      "link": "https://news.yahoo.co.jp/articles/efb302846c98070f721b6e487d1a7434994f0a29",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り、10年間で大幅に増加した\n・メディア接触の主軸がテレビからデジタルへ移行し、デジタル広告市場が急速に拡大している\n・広告主はネット利用時間の増加に合わせデジタル広告への予算配分見直しが求められている",
+      "score": 1,
+      "reason": "芸能ニュースで広告運用と無関係",
+      "date": "2026-10-11"
     }
   ]
 }
