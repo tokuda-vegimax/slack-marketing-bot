@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.lycbiz.com/jp/column/ly-ads/technique/search-display-combination/?list=23496": "2026-09-11",
-    "https://dentsudigital.co.jp/news/release/services/2026-0910-000346": "2026-09-11",
-    "https://www.lycbiz.com/jp/column/line-mini-app/service-information/customer-growth-consortium/": "2026-09-11",
-    "https://blog.google/products-and-platforms/products/search/running-race-training-tips/": "2026-09-11",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE52M0tSVkEzc1ROdUEzWkhSR3RwaU80ZVZHeUJBOGN0ZlZwbllJdTlvRENkczF0T0pkNzJJSWFwWmN1WVpvMU01SFJ5WjFLSk5OVVdWU1N2UVpQTk5MWUhTd01USk9WUWlaNVE?oc=5": "2026-09-11",
-    "https://news.yahoo.co.jp/articles/2ceba67217eff4d58c23f4c1d4078d7884688fa9": "2026-09-11",
-    "https://news.yahoo.co.jp/articles/30c0f95693f0143adcaac86de746bd481348643b": "2026-09-11",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sZmxEekVXUnROa1BuRlQ1bGN4T2xhOEVRejNOSjNHMk5GVXVMZ0pld1B2dFBaTEZHM1RWZVpBLS1fdw?oc=5": "2026-09-11",
-    "https://news.yahoo.co.jp/articles/c1499940114c865bef2915ffcdca575869f0575c": "2026-09-11",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OTy00OEQ3NC04cl9oRW5oZjZpVHhYX21OZXduYmRkWk40c21VcEZFczd6cVh0T0dfT3hnSlc0eWltWjdYSF85cUNqektYQTNuRWJ3cXpFZmlkeDZoTG90aENZZzNGdkxR?oc=5": "2026-09-11",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUHpBN0hwbm9iY0tobUpEMENtdFVnZjVOOE9Zd3lRazRMMXd6M2tQMFFwSGpsUTA4ZXg2NFQtWTlGVnc1bXAxZDJHSGZ0ZE9HUEZUelNKM0podHJvOGF4YUdYSXJ3elpncERIanA1alpGZ2pWSkk0M21yTk1sYTQ?oc=5": "2026-09-12",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnpQMFNibFRVdk5Ha2htaTNmMi1UNGRuNU5RbGFvOEhxNjRrd3g2X3Zvb3pNU3ZIMFhWX2NReHNISHpIX1hkd0FrNnFtckRtX1YwYWw1YkZ3NkwxaE9kZXhucWFUcXdra2dCbGdHRnliRFpVR19KS2dmOE9KV0lwMzN2d1oxUzg?oc=5": "2026-09-12",
     "https://news.yahoo.co.jp/articles/74298b8bacb2834f87d22f480b2e072134e1af1a": "2026-09-12",
@@ -292,49 +282,19 @@
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QRlRETmRadWhYVXU0cHVCMnQzQ1hBaGJUR2NhMlpoWldwZFZHc1cxSVhJSlFWUVNhOTgwM0llS08zdXdKbUNOMl93?oc=5": "2026-10-11",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SDdjcnZ4ek84YWRLd2pRSG1IMHZjSXVaNm1ub25iQW1qcGljdVdWNTVxM3o2TGt2SnNKQlhoLXVOMVhydFAxTjlSOFBEZlk?oc=5": "2026-10-11",
     "https://news.yahoo.co.jp/articles/67d2722c8a6bd362fc0a578d70dbe49669a0f612": "2026-10-11",
-    "https://news.yahoo.co.jp/articles/efb302846c98070f721b6e487d1a7434994f0a29": "2026-10-11"
+    "https://news.yahoo.co.jp/articles/efb302846c98070f721b6e487d1a7434994f0a29": "2026-10-11",
+    "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-guidelines-rejection-reasons/?list=23496": "2026-10-12",
+    "https://www.lycbiz.com/jp/column/ly-ads/technique/silverweek_ad_strategy/?list=23496": "2026-10-12",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-0909-000347": "2026-10-12",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yQUVseF9DMlo0SlZrWUJvYVJBcmRaSWNZalpZRUtZM0tQVGVtRGRHbFR3eHEyaVpVSWF6UFVtM3VGUnFya3pEZTF3ei1Sd2c?oc=5": "2026-10-12",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlk3MTMyb1R3ZkJtSlZhNktaemh2TnB3czFzMXlLS01LNHRUdkdBU2ZGZ210SnJBejh5X3ZXaXhlNElydW5UbjlyWDVBdGtPcmNzRkxRdUVhMmltQlBaRmVZclU3VXZqTk9CQmRvUWZXY01GalZBUEE1UWhQV041dkRFankteTZITDhIb1pIZl9XaW5LbE1xNXAxV1NoYlJETGF1ZnRLM2FVX1lu?oc=5": "2026-10-12",
+    "https://news.yahoo.co.jp/articles/d185df24fd1dca6d58c197cb4c4422cb9697398a": "2026-10-12",
+    "https://news.yahoo.co.jp/articles/b7b4c2ed7ec516dc69b02489a362b79731e84ad3": "2026-10-12",
+    "https://news.yahoo.co.jp/articles/130230710d45c450b50d48dc35086b2e9f97b7f0": "2026-10-12",
+    "https://news.yahoo.co.jp/articles/7299c6246c620e78372bf98ada3625b547983568": "2026-10-12",
+    "https://news.yahoo.co.jp/articles/2f10e671ac1227d3bc503e8e46e3c6cfbd1b0f7c": "2026-10-12"
   },
   "titles": [
-    {
-      "title": "検索広告とディスプレイ広告を組み合わせるには？目的に応じた活用方法｜LINEヤフー広告",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "国内電通グループ、AI時代の新購買行動モデル「AIJES」を提唱",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "中小企業のDXをパートナーと支援「カスタマーグロースコンソーシアム」とは",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "3 ways to prep for your next big race with Search",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "【デジタル広告運用の内製化】約8割が生成AIを「必要」と回答するも、活用できているのはわずか2割。成功のカギはツールではなく「専門家の伴走支援」？ - PR TIMES",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "5:15巧妙なうたい文句やデザインで消費者をだます「ダークパターン」国が規制強化へ スマホ時代で反射的にボタンを押す習性が…契約前に声に出して…のぼる可能性があるとされています。 消費者庁は先月、法改正も視野に規制を強化すると明らかにしました。 ●広告戦略やＳＮＳに詳しい満留隆一さん 「ダ…KKB鹿児島放送鹿児島9/10(木) 19:34",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "「ダークパターン」で意見公募 消費者庁、中間報告公表 消費者庁は10日、インターネット上で消費者を巧みに誘導し、事業者に望ましい行動を選ばせる「ダークパターン」の規制強化策に関する中間報告を公表した。共同通信社会9/10(木) 16:40",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "消費者庁検討会、EC規制見直し案 - Hoitto! ヘルスケアビジネス",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "アデランス子会社、ステマを謝罪 不適切認め「再発防止努める」…いる。 宣伝であることが消費者に明確に伝わらないような広告表示は、23年10月から景品表示法で規制された。消費者庁によると、規制前の投稿でも現在も閲…共同通信社会9/8(火) 9:48",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "見る角度を変えると「KEYWORD」が現れる。キーワードマーケティングがコーポレートサイトを全面リニューアル - ニコニコニュース",
-      "date": "2026-09-11"
-    },
     {
       "title": "【倒産】WEBデザインやグラフィックデザインを手掛ける広告代理店 女性ならではの視点を強みに事業展開するも、競合激化で売上減少、資金繰り限界に…破産手続開始決定 負債総額約4000万円（BSS山陰放送） - Yahoo!ニュース",
       "date": "2026-09-12"
@@ -1486,99 +1446,49 @@
     {
       "title": "中川翔子 手作りケーキで双子1歳誕生日を祝福！「イケメン双子」「ずっと見ていきたい幸せ家族」の声…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/9(金) 13:10",
       "date": "2026-10-11"
+    },
+    {
+      "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "シルバーウィーク前に確認したい 広告運用の3つのポイント",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Salesforceのパートナープログラム「FDE Partner Network」のパートナーに認定",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "No.1表示を含む事案、5社に計2億1,745万円の課徴金納付命令。帝国ナンバーワンリサーチ組合が2026年版実務レポートを公開。 - Newscast.jp",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Meta、TikTok関連広告を7カ国で禁止 - 디지털투데이",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "柳葉敏郎、“青島”織田裕二との“2ショット”に「室井さんと青島」「最高すぎます」歓喜の声相次ぐ…リーです。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/12(月) 8:05",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "山口もえ、板東英二さんのお別れ会に参加「とても温かく笑顔溢れる会」ネットも追悼の声「どうぞ天国で安らかに」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 16:40",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "B’z稲葉浩志、地元・岡山での誕生日祝福ショットに反響 松本孝弘からの花に「大きな愛を感じます」ファン感動…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 11:40",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "「しまったー!!」を防ぐ!! 中古車購入前に見逃してはいけない「異変」9選…追金でメンテナンスパックを付けないと販売できません」などと言う販売店は景品表示法違反。よってこんな店からは即退散！ 試乗前と試乗時にチェックしたいポイ…ベストカーWeb経済総合10/6(火) 6:00",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "櫻井翔＆阿部亮平＆川島如恵留の「“なんにもしない”をする」＜プーさんタイム＞の楽しみ方とは？【インタビュー】…対するラベリングがすごく上手で好きなんです。 阿部：キャッチーだよね。広告代理店にいったらすごく役立ちそう（笑）僕が聞きたいことは「赤いTシャツ何枚を持ってるの？」。オリコンエンタメ総合10/11(日) 7:00",
+      "date": "2026-10-12"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "検索広告とディスプレイ広告を組み合わせるには？目的に応じた活用方法｜LINEヤフー広告",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/technique/search-display-combination/?list=23496",
-      "summary": "・検索広告とディスプレイ広告の組み合わせによる効果的な活用方法をLINEヤフーが解説\n・広告の目的やフェーズに応じて両広告を使い分ける戦略的アプローチを紹介している\n・LINEヤフー広告の法人向け最新ノウハウとして具体的な運用手法を提供している",
-      "score": 7,
-      "reason": "検索×ディスプレイの実践的な組み合わせ運用ノウハウ",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "国内電通グループ、AI時代の新購買行動モデル「AIJES」を提唱",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0910-000346",
-      "summary": "・国内電通グループ4社がAI時代に対応した新たな購買行動モデル「AIJES」を発表した\n・AIの普及により変化する消費者の意思決定プロセスを体系的に整理したフレームワークである\n・従来のAIDMAやAISAS等に代わりAI活用時代のマーケティング戦略指針となる",
-      "score": 5,
-      "reason": "AI時代の購買行動モデル提唱、マーケ戦略立案の参考になる",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "LINE for Business (LYCBiz)",
-      "title": "中小企業のDXをパートナーと支援「カスタマーグロースコンソーシアム」とは",
-      "link": "https://www.lycbiz.com/jp/column/line-mini-app/service-information/customer-growth-consortium/",
-      "summary": "・LINEヤフーが中小企業のDX支援を目的に「カスタマーグロースコンソーシアム」を発足した\n・パートナー企業や地域ネットワークと連携しLINEミニアプリを活用した支援を提供する\n・中小企業が抱えるDX推進の課題を多様な参画企業の知見で包括的に解決する仕組みである",
-      "score": 3,
-      "reason": "中小企業DX支援の取り組み紹介で広告運用との直接関連薄い",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Google広告",
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "・Google検索がランナー向けにレース登録アラートや個別トレーニング計画などの新機能を提供開始\n・レース当日に向けた準備を検索機能で効率化し、登録受付の通知を逃さず受け取れる仕組みを導入\n・ランナーのレベルや目標に合わせたトレーニングプラン提案など3つの活用法を紹介している",
-      "score": 1,
-      "reason": "Google検索の一般ユーザー向け機能紹介で広告運用と無関係",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Google News",
-      "title": "【デジタル広告運用の内製化】約8割が生成AIを「必要」と回答するも、活用できているのはわずか2割。成功のカギはツールではなく「専門家の伴走支援」？ - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52M0tSVkEzc1ROdUEzWkhSR3RwaU80ZVZHeUJBOGN0ZlZwbllJdTlvRENkczF0T0pkNzJJSWFwWmN1WVpvMU01SFJ5WjFLSk5OVVdWU1N2UVpQTk5MWUhTd01USk9WUWlaNVE?oc=5",
-      "summary": "・デジタル広告運用の内製化において約8割が生成AIを必要と認識しているが実際の活用率はわずか2割にとどまる\n・ツール導入だけでは内製化は成功せず、専門家による伴走支援が成果を出すカギであることが調査で判明\n・生成AIの活用ギャップを埋めるには知識・ノウハウの不足解消と実践的な運用サポート体制の構築が不可欠",
-      "score": 6,
-      "reason": "広告内製化と生成AI活用の実態調査、業界動向として参考",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "5:15巧妙なうたい文句やデザインで消費者をだます「ダークパターン」国が規制強化へ スマホ時代で反射的にボタンを押す習性が…契約前に声に出して…のぼる可能性があるとされています。 消費者庁は先月、法改正も視野に規制を強化すると明らかにしました。 ●広告戦略やＳＮＳに詳しい満留隆一さん 「ダ…KKB鹿児島放送鹿児島9/10(木) 19:34",
-      "link": "https://news.yahoo.co.jp/articles/2ceba67217eff4d58c23f4c1d4078d7884688fa9",
-      "summary": "・消費者を誤誘導する「ダークパターン」に対し消費者庁が法改正も視野に規制強化を表明した\n・スマホ時代に反射的にボタンを押す習性を悪用した巧妙なうたい文句やデザインが問題視されている\n・広告専門家も警鐘を鳴らし、契約前に内容を声に出して確認するなどの対策が呼びかけられている",
-      "score": 6,
-      "reason": "ダークパターン規制強化はLP・広告設計に実務影響あり",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「ダークパターン」で意見公募 消費者庁、中間報告公表 消費者庁は10日、インターネット上で消費者を巧みに誘導し、事業者に望ましい行動を選ばせる「ダークパターン」の規制強化策に関する中間報告を公表した。共同通信社会9/10(木) 16:40",
-      "link": "https://news.yahoo.co.jp/articles/30c0f95693f0143adcaac86de746bd481348643b",
-      "summary": "・消費者庁がネット上の「ダークパターン」規制強化策の中間報告を10日に公表した\n・ダークパターンは消費者を巧みに誘導し事業者に有利な行動を取らせるUI手法を指す\n・中間報告の内容をもとに規制強化の方向性について広く意見公募を実施する方針",
-      "score": 6,
-      "reason": "ダークパターン規制の中間報告、広告運用の表現規制に関連",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Google News",
-      "title": "消費者庁検討会、EC規制見直し案 - Hoitto! ヘルスケアビジネス",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sZmxEekVXUnROa1BuRlQ1bGN4T2xhOEVRejNOSjNHMk5GVXVMZ0pld1B2dFBaTEZHM1RWZVpBLS1fdw?oc=5",
-      "summary": "・消費者庁の検討会がEC（電子商取引）に関する規制の見直し案を提示した\n・ヘルスケア分野を含む通信販売の消費者保護強化が議論の焦点となっている\n・定期購入トラブルや誇大広告など業界課題への対応策が検討されている模様",
-      "score": 5,
-      "reason": "EC規制見直しは広告表現や出稿に間接的に影響",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "アデランス子会社、ステマを謝罪 不適切認め「再発防止努める」…いる。 宣伝であることが消費者に明確に伝わらないような広告表示は、23年10月から景品表示法で規制された。消費者庁によると、規制前の投稿でも現在も閲…共同通信社会9/8(火) 9:48",
-      "link": "https://news.yahoo.co.jp/articles/c1499940114c865bef2915ffcdca575869f0575c",
-      "summary": "・アデランス子会社がステルスマーケティング行為を認め公式に謝罪した\n・2023年10月施行の景表法改正でステマ広告が明確に規制対象となった\n・規制前の投稿でも現在閲覧可能なら違反対象となり再発防止を表明した",
-      "score": 5,
-      "reason": "ステマ規制の実例で広告表示ルールの注意喚起になる",
-      "date": "2026-09-11"
-    },
-    {
-      "source": "Google News",
-      "title": "見る角度を変えると「KEYWORD」が現れる。キーワードマーケティングがコーポレートサイトを全面リニューアル - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OTy00OEQ3NC04cl9oRW5oZjZpVHhYX21OZXduYmRkWk40c21VcEZFczd6cVh0T0dfT3hnSlc0eWltWjdYSF85cUNqektYQTNuRWJ3cXpFZmlkeDZoTG90aENZZzNGdkxR?oc=5",
-      "summary": "・キーワードマーケティングがコーポレートサイトの全面リニューアルを実施したと発表\n・新サイトは見る角度を変えると「KEYWORD」の文字が浮かび上がる演出を採用\n・視覚的なブランド表現を強化し企業イメージの刷新を図る狙いがあるとみられる",
-      "score": 3,
-      "reason": "広告代理店のサイトリニューアルで企業プレスリリース",
-      "date": "2026-09-11"
-    },
     {
       "source": "Google News",
       "title": "【倒産】WEBデザインやグラフィックデザインを手掛ける広告代理店 女性ならではの視点を強みに事業展開するも、競合激化で売上減少、資金繰り限界に…破産手続開始決定 負債総額約4000万円（BSS山陰放送） - Yahoo!ニュース",
@@ -4170,6 +4080,96 @@
       "score": 1,
       "reason": "芸能ニュースで広告運用と無関係",
       "date": "2026-10-11"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-guidelines-rejection-reasons/?list=23496",
+      "summary": "・LINEヤフー広告の審査で否認が多い表現パターンを問い合わせデータから分析し解説している\n・医療広告における誇大表現や費用の過度な強調が審査否認の主要な原因として挙げられている\n・No.1表示など最上級表現の使用ルールや広告作成時の具体的な注意点を事例付きで紹介している",
+      "score": 8,
+      "reason": "審査否認理由の具体例は入稿実務に直結",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "シルバーウィーク前に確認したい 広告運用の3つのポイント",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/technique/silverweek_ad_strategy/?list=23496",
+      "summary": "・シルバーウィーク前に広告運用で押さえるべき3つのポイントを解説する記事\n・LINEヤフーの法人向けサービスの最新情報や活用ノウハウを紹介している\n・大型連休前の広告パフォーマンス最適化に向けた事前準備の重要性を訴求",
+      "score": 7,
+      "reason": "広告運用の実務チェックリストで即活用可能",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "Salesforceのパートナープログラム「FDE Partner Network」のパートナーに認定",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-0909-000347",
+      "summary": "・電通デジタルがSalesforceのパートナープログラムに認定されたことを発表した\n・認定されたのは「Forward Deployed Engineering Partner Network」である\n・Salesforceとの連携強化により顧客向けの技術支援体制の拡充が期待される",
+      "score": 3,
+      "reason": "パートナー認定の企業プレスリリース",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Google News",
+      "title": "No.1表示を含む事案、5社に計2億1,745万円の課徴金納付命令。帝国ナンバーワンリサーチ組合が2026年版実務レポートを公開。 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yQUVseF9DMlo0SlZrWUJvYVJBcmRaSWNZalpZRUtZM0tQVGVtRGRHbFR3eHEyaVpVSWF6UFVtM3VGUnFya3pEZTF3ei1Sd2c?oc=5",
+      "summary": "・No.1表示を含む広告表示で5社に対し計2億1,745万円の課徴金納付命令が出された\n・帝国ナンバーワンリサーチ組合が2026年版の実務レポートを公開し最新動向を整理\n・不当なNo.1表記への規制強化が進み広告主に適正表示の徹底が求められている",
+      "score": 6,
+      "reason": "No.1表示の課徴金事案は広告表現の法規制として実務参考",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta、TikTok関連広告を7カ国で禁止 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlk3MTMyb1R3ZkJtSlZhNktaemh2TnB3czFzMXlLS01LNHRUdkdBU2ZGZ210SnJBejh5X3ZXaXhlNElydW5UbjlyWDVBdGtPcmNzRkxRdUVhMmltQlBaRmVZclU3VXZqTk9CQmRvUWZXY01GalZBUEE1UWhQV041dkRFankteTZITDhIb1pIZl9XaW5LbE1xNXAxV1NoYlJETGF1ZnRLM2FVX1lu?oc=5",
+      "summary": "・MetaがTikTokに関連する広告の掲載を7カ国で禁止する措置を発表した\n・競合プラットフォームであるTikTokの広告排除により競争環境に大きな影響の可能性\n・Meta自社プラットフォームの優位性確保を狙った戦略的判断とみられている",
+      "score": 6,
+      "reason": "MetaのTikTok関連広告禁止は主要媒体の動向として参考",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "柳葉敏郎、“青島”織田裕二との“2ショット”に「室井さんと青島」「最高すぎます」歓喜の声相次ぐ…リーです。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/12(月) 8:05",
+      "link": "https://news.yahoo.co.jp/articles/d185df24fd1dca6d58c197cb4c4422cb9697398a",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・インターネット利用時間はこの10年間で大幅に増加しメディア接触構造が変化している\n・メディア消費のデジタルシフトに伴いデジタル広告市場が急拡大を続けている状況である",
+      "score": 2,
+      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山口もえ、板東英二さんのお別れ会に参加「とても温かく笑顔溢れる会」ネットも追悼の声「どうぞ天国で安らかに」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 16:40",
+      "link": "https://news.yahoo.co.jp/articles/b7b4c2ed7ec516dc69b02489a362b79731e84ad3",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回ったことが判明した\n・インターネット利用時間は過去10年間で大幅に増加しメディア接触の構造が変化している\n・メディア消費のデジタルシフトに伴いデジタル広告市場が急速に拡大している",
+      "score": 2,
+      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "B’z稲葉浩志、地元・岡山での誕生日祝福ショットに反響 松本孝弘からの花に「大きな愛を感じます」ファン感動…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 11:40",
+      "link": "https://news.yahoo.co.jp/articles/130230710d45c450b50d48dc35086b2e9f97b7f0",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急速に拡大しメディア接触構造が大きく変化した\n・デジタル広告市場はネット利用時間の増加に伴い急拡大し広告費の主戦場が移行している",
+      "score": 2,
+      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「しまったー!!」を防ぐ!! 中古車購入前に見逃してはいけない「異変」9選…追金でメンテナンスパックを付けないと販売できません」などと言う販売店は景品表示法違反。よってこんな店からは即退散！ 試乗前と試乗時にチェックしたいポイ…ベストカーWeb経済総合10/6(火) 6:00",
+      "link": "https://news.yahoo.co.jp/articles/7299c6246c620e78372bf98ada3625b547983568",
+      "summary": "・中古車購入時に見逃しやすい9つの異変ポイントを試乗前後で確認すべきと解説\n・追加料金でメンテナンスパック強制販売する店は景品表示法違反の可能性があり要注意\n・悪質な販売店を見抜くため試乗前の外観確認と試乗時の挙動チェックが重要と提言",
+      "score": 1,
+      "reason": "中古車購入ノウハウで広告運用と無関係",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "櫻井翔＆阿部亮平＆川島如恵留の「“なんにもしない”をする」＜プーさんタイム＞の楽しみ方とは？【インタビュー】…対するラベリングがすごく上手で好きなんです。 阿部：キャッチーだよね。広告代理店にいったらすごく役立ちそう（笑）僕が聞きたいことは「赤いTシャツ何枚を持ってるの？」。オリコンエンタメ総合10/11(日) 7:00",
+      "link": "https://news.yahoo.co.jp/articles/2f10e671ac1227d3bc503e8e46e3c6cfbd1b0f7c",
+      "summary": "・櫻井翔・阿部亮平・川島如恵留がプーさんの「なんにもしない時間」についてインタビューで語った\n・阿部は川島のラベリング力を称賛し「広告代理店で活躍できそう」とユーモア交じりに評価した\n・3人がディズニー・プーさんの世界観を通じリラックスや日常の楽しみ方について対談した",
+      "score": 1,
+      "reason": "芸能インタビューで広告運用と無関係",
+      "date": "2026-10-12"
     }
   ]
 }
