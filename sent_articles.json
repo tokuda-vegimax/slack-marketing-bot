@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUHpBN0hwbm9iY0tobUpEMENtdFVnZjVOOE9Zd3lRazRMMXd6M2tQMFFwSGpsUTA4ZXg2NFQtWTlGVnc1bXAxZDJHSGZ0ZE9HUEZUelNKM0podHJvOGF4YUdYSXJ3elpncERIanA1alpGZ2pWSkk0M21yTk1sYTQ?oc=5": "2026-09-12",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnpQMFNibFRVdk5Ha2htaTNmMi1UNGRuNU5RbGFvOEhxNjRrd3g2X3Zvb3pNU3ZIMFhWX2NReHNISHpIX1hkd0FrNnFtckRtX1YwYWw1YkZ3NkwxaE9kZXhucWFUcXdra2dCbGdHRnliRFpVR19KS2dmOE9KV0lwMzN2d1oxUzg?oc=5": "2026-09-12",
-    "https://news.yahoo.co.jp/articles/74298b8bacb2834f87d22f480b2e072134e1af1a": "2026-09-12",
-    "https://news.yahoo.co.jp/articles/09055055006c0dc29dfea1f84c6a8fb121d556bd": "2026-09-12",
-    "https://news.yahoo.co.jp/articles/1f8cb4252a55da6530682438d298de2e0f3c15c0": "2026-09-12",
-    "https://news.yahoo.co.jp/articles/cf6170eb04651c3a761ad27b61aa51beb7ccd394": "2026-09-12",
-    "https://news.yahoo.co.jp/articles/c97feb6ea7403ad0f1de1be32b1205ce0007c1a3": "2026-09-12",
-    "https://news.yahoo.co.jp/articles/c9b19488b485a4ee005da0f4c9608c4a3c65780d": "2026-09-12",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE83YzE4T3hlTXdDeG9leUtMSnBTV2gwU3BuTWxGZjJKdTdkcHk5N1o4UTdiRGtvYWlXUUxmTzM1aVZCUWlVUW45dlJWRFlYSmQtc1dDaDBTVkxSTkxlbjYtTkl1OFVnbGhYOEpLOQ?oc=5": "2026-09-13",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GaHVBc1BkSnNidkhYQ0FHaEN5NVZKY3VyR2thRXVWWXhtR0gxSWhPQ2w3ZnRYaEJhS1hjTVZ4RndUMVB6LWN1RDZybU9YekUya0tXWGtudw?oc=5": "2026-09-13",
     "https://news.yahoo.co.jp/articles/1a44fbe42d2179b1a9f0200acf50a528d99425d8": "2026-09-13",
@@ -292,41 +284,19 @@
     "https://news.yahoo.co.jp/articles/b7b4c2ed7ec516dc69b02489a362b79731e84ad3": "2026-10-12",
     "https://news.yahoo.co.jp/articles/130230710d45c450b50d48dc35086b2e9f97b7f0": "2026-10-12",
     "https://news.yahoo.co.jp/articles/7299c6246c620e78372bf98ada3625b547983568": "2026-10-12",
-    "https://news.yahoo.co.jp/articles/2f10e671ac1227d3bc503e8e46e3c6cfbd1b0f7c": "2026-10-12"
+    "https://news.yahoo.co.jp/articles/2f10e671ac1227d3bc503e8e46e3c6cfbd1b0f7c": "2026-10-12",
+    "https://oneder.hakuhodody-one.co.jp/blog/cr-legal-keihyoho-kaisei": "2026-10-13",
+    "https://oneder.hakuhodody-one.co.jp/blog/line-official-account-initial-settingpoint": "2026-10-13",
+    "https://www.lycbiz.com/jp/column/ly-ads/technique/search-display-combination/?list=23496": "2026-10-13",
+    "https://dentsudigital.co.jp/news/release/services/2026-0910-000346": "2026-10-13",
+    "https://blog.google/products-and-platforms/products/search/running-race-training-tips/": "2026-10-13",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ON3VZQ3NDU05RY0J1Q244TnZwRzhDQUVmamVCQk1ONFJKR3o5TzBLbmFoS0V6Tms0RzlYSnlUdFhSb2x2NzExVVlaV0loRFlldTg0?oc=5": "2026-10-13",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQUh2OHBGR0FkdGVjVWswMl9aeS1jeDFVWkdNQnU4TENCVkk3eldtNGQ4TUJ3QkpiZFJ5ZHlOdWRVdWpsanVyTTVMOVJXMm10NzdndUtzaGQ0alBJbTlob3QtN3dFNmI2eWNpb002S2J4NHM?oc=5": "2026-10-13",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzdNVFFwNGJEY2pseVZSVXlQQVZpNDBzWHBmS0RITGxrbGV0elROZkp3Uk9SMmVSNXFab2Y3ZFE3bE53MXd4YUFxazdNYlVrUVdpVi1FaGtIVngtd3ItcEhIaExuT3JnVW5DU25Fakh4a2FvazJqMVVEamZucHU2NU5kaWhLWTJ3d0t4cWRn?oc=5": "2026-10-13",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXJfcHVIN0NuUkhLcWlqS3BLVDNkMDh2ZjhGOHBfbWF5dURhSVVZOUdWZVFBY1BoVEM0MFlULUxSWWZidkI1aWlweUdqazNyeHZ3NWRuWEVtMmppM2FNYlhnaEU4VkZPUm5SalZyUUtmM040UWZvY29mWG9BZ2prMHI2UFhBaG9oWGJ6Z2xOM2I4dUt4M1d4X2hBVW5CYkJ6cHc?oc=5": "2026-10-13",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZnkwWjhGckwweUxvVjRUTkFVaGZHUmEzS0xmUzFfRWtBN0pzS3lPR0x3Q0lQa2VWZy1OQ24wMTBMZ19SVEZ6VFFYa1NaWXN3MTJvYXBiY0hJNWFtVUYzRlhhMkpUZGZNTHc?oc=5": "2026-10-13"
   },
   "titles": [
-    {
-      "title": "【倒産】WEBデザインやグラフィックデザインを手掛ける広告代理店 女性ならではの視点を強みに事業展開するも、競合激化で売上減少、資金繰り限界に…破産手続開始決定 負債総額約4000万円（BSS山陰放送） - Yahoo!ニュース",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "出雲市の広告代理店「ブリッジプラス」破産手続開始決定 負債総額は約4000万円 - 日テレNEWS NNN",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "こどもたちがソーシャルメディアを安全に使いこなすために〜青少年の健全育成とソーシャルメディア規制〜【調査情報デジタル】…デジタルメディア時代における表現の自由及び報道の自由に関する論稿多数。総務省・デジタル広告ワーキンググループ、同・青少年保護ワーキンググループ構成員、日本ファク…TBS NEWS DIG Powered by JNN社会9/12(土) 9:00",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "平愛梨が夫・長友佑都への応援横断幕に想いを吐露！温かい家族の姿にSNSで反響…」と喜びました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/10(木) 21:41",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "不用品回収を『定額』の広告で頼んだのに、積み込み後に追加料金を請求されました。荷物を回収済みでも支払いを断れますか？…があります。 また、消費者庁では、「追加費用一切なし」「定額パック料金にすべて含まれる」と表示していたにもかかわらず、実際には広告になかった処分費など…ファイナンシャルフィールド経済総合9/10(木) 9:40",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "｢働かざる者食うべからず｣のリフレインが止まらない…生活保護13万円受給の30代女性の霊安室の記憶…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合9/12(土) 10:15",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "小泉今日子の顔のシワが露わに…『団地のふたり』で魅せた等身大の50代のリアルとは？ “老いを隠さない姿”が胸を打つワケ…静かに信じさせてくれる。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合9/12(土) 8:30",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "【全文公開】スーツ姿で銀座に登場…永野芽郁が自ら選んだ「キャバ嬢役で復帰」ロケ現場をキャッチ…おり、永野本人も会見を開くなど、説明の場を設けることはなかった。怖くて広告代理店は広告主に提案できないし、起用に難色を示す企業は少なくない。当面は配信…FRIDAYエンタメ総合9/12(土) 8:00",
-      "date": "2026-09-12"
-    },
     {
       "title": "「TikTok」動画広告制作で売上高100億円へ 新興企業Yaahaが台頭 - 日本経済新聞",
       "date": "2026-09-13"
@@ -1486,81 +1456,49 @@
     {
       "title": "櫻井翔＆阿部亮平＆川島如恵留の「“なんにもしない”をする」＜プーさんタイム＞の楽しみ方とは？【インタビュー】…対するラベリングがすごく上手で好きなんです。 阿部：キャッチーだよね。広告代理店にいったらすごく役立ちそう（笑）僕が聞きたいことは「赤いTシャツ何枚を持ってるの？」。オリコンエンタメ総合10/11(日) 7:00",
       "date": "2026-10-12"
+    },
+    {
+      "title": "2024年改正景品表示法の全体像と実務対応〜何が変わり、何を求められるのか〜",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "LINE公式アカウントの初期設定　開設後にやるべき設定と運用ポイント",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "検索広告とディスプレイ広告を組み合わせるには？目的に応じた活用方法｜LINEヤフー広告",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "国内電通グループ、AI時代の新購買行動モデル「AIJES」を提唱",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "予約型×運用型で購入数は4.4倍に！新規層も開拓したロート製薬のSmartNews Ads事例 (1/3) - MarkeZine（マーケジン）",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "【無料オンラインセミナー】 Meta 広告の成果頭打ちをゼロから打開！最新 AI 配信時代の「クリエイティブ戦略」×「タレント活用」 - ニコニコニュース",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "SSPの役割は「実行」から「意思決定」へーIndex Exchangeが語る「セルサイドデシジョン」とは[インタビュー] - Exchangewire Japan",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Google広告からBingの正規URLを経由し偽Claudeサイトへ誘導―「Adception」攻撃でClickFixを実行させる手口 - 合同会社ロケットボーイズ",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "ダイヤモンド・オンライン、JICDAQ認証を取得 読者調査とAI時代対応の新広告メニューも公開 - Media Innovation",
+      "date": "2026-10-13"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "【倒産】WEBデザインやグラフィックデザインを手掛ける広告代理店 女性ならではの視点を強みに事業展開するも、競合激化で売上減少、資金繰り限界に…破産手続開始決定 負債総額約4000万円（BSS山陰放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUHpBN0hwbm9iY0tobUpEMENtdFVnZjVOOE9Zd3lRazRMMXd6M2tQMFFwSGpsUTA4ZXg2NFQtWTlGVnc1bXAxZDJHSGZ0ZE9HUEZUelNKM0podHJvOGF4YUdYSXJ3elpncERIanA1alpGZ2pWSkk0M21yTk1sYTQ?oc=5",
-      "summary": "・WEB・グラフィックデザインを手掛ける山陰地方の広告代理店が破産手続開始決定を受けた\n・女性視点を強みに事業展開していたが、業界の競合激化により売上が減少し続けた\n・資金繰りが限界に達し経営継続が困難となり、負債総額は約4000万円に上る",
-      "score": 3,
-      "reason": "広告代理店の倒産報道で業界動向としてわずかに参考",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Google News",
-      "title": "出雲市の広告代理店「ブリッジプラス」破産手続開始決定 負債総額は約4000万円 - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnpQMFNibFRVdk5Ha2htaTNmMi1UNGRuNU5RbGFvOEhxNjRrd3g2X3Zvb3pNU3ZIMFhWX2NReHNISHpIX1hkd0FrNnFtckRtX1YwYWw1YkZ3NkwxaE9kZXhucWFUcXdra2dCbGdHRnliRFpVR19KS2dmOE9KV0lwMzN2d1oxUzg?oc=5",
-      "summary": "・島根県出雲市の広告代理店「ブリッジプラス」が破産手続開始決定を受けた\n・負債総額は約4000万円と報じられており、事業継続が困難となった模様\n・地方広告代理店の経営環境の厳しさを示す事例として注目される",
-      "score": 3,
-      "reason": "同上の倒産報道で運用型広告の実務には無関係",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "こどもたちがソーシャルメディアを安全に使いこなすために〜青少年の健全育成とソーシャルメディア規制〜【調査情報デジタル】…デジタルメディア時代における表現の自由及び報道の自由に関する論稿多数。総務省・デジタル広告ワーキンググループ、同・青少年保護ワーキンググループ構成員、日本ファク…TBS NEWS DIG Powered by JNN社会9/12(土) 9:00",
-      "link": "https://news.yahoo.co.jp/articles/74298b8bacb2834f87d22f480b2e072134e1af1a",
-      "summary": "・青少年がソーシャルメディアを安全に利用するための規制と健全育成策を論じた記事である\n・総務省デジタル広告WGや青少年保護WG構成員が表現の自由との均衡を踏まえ考察している\n・デジタルメディア時代における子どもの保護と情報環境整備の課題を多角的に検討している",
-      "score": 2,
-      "reason": "青少年SNS規制の話題で広告運用実務と無関係",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "平愛梨が夫・長友佑都への応援横断幕に想いを吐露！温かい家族の姿にSNSで反響…」と喜びました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/10(木) 21:41",
-      "link": "https://news.yahoo.co.jp/articles/09055055006c0dc29dfea1f84c6a8fb121d556bd",
-      "summary": "・平愛梨が夫・長友佑都への応援横断幕に感謝の想いをSNSで発信し反響を呼んだ\n・総務省調査でネット利用時間がテレビを上回り、デジタル広告市場が急拡大している\n・記事本文が未提供のため、詳細な数値や背景情報については確認が必要である",
-      "score": 2,
-      "reason": "芸能ニュース中心でデジタル広告市場の言及は付随的",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "不用品回収を『定額』の広告で頼んだのに、積み込み後に追加料金を請求されました。荷物を回収済みでも支払いを断れますか？…があります。 また、消費者庁では、「追加費用一切なし」「定額パック料金にすべて含まれる」と表示していたにもかかわらず、実際には広告になかった処分費など…ファイナンシャルフィールド経済総合9/10(木) 9:40",
-      "link": "https://news.yahoo.co.jp/articles/1f8cb4252a55da6530682438d298de2e0f3c15c0",
-      "summary": "・「定額」広告の不用品回収で積み込み後に追加料金を請求される消費者トラブルが問題化している\n・消費者庁は「追加費用なし」と表示しながら実際に処分費等を請求する行為を問題視している\n・広告と異なる料金請求は契約内容と相違するため、消費者は追加料金の支払いを拒否できる可能性がある",
-      "score": 2,
-      "reason": "不用品回収の消費者トラブルで広告運用と無関係",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "｢働かざる者食うべからず｣のリフレインが止まらない…生活保護13万円受給の30代女性の霊安室の記憶…ノンフィクションライター・グラフィックデザイナー 愛知県出身。印刷会社や広告代理店でグラフィックデザイナー、アートディレクターなどを務め、2015年に独…プレジデントオンラインライフ総合9/12(土) 10:15",
-      "link": "https://news.yahoo.co.jp/articles/cf6170eb04651c3a761ad27b61aa51beb7ccd394",
-      "summary": "・生活保護月額13万円を受給する30代女性の過酷な実体験を描いたノンフィクション記事\n・「働かざる者食うべからず」という社会的圧力が受給者を精神的に追い詰める構造を指摘\n・霊安室の記憶など壮絶な経験を通じ生活保護制度と社会の偏見の問題を提起している",
-      "score": 1,
-      "reason": "生活保護の記事で広告運用と完全に無関係",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "小泉今日子の顔のシワが露わに…『団地のふたり』で魅せた等身大の50代のリアルとは？ “老いを隠さない姿”が胸を打つワケ…静かに信じさせてくれる。 【著者プロフィール：あまのさき】 アパレル、広告代理店、エンタメ雑誌の編集などを経験。ドラマや邦画、旅行、スポーツが好き。映画チャンネルエンタメ総合9/12(土) 8:30",
-      "link": "https://news.yahoo.co.jp/articles/c97feb6ea7403ad0f1de1be32b1205ce0007c1a3",
-      "summary": "・小泉今日子がドラマ『団地のふたり』で加工や修正なしの自然な姿を披露し話題を呼んでいる\n・50代のシワや老いを隠さず等身大のリアルな姿を見せる演技スタイルが視聴者の共感を獲得\n・年齢を重ねた変化を肯定的に映し出す姿勢が「静かに信じさせる」説得力として高く評価された",
-      "score": 1,
-      "reason": "ドラマレビュー記事で広告運用と完全に無関係",
-      "date": "2026-09-12"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【全文公開】スーツ姿で銀座に登場…永野芽郁が自ら選んだ「キャバ嬢役で復帰」ロケ現場をキャッチ…おり、永野本人も会見を開くなど、説明の場を設けることはなかった。怖くて広告代理店は広告主に提案できないし、起用に難色を示す企業は少なくない。当面は配信…FRIDAYエンタメ総合9/12(土) 8:00",
-      "link": "https://news.yahoo.co.jp/articles/c9b19488b485a4ee005da0f4c9608c4a3c65780d",
-      "summary": "・永野芽郁が銀座でキャバ嬢役のドラマ撮影に臨む姿がキャッチされ復帰が本格化している\n・騒動後に本人が会見を開かず説明不足のため広告代理店が起用提案を躊躇している状況\n・広告主側も起用に難色を示す企業が多く当面はCMより配信作品中心の活動になる見通し",
-      "score": 1,
-      "reason": "芸能ゴシップ記事で広告運用と完全に無関係",
-      "date": "2026-09-12"
-    },
     {
       "source": "Google News",
       "title": "「TikTok」動画広告制作で売上高100億円へ 新興企業Yaahaが台頭 - 日本経済新聞",
@@ -4170,6 +4108,96 @@
       "score": 1,
       "reason": "芸能インタビューで広告運用と無関係",
       "date": "2026-10-12"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "2024年改正景品表示法の全体像と実務対応〜何が変わり、何を求められるのか〜",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/cr-legal-keihyoho-kaisei",
+      "summary": "・記事本文が提供されておらず、要約に必要な具体的情報が不足しています\n・タイトルから2024年改正景品表示法の全体像と実務対応がテーマと推測されます\n・正確な要約",
+      "score": 5,
+      "reason": "景表法改正は広告表現の実務判断に関わる法規制情報",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "LINE公式アカウントの初期設定　開設後にやるべき設定と運用ポイント",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/line-official-account-initial-settingpoint",
+      "summary": "・LINE公式アカウント開設後の初期設定はユーザーの第一印象や利便性を左右する重要な工程である\n・初期設定が不十分なまま運用を始めると友だち追加後の離脱や信頼低下を招くリスクがある\n・プロフィールや応答設定など基本項目を整備してから本格運用を開始すべきと提言している",
+      "score": 4,
+      "reason": "LINE公式アカウント運用の基本設定で広告運用とは間接的",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "検索広告とディスプレイ広告を組み合わせるには？目的に応じた活用方法｜LINEヤフー広告",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/technique/search-display-combination/?list=23496",
+      "summary": "・検索広告とディスプレイ広告の組み合わせによる効果的な活用方法をLINEヤフーが解説\n・広告の目的やターゲットに応じて両広告を使い分け、相乗効果を狙う戦略を紹介\n・LINEヤフー広告の法人向け最新ノウハウとして具体的な運用手法を提案している",
+      "score": 7,
+      "reason": "検索×ディスプレイの実践的な併用手法の解説",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "国内電通グループ、AI時代の新購買行動モデル「AIJES」を提唱",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0910-000346",
+      "summary": "・国内電通グループ4社がAI時代に対応した新たな購買行動モデル「AIJES」を発表した\n・従来の購買行動モデルに代わりAI活用が進む消費者行動の変化を体系的に整理した\n・生成AIの普及により変容する購買プロセスを捉えマーケティング戦略の刷新を目指す",
+      "score": 5,
+      "reason": "購買行動モデル提唱でマーケ知見だが実務直結度は中程度",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Google広告",
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "summary": "・Google検索がランナー向けにレース登録アラートや個別トレーニング計画などの支援機能を提供開始\n・レース当日に向けた準備を3つの方法で支援し、検索を通じて最適な情報を届ける仕組みを構築\n・登録通知機能により人気レースのエントリー開始を逃さず、パーソナライズされた練習計画も提案",
+      "score": 1,
+      "reason": "消費者向けSearch活用記事で広告運用と無関係",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Google News",
+      "title": "予約型×運用型で購入数は4.4倍に！新規層も開拓したロート製薬のSmartNews Ads事例 (1/3) - MarkeZine（マーケジン）",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ON3VZQ3NDU05RY0J1Q244TnZwRzhDQUVmamVCQk1ONFJKR3o5TzBLbmFoS0V6Tms0RzlYSnlUdFhSb2x2NzExVVlaV0loRFlldTg0?oc=5",
+      "summary": "・ロート製薬がSmartNews Adsの予約型と運用型広告を組み合わせた施策で購入数を4.4倍に伸長させた\n・予約型広告でブランド認知を高めつつ運用型広告で刈り取りを行う二段構えの戦略が奏功した\n・既存顧客層だけでなく新規ユーザー層の開拓にも成功しフルファネルでの効果を実証した",
+      "score": 8,
+      "reason": "運用型×予約型の具体的な広告運用事例で実践的",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Google News",
+      "title": "【無料オンラインセミナー】 Meta 広告の成果頭打ちをゼロから打開！最新 AI 配信時代の「クリエイティブ戦略」×「タレント活用」 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQUh2OHBGR0FkdGVjVWswMl9aeS1jeDFVWkdNQnU4TENCVkk3eldtNGQ4TUJ3QkpiZFJ5ZHlOdWRVdWpsanVyTTVMOVJXMm10NzdndUtzaGQ0alBJbTlob3QtN3dFNmI2eWNpb002S2J4NHM?oc=5",
+      "summary": "・Meta広告の成果が頭打ちになっている広告主向けに無料オンラインセミナーが開催される\n・最新AI配信時代に対応した「クリエイティブ戦略」と「タレント活用」が主要テーマとなっている\n・広告効果をゼロから打開するための具体的な手法や最新トレンドが解説される内容である",
+      "score": 7,
+      "reason": "Meta広告のクリエイティブ戦略セミナーで実務直結",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Google News",
+      "title": "SSPの役割は「実行」から「意思決定」へーIndex Exchangeが語る「セルサイドデシジョン」とは[インタビュー] - Exchangewire Japan",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzdNVFFwNGJEY2pseVZSVXlQQVZpNDBzWHBmS0RITGxrbGV0elROZkp3Uk9SMmVSNXFab2Y3ZFE3bE53MXd4YUFxazdNYlVrUVdpVi1FaGtIVngtd3ItcEhIaExuT3JnVW5DU25Fakh4a2FvazJqMVVEamZucHU2NU5kaWhLWTJ3d0t4cWRn?oc=5",
+      "summary": "・Index ExchangeがSSPの新たな役割として「セルサイドデシジョン」の概念を提唱し業界変革を訴求\n・SSPの機能が単なる広告枠の実行・配信管理から、データに基づく意思決定の主体へと進化している\n・パブリッシャー側が主体的に収益最大化の判断を行う仕組みがプログラマティック広告の潮流に",
+      "score": 6,
+      "reason": "SSPの役割変化はプログラマティック知見として有用",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Google News",
+      "title": "Google広告からBingの正規URLを経由し偽Claudeサイトへ誘導―「Adception」攻撃でClickFixを実行させる手口 - 合同会社ロケットボーイズ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXJfcHVIN0NuUkhLcWlqS3BLVDNkMDh2ZjhGOHBfbWF5dURhSVVZOUdWZVFBY1BoVEM0MFlULUxSWWZidkI1aWlweUdqazNyeHZ3NWRuWEVtMmppM2FNYlhnaEU4VkZPUm5SalZyUUtmM040UWZvY29mWG9BZ2prMHI2UFhBaG9oWGJ6Z2xOM2I4dUt4M1d4X2hBVW5CYkJ6cHc?oc=5",
+      "summary": "・Google広告を悪用しBingの正規URLを経由して偽のClaudeサイトへ誘導する「Adception」攻撃が確認された\n・正規ドメインを中継に使うことで広告審査やセキュリティフィルタを回避し信頼性を偽装する巧妙な手口である\n・偽サイト上でClickFix手法によりユーザーに悪意あるコマンドを実行させマルウェア感染を狙う",
+      "score": 6,
+      "reason": "Google広告悪用の攻撃手口で運用者の注意喚起",
+      "date": "2026-10-13"
+    },
+    {
+      "source": "Google News",
+      "title": "ダイヤモンド・オンライン、JICDAQ認証を取得 読者調査とAI時代対応の新広告メニューも公開 - Media Innovation",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZnkwWjhGckwweUxvVjRUTkFVaGZHUmEzS0xmUzFfRWtBN0pzS3lPR0x3Q0lQa2VWZy1OQ24wMTBMZ19SVEZ6VFFYa1NaWXN3MTJvYXBiY0hJNWFtVUYzRlhhMkpUZGZNTHc?oc=5",
+      "summary": "・ダイヤモンド・オンラインがJICDAQ認証を取得しデジタル広告の品質と信頼性向上を図った\n・読者調査を実施し、メディアの利用実態やユーザー属性の把握を強化している\n・AI時代に対応した新たな広告メニューを公開し広告主への提案力を拡充した",
+      "score": 4,
+      "reason": "メディア側の認証取得と広告メニュー紹介",
+      "date": "2026-10-13"
     }
   ]
 }
