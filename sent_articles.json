@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83YzE4T3hlTXdDeG9leUtMSnBTV2gwU3BuTWxGZjJKdTdkcHk5N1o4UTdiRGtvYWlXUUxmTzM1aVZCUWlVUW45dlJWRFlYSmQtc1dDaDBTVkxSTkxlbjYtTkl1OFVnbGhYOEpLOQ?oc=5": "2026-09-13",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GaHVBc1BkSnNidkhYQ0FHaEN5NVZKY3VyR2thRXVWWXhtR0gxSWhPQ2w3ZnRYaEJhS1hjTVZ4RndUMVB6LWN1RDZybU9YekUya0tXWGtudw?oc=5": "2026-09-13",
-    "https://news.yahoo.co.jp/articles/1a44fbe42d2179b1a9f0200acf50a528d99425d8": "2026-09-13",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42U1dxTU5jVTRrbHAyLVlDM3ZSakR5TFh4TWNPY1hkLVFxcmZlQThjWVROVG9ZSHdIWVR2c2luZTRxcm41c0E?oc=5": "2026-09-13",
-    "https://news.yahoo.co.jp/articles/8754d77bc4281ee903cda0fed59858af7eab6538": "2026-09-13",
-    "https://news.yahoo.co.jp/articles/6c9d3141a473f8e8654b34667850becc027f0f49": "2026-09-13",
-    "https://news.yahoo.co.jp/articles/b73fbaecd076f73eac179642e322f5fb74ca62a7": "2026-09-13",
     "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-hot-weather": "2026-09-14",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/line-placement/": "2026-09-14",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbHhsYXRhYUxYVGU4OVNROEpTeDBVRmdRbE4yMVFOSDBIS1VEV3hhaWQtcl9lbnlNemlEOHdLNDV0RXRER0NHYy1Oa0k4bEdoZktQYi1VZDBXY21TZWlfY3hlaEpZSU8tNEE?oc=5": "2026-09-14",
@@ -294,37 +287,19 @@
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQUh2OHBGR0FkdGVjVWswMl9aeS1jeDFVWkdNQnU4TENCVkk3eldtNGQ4TUJ3QkpiZFJ5ZHlOdWRVdWpsanVyTTVMOVJXMm10NzdndUtzaGQ0alBJbTlob3QtN3dFNmI2eWNpb002S2J4NHM?oc=5": "2026-10-13",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzdNVFFwNGJEY2pseVZSVXlQQVZpNDBzWHBmS0RITGxrbGV0elROZkp3Uk9SMmVSNXFab2Y3ZFE3bE53MXd4YUFxazdNYlVrUVdpVi1FaGtIVngtd3ItcEhIaExuT3JnVW5DU25Fakh4a2FvazJqMVVEamZucHU2NU5kaWhLWTJ3d0t4cWRn?oc=5": "2026-10-13",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXJfcHVIN0NuUkhLcWlqS3BLVDNkMDh2ZjhGOHBfbWF5dURhSVVZOUdWZVFBY1BoVEM0MFlULUxSWWZidkI1aWlweUdqazNyeHZ3NWRuWEVtMmppM2FNYlhnaEU4VkZPUm5SalZyUUtmM040UWZvY29mWG9BZ2prMHI2UFhBaG9oWGJ6Z2xOM2I4dUt4M1d4X2hBVW5CYkJ6cHc?oc=5": "2026-10-13",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZnkwWjhGckwweUxvVjRUTkFVaGZHUmEzS0xmUzFfRWtBN0pzS3lPR0x3Q0lQa2VWZy1OQ24wMTBMZ19SVEZ6VFFYa1NaWXN3MTJvYXBiY0hJNWFtVUYzRlhhMkpUZGZNTHc?oc=5": "2026-10-13"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZnkwWjhGckwweUxvVjRUTkFVaGZHUmEzS0xmUzFfRWtBN0pzS3lPR0x3Q0lQa2VWZy1OQ24wMTBMZ19SVEZ6VFFYa1NaWXN3MTJvYXBiY0hJNWFtVUYzRlhhMkpUZGZNTHc?oc=5": "2026-10-13",
+    "https://dentsudigital.co.jp/news/release/services/2026-1014-000354": "2026-10-14",
+    "https://www.facebook.com/business/news/muse-smb-bennett-orchards": "2026-10-14",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GbktBdFdtTzFmVmtGaDE5Q25aWTlLejkxZmt0NFNhTEtuY01peFpibE1PVm5nUkhpNDIzYVd1Vjlya3R6R0hxSlhvRXg?oc=5": "2026-10-14",
+    "https://news.yahoo.co.jp/articles/3b2a2f50dfbb71296cc6b48a2ec398a878ffb0e3": "2026-10-14",
+    "https://news.yahoo.co.jp/articles/5c4a52d1d6d4ffd38eb04b66b55b48113efce9ac": "2026-10-14",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZHZpWW5kS1dPTnpPbGN5bmI5RGNJaWlSc0ozOVdGNkZqNFJZT08zVVBLbVNva2U4Q0haRm1CWXhSNTdFdmstUjJxNnhmZ1ZlM1JuelRlUmtJRkxkN3R0QThoZlh0UGhPVnczYnpEblZSU3JONFRxZ0xvdkt6WUk?oc=5": "2026-10-14",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE00cm53c29sdXItT0phY0F2ME02SzdxSy1PRmxleFlGRGxKT0VuNkx1ekZ3UkduZXZFQXhXY0ttQldqel9tLUxOTWl2dGZDenFJdGJCTUkxZFNzWHdpbEtDNGQyUnVKMmlDZWc?oc=5": "2026-10-14",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2wydDhpZ0VpUklNbjFrR3JiSTBLWTZoQk1Nd0tabUhLSGx0VFR1dGJxejNxcmwyYWJpZk85ZmQ1RDNpZzgtNnZKaUZzX0NaS3Y1R2pHZTdTZWZTdmFSdEg0VmpJSDVDVDhMY3RWWC1Mc2hYblE2YTgtWEU2cW45UjNIS0JwbWlEVzIwY0JmQ2hUdkZjV05BRdIBmAFBVV95cUxPV2wydDhpZ0VpUklNbjFrR3JiSTBLWTZoQk1Nd0tabUhLSGx0VFR1dGJxejNxcmwyYWJpZk85ZmQ1RDNpZzgtNnZKaUZzX0NaS3Y1R2pHZTdTZWZTdmFSdEg0VmpJSDVDVDhMY3RWWC1Mc2hYblE2YTgtWEU2cW45UjNIS0JwbWlEVzIwY0JmQ2hUdkZjV05BRQ?oc=5": "2026-10-14",
+    "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZ1pwYUxMQlVQNzNFRVFUSUpSRG1FSTJQSjRvaFlOWE53ZnNqR0Y2Y2I4azZoUzRkZ240NHFzbHZlS2hkWlBGX3ZMNTFUMEFwbVhGLWVIRmhVc1QzWVZaMk5sN0k4enZYeW1sNmtZUURRWElWYzBrVENCWWVUOUN3OWx2VVNEVGZ4aGN4Zk05cWVwVmVIbVI0X2tyS0JKNmtPUW9ya0QzRzRWczlOYUk2SDVReUZISWZmdlEtb1FUVFc1dkFodXc4b3pnWjk2UnA3amZ3TWRfQVNSbEhpRTRqSnRMXzRra25LLVp4ZkJZM0N5bWI1Q1l3VWRoQlBmcTBrMTJKMUVxQVoyX3JkbWlta2pBdWNNbmhlRFBQOWFQZVlaZTUxQWt1UHdZbjlyRWlOTGFIc3VyZUo2RjU0VkJfQ0M0Z2pIUVZyalNITnNRZGFmc3dmU2I0SmFFT2daTWFBZmNjbHAtTFItOExOMzRIck1DX2pobnNL?oc=5": "2026-10-14",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVUljdGREUlZuRnJCS0xGYTdhVXU4RGVDYXNSYXUwcWRLR0dJUk11cjdETzljT1dhWkdJZTJxMldrd1JNUXFGN3plOHNUZlJkMFFuRUtSV1RyUQ?oc=5": "2026-10-14"
   },
   "titles": [
-    {
-      "title": "「TikTok」動画広告制作で売上高100億円へ 新興企業Yaahaが台頭 - 日本経済新聞",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "【倒産】広告代理店が破産手続き開始決定...地元の大手住宅メーカーなどを主な得意先としてテレビCM、新聞広告を展開もWEB広告メインの主力先のニーズを捉えきれず...負債は約1.4億円【帝国データバンク】 - TBS NEWS DIG",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "【倒産】広告代理店が破産手続き開始決定...地元の大手住宅メーカーなどを主な得意先としてテレビCM、新聞広告を展開もWEB広告メインの主力先のニーズを捉えきれず...負債は約1.4億円【帝国データバンク】…民間の信用調査会社「帝国データバンク」によりますと、ゲインクロス（株）【資本金300万円・岡山市南区西高崎】が9月7日、岡山地裁から破産手続き開始決…RSK山陽放送岡山9/13(日) 8:00",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "富裕層直撃！ゴルフ場デジタル広告11月枠募集開始 - Koubo",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "安愚楽牧場破綻１５年、知的障害がある次男に「お金を残してあげたい」５０万円から始まった出資金は１１００万円に…「国がきちんと指導していれば」…預託商法（オーナー商法）」と呼ばれる。運営が行き詰まるケースが相次ぎ、消費者庁によると、出資者らの被害総額は１兆円を超える。 ２０２２年に同商法を…読売新聞オンライン社会9/12(土) 15:06",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "「胸に目がいってニュースが入らない」の苦情でNHK退社から写真集1万DL超え！ 沖縄の44歳”スイカップ”アナの人生逆転劇…感じですが、選んでいただいて本当にありがたいです」 こう話すのは大手広告代理店が調査し、「FLASH」（2026年9月22日発売号）で発表された「ロ…SmartFLASHエンタメ総合9/13(日) 6:00",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "人気女優リリ・ラインハートのドレス写真に「通報しました」⇒ 2000年代ラブコメの“再現”に反響、266万いいね…のアンディ（ケイト）が「10日間で男性に嫌われる方法」の企画のために、広告代理店勤務のベン（マシュー）を実験相手に選ぶことから始まる物語。 互いに裏の…BuzzFeed Japanエンタメ総合9/12(土) 22:05",
-      "date": "2026-09-13"
-    },
     {
       "title": "酷暑テックで挑む、気候変動への「適応」　Hakuhodo DY ONE 広告技術研究所レポート Vol.2",
       "date": "2026-09-14"
@@ -1496,72 +1471,49 @@
     {
       "title": "ダイヤモンド・オンライン、JICDAQ認証を取得 読者調査とAI時代対応の新広告メニューも公開 - Media Innovation",
       "date": "2026-10-13"
+    },
+    {
+      "title": "国内電通グループ、3,000人規模のFDE・FDMスキル開発を開始",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "The Second Brain on a Sixth-Generation Farm",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "【デジタル広告検証のIAS】ChatGPT広告の「ブランドセーフティ計測」を提供開始！ AI環境でも広告の安全性と適合性を可視化 - DXマガジン",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "日テレ・TBS・フジ、テレビCMの広告取引で新会社設立へ 系列を超えた共通基盤を構築…MAX」は、地上波テレビ広告にアドテクノロジーを導入し、インプレッションやリーチなどデジタル広告と親和性の高い指標を用いて、オンラインかつプログラマティックに売買や効…電波タイムズ経済総合10/14(水) 10:13",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "アフィリエイトASP「メディパートナー」、5媒体に対応したCV連携機能を提供開始（株式会社オプティマイザー）…・Yahoo!広告 ・Meta広告 ・TikTok広告 ・ChatGPT広告 Google広告、Yahoo!広告、Meta広告、TikTok広告につい…Yahoo!ニュース PR［PR］IT総合10/14(水) 10:00",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "アフィリエイトASP「メディパートナー」、5媒体に対応したCV連携機能を提供開始（株式会社オプティマイザー） - Yahoo!ニュース",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "広告制作の「同じ修正」を減らす。Off Beat、指摘を蓄積・活用するAI品質管理ツール「Ad Check」を提供開始 - PR TIMES",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "なぜメタ プラットフォームズ（META）はTikTok広告を止めてAI医療に18億ドル投じたのか？ - Simply Wall Street",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "悪質な誘導広告や宣伝「ダークパターン」どう防ぐか - 公明党",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "名桜大×広告代理店 共創プロジェクト - QAB 琉球朝日放送",
+      "date": "2026-10-14"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "「TikTok」動画広告制作で売上高100億円へ 新興企業Yaahaが台頭 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83YzE4T3hlTXdDeG9leUtMSnBTV2gwU3BuTWxGZjJKdTdkcHk5N1o4UTdiRGtvYWlXUUxmTzM1aVZCUWlVUW45dlJWRFlYSmQtc1dDaDBTVkxSTkxlbjYtTkl1OFVnbGhYOEpLOQ?oc=5",
-      "summary": "・TikTok向け動画広告制作を手がける新興企業Yaahaが急成長し注目を集めている\n・同社は売上高100億円を目標に掲げ、TikTok広告市場の拡大を追い風にしている\n・短尺動画広告の需要増加を背景に、制作特化型企業として存在感を高めている",
-      "score": 6,
-      "reason": "TikTok動画広告市場の成長動向として実務参考になる",
-      "date": "2026-09-13"
-    },
-    {
-      "source": "Google News",
-      "title": "【倒産】広告代理店が破産手続き開始決定...地元の大手住宅メーカーなどを主な得意先としてテレビCM、新聞広告を展開もWEB広告メインの主力先のニーズを捉えきれず...負債は約1.4億円【帝国データバンク】 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GaHVBc1BkSnNidkhYQ0FHaEN5NVZKY3VyR2thRXVWWXhtR0gxSWhPQ2w3ZnRYaEJhS1hjTVZ4RndUMVB6LWN1RDZybU9YekUya0tXWGtudw?oc=5",
-      "summary": "・地方広告代理店がテレビCMや新聞広告を主力に地元大手住宅メーカー等を得意先として事業展開していた\n・主力得意先がWEB広告へシフトする中そのニーズに対応できず受注が減少し経営が悪化した\n・最終的に負債約1.4億円を抱え破産手続き開始決定を受けたと帝国データバンクが報じた",
-      "score": 4,
-      "reason": "広告代理店倒産ニュースでWEB移行の業界動向示唆",
-      "date": "2026-09-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【倒産】広告代理店が破産手続き開始決定...地元の大手住宅メーカーなどを主な得意先としてテレビCM、新聞広告を展開もWEB広告メインの主力先のニーズを捉えきれず...負債は約1.4億円【帝国データバンク】…民間の信用調査会社「帝国データバンク」によりますと、ゲインクロス（株）【資本金300万円・岡山市南区西高崎】が9月7日、岡山地裁から破産手続き開始決…RSK山陽放送岡山9/13(日) 8:00",
-      "link": "https://news.yahoo.co.jp/articles/1a44fbe42d2179b1a9f0200acf50a528d99425d8",
-      "summary": "・岡山市の広告代理店ゲインクロスが9月7日に岡山地裁から破産手続き開始決定を受けた\n・地元大手住宅メーカー等を得意先にテレビCMや新聞広告を展開していたが業績が悪化\n・主力取引先のWEB広告へのニーズ変化に対応できず、負債約1.4億円を抱え倒産した",
-      "score": 4,
-      "reason": "id2と同一内容の重複記事、業界動向として参考程度",
-      "date": "2026-09-13"
-    },
-    {
-      "source": "Google News",
-      "title": "富裕層直撃！ゴルフ場デジタル広告11月枠募集開始 - Koubo",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42U1dxTU5jVTRrbHAyLVlDM3ZSakR5TFh4TWNPY1hkLVFxcmZlQThjWVROVG9ZSHdIWVR2c2luZTRxcm41c0E?oc=5",
-      "summary": "・ゴルフ場内に設置されたデジタル広告の11月掲載枠の募集が開始された\n・富裕層が多く集まるゴルフ場を活用し、高所得層へ直接アプローチできる広告手法\n・Kouboが情報を掲載し、ターゲット特化型のデジタル広告需要の高まりを示している",
-      "score": 3,
-      "reason": "ゴルフ場広告枠の募集告知で運用型広告と関連薄い",
-      "date": "2026-09-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "安愚楽牧場破綻１５年、知的障害がある次男に「お金を残してあげたい」５０万円から始まった出資金は１１００万円に…「国がきちんと指導していれば」…預託商法（オーナー商法）」と呼ばれる。運営が行き詰まるケースが相次ぎ、消費者庁によると、出資者らの被害総額は１兆円を超える。 ２０２２年に同商法を…読売新聞オンライン社会9/12(土) 15:06",
-      "link": "https://news.yahoo.co.jp/articles/8754d77bc4281ee903cda0fed59858af7eab6538",
-      "summary": "・安愚楽牧場破綻から15年、知的障害の次男のため50万円から始めた出資が1100万円に膨らんだ被害者の声を紹介\n・預託商法（オーナー商法）による被害総額は1兆円超、運営破綻が相次ぎ2022年に同商法の規制が強化された\n・被害者は「国がきちんと指導していれば」と行政の監督責任を問い、救済の不十分さが改めて浮き彫りに",
-      "score": 1,
-      "reason": "安愚楽牧場の社会問題で広告運用と無関係",
-      "date": "2026-09-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「胸に目がいってニュースが入らない」の苦情でNHK退社から写真集1万DL超え！ 沖縄の44歳”スイカップ”アナの人生逆転劇…感じですが、選んでいただいて本当にありがたいです」 こう話すのは大手広告代理店が調査し、「FLASH」（2026年9月22日発売号）で発表された「ロ…SmartFLASHエンタメ総合9/13(日) 6:00",
-      "link": "https://news.yahoo.co.jp/articles/6c9d3141a473f8e8654b34667850becc027f0f49",
-      "summary": "・元NHKアナ\"スイカップ\"古瀬絵理氏が44歳で写真集を発売し1万DL超えの大ヒットを記録\n・過去に「胸に目がいきニュースが入らない」との視聴者苦情がきっかけでNHKを退社した経緯がある\n・大手広告代理店の調査結果がFLASH誌で発表され注目を集める人生逆転劇として話題に",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-09-13"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "人気女優リリ・ラインハートのドレス写真に「通報しました」⇒ 2000年代ラブコメの“再現”に反響、266万いいね…のアンディ（ケイト）が「10日間で男性に嫌われる方法」の企画のために、広告代理店勤務のベン（マシュー）を実験相手に選ぶことから始まる物語。 互いに裏の…BuzzFeed Japanエンタメ総合9/12(土) 22:05",
-      "link": "https://news.yahoo.co.jp/articles/b73fbaecd076f73eac179642e322f5fb74ca62a7",
-      "summary": "・人気女優リリ・ラインハートが2000年代ラブコメ映画の象徴的なドレス姿を再現した写真を投稿した\n・元ネタは映画「10日間で男を上手にフル方法」のケイト・ハドソンの有名なシーンとみられる\n・投稿には「通報しました」など熱狂的な反応が殺到し、266万いいねを記録する大反響となった",
-      "score": 1,
-      "reason": "映画再現の芸能話題で広告運用と無関係",
-      "date": "2026-09-13"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "酷暑テックで挑む、気候変動への「適応」　Hakuhodo DY ONE 広告技術研究所レポート Vol.2",
@@ -4198,6 +4150,96 @@
       "score": 4,
       "reason": "メディア側の認証取得と広告メニュー紹介",
       "date": "2026-10-13"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "国内電通グループ、3,000人規模のFDE・FDMスキル開発を開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-1014-000354",
+      "summary": "・電通デジタルが国内電通グループ3社と共同でFDE・FDMスキル開発プログラムを開始した\n・Google Cloudの企業向けAIプラットフォーム「Gemini Enterprise」を活用した内容となる\n・グループ横断で約3,000人規模を対象にエンジニア・マーケター人材の育成を推進する",
+      "score": 3,
+      "reason": "社内人材育成のプレスリリースで実務活用性低い",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "The Second Brain on a Sixth-Generation Farm",
+      "link": "https://www.facebook.com/business/news/muse-smb-bennett-orchards",
+      "summary": "・デラウェア州の老舗農園Bennett Orchardsが中小企業向けAIツール「Muse」を導入し業務改革を推進\n・霜害リスクの追跡や事務作業の削減にMuseを活用し、農作業の効率と精度を大幅に向上させた\n・収穫前の段階からホリデー商戦の計画を立て、繁忙期の売上最大化に成功した事例として注目される",
+      "score": 2,
+      "reason": "農業事例でありAI活用紹介、広告運用と無関係",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Google News",
+      "title": "【デジタル広告検証のIAS】ChatGPT広告の「ブランドセーフティ計測」を提供開始！ AI環境でも広告の安全性と適合性を可視化 - DXマガジン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GbktBdFdtTzFmVmtGaDE5Q25aWTlLejkxZmt0NFNhTEtuY01peFpibE1PVm5nUkhpNDIzYVd1Vjlya3R6R0hxSlhvRXg?oc=5",
+      "summary": "・IAS（Integral Ad Science）がChatGPT上の広告に対するブランドセーフティ計測サービスの提供を開始した\n・AI会話環境における広告表示の安全性と適合性を可視化し、広告主のブランド毀損リスクを低減する狙い\n・生成AI上の広告市場拡大に伴い、デジタル広告検証の対象領域がAIプラットフォームへ本格的に拡張された",
+      "score": 7,
+      "reason": "ChatGPT広告のブランドセーフティ計測は新領域で実務に直結",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日テレ・TBS・フジ、テレビCMの広告取引で新会社設立へ 系列を超えた共通基盤を構築…MAX」は、地上波テレビ広告にアドテクノロジーを導入し、インプレッションやリーチなどデジタル広告と親和性の高い指標を用いて、オンラインかつプログラマティックに売買や効…電波タイムズ経済総合10/14(水) 10:13",
+      "link": "https://news.yahoo.co.jp/articles/3b2a2f50dfbb71296cc6b48a2ec398a878ffb0e3",
+      "summary": "・日テレ・TBS・フジが系列を超えテレビCM広告取引の新会社を共同設立する方針を発表\n・新会社「MAX」はアドテク導入によりインプレッションやリーチ等デジタル指標でCMを売買可能にする\n・地上波CMをオンラインかつプログラマティックに取引できる共通基盤の構築を目指す",
+      "score": 7,
+      "reason": "テレビCMのプログラマティック取引基盤は広告運用に影響大",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アフィリエイトASP「メディパートナー」、5媒体に対応したCV連携機能を提供開始（株式会社オプティマイザー）…・Yahoo!広告 ・Meta広告 ・TikTok広告 ・ChatGPT広告 Google広告、Yahoo!広告、Meta広告、TikTok広告につい…Yahoo!ニュース PR［PR］IT総合10/14(水) 10:00",
+      "link": "https://news.yahoo.co.jp/articles/5c4a52d1d6d4ffd38eb04b66b55b48113efce9ac",
+      "summary": "・オプティマイザーのASP「メディパートナー」が5媒体対応のCV連携機能を新たに提供開始した\n・対応媒体はGoogle・Yahoo!・Meta・TikTok・ChatGPT広告の5つで幅広い運用に対応する\n・CV連携により各広告媒体での成果データ統合や最適化精度の向上が期待される",
+      "score": 7,
+      "reason": "主要5広告媒体へのCV連携機能は運用実務に直結",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Google News",
+      "title": "アフィリエイトASP「メディパートナー」、5媒体に対応したCV連携機能を提供開始（株式会社オプティマイザー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZHZpWW5kS1dPTnpPbGN5bmI5RGNJaWlSc0ozOVdGNkZqNFJZT08zVVBLbVNva2U4Q0haRm1CWXhSNTdFdmstUjJxNnhmZ1ZlM1JuelRlUmtJRkxkN3R0QThoZlh0UGhPVnczYnpEblZSU3JONFRxZ0xvdkt6WUk?oc=5",
+      "summary": "・オプティマイザー社のアフィリエイトASP「メディパートナー」が新たにCV連携機能の提供を開始した\n・同機能は5つの広告媒体に対応しコンバージョンデータの連携を可能にする\n・広告主の成果計測や媒体運用の最適化を支援し広告効果の向上を目指す",
+      "score": 7,
+      "reason": "id:11と同一内容、CV連携機能は運用実務に直結",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Google News",
+      "title": "広告制作の「同じ修正」を減らす。Off Beat、指摘を蓄積・活用するAI品質管理ツール「Ad Check」を提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00cm53c29sdXItT0phY0F2ME02SzdxSy1PRmxleFlGRGxKT0VuNkx1ekZ3UkduZXZFQXhXY0ttQldqel9tLUxOTWl2dGZDenFJdGJCTUkxZFNzWHdpbEtDNGQyUnVKMmlDZWc?oc=5",
+      "summary": "・Off Beatが広告制作の繰り返し修正を削減するAI品質管理ツール「Ad Check」の提供を開始した\n・過去の修正指摘をAIが蓄積・学習し、同様のミスを事前に検出して制作効率を向上させる仕組み\n・広告クリエイティブの品質チェック工程を自動化し、人的コストと納期遅延のリスクを軽減する",
+      "score": 5,
+      "reason": "広告制作のAI品質管理ツールで制作効率化に寄与",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Google News",
+      "title": "なぜメタ プラットフォームズ（META）はTikTok広告を止めてAI医療に18億ドル投じたのか？ - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2wydDhpZ0VpUklNbjFrR3JiSTBLWTZoQk1Nd0tabUhLSGx0VFR1dGJxejNxcmwyYWJpZk85ZmQ1RDNpZzgtNnZKaUZzX0NaS3Y1R2pHZTdTZWZTdmFSdEg0VmpJSDVDVDhMY3RWWC1Mc2hYblE2YTgtWEU2cW45UjNIS0JwbWlEVzIwY0JmQ2hUdkZjV05BRdIBmAFBVV95cUxPV2wydDhpZ0VpUklNbjFrR3JiSTBLWTZoQk1Nd0tabUhLSGx0VFR1dGJxejNxcmwyYWJpZk85ZmQ1RDNpZzgtNnZKaUZzX0NaS3Y1R2pHZTdTZWZTdmFSdEg0VmpJSDVDVDhMY3RWWC1Mc2hYblE2YTgtWEU2cW45UjNIS0JwbWlEVzIwY0JmQ2hUdkZjV05BRQ?oc=5",
+      "summary": "・メタはライバルTikTokへの広告出稿を停止し競合支援から自社成長へ戦略を転換した\n・AI医療分野に約18億ドルを投資し広告以外の新たな収益源の確保を目指している\n・SNS広告依存からの脱却とAI活用による事業多角化がメタの中長期戦略の柱となる",
+      "score": 5,
+      "reason": "Metaの戦略転換は広告主への影響を含む業界動向",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Google News",
+      "title": "悪質な誘導広告や宣伝「ダークパターン」どう防ぐか - 公明党",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZ1pwYUxMQlVQNzNFRVFUSUpSRG1FSTJQSjRvaFlOWE53ZnNqR0Y2Y2I4azZoUzRkZ240NHFzbHZlS2hkWlBGX3ZMNTFUMEFwbVhGLWVIRmhVc1QzWVZaMk5sN0k4enZYeW1sNmtZUURRWElWYzBrVENCWWVUOUN3OWx2VVNEVGZ4aGN4Zk05cWVwVmVIbVI0X2tyS0JKNmtPUW9ya0QzRzRWczlOYUk2SDVReUZISWZmdlEtb1FUVFc1dkFodXc4b3pnWjk2UnA3amZ3TWRfQVNSbEhpRTRqSnRMXzRra25LLVp4ZkJZM0N5bWI1Q1l3VWRoQlBmcTBrMTJKMUVxQVoyX3JkbWlta2pBdWNNbmhlRFBQOWFQZVlaZTUxQWt1UHdZbjlyRWlOTGFIc3VyZUo2RjU0VkJfQ0M0Z2pIUVZyalNITnNRZGFmc3dmU2I0SmFFT2daTWFBZmNjbHAtTFItOExOMzRIck1DX2pobnNL?oc=5",
+      "summary": "・公明党が悪質な誘導広告や宣伝手法「ダークパターン」への対策を議論している\n・ダークパターンはユーザーを意図せず購入や登録に誘導する悪質なUI設計手法である\n・消費者保護の観点から法規制や業界ガイドライン整備など防止策の検討が進んでいる",
+      "score": 4,
+      "reason": "ダークパターン規制動向は間接的に広告表現に関わる",
+      "date": "2026-10-14"
+    },
+    {
+      "source": "Google News",
+      "title": "名桜大×広告代理店 共創プロジェクト - QAB 琉球朝日放送",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVUljdGREUlZuRnJCS0xGYTdhVXU4RGVDYXNSYXUwcWRLR0dJUk11cjdETzljT1dhWkdJZTJxMldrd1JNUXFGN3plOHNUZlJkMFFuRUtSV1RyUQ?oc=5",
+      "summary": "・名桜大学と広告代理店が連携し共創プロジェクトを立ち上げたことが報じられた\n・産学連携により学生が広告・マーケティングの実務を学ぶ取り組みとみられる\n・QAB琉球朝日放送が本プロジェクトの動向を沖縄地域ニュースとして紹介した",
+      "score": 2,
+      "reason": "大学と代理店の産学連携で運用実務と無関係",
+      "date": "2026-10-14"
     }
   ]
 }
