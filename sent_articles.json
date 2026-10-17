@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/google-content-personalization": "2026-09-16",
-    "https://oneder.hakuhodody-one.co.jp/blog/line-massaging-api-overview": "2026-09-16",
-    "https://www.facebook.com/business/news/sydney-sock-project-scaled-cause": "2026-09-16",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNVXB5bkM0eHZmYW1zVVFjWWd6ZGJPaWo3UVYxdWJhMExETkQ0WU9hOC1jLWFveHpCZ1RTUjVISEJpNUNmcGF6ZDFxSWt6eFpRa0Voc19xUmplR1ZlNzlKbGI5YjA4eVgwbkxJ?oc=5": "2026-09-16",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBic2ROYm1qR0l1WU9jcmUteUpQZ3IyZUIwYW02azdNU2todVBZbVFwZTc2QzZmYl90Qm5LWWJUVzlaa3VUN0VqMjItX1dXbkJYUkF1blUzWQ?oc=5": "2026-09-16",
-    "https://news.yahoo.co.jp/articles/7a8473e05ac9cfdf7c0975c066bed22ce91454b5": "2026-09-16",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFVXYTVNRVMzSVN6VHg2d21wOFcyNmN1Y3dDUnFXZ2xGNV8zMUx5VWlYYjBXQVpBTjE2OHdaV2Q5aEhKVG1zMXF5X2xNdk8xbmRSMG9sdUE4RmRTTmQ4U2ZQSzI2ejE2ZHl6b3JXcVJwZ1lVSHNKZkthendaZ0lMSjZublY1cXU4VG12OWNwZVdSUQ?oc=5": "2026-09-16",
-    "https://news.yahoo.co.jp/articles/449bc176630bdb25016f5dc22813b5186782824b": "2026-09-16",
-    "https://news.yahoo.co.jp/articles/6533d9db6b5edfca2a1e9b3890535eadb13d8818": "2026-09-16",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YUlVuVVNWREV4T0NfY1ktaUYyREU4UDhaTjBZQXZwZWF5T3JSOVRZUjJzNU1mMjZiSHFIeHQtQzhlUDFBZUhZbTIwUVVmUWhmU1ZIUjkyWkRFdW1RY2NOdWtUcE1zNnB2M3VUR2dZcXYyU04zY2lrd1Rn?oc=5": "2026-09-16",
     "https://blog.google/products/ads-commerce/rethink-2026/": "2026-09-17",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE03UGF1UzlyTVRqN25ZZ0JjbnZXNW9HQndVaThmbDJ3aXZvcUcxYnJpcFpUZFRyNXZUTTRjalN5emhvelRHMEFnd2x4VDRacjZEajdpZjljQ1BIWGxMRkZmRGtLeEpsRnhoQWc?oc=5": "2026-09-17",
     "https://news.yahoo.co.jp/articles/22bdb55658ab0d4fa34e8631451794ab328ba7e7": "2026-09-17",
@@ -296,49 +286,18 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DekpDLXBZWV9RSHRzWVAwMGcxTE5aNUJNd3BWTnUtaThwazNLTXZvcTNfVTJHYnVscHBtMFlkZjNqNV9TcVZfelcwVmVNUW5FQkx4cko0aGFwbWdvd1R6N2RXVTVzOWNZbmc?oc=5": "2026-10-16",
     "https://news.yahoo.co.jp/expert/articles/6245c4a0750e34cad869a4b730921334ffeaa80c": "2026-10-16",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mN2k3cmZISm12SGIxT3FqblJFcHoxRENoQWg3TFVUS0Rua0RrTjFmZHk3R1BvTURreV91bXRkR1Awa1RtUnAySGNEbllXQQ?oc=5": "2026-10-16",
-    "https://news.yahoo.co.jp/articles/0761688c7f328e12b22ab9b9753f24ecd2fb31aa": "2026-10-16"
+    "https://news.yahoo.co.jp/articles/0761688c7f328e12b22ab9b9753f24ecd2fb31aa": "2026-10-16",
+    "https://www.lycbiz.com/jp/column/ly-ads/service-information/what-to-do-after-opening-ly-ads-account/?list=23496": "2026-10-17",
+    "https://www.lycbiz.com/jp/column/ly-ads/marketing/what-is-instream-ad/?list=23496": "2026-10-17",
+    "https://dentsudigital.co.jp/news/release/services/2026-0915-000348": "2026-10-17",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZG9hLWV3OEl3Z2hvdXA1cGNnbzhVQzlUTXpFYjJzZklNYjFlYVJIdlBNTWp3VXVFdkpia1J1eExhSzlFMjJVM1ozUHg4UGRiZTFnR3NYMzZ4S3lDRjJOY3g4djBlVnZ3VVE?oc=5": "2026-10-17",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdmNPNWstNHR4Z3dITlFpSUkwYUJEbUg5Rjk5azNiV3k4dkpTTlg5eFZTWWI0Q3paNVRiNExsUmNQdGFfNWR4LW5Pd21JY1Fub1pZZ2VUSVFCRGl2em5vX0g0WWh3NWwtT0JxRElB?oc=5": "2026-10-17",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KenV3cEJOa0hfRFl4RC0wY1BEY2ZEXzEwbmRYRnJGdi1wRVg3VjJzODhtOWhmYloxdlZyVm5wRzJpZG92cEpBMU52dVN6OEN0Y19BeTVXTWFPZjRHQ19ZaXRB?oc=5": "2026-10-17",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PRWFXWmhnZGN3ZDlod3ZCN3dUODBNNFc4d0ZJVTUyQXJDZEdNSW8yTDlPVGJWcDBfVlkyLVk2MEJUM2Q4TEJZeWtGMG1yeDBMcXZHRFJyb2FaYURTekJVZUxmdDRlQ0Nua25KUmNJOEV1amg4?oc=5": "2026-10-17",
+    "https://news.yahoo.co.jp/articles/223dd8fbfbde402772b404fa6b2a1222da2c09c1": "2026-10-17",
+    "https://news.yahoo.co.jp/articles/219dd5608bda34b10dac8a07af22ca7f70940e9c": "2026-10-17"
   },
   "titles": [
-    {
-      "title": "Google 、検索・Discover・ニュースのパーソナライズ機能を強化",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "LINE Messaging APIとは？1to1を実現するメッセージ配信やリッチメニューの出し分け",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "From Sock Drawer to Social Impact: How Sydney Sock Project Scaled a Cause",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？ - GIGAZINE",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "【専門家インタビュー】薬事法広告研究所 稲留万希子代表、「情報のアップデートを」 - online.bci.co.jp",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "消費者庁も規制強化へ――「解約ボタンがない…」悪質なUI「ダークパターン」とは？…示が、規制の対象になっていないことも問題になっています。 これを受け、消費者庁の「デジタル取引・特定商取引法等検討会」は、消費者が安心・安全に取引でき…Web担当者ForumIT総合9/15(火) 15:16",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "買い物客の皆さん、デジタル広告スクリーンがまもなく至る所に登場します - Business Insider Japan",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "〈開発者インタビュー〉時計ブランド初の挑戦！ G-SHOCKが1.5億人集うメタバース「Roblox」にオリジナルワールドを開設した意義…いる。 今回のRobloxにおけるG-SHOCKの試みは、従来からのデジタル広告とは一線を画す。あらゆる企業やブランドがひしめき合う次世代が熱狂するプ…WATCHNAVI Salon産業9/14(月) 21:20",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "「1回限り500円」のダイエットサプリを注文→後日“3ヶ月分”が届き、放置していたら法律事務所から請求書が！定期購入に同意した覚えがないのに、支払う必要があるのでしょうか？…出典 福岡県消費生活センター ホットな消費者ニュース 2026年9月号 消費者庁 通信販売における“最終確認画面”について 国民生活センター定期購入「返…ファイナンシャルフィールド経済総合9/14(月) 8:20",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "ヴァンテージIT株式会社が「Metaビジネスパートナー（バッジ取得企業）」に認定、美容サロンの集客支援で来店者数36倍の実績も - イザ！",
-      "date": "2026-09-16"
-    },
     {
       "title": "Rethink 2026",
       "date": "2026-09-17"
@@ -1510,99 +1469,49 @@
     {
       "title": "有働由美子、マツコ・デラックスの“自作”似顔絵を披露「とても似てます」「有働画伯」ファン絶賛…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/16(金) 7:50",
       "date": "2026-10-16"
+    },
+    {
+      "title": "LINEヤフー広告を開設したら何をする？広告掲載までの流れと確認ポイント",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "インストリーム広告とは？ 種類やメリット、費用、出稿方法を解説",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "AI時代の購買体験に対応する「エージェンティックコマース最適化」支援サービスを提供開始",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "株式会社レッドキリン、広告の不正クリックによるコンバージョン計測を防止するWordPress公式プラグイン「Redkirin Ad Click Verification」を無料公開 - PR TIMES",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "「ダークパターン」どう防ぐか 消費者庁が中間取りまとめ公表 2026.10.12付 - 公明新聞電子版プラス",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "【プレスリリース】 慶應義塾大学グローバルリサーチインスティテュートX Dignityセンターが「AI時代のデジタル広告倫理ヴィジョン」の骨子案を公表 | お知らせ - 慶應義塾",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "個人AIエージェントブームの暗礁：Metaモデルは複製困難、中国大手はエコシステムの壁に苦戦 - BigGo ファイナンス",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "【葬儀の見積もり】「後から増える」のはどこ？相談917件の事例から費目を整理…した行き違いは、決して珍しい話ではありません。 2026年9月18日、消費者庁は、テレビCMで家族葬を「10.45万円〜」と表示しながら、実際にはわず…LIMO経済総合10/17(土) 8:10",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "懸念強まる「オンラインオリパ」で突如“決済停止”される事例…再開目処立たず 原因不明も代行会社が再審査へ…月24日に返金相談の受付を開始。大手企業について消費者庁へ申出を行ったうえで、購入者38人が誇大広告などを理由に賠償金支払いを求める民事訴訟を東京地裁…オタク総研IT総合10/17(土) 7:15",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "【葬儀の見積もり】「後から増える」のはどこ？相談917件の事例から費目を整理…かな場合を除き30万8000円以上の費用が必要だったとして、葬儀業者に景品表示法に基づく措置命令を出しました。 人事コンサルティング会社のつむぎ株式会…LIMO経済総合10/17(土) 8:10",
+      "date": "2026-10-17"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "Google 、検索・Discover・ニュースのパーソナライズ機能を強化",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-content-personalization",
-      "summary": "・Googleが検索・Discover・ニュースの3サービスでパーソナライズ機能を強化すると発表した\n・ユーザーの関心や行動履歴に基づき、より最適化されたコンテンツ表示を目指す方針である\n・今回の発表では主に3つの新機能が紹介されたが、詳細は追加情報の確認が必要である",
-      "score": 5,
-      "reason": "検索広告表示環境に間接影響しうる業界動向",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "LINE Messaging APIとは？1to1を実現するメッセージ配信やリッチメニューの出し分け",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/line-massaging-api-overview",
-      "summary": "・LINE Messaging APIはLINE公式アカウントのユーザーデータを外部システムと連携できるAPIである\n・配信内容やリッチメニューなどの表示コンテンツを柔軟に出し分けることが可能になる\n・ユーザーの行動や属性に応じた1to1のコミュニケーション設計を実現できる",
-      "score": 4,
-      "reason": "LINE CRM寄りで運用型広告との直接関連薄い",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Meta for Business",
-      "title": "From Sock Drawer to Social Impact: How Sydney Sock Project Scaled a Cause",
-      "link": "https://www.facebook.com/business/news/sydney-sock-project-scaled-cause",
-      "summary": "・Sydney Sock Projectは社会貢献型の靴下ブランドとしてMeta広告を活用し売上600万ドルに成長した\n・オーストラリアの慈善団体に累計90万ドルを寄付しパーパス主導のブランド戦略を実践している\n・創業者が目的志向のD2Cブランドをデジタル広告で拡大した成長モデルとして注目を集めている",
-      "score": 4,
-      "reason": "Meta広告の事例紹介だが実務的な運用知見は薄い",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Google News",
-      "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？ - GIGAZINE",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNVXB5bkM0eHZmYW1zVVFjWWd6ZGJPaWo3UVYxdWJhMExETkQ0WU9hOC1jLWFveHpCZ1RTUjVISEJpNUNmcGF6ZDFxSWt6eFpRa0Voc19xUmplR1ZlNzlKbGI5YjA4eVgwbkxJ?oc=5",
-      "summary": "・Google は高性能AI技術を保有しながら詐欺的・悪質な広告の配信を十分に阻止できていない現状が指摘されている\n・広告収益がGoogleの主要な収入源であるため、厳格なブロックは自社の利益と相反する構造的問題がある\n・AI技術で不正広告を検出する能力があるにもかかわらず、経済的動機が対策の徹底を妨げているとの批判が高まっている",
-      "score": 6,
-      "reason": "Google広告審査の仕組み理解に有用",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Google News",
-      "title": "【専門家インタビュー】薬事法広告研究所 稲留万希子代表、「情報のアップデートを」 - online.bci.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBic2ROYm1qR0l1WU9jcmUteUpQZ3IyZUIwYW02azdNU2todVBZbVFwZTc2QzZmYl90Qm5LWWJUVzlaa3VUN0VqMjItX1dXbkJYUkF1blUzWQ?oc=5",
-      "summary": "・薬事法広告研究所の稲留万希子代表が広告表現における法規制の最新動向について専門家インタビューに応じた\n・健康食品や化粧品等の広告に関わる薬機法の知識を常にアップデートする重要性を強調している\n・広告主や制作者に対し最新の法改正やガイドライン変更への迅速な対応を呼びかけている",
-      "score": 5,
-      "reason": "薬事法広告規制の知見は実務に一定有用",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "消費者庁も規制強化へ――「解約ボタンがない…」悪質なUI「ダークパターン」とは？…示が、規制の対象になっていないことも問題になっています。 これを受け、消費者庁の「デジタル取引・特定商取引法等検討会」は、消費者が安心・安全に取引でき…Web担当者ForumIT総合9/15(火) 15:16",
-      "link": "https://news.yahoo.co.jp/articles/7a8473e05ac9cfdf7c0975c066bed22ce91454b5",
-      "summary": "・消費者庁がダークパターンと呼ばれる悪質なUI設計への規制強化に乗り出す方針を示した\n・解約ボタンの非表示など消費者を誤誘導するデザインが横行し問題化している\n・デジタル取引・特商法検討会で安心安全な取引環境の整備に向けた議論が進行中",
-      "score": 5,
-      "reason": "ダークパターン規制は広告LP設計に影響",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Google News",
-      "title": "買い物客の皆さん、デジタル広告スクリーンがまもなく至る所に登場します - Business Insider Japan",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFVXYTVNRVMzSVN6VHg2d21wOFcyNmN1Y3dDUnFXZ2xGNV8zMUx5VWlYYjBXQVpBTjE2OHdaV2Q5aEhKVG1zMXF5X2xNdk8xbmRSMG9sdUE4RmRTTmQ4U2ZQSzI2ejE2ZHl6b3JXcVJwZ1lVSHNKZkthendaZ0lMSjZublY1cXU4VG12OWNwZVdSUQ?oc=5",
-      "summary": "・小売店舗や商業施設でデジタル広告スクリーンの設置が急速に拡大しつつある\n・買い物客の購買行動データを活用したリテールメディア戦略が背景にある\n・広告主にとって店頭での消費者接点が新たな重要チャネルとして注目されている",
-      "score": 4,
-      "reason": "リテールメディア動向だが実務tips乏しい",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "〈開発者インタビュー〉時計ブランド初の挑戦！ G-SHOCKが1.5億人集うメタバース「Roblox」にオリジナルワールドを開設した意義…いる。 今回のRobloxにおけるG-SHOCKの試みは、従来からのデジタル広告とは一線を画す。あらゆる企業やブランドがひしめき合う次世代が熱狂するプ…WATCHNAVI Salon産業9/14(月) 21:20",
-      "link": "https://news.yahoo.co.jp/articles/449bc176630bdb25016f5dc22813b5186782824b",
-      "summary": "・G-SHOCKが時計ブランドとして初めてメタバース「Roblox」に公式ワールドを開設した\n・約1.5億人のユーザーを持つRobloxで次世代層へのブランド訴求を狙う試みである\n・従来のデジタル広告とは異なる体験型アプローチで若年層との接点構築を図る",
-      "score": 4,
-      "reason": "メタバース広告事例だが運用実務に遠い",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「1回限り500円」のダイエットサプリを注文→後日“3ヶ月分”が届き、放置していたら法律事務所から請求書が！定期購入に同意した覚えがないのに、支払う必要があるのでしょうか？…出典 福岡県消費生活センター ホットな消費者ニュース 2026年9月号 消費者庁 通信販売における“最終確認画面”について 国民生活センター定期購入「返…ファイナンシャルフィールド経済総合9/14(月) 8:20",
-      "link": "https://news.yahoo.co.jp/articles/6533d9db6b5edfca2a1e9b3890535eadb13d8818",
-      "summary": "・500円のダイエットサプリ注文後に3ヶ月分が届き法律事務所から請求書が届く定期購入トラブルが発生\n・通信販売では最終確認画面で定期購入条件の明示が義務化されており不備があれば契約無効の可能性がある\n・消費生活センターや国民生活センターへ早期相談し安易に支払わず契約内容の確認が重要である",
-      "score": 4,
-      "reason": "定期購入規制はLP・広告表現に関連",
-      "date": "2026-09-16"
-    },
-    {
-      "source": "Google News",
-      "title": "ヴァンテージIT株式会社が「Metaビジネスパートナー（バッジ取得企業）」に認定、美容サロンの集客支援で来店者数36倍の実績も - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YUlVuVVNWREV4T0NfY1ktaUYyREU4UDhaTjBZQXZwZWF5T3JSOVRZUjJzNU1mMjZiSHFIeHQtQzhlUDFBZUhZbTIwUVVmUWhmU1ZIUjkyWkRFdW1RY2NOdWtUcE1zNnB2M3VUR2dZcXYyU04zY2lrd1Rn?oc=5",
-      "summary": "・ヴァンテージIT株式会社がMetaビジネスパートナーのバッジ取得企業として正式に認定された\n・美容サロン向けの集客支援において来店者数を36倍に増加させた実績を持つ\n・Meta広告運用の高い専門性と成果が評価されパートナー認定につながった",
-      "score": 4,
-      "reason": "Meta認定の企業PRだが事例数値は参考",
-      "date": "2026-09-16"
-    },
     {
       "source": "Google広告",
       "title": "Rethink 2026",
@@ -4239,6 +4148,96 @@
       "score": 1,
       "reason": "芸能ニュースで広告運用と無関係",
       "date": "2026-10-16"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告を開設したら何をする？広告掲載までの流れと確認ポイント",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/what-to-do-after-opening-ly-ads-account/?list=23496",
+      "summary": "・LINEヤフー広告のアカウント開設後に必要な初期設定や広告掲載までの具体的な手順を解説している\n・広告の目的設定・商品選定・遷移先URL・利用広告種別など事前確認すべきポイントを整理している\n・初心者でも迷わず広告配信を開始できるよう、流れと確認事項を分かりやすくまとめた実践的な内容",
+      "score": 6,
+      "reason": "LINEヤフー広告の初期設定ガイドで初心者向け基礎情報",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "インストリーム広告とは？ 種類やメリット、費用、出稿方法を解説",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/marketing/what-is-instream-ad/?list=23496",
+      "summary": "・インストリーム広告は動画コンテンツの再生前後や途中に表示される動画広告形式である\n・スキップ可能型や不可型など複数種類があり課金方式や費用体系も異なる\n・広告予算の設定方法から具体的な出稿手順まで基礎知識を網羅的に解説している",
+      "score": 5,
+      "reason": "インストリーム広告の基礎解説で初心者向け一般知識",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "AI時代の購買体験に対応する「エージェンティックコマース最適化」支援サービスを提供開始",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-0915-000348",
+      "summary": "・電通デジタルがAIエージェント経由の購買に対応する「エージェンティックコマース最適化（ACO）」支援サービスを開始した\n・AIエージェントが商品情報や購入条件を正しく理解し、適切な比較・推薦を行える環境整備を支援する内容である\n・AI時代の新たな購買体験に備え、企業の商品情報最適化を通じてコマース競争力の強化を図るサービスとなる",
+      "score": 4,
+      "reason": "電通デジタルの新サービス発表で直接的運用影響は限定的",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Google News",
+      "title": "株式会社レッドキリン、広告の不正クリックによるコンバージョン計測を防止するWordPress公式プラグイン「Redkirin Ad Click Verification」を無料公開 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZG9hLWV3OEl3Z2hvdXA1cGNnbzhVQzlUTXpFYjJzZklNYjFlYVJIdlBNTWp3VXVFdkpia1J1eExhSzlFMjJVM1ozUHg4UGRiZTFnR3NYMzZ4S3lDRjJOY3g4djBlVnZ3VVE?oc=5",
+      "summary": "・株式会社レッドキリンが広告の不正クリックによる誤ったコンバージョン計測を防止するWordPressプラグインを開発・公開した\n・「Redkirin Ad Click Verification」はWordPress公式プラグインとして無料で提供され、誰でも導入可能である\n・広告主の正確な広告効果測定を支援し、不正クリックによる広告費の無駄遣いを防ぐことを目的としている",
+      "score": 7,
+      "reason": "不正クリック防止プラグインは広告計測精度に直結",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Google News",
+      "title": "「ダークパターン」どう防ぐか 消費者庁が中間取りまとめ公表 2026.10.12付 - 公明新聞電子版プラス",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdmNPNWstNHR4Z3dITlFpSUkwYUJEbUg5Rjk5azNiV3k4dkpTTlg5eFZTWWI0Q3paNVRiNExsUmNQdGFfNWR4LW5Pd21JY1Fub1pZZ2VUSVFCRGl2em5vX0g0WWh3NWwtT0JxRElB?oc=5",
+      "summary": "・消費者庁がウェブ上の「ダークパターン」対策に関する中間取りまとめを公表した\n・ダークパターンは消費者を意図せず不利な選択に誘導するUIデザイン手法である\n・今後の法整備やガイドライン策定に向けた防止策の方向性が示された",
+      "score": 5,
+      "reason": "ダークパターン規制は広告表現に間接的影響あり",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Google News",
+      "title": "【プレスリリース】 慶應義塾大学グローバルリサーチインスティテュートX Dignityセンターが「AI時代のデジタル広告倫理ヴィジョン」の骨子案を公表 | お知らせ - 慶應義塾",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KenV3cEJOa0hfRFl4RC0wY1BEY2ZEXzEwbmRYRnJGdi1wRVg3VjJzODhtOWhmYloxdlZyVm5wRzJpZG92cEpBMU52dVN6OEN0Y19BeTVXTWFPZjRHQ19ZaXRB?oc=5",
+      "summary": "・慶應義塾大学GRIのX Dignityセンターが「AI時代のデジタル広告倫理ヴィジョン」の骨子案を公表した\n・AI技術の進展に伴うデジタル広告領域の倫理的課題に対し学術的な指針を提示する取り組みである\n・人間の尊厳を軸に据え、AI活用が進む広告業界の健全な発展に向けた議論の基盤を目指す内容となっている",
+      "score": 4,
+      "reason": "広告倫理の骨子案公表で直接的運用影響は薄い",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Google News",
+      "title": "個人AIエージェントブームの暗礁：Metaモデルは複製困難、中国大手はエコシステムの壁に苦戦 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PRWFXWmhnZGN3ZDlod3ZCN3dUODBNNFc4d0ZJVTUyQXJDZEdNSW8yTDlPVGJWcDBfVlkyLVk2MEJUM2Q4TEJZeWtGMG1yeDBMcXZHRFJyb2FaYURTekJVZUxmdDRlQ0Nua25KUmNJOEV1amg4?oc=5",
+      "summary": "・個人向けAIエージェント市場が急成長する一方、技術的・構造的な課題が顕在化している\n・Metaの大規模AIモデルは独自インフラに依存しており、他社による複製が極めて困難と判明\n・中国大手テック企業はAIエージェント開発でエコシステム連携の壁に直面し普及が停滞している",
+      "score": 4,
+      "reason": "AIエージェント動向でMeta関連だが運用直結でない",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【葬儀の見積もり】「後から増える」のはどこ？相談917件の事例から費目を整理…した行き違いは、決して珍しい話ではありません。 2026年9月18日、消費者庁は、テレビCMで家族葬を「10.45万円〜」と表示しながら、実際にはわず…LIMO経済総合10/17(土) 8:10",
+      "link": "https://news.yahoo.co.jp/articles/223dd8fbfbde402772b404fa6b2a1222da2c09c1",
+      "summary": "・消費者庁が家族葬の広告価格と実際の費用の乖離について問題視し調査を実施した\n・相談917件の事例から見積もり後に費用が増加しやすい費目を整理し公表した\n・テレビCMで「10.45万円〜」と低価格表示しながら実費が大幅に上回る事例が多発",
+      "score": 3,
+      "reason": "景表法事例だが広告運用実務との関連は限定的",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "懸念強まる「オンラインオリパ」で突如“決済停止”される事例…再開目処立たず 原因不明も代行会社が再審査へ…月24日に返金相談の受付を開始。大手企業について消費者庁へ申出を行ったうえで、購入者38人が誇大広告などを理由に賠償金支払いを求める民事訴訟を東京地裁…オタク総研IT総合10/17(土) 7:15",
+      "link": "https://news.yahoo.co.jp/articles/219dd5608bda34b10dac8a07af22ca7f70940e9c",
+      "summary": "・オンラインオリパ事業者で決済が突如停止される事例が発生し再開の目処が立たない状況が続いている\n・決済代行会社が再審査を実施中で、購入者向けに返金相談の受付が開始された\n・購入者38人が誇大広告等を理由に大手事業者へ賠償請求の民事訴訟を東京地裁に提起した",
+      "score": 3,
+      "reason": "誇大広告訴訟の一般ニュースで運用実務と遠い",
+      "date": "2026-10-17"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【葬儀の見積もり】「後から増える」のはどこ？相談917件の事例から費目を整理…かな場合を除き30万8000円以上の費用が必要だったとして、葬儀業者に景品表示法に基づく措置命令を出しました。 人事コンサルティング会社のつむぎ株式会…LIMO経済総合10/17(土) 8:10",
+      "link": "https://news.yahoo.co.jp/articles/223dd8fbfbde402772b404fa6b2a1222da2c09c1",
+      "summary": "・葬儀見積もりでは提示後に追加費用が発生するケースが多く917件の相談事例から費目が整理された\n・最低でも30万8000円以上の費用が必要だった事例で景品表示法に基づく措置命令が出された\n・葬儀業者の広告表示と実際の費用に乖離があり消費者トラブルの実態が浮き彫りとなった",
+      "score": 3,
+      "reason": "景表法措置命令事例だが運用実務への影響は薄い",
+      "date": "2026-10-17"
     }
   ]
 }
