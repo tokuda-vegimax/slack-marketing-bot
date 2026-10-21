@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0818-000340": "2026-09-20",
-    "https://news.yahoo.co.jp/articles/c7abbc43c13244d345d009b9dca9817f8a2fae76": "2026-09-20",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tOHNhaUk5dGx3UmhsUEpNcTZvQWszV1JXZFVobXpqY1I4T2pGRlI3bV9LM081Wnh5NWl2Qm5CU0t1VWFIa2xGY05GX2ZKQ2kzTXhPcEUzbFhyMzlPd0o5Y2ZsYzMyM2R5Yk5PNTVHb0pzbEJFcGhuRThKZ2dHZVk?oc=5": "2026-09-20",
-    "https://news.yahoo.co.jp/articles/35b2ca7ecdefe7d4144cc300756e2cb3ab10fae2": "2026-09-20",
-    "https://news.yahoo.co.jp/articles/93ee6550a98e6cec7a48f8d129d6eef99ade761a": "2026-09-20",
-    "https://news.yahoo.co.jp/articles/adfe852dabcdf15803f163e8a4edfb11028dfc2e": "2026-09-20",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GUlZxNlNpbnE1UldOV3JpeHZ3TnJWNUl2S0duRnQ5WTFDTEptdFUxMUdaU3BhWFNac0JEXzlyVUhhUWJlTDI3LTIwc3bSAU9BVV95cUxNMk1kd0xaSWM3ZEl3aEpQSF8yRFVFZHp1anpTUldQWUJlR0dneFEyeDExeXBpNkVqbFl1NnRWTkd4NkViUjZKWEs3UEpTd2U4?oc=5": "2026-09-20",
-    "https://news.yahoo.co.jp/articles/6dca3a06f9305233899ce2789ed84930a7d82fd6": "2026-09-20",
-    "https://news.yahoo.co.jp/articles/023ceeec4113f6fa4dd5c23872b8543514e7b78e": "2026-09-20",
     "https://dentsudigital.co.jp/news/release/services/2026-0819-000341": "2026-09-21",
     "https://www.facebook.com/business/news/game-changers-series-1": "2026-09-21",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5od2d3cnY0RXNBWnRxa3p6eERFbXZjVXFZMUhkRzNOVFFjZVA1T1RUQ1JEc21HeEMtNWh5Zm9aN3g0VWg1cTJRVGctbkdjMUtLMEFrX0o1VEQ?oc=5": "2026-09-21",
@@ -295,49 +286,19 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRW9UNmhNamgxZE5lXzB5cTZqeVZKcUlyZWFhc2JlbUd4MjBSN3BzcmVNNUpVclM4YTJvQTY1TnBLS2NkejRlU3dDZ25hNjJLT3gxOVFMY0c0R0NkSTlqbk9SZmNHLTRBYkE?oc=5": "2026-10-20",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3N6c3BSc09mckJPbGRFc215Tjdid2liOUFjTGZJVkFZZXV3ZFozSm80dkVIbXBMMTlpU0hwb0o2YXY0Q1ZZdEZLb0hBZUZ4OUVfZEFDcWFJWEtTdEsyMG1mUEwtcDNLRHNHb3NNWVA4SWRxWG5xYlRYT09hU0l2UTV3?oc=5": "2026-10-20",
     "https://news.yahoo.co.jp/articles/244ffbeb2526bde0a7e6a35f576fdf383ec428c1": "2026-10-20",
-    "https://news.yahoo.co.jp/articles/9765b56f6e6e224cf164840db45d4c6460e45a71": "2026-10-20"
+    "https://news.yahoo.co.jp/articles/9765b56f6e6e224cf164840db45d4c6460e45a71": "2026-10-20",
+    "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-bereal": "2026-10-21",
+    "https://www.facebook.com/business/news/muse-smb-jaeluxe-shoetique": "2026-10-21",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1ORndFb0FDa3RXVDYyUU93UFIwbUtfVGdiaEZSZkZDNGlsd1FVdnp4SmNNUUppbkNjV1RYS2REM1ZfcTZ3Zk9VTnZwS2xhS2ppQlZwQ3hTWlQ3YVhGYllkRUcxWnA3dFc1U0pzQ1cwQ3JEdw?oc=5": "2026-10-21",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmo0cTItNXg4S29KQVZDbzg3WXdQeFI3clRTTzZ0LXR6N2t3NEJ5SjNOWi1laFZEZVo3QTFMRTMwWUp5SW4yaHk1dmJqM1VQTmxPSThfck9iYzE0LThFTzJiSzNXQ2RsNzVFa3VDaW1KX3JjMC1YckRqYjU0bHdrWg?oc=5": "2026-10-21",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OSkk4M2JJX3hoV0xGaXZOLUhzTjAwSDdyNzdpbGJkbDJqNHd5d3MtTnVMMURTbklzWmkzNmpIU3ZjdXJBZzMtZ3k3bVNSVnNaNVZtT1E0YjNmQ3FHVFhnZi1lVjNPQXFxNHc?oc=5": "2026-10-21",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWNrNUpfVVgydVkwcmNLeHBraFZlS1NwR251c21tUVVHbFgyV0xyZUtHbGl6MHdCN1h3VkloZUxzNDZTT3QtdnNCcEJUUXJJRkF3X3J5WHl5X3FlLTdzbEtnUXpOSERtdWdidVEzOEpkUUhBSV9BTWN3bTl6MldWOHpxdjFncTMwekI4cg?oc=5": "2026-10-21",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtS2pkVDV4QjYtald1T043RWI2TnpzeGphV0dlYloydk04b0pIc0ZKV05RQUE0NTgwNVZncW52Snd0WmhuczRQdDFuSjFGV1VYTVd5OTJIcnpDWldybkFobUJvRnBPY2tYVWRXcXR6Y2YzTzJFNVlONW1B0gGOAUFVX3lxTE40OWRJRnl0V1p3cFh2WHFLUW1odTZwZzBybm0zdVl4WVJ3Z3dkR0RYN2kyR1FkQ2FNV2s2d1ZiU21KNllnVVV5YVh5TW82ck56SnFTVlRpdlA3cFJ5QURJajZfQy15bUxJZzVlVG9NRVJyQXUzQnZ5NHAwWEFhbXN5eXZlSEFIVmxSLWxkdHc?oc=5": "2026-10-21",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VZ2ZjTTlJTkFUSkpMNDM5UVRpOWtVWVdCU2w4Q2xFZEFVYjBaMEFja21vc2pRYVJoaFR5OGY2anZ1SGI5STZQODJzd19faDEwVlNfZE5JV0VCSHlSRXhISll2UjdYOC1UQXlKXzlZVUdvXzV2SGpFVzhMWFd0bHc?oc=5": "2026-10-21",
+    "https://news.yahoo.co.jp/articles/93bb823972a8fe365a7428f83aaf3e4b251a165d": "2026-10-21",
+    "https://news.yahoo.co.jp/expert/articles/07402a41cdd70762d3e61e9f1d2ae3a8eafa96e9": "2026-10-21"
   },
   "titles": [
-    {
-      "title": "電通デジタルと電通、心理学理論とAIで顧客群の性格特性を可視化し、広告分析・配信を高度化する「BPTS（Big5 Personality Trait Segment）」を提供開始",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "食べログ・価格.com・@cosmeに眠る「次の資産」──AI時代になぜ「人間の口コミ」の価値が高まるのか…れ、毎日1億人以上のユーザーが新たな会話を生み出している。 これまでデジタル広告では、ユーザーの属性や閲覧履歴などのデータが広告配信に活用されてきた。AMP［アンプ］経済総合9/20(日) 6:02",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "「小さな森の家」CMで不当表示 葬儀会社に措置命令 消費者庁（時事通信） - Yahoo!ニュース",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "「オリパ」の販売サイト5社を提訴 誇大広告で2億円超の被害と主張…ったという。 原告側は、こうした表示が特定商取引法違反（誇大広告の禁止）や景品表示法違反（優良誤認表示など）にあたると主張。「虚偽や誤導的な表示で消…朝日新聞エンタメ総合9/17(木) 19:28",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "トレカ販売「誇大広告」 サイト運営5社を提訴 東京地裁…希少なトレカを獲得できる」とする広告が表示されていたが、実際には獲得できず、特定商取引法違反（誇大広告）や景品表示法違反（優良誤認）などに当たると訴えている。 …時事通信社会9/17(木) 18:54",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "宝くじ､パチンコより悪質なのに野放し…｢中身不明のくじ｣に数千万円を課金させる\"令和のギャンブル\"の闇…複数のオンラインオリパ事業者について特定商取引法上の問題があるとして、消費者庁に申告したことを公表した。 「被害金額が一人当たり数百万円というのはざ…プレジデントオンライン社会9/17(木) 19:15",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "宝くじ､パチンコより悪質なのに野放し…｢中身不明のくじ｣に数千万円を課金させる\"令和のギャンブル\"の闇…ろうか。 ■この市場をチェックしているのは誰か たとえば、広告や表示には「景品表示法」がある。通信販売には「特定商取引法」がある。中古品取引には「…プレジデントオンライン社会9/17(木) 19:15",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "年収が高い広告会社ランキング2025【全64社完全版】電博vsネット系代理店、年収の差は？ - ダイヤモンド・オンライン",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "市川團十郎、長女・麗禾＆長男・勸玄と「コンビニ行く我が家」貴重なオフショットに「仲良く2人で…」反響相次ぐ…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/20(日) 9:41",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "オンライン診療を受け、よく分からないまま薬の購入まで進んでしまいました。まだ届いていなくても、一度申し込んだ薬はキャンセルできないのでしょうか？…厚生労働省 オンライン診療について 国民・患者の皆様へ 消費者庁 特定商取引法ガイド 通信販売広告Q＆A 独立行政法人国民生活センター ニキビ、AGA治…ファイナンシャルフィールド経済総合9/18(金) 8:20",
-      "date": "2026-09-20"
-    },
     {
       "title": "電通PRコンサルティングと共同でメディア露出と生成AI回答の関係性を基点に、生成AI時代の情報設計を支援するGEO研究プロジェクトを発足",
       "date": "2026-09-21"
@@ -1509,99 +1470,49 @@
     {
       "title": "「消費者庁」をかたる偽メール 同庁が注意喚起 その内容とは 消費者庁から協力を依頼されたと称し、広告などで「No.1」をうたう企業に有料調査を持ちかけるメールが、複数の事業者に送られていた。消費者庁は10月…CNET JapanIT総合10/20(火) 5:10",
       "date": "2026-10-20"
+    },
+    {
+      "title": "Z世代SNS利用の最新潮流をキャッチアップ！ BeReal.から読み解くZ世代インサイトとマーケティング活用",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "The Team of One That Doesn't Look Like It",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？：電通デジタルに取材（1/2 ページ） - ITmedia",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "TikTok広告 を世界約40万の外部アプリへ配信。本当に成果へつながるか？ - DIGIDAY［日本版］",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "広告運用のインハウス化をAIと専門家で支える「インハウスマーケ」を始動 毎朝AIが広告を点検し、承認するだけで改善できる「インハウスAI」を月額5万円（税別）から提供開始 | 株式会社TUKUROのプレスリリース - PR TIMES",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "『2026年日本のデジタル広告インサイト』レポート - Sensor Tower",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "TikTokサミットコリアでAI戦略公開 広告成長率業界比1.8倍示す - CHOSUNBIZ - Chosunbiz",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "非営利団体の情報発信を支援 Googleの無償検索広告枠の導入・運用支援を本格展開（SINCEED株式会社） - Yahoo!ニュース",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "非営利団体の情報発信を支援 Googleの無償検索広告枠の導入・運用支援を本格展開（SINCEED株式会社）…告文の作成、配信状況の確認、継続的な改善が必要になる。また、通常のGoogle広告とは異なる利用条件や運用上のルールがあり、制度を正しく理解したうえで…Yahoo!ニュース PR［PR］経済総合10/21(水) 10:00",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "giobai「布団乾燥機」ダニ死滅根拠なし・SNSではインフルエンサーのステマも 消費者庁が措置命令 #エキスパートトピ…消費者庁は20日、根拠が不十分なまま布団乾燥機のダニ駆除や除菌性能をアピールした表示が、景品表示法の「優良誤認」に抵触するとして、東京・渋谷の販売業…矢野きくのライフ総合10/21(水) 7:26",
+      "date": "2026-10-21"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "電通デジタルと電通、心理学理論とAIで顧客群の性格特性を可視化し、広告分析・配信を高度化する「BPTS（Big5 Personality Trait Segment）」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0818-000340",
-      "summary": "・電通デジタルと電通が顧客群の性格特性を可視化する新ソリューション「BPTS」の提供を開始した\n・心理学の「Big5理論」を基盤に10万人規模の調査データとAI・統計モデルを活用して分析する\n・顧客の性格特性を把握することで広告分析や配信の高度化・最適化を実現する狙いがある",
-      "score": 4,
-      "reason": "電通の新ソリューション発表で企業プレスリリース寄り",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "食べログ・価格.com・@cosmeに眠る「次の資産」──AI時代になぜ「人間の口コミ」の価値が高まるのか…れ、毎日1億人以上のユーザーが新たな会話を生み出している。 これまでデジタル広告では、ユーザーの属性や閲覧履歴などのデータが広告配信に活用されてきた。AMP［アンプ］経済総合9/20(日) 6:02",
-      "link": "https://news.yahoo.co.jp/articles/c7abbc43c13244d345d009b9dca9817f8a2fae76",
-      "summary": "・食べログや価格.com等の口コミプラットフォームに蓄積された人間のレビューがAI時代の新たな資産として注目されている\n・従来のデジタル広告はユーザー属性や閲覧履歴に依存していたがAI生成コンテンツの普及で差別化が課題となっている\n・AI学習データとしても活用可能な「人間の本音の口コミ」の希少性と信頼性が今後さらに価値を高めると見込まれる",
-      "score": 5,
-      "reason": "AI時代の口コミデータ活用は広告戦略の参考になりうる",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Google News",
-      "title": "「小さな森の家」CMで不当表示 葬儀会社に措置命令 消費者庁（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tOHNhaUk5dGx3UmhsUEpNcTZvQWszV1JXZFVobXpqY1I4T2pGRlI3bV9LM081Wnh5NWl2Qm5CU0t1VWFIa2xGY05GX2ZKQ2kzTXhPcEUzbFhyMzlPd0o5Y2ZsYzMyM2R5Yk5PNTVHb0pzbEJFcGhuRThKZ2dHZVk?oc=5",
-      "summary": "・消費者庁が葬儀会社「小さな森の家」のCMに対し景品表示法違反で措置命令を出した\n・テレビCM等での価格表示が実際のサービス内容と異なる不当表示と認定された\n・葬儀業界の広告における価格訴求の適正化が改めて問われる事例となった",
-      "score": 4,
-      "reason": "不当表示の措置命令は広告表現の注意喚起として参考程度",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「オリパ」の販売サイト5社を提訴 誇大広告で2億円超の被害と主張…ったという。 原告側は、こうした表示が特定商取引法違反（誇大広告の禁止）や景品表示法違反（優良誤認表示など）にあたると主張。「虚偽や誤導的な表示で消…朝日新聞エンタメ総合9/17(木) 19:28",
-      "link": "https://news.yahoo.co.jp/articles/35b2ca7ecdefe7d4144cc300756e2cb3ab10fae2",
-      "summary": "・オリジナルパック販売サイト5社が誇大広告により2億円超の被害を与えたとして提訴された\n・原告側は虚偽や誤導的な表示が特定商取引法や景品表示法に違反すると主張している\n・オリパ市場の不透明な販売手法や消費者保護の課題が改めて浮き彫りとなった",
-      "score": 4,
-      "reason": "誇大広告訴訟事例は広告表現の法的リスク理解に参考",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "トレカ販売「誇大広告」 サイト運営5社を提訴 東京地裁…希少なトレカを獲得できる」とする広告が表示されていたが、実際には獲得できず、特定商取引法違反（誇大広告）や景品表示法違反（優良誤認）などに当たると訴えている。 …時事通信社会9/17(木) 18:54",
-      "link": "https://news.yahoo.co.jp/articles/93ee6550a98e6cec7a48f8d129d6eef99ade761a",
-      "summary": "・希少トレカが当たるとうたうオンライン販売サイト運営5社が東京地裁に提訴された\n・実際には希少カードを獲得できず特商法違反の誇大広告や景表法の優良誤認に該当と主張\n・オンラインくじ形式のトレカ販売における広告表示の適正性が法的に問われる事態となった",
-      "score": 4,
-      "reason": "誇大広告訴訟は広告コンプライアンス意識の参考になる",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "宝くじ､パチンコより悪質なのに野放し…｢中身不明のくじ｣に数千万円を課金させる\"令和のギャンブル\"の闇…複数のオンラインオリパ事業者について特定商取引法上の問題があるとして、消費者庁に申告したことを公表した。 「被害金額が一人当たり数百万円というのはざ…プレジデントオンライン社会9/17(木) 19:15",
-      "link": "https://news.yahoo.co.jp/articles/adfe852dabcdf15803f163e8a4edfb11028dfc2e",
-      "summary": "・オンラインオリパ事業者が特定商取引法違反の疑いで消費者庁に申告された\n・中身不明のくじに数千万円を課金させる仕組みが宝くじやパチンコより悪質と指摘\n・被害額は一人あたり数百万円規模に達し規制の不備が深刻な社会問題となっている",
-      "score": 3,
-      "reason": "景表法・特商法の話題で広告規制の周辺知識程度",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "宝くじ､パチンコより悪質なのに野放し…｢中身不明のくじ｣に数千万円を課金させる\"令和のギャンブル\"の闇…ろうか。 ■この市場をチェックしているのは誰か たとえば、広告や表示には「景品表示法」がある。通信販売には「特定商取引法」がある。中古品取引には「…プレジデントオンライン社会9/17(木) 19:15",
-      "link": "https://news.yahoo.co.jp/articles/adfe852dabcdf15803f163e8a4edfb11028dfc2e",
-      "summary": "・オンラインガチャは中身不明のくじに数千万円を課金させる令和の新たなギャンブルとして問題視されている\n・宝くじやパチンコより射幸性が高いにもかかわらず現状では法的規制がほぼなく野放し状態にある\n・景品表示法や特定商取引法など既存の法律では十分に対応できず監視体制の不備が指摘されている",
-      "score": 3,
-      "reason": "景表法・特商法の解説だが運用型広告実務とは遠い",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Google News",
-      "title": "年収が高い広告会社ランキング2025【全64社完全版】電博vsネット系代理店、年収の差は？ - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GUlZxNlNpbnE1UldOV3JpeHZ3TnJWNUl2S0duRnQ5WTFDTEptdFUxMUdaU3BhWFNac0JEXzlyVUhhUWJlTDI3LTIwc3bSAU9BVV95cUxNMk1kd0xaSWM3ZEl3aEpQSF8yRFVFZHp1anpTUldQWUJlR0dneFEyeDExeXBpNkVqbFl1NnRWTkd4NkViUjZKWEs3UEpTd2U4?oc=5",
-      "summary": "・広告会社64社の年収ランキング2025年版で電通・博報堂など大手総合代理店が上位を独占した\n・サイバーエージェント等のネット系代理店は成長著しいが平均年収では電博と依然大きな差がある\n・デジタルシフトが進む業界で総合代理店とネット系の待遇格差や今後の動向に注目が集まる",
-      "score": 3,
-      "reason": "広告業界の年収情報で実務ノウハウではなく業界動向",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "市川團十郎、長女・麗禾＆長男・勸玄と「コンビニ行く我が家」貴重なオフショットに「仲良く2人で…」反響相次ぐ…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/20(日) 9:41",
-      "link": "https://news.yahoo.co.jp/articles/6dca3a06f9305233899ce2789ed84930a7d82fd6",
-      "summary": "・市川團十郎が長女・麗禾と長男・勸玄とのコンビニ外出写真を公開し大きな反響を呼んだ\n・総務省調査でネット利用時間がテレビを上回り、デジタル広告市場が急速に拡大している\n・10年間でインターネットの1日平均利用時間が大幅に増加しメディア消費構造が変化した",
-      "score": 2,
-      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
-      "date": "2026-09-20"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "オンライン診療を受け、よく分からないまま薬の購入まで進んでしまいました。まだ届いていなくても、一度申し込んだ薬はキャンセルできないのでしょうか？…厚生労働省 オンライン診療について 国民・患者の皆様へ 消費者庁 特定商取引法ガイド 通信販売広告Q＆A 独立行政法人国民生活センター ニキビ、AGA治…ファイナンシャルフィールド経済総合9/18(金) 8:20",
-      "link": "https://news.yahoo.co.jp/articles/023ceeec4113f6fa4dd5c23872b8543514e7b78e",
-      "summary": "・オンライン診療で内容を理解しないまま薬の定期購入に進んでしまうトラブルが増加している\n・通信販売には クーリングオフ制度が適用されず、返品条件は事業者の特約に依存する\n・契約前に解約条件や返品ポリシーを確認し、不明点は消費生活センターへ相談すべきである",
-      "score": 2,
-      "reason": "消費者向け通販トラブル記事で広告運用とは無関係",
-      "date": "2026-09-20"
-    },
     {
       "source": "電通デジタル",
       "title": "電通PRコンサルティングと共同でメディア露出と生成AI回答の関係性を基点に、生成AI時代の情報設計を支援するGEO研究プロジェクトを発足",
@@ -4238,6 +4149,96 @@
       "score": 2,
       "reason": "偽メール注意喚起で広告運用との関連薄い",
       "date": "2026-10-20"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Z世代SNS利用の最新潮流をキャッチアップ！ BeReal.から読み解くZ世代インサイトとマーケティング活用",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/seikatsusha-ddm-bereal",
+      "summary": "・Z世代の価値観が「映え」重視から「実感」重視へと変化しておりSNS利用にも影響が出ている\n・加工なしのリアルな日常を共有するBeReal.がZ世代の新たな情報行動を象徴している\n・BeReal.の利用動向からZ世代インサイトを読み解きマーケティング活用の可能性を探る内容である",
+      "score": 5,
+      "reason": "Z世代インサイトはターゲティング設計に参考になるが運用直結ではない",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "The Team of One That Doesn't Look Like It",
+      "link": "https://www.facebook.com/business/news/muse-smb-jaeluxe-shoetique",
+      "summary": "・JaeLuxe Shoetique創業者が一人運営ながらMuse for Small Businessを活用し大量の未着手業務を解消\n・メールフロー・広告・ウェブサイト・UGCプログラムなど数年分のマーケ施策を短期間で構築完了\n・ホリデーシーズン前に全施策を整備し、少人数でもプロチーム並みの体制を実現した成功事例",
+      "score": 3,
+      "reason": "Meta小規模事業者向けツール事例で日本実務への直接的示唆薄い",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Google News",
+      "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？：電通デジタルに取材（1/2 ページ） - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ORndFb0FDa3RXVDYyUU93UFIwbUtfVGdiaEZSZkZDNGlsd1FVdnp4SmNNUUppbkNjV1RYS2REM1ZfcTZ3Zk9VTnZwS2xhS2ppQlZwQ3hTWlQ3YVhGYllkRUcxWnA3dFc1U0pzQ1cwQ3JEdw?oc=5",
+      "summary": "・OpenAIがChatGPTへの広告導入を開始し、新たなデジタル広告面として業界から大きな期待を集めている\n・電通デジタルへの取材で、ChatGPT広告単体では十分な効果が出にくい構造的な課題が指摘された\n・広告効果の最大化にはSEOやコンテンツ施策など他チャネルとの統合的な運用が不可欠とされる",
+      "score": 8,
+      "reason": "ChatGPT広告の実務的な効果検証で新媒体理解に直結",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok広告 を世界約40万の外部アプリへ配信。本当に成果へつながるか？ - DIGIDAY［日本版］",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmo0cTItNXg4S29KQVZDbzg3WXdQeFI3clRTTzZ0LXR6N2t3NEJ5SjNOWi1laFZEZVo3QTFMRTMwWUp5SW4yaHk1dmJqM1VQTmxPSThfck9iYzE0LThFTzJiSzNXQ2RsNzVFa3VDaW1KX3JjMC1YckRqYjU0bHdrWg?oc=5",
+      "summary": "・TikTokが広告配信網を拡大し世界約40万の外部アプリへ広告を配信する仕組みを展開している\n・TikTok外のアプリにも広告を届けることでリーチ拡大と新規ユーザー獲得を狙う戦略である\n・外部配信先の品質管理やブランドセーフティなど実際の広告成果への懸念も指摘されている",
+      "score": 8,
+      "reason": "TikTok広告の外部配信拡大は運用戦略に直接影響",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Google News",
+      "title": "広告運用のインハウス化をAIと専門家で支える「インハウスマーケ」を始動 毎朝AIが広告を点検し、承認するだけで改善できる「インハウスAI」を月額5万円（税別）から提供開始 | 株式会社TUKUROのプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OSkk4M2JJX3hoV0xGaXZOLUhzTjAwSDdyNzdpbGJkbDJqNHd5d3MtTnVMMURTbklzWmkzNmpIU3ZjdXJBZzMtZ3k3bVNSVnNaNVZtT1E0YjNmQ3FHVFhnZi1lVjNPQXFxNHc?oc=5",
+      "summary": "・株式会社TUKUROが広告運用のインハウス化を支援する新サービス「インハウスマーケ」を開始した\n・毎朝AIが広告アカウントを自動点検し、改善提案を承認するだけで運用できる「インハウスAI」を提供\n・月額5万円（税別）から利用可能で、AIと専門家の併用により低コストでのインハウス化を実現する",
+      "score": 7,
+      "reason": "AI活用の広告インハウス運用支援ツールで実務参考になる",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Google News",
+      "title": "『2026年日本のデジタル広告インサイト』レポート - Sensor Tower",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWNrNUpfVVgydVkwcmNLeHBraFZlS1NwR251c21tUVVHbFgyV0xyZUtHbGl6MHdCN1h3VkloZUxzNDZTT3QtdnNCcEJUUXJJRkF3X3J5WHl5X3FlLTdzbEtnUXpOSERtdWdidVEzOEpkUUhBSV9BTWN3bTl6MldWOHpxdjFncTMwekI4cg?oc=5",
+      "summary": "・Sensor Towerが2026年の日本デジタル広告市場を分析したインサイトレポートを公開した\n・日本市場における広告トレンドや成長予測など最新データを網羅的にまとめている\n・広告主やマーケターが中長期の戦略立案に活用できる市場動向資料となっている",
+      "score": 6,
+      "reason": "日本デジタル広告市場の動向レポートで業界理解に有用",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTokサミットコリアでAI戦略公開 広告成長率業界比1.8倍示す - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtS2pkVDV4QjYtald1T043RWI2TnpzeGphV0dlYloydk04b0pIc0ZKV05RQUE0NTgwNVZncW52Snd0WmhuczRQdDFuSjFGV1VYTVd5OTJIcnpDWldybkFobUJvRnBPY2tYVWRXcXR6Y2YzTzJFNVlONW1B0gGOAUFVX3lxTE40OWRJRnl0V1p3cFh2WHFLUW1odTZwZzBybm0zdVl4WVJ3Z3dkR0RYN2kyR1FkQ2FNV2s2d1ZiU21KNllnVVV5YVh5TW82ck56SnFTVlRpdlA3cFJ5QURJajZfQy15bUxJZzVlVG9NRVJyQXUzQnZ5NHAwWEFhbXN5eXZlSEFIVmxSLWxkdHc?oc=5",
+      "summary": "・TikTokが韓国でサミットを開催しAIを活用した広告戦略を公開した\n・TikTok広告の成長率は業界平均と比較して1.8倍の高水準を記録した\n・AI技術によるターゲティングやクリエイティブ最適化が成長を牽引している",
+      "score": 6,
+      "reason": "TikTokのAI広告戦略動向で今後の運用方針の参考",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Google News",
+      "title": "非営利団体の情報発信を支援 Googleの無償検索広告枠の導入・運用支援を本格展開（SINCEED株式会社） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VZ2ZjTTlJTkFUSkpMNDM5UVRpOWtVWVdCU2w4Q2xFZEFVYjBaMEFja21vc2pRYVJoaFR5OGY2anZ1SGI5STZQODJzd19faDEwVlNfZE5JV0VCSHlSRXhISll2UjdYOC1UQXlKXzlZVUdvXzV2SGpFVzhMWFd0bHc?oc=5",
+      "summary": "・SINCEED株式会社がGoogle Ad Grantsの導入・運用支援サービスを本格展開すると発表した\n・Google Ad Grantsは非営利団体向けに月額最大1万ドル分の検索広告枠を無償提供する制度である\n・非営利団体の認知拡大や寄付・ボランティア募集などの情報発信力強化を目的に支援を行う",
+      "score": 5,
+      "reason": "Google Ad Grants運用支援で非営利向け運用知見",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "非営利団体の情報発信を支援 Googleの無償検索広告枠の導入・運用支援を本格展開（SINCEED株式会社）…告文の作成、配信状況の確認、継続的な改善が必要になる。また、通常のGoogle広告とは異なる利用条件や運用上のルールがあり、制度を正しく理解したうえで…Yahoo!ニュース PR［PR］経済総合10/21(水) 10:00",
+      "link": "https://news.yahoo.co.jp/articles/93bb823972a8fe365a7428f83aaf3e4b251a165d",
+      "summary": "・SINCEED株式会社がGoogle Ad Grants（非営利団体向け無償検索広告枠）の導入・運用支援サービスを本格展開した\n・同制度は広告文作成や配信管理、継続的改善が必要で通常のGoogle広告とは異なる独自の利用条件やルールがある\n・非営利団体の情報発信力向上を目的に制度理解から運用改善まで一貫した支援体制を提供する方針である",
+      "score": 5,
+      "reason": "Google Ad Grantsの運用ルール解説を含み参考になる",
+      "date": "2026-10-21"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "giobai「布団乾燥機」ダニ死滅根拠なし・SNSではインフルエンサーのステマも 消費者庁が措置命令 #エキスパートトピ…消費者庁は20日、根拠が不十分なまま布団乾燥機のダニ駆除や除菌性能をアピールした表示が、景品表示法の「優良誤認」に抵触するとして、東京・渋谷の販売業…矢野きくのライフ総合10/21(水) 7:26",
+      "link": "https://news.yahoo.co.jp/expert/articles/07402a41cdd70762d3e61e9f1d2ae3a8eafa96e9",
+      "summary": "・消費者庁がgiobaiの布団乾燥機に対しダニ死滅等の表示根拠不十分として景表法違反の措置命令を発出\n・ダニ駆除や除菌性能の広告表示が優良誤認に該当し東京・渋谷の販売業者が処分対象となった\n・SNS上でインフルエンサーによるステルスマーケティングも確認され広告手法の問題も浮き彫りに",
+      "score": 4,
+      "reason": "ステマ・景表法の措置命令事例で法規制の参考程度",
+      "date": "2026-10-21"
     }
   ]
 }
