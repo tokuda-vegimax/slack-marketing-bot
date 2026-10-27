@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRmx3azZyWHFIRVVtb2VEbHBBZ1Raa2xXc3FWWllTYUJfMVlnTldwMjI5cVo5RHBKTWdQVjhBRXJ1czdjc1hsTTFVbVhpUjZyTUlMYjBVLWNjck05alVnZ1dB?oc=5": "2026-09-26",
-    "https://news.yahoo.co.jp/articles/25bf1b2fe9224a2cdaecf6b2f57c1c5cecaab0ef": "2026-09-26",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xem95UWh4VGxaQVRQQkVOcE44c1o0RGtzOUZxZTJWbHBzNWlwN3ZHaGJNQ0RMNk9JNFJIb0l0TGZFRmJVUHV0R2hjcUxRS2pSNXZKV1dKRFpHS3dkZndYdVl3WFZISXk4LW00?oc=5": "2026-09-26",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STW5qeWVuMFNROEJWbFlMa2M1b1FGSlFDOF9SX1pOUWM5UjJDbGFGSzZqZzlHU0ZqLTZyZFRtNWRFT2ltcHAwTlFSaUhIX243LTFrbFVCbC1qbWo4bVd3Z1BrUmxjRU1Kbm1TMlZoTDZsQlg4SmhDMHhaTWJYbVU?oc=5": "2026-09-26",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hOXp3dGJ3TDZGMDZQT0RfdnJvOFdMNE1jN3QzaU9jdGtGQ3ZKcXJNQnBfd1ltb3NDMld2eTF0RHQxdkJfUk1TUUItNllKNV9YRjItTzhjNEFqaDQ?oc=5": "2026-09-26",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXAxT290NExSaS11UkZERWVybk5ldGc3QkJqb0xlbHpENk9jMm5TdFVENzJjMkxpelNndTRTWk5meTk3VGs1QjFmeDZOY0U0XzVFR3NVT1lpbGNLdE81bjIxZGxKTnRCZDZ3d1hEMkNiMkhPZWdReEU0QVdCU05YQzhCb2ZRWTRvTkRHZFBlX2g5Nl9oZU5hdjhB?oc=5": "2026-09-26",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Y19KMzRGdWFIclVJYm51Mlh4c29wa0dnV0szQmpqZGdJanJBVXRhRjhVSnhJQ0hUTEgxWXM4X0E5NDhSUXBuSF82MlM2MGhRcGQxb1RnelNENC1xSHg4UUZ4bmFsSzQ4cnFILVhhV0IzMmN4emdF?oc=5": "2026-09-26",
-    "https://news.yahoo.co.jp/articles/165981a4ee502cb08b1d8fc80502593ce9b4a276": "2026-09-26",
-    "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcjUwUjd4bFJGU0pHc2VBX3hOeTNWNGFZTC1yeTZaUXY2elFKeDFtaGwyNGtCOUZFeEFFR3dOOFdkS1VLZzY1bXMtandIVUZMc1dLRVRMbmxzYV9sQTBXaEFqQTNDcDI0NXN5RXFPU1llRG1udzlSNkJiYWlLYWQ4anZiSlRjcDFVYURlUnlZS1JzbkFsdV8wa1YyekhLN2FlN2FhVnhnNW1Mc0tzSC1JRlNVS3RWRHhDQmEtSlN6YmxJQjJRdVNyVGRTcl9OZURKU1hhWmtmNVhVOW54TVRBamVPUEVQQ3JuMmptQllTNkVtWWpKc3BoSmExSWhjdHdfZzJNSG5uR0laRVE4Z0xMeFI5TnE4X0FHaGhzNQ?oc=5": "2026-09-26",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/line-placement-case-study/?list=23496": "2026-09-27",
     "https://news.yahoo.co.jp/articles/e0697b75403dc4a853af0c3fd4949664853117e7": "2026-09-27",
     "https://news.yahoo.co.jp/articles/687073ea5da53b34eadb9dbf0d3f7572cb253227": "2026-09-27",
@@ -298,49 +289,19 @@
     "https://news.yahoo.co.jp/articles/689c7c518e18d7bfb4062bb0e1550d411d06c47e": "2026-10-26",
     "https://news.yahoo.co.jp/articles/171354007bb85de471e51519ba2573dac6636dcb": "2026-10-26",
     "https://news.yahoo.co.jp/articles/ca9063c13418d0ca229121d63b599f8b98a07a7f": "2026-10-26",
-    "https://news.yahoo.co.jp/articles/c2f34c6b4fb4c4b70768fdc952890ab9069f9ea0": "2026-10-26"
+    "https://news.yahoo.co.jp/articles/c2f34c6b4fb4c4b70768fdc952890ab9069f9ea0": "2026-10-26",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496": "2026-10-27",
+    "https://oneder.hakuhodody-one.co.jp/blog/platform-update-insights": "2026-10-27",
+    "https://dentsudigital.co.jp/news/release/services/2026-1027-000358": "2026-10-27",
+    "https://oneder.hakuhodody-one.co.jp/blog/amazon-basic-term": "2026-10-27",
+    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-10-27",
+    "https://news.yahoo.co.jp/articles/a732019095159f62d0c13a42998e5558604e9252": "2026-10-27",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOTRKVXlUcjBPcDlVTXBpa29FcFFNVEFkbTVndDVKMjlrR1U3anhRMnZ6cnlkczh4YjRMLTBnc1liZkRDN1NtSWxtUjlyMFlqelBrLVVlWm9Ec1BENy1oM3l2NFBJMTh1cTgwTA?oc=5": "2026-10-27",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SX1JzWGItZ0ZYNTkwTkN3OVJ5ZW9lOFZKcUhjWU42WFBRcks5UjZrX3BNLXA5N2UzWkVleF9abzdRMlR0aERWblV6TUlBdlR6MlNrTGp2RnZPemFwczdOek5tS29JaXhxWFE?oc=5": "2026-10-27",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vaEM0bnRJeS1pUmJ0ZHJFM2pmcURSSklBeU9zbVREcEQtYzNDaWZVWTJRUHJGRVRBbjVTdEVvSVdKYnBhMEdUbmtHcU1KYWVmQjFvSlVRN0FGYXZIOTdYQk1yQ0xQVC1HRXRR?oc=5": "2026-10-27",
+    "https://news.yahoo.co.jp/articles/0b85c4e7ccaebc650ee6a4534168fdc35524c763": "2026-10-27"
   },
   "titles": [
-    {
-      "title": "【買取店のGoogle広告・リスティング広告改善】未成約・キャンセル・対象外査定を記録し、除外キーワードと広告文を見直す案件データ活用法を公開──広告クリック後の成約結果を広告改善に戻す方法 (2026年9月25日掲載) - ライブドアニュース",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "フェズがデータマーケティング「Urumo Ads」で「TVer広告」のCTV配信での購買検証機能提供…データで可視化する。 TVer広告はTVerユーザーにアプローチできる運用型広告プラットフォームで、ブランドマーケティングでの活用が増えているという。Web担当者ForumIT総合9/25(金) 15:01",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "Tety株式会社がLINE友だち追加計測ツール「Saku-L」を正式リリースしMeta広告対応を実現 - ニュースメディアVOIX",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "ダークパターン規制強化へ 消費者庁、悪質広告や煩雑な解約（共同通信） - Yahoo!ニュース",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "広告規制が厳格化？ 2024年の行政処分から見る広告表示の注意点 - 通販通信ECMO",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "AIは広告をより魅力的にすることができるが、人間らしくなりすぎると逆効果になる可能性はないのだろうか？ - Vietnam.vn",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "CASMとオリコが1st Party Dataを活用した新しいデジタル広告商品の開発に向けた協業開始 - ニュースメディアVOIX",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "「星5をつけるだけ」「口コミを書くだけ」が詐欺罪にあたることも。レビューは「証言」。注意すべきポイントは……高評価レビューを投稿した。その後、複数の事業者で同様のレビューが発覚。消費者庁による調査が行われ、いわゆる“ステルスマーケティング”として問題化した。婦人公論.jpライフ総合9/23(水) 12:30",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "「星5をつけるだけ」「口コミを書くだけ」が詐欺罪にあたることも。レビューは「証言」。注意すべきポイントは……た」と説明したが、書類送検された。 ココがアウト!景品表示法違反（ステルスマーケティング規制） 広告であることを隠して高評価レビューを投稿する行為などが対象。婦人公論.jpライフ総合9/23(水) 12:30",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "大手広告代理店の復調と戦略再設計 - media-innovation.jp",
-      "date": "2026-09-26"
-    },
     {
       "title": "LINE広告からの移行で運用はどう変わる？代理店に聞くLINEヤフー広告のLINE面運用のポイント",
       "date": "2026-09-27"
@@ -1516,99 +1477,49 @@
     {
       "title": "「娘のバレエもやめさせました」ヤクザ引退→会社立ち上げ→最初は順調だったけど…バブル崩壊で「借金まみれ」になった男が選んだ【あまりに哀しい選択】…たが、僕自身は悔しさがありました。 組織に戻った僕は、ワイズ社という広告代理店を立ち上げました。 当時、よく飲みに行くなど、付き合いのあったスナッ…文春オンライン社会10/26(月) 7:00",
       "date": "2026-10-26"
+    },
+    {
+      "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "媒体アップデートのキャッチアップが、広告運用の『解像度』を変える理由 ～仕様変更を見落とさない運用分析のポイント ～",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "生活者の購買行動の調査を実施　節約志向が強まる中、利便性・情報活用・安全性も意識した「買い方の最適化」が進み、AI利用は全世代へ",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "【Amazon基本編】EC担当になったら最初に知っておきたいAmazon基本用語6選",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "GA4でAI対話分析も可能に！ 2025～2026年の押さえるべき【新機能5選】…えて」 GA4のデータだけでなく、連携した「サーチコンソール」や「Google広告のキャンペーンデータ」、「Googleビジネスプロフィール」もアスク…Web担当者ForumIT総合10/26(月) 15:18",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "ソルティドッグのGoogle広告アカウントに不正アクセス、複雑なパスワード・パスキー・セキュリティキーによる2段階認証を突破 - ScanNetSecurity",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "博報堂、新聞社・出版社の編集力をAI時代の広告に生かす「Shomei AIO」始動 - Media Innovation",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "当社グループ会社を介したデジタル広告の配信等 - KDDI",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "安田成美、“オーロラ”写真を披露「感動！」ファンからも感嘆の声「神秘的です」「レア」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/27(火) 10:31",
+      "date": "2026-10-27"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "【買取店のGoogle広告・リスティング広告改善】未成約・キャンセル・対象外査定を記録し、除外キーワードと広告文を見直す案件データ活用法を公開──広告クリック後の成約結果を広告改善に戻す方法 (2026年9月25日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRmx3azZyWHFIRVVtb2VEbHBBZ1Raa2xXc3FWWllTYUJfMVlnTldwMjI5cVo5RHBKTWdQVjhBRXJ1czdjc1hsTTFVbVhpUjZyTUlMYjBVLWNjck05alVnZ1dB?oc=5",
-      "summary": "・買取店向けGoogle広告改善策として未成約・キャンセル・対象外査定の案件データを記録・分析する手法を紹介\n・蓄積した成約結果データをもとに除外キーワードの追加や広告文の見直しを行い無駄クリックを削減する方法を公開\n・広告クリック後の実際の成約状況を広告運用にフィードバックし費用対効果を高めるPDCAサイクルを提唱",
-      "score": 8,
-      "reason": "Google広告の除外KW・広告文改善の実践的手法",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "フェズがデータマーケティング「Urumo Ads」で「TVer広告」のCTV配信での購買検証機能提供…データで可視化する。 TVer広告はTVerユーザーにアプローチできる運用型広告プラットフォームで、ブランドマーケティングでの活用が増えているという。Web担当者ForumIT総合9/25(金) 15:01",
-      "link": "https://news.yahoo.co.jp/articles/25bf1b2fe9224a2cdaecf6b2f57c1c5cecaab0ef",
-      "summary": "・フェズがデータマーケティング基盤「Urumo Ads」でTVer広告のCTV配信における購買検証機能を提供開始\n・TVer広告はTVerユーザー向け運用型広告プラットフォームでブランドマーケティング活用が拡大中\n・広告接触後の購買行動をデータで可視化しCTV広告の効果測定を実現する取り組み",
-      "score": 7,
-      "reason": "TVer運用型広告のCTV購買検証機能、実務に有用",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Google News",
-      "title": "Tety株式会社がLINE友だち追加計測ツール「Saku-L」を正式リリースしMeta広告対応を実現 - ニュースメディアVOIX",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xem95UWh4VGxaQVRQQkVOcE44c1o0RGtzOUZxZTJWbHBzNWlwN3ZHaGJNQ0RMNk9JNFJIb0l0TGZFRmJVUHV0R2hjcUxRS2pSNXZKV1dKRFpHS3dkZndYdVl3WFZISXk4LW00?oc=5",
-      "summary": "・Tety株式会社がLINE友だち追加の広告効果を計測できるツール「Saku-L」を正式リリースした\n・Meta広告（Facebook・Instagram）経由のLINE友だち追加を正確に計測する機能を実装\n・広告プラットフォームとLINE間の成果連携を可能にし、運用最適化を支援するツールとなる",
-      "score": 7,
-      "reason": "LINE友だち追加×Meta広告の計測ツール、実務活用可",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Google News",
-      "title": "ダークパターン規制強化へ 消費者庁、悪質広告や煩雑な解約（共同通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STW5qeWVuMFNROEJWbFlMa2M1b1FGSlFDOF9SX1pOUWM5UjJDbGFGSzZqZzlHU0ZqLTZyZFRtNWRFT2ltcHAwTlFSaUhIX243LTFrbFVCbC1qbWo4bVd3Z1BrUmxjRU1Kbm1TMlZoTDZsQlg4SmhDMHhaTWJYbVU?oc=5",
-      "summary": "・消費者庁がダークパターンに対する規制強化の方針を打ち出した\n・悪質なウェブ広告や意図的に煩雑化された解約手続きが主な対象となる\n・消費者の誤認や不利益を誘発するUI設計への法的対応が今後進む見通し",
-      "score": 6,
-      "reason": "ダークパターン規制強化は広告表現に影響しうる",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Google News",
-      "title": "広告規制が厳格化？ 2024年の行政処分から見る広告表示の注意点 - 通販通信ECMO",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hOXp3dGJ3TDZGMDZQT0RfdnJvOFdMNE1jN3QzaU9jdGtGQ3ZKcXJNQnBfd1ltb3NDMld2eTF0RHQxdkJfUk1TUUItNllKNV9YRjItTzhjNEFqaDQ?oc=5",
-      "summary": "・2024年の行政処分事例を基に広告表示規制の厳格化傾向を分析した記事が公開された\n・景品表示法など広告関連法規の違反に対する当局の取り締まりが強化されている状況を解説\n・EC・通販事業者が注意すべき広告表示のポイントや法令順守の重要性を提示している",
-      "score": 6,
-      "reason": "広告表示の行政処分事例は運用時の注意点として有用",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Google News",
-      "title": "AIは広告をより魅力的にすることができるが、人間らしくなりすぎると逆効果になる可能性はないのだろうか？ - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXAxT290NExSaS11UkZERWVybk5ldGc3QkJqb0xlbHpENk9jMm5TdFVENzJjMkxpelNndTRTWk5meTk3VGs1QjFmeDZOY0U0XzVFR3NVT1lpbGNLdE81bjIxZGxKTnRCZDZ3d1hEMkNiMkhPZWdReEU0QVdCU05YQzhCb2ZRWTRvTkRHZFBlX2g5Nl9oZU5hdjhB?oc=5",
-      "summary": "・AI活用により広告のパーソナライズや訴求力が向上し、消費者の関心を引く効果が期待されている\n・一方でAI生成コンテンツが人間らしくなりすぎると不気味の谷現象を招き逆効果になるリスクがある\n・広告効果を最大化するにはAIと人間の適切なバランスを見極める戦略設計が不可欠とされる",
-      "score": 5,
-      "reason": "AI広告クリエイティブの効果に関する一般的知見",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Google News",
-      "title": "CASMとオリコが1st Party Dataを活用した新しいデジタル広告商品の開発に向けた協業開始 - ニュースメディアVOIX",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Y19KMzRGdWFIclVJYm51Mlh4c29wa0dnV0szQmpqZGdJanJBVXRhRjhVSnhJQ0hUTEgxWXM4X0E5NDhSUXBuSF82MlM2MGhRcGQxb1RnelNENC1xSHg4UUZ4bmFsSzQ4cnFILVhhV0IzMmN4emdF?oc=5",
-      "summary": "・CASMとオリコが1st Party Dataを活用した新たなデジタル広告商品の共同開発で協業を開始した\n・オリコが保有する顧客データを活かし精度の高いターゲティング広告の実現を目指す\n・Cookie規制強化を背景に1st Party Data活用の広告ソリューション需要が高まっている",
-      "score": 4,
-      "reason": "1st Partyデータ活用の協業発表、企業PR寄り",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「星5をつけるだけ」「口コミを書くだけ」が詐欺罪にあたることも。レビューは「証言」。注意すべきポイントは……高評価レビューを投稿した。その後、複数の事業者で同様のレビューが発覚。消費者庁による調査が行われ、いわゆる“ステルスマーケティング”として問題化した。婦人公論.jpライフ総合9/23(水) 12:30",
-      "link": "https://news.yahoo.co.jp/articles/165981a4ee502cb08b1d8fc80502593ce9b4a276",
-      "summary": "・高評価レビューの投稿が詐欺罪に問われる可能性があり、口コミは法的に「証言」と同等の重みを持つと指摘\n・複数事業者で同様のやらせレビューが発覚し、消費者庁がステルスマーケティングとして調査・問題化した\n・消費者庁のステマ規制強化を背景に、広告主・投稿者双方が法的リスクを負う時代に突入している",
-      "score": 4,
-      "reason": "ステマ規制の注意喚起だが実務テクニックではない",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「星5をつけるだけ」「口コミを書くだけ」が詐欺罪にあたることも。レビューは「証言」。注意すべきポイントは……た」と説明したが、書類送検された。 ココがアウト!景品表示法違反（ステルスマーケティング規制） 広告であることを隠して高評価レビューを投稿する行為などが対象。婦人公論.jpライフ総合9/23(水) 12:30",
-      "link": "https://news.yahoo.co.jp/articles/165981a4ee502cb08b1d8fc80502593ce9b4a276",
-      "summary": "・虚偽の高評価レビュー投稿は詐欺罪に問われる可能性があり書類送検された事例も存在する\n・広告と隠して好意的口コミを書くステルスマーケティングは景品表示法違反の対象となる\n・レビューは法的に「証言」と同等の重みがあり安易な投稿にもリスクが伴う点に注意が必要",
-      "score": 4,
-      "reason": "ステマ規制の注意喚起、id6と重複内容",
-      "date": "2026-09-26"
-    },
-    {
-      "source": "Google News",
-      "title": "大手広告代理店の復調と戦略再設計 - media-innovation.jp",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcjUwUjd4bFJGU0pHc2VBX3hOeTNWNGFZTC1yeTZaUXY2elFKeDFtaGwyNGtCOUZFeEFFR3dOOFdkS1VLZzY1bXMtandIVUZMc1dLRVRMbmxzYV9sQTBXaEFqQTNDcDI0NXN5RXFPU1llRG1udzlSNkJiYWlLYWQ4anZiSlRjcDFVYURlUnlZS1JzbkFsdV8wa1YyekhLN2FlN2FhVnhnNW1Mc0tzSC1JRlNVS3RWRHhDQmEtSlN6YmxJQjJRdVNyVGRTcl9OZURKU1hhWmtmNVhVOW54TVRBamVPUEVQQ3JuMmptQllTNkVtWWpKc3BoSmExSWhjdHdfZzJNSG5uR0laRVE4Z0xMeFI5TnE4X0FHaGhzNQ?oc=5",
-      "summary": "・大手広告代理店が業績の回復基調にあり、市場環境の変化に対応した戦略の見直しを進めている\n・デジタル領域への投資強化や事業構造の転換が復調の主要な要因として注目されている\n・今後の成長に向けて広告ビジネスモデルの再設計と新たな収益源の確保が課題となっている",
-      "score": 4,
-      "reason": "大手代理店の業績動向、業界知見として参考程度",
-      "date": "2026-09-26"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "LINE広告からの移行で運用はどう変わる？代理店に聞くLINEヤフー広告のLINE面運用のポイント",
@@ -4254,6 +4165,96 @@
       "score": 1,
       "reason": "ヤクザ引退体験談で広告運用と無関係",
       "date": "2026-10-26"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496",
+      "summary": "・LINEヤフーの検索連動型ショッピング広告は商品画像や価格を検索結果に表示できる広告形式である\n・掲載面はYahoo!検索やAgent iなど複数あり視認性の高い位置に配信される\n・商品情報を直接訴求できるためCVR向上が期待でき配信開始までの流れも解説されている",
+      "score": 8,
+      "reason": "主要媒体の広告プロダクト解説で実務直結",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "媒体アップデートのキャッチアップが、広告運用の『解像度』を変える理由 ～仕様変更を見落とさない運用分析のポイント ～",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/platform-update-insights",
+      "summary": "・Google検索結果ページ下部の広告関連性向上を目的に掲載仕様が変更された\n・同一広告主が2枠掲載された場合にCTRが30〜40%低下する事象が発生した\n・ユーザーが下部閲覧後に上部へ戻る行動データに基づき関連性改善が図られた",
+      "score": 8,
+      "reason": "Google検索広告の仕様変更と影響分析で実践的",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "生活者の購買行動の調査を実施　節約志向が強まる中、利便性・情報活用・安全性も意識した「買い方の最適化」が進み、AI利用は全世代へ",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-1027-000358",
+      "summary": "・電通デジタルが第5回「EC・店頭をまたぐ購買行動実態調査2026」を実施しオンラインとオフラインを横断した生活者の購買行動を分析した\n・節約志向が強まる中でも利便性・情報活用・安全性を重視した「買い方の最適化」が生活者の間で進行している\n・購買行動におけるAI活用が特定世代に限らず全世代へと広がりを見せていることが明らかになった",
+      "score": 5,
+      "reason": "購買行動調査でマーケ全般の業界動向情報",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "【Amazon基本編】EC担当になったら最初に知っておきたいAmazon基本用語6選",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/amazon-basic-term",
+      "summary": "・Amazon EC担当者向けにまず覚えるべき基本用語6選を解説する入門記事\n・Amazonは主に4種類のページ構造で構成されておりその理解が用語習得の前提となる\n・EC運用初心者がAmazonの仕組みを体系的に学ぶための基礎知識を整理している",
+      "score": 4,
+      "reason": "EC基礎用語解説で広告運用との直接関連薄い",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
+      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
+      "summary": "・サイバーエージェントが広告配信運用を自動化するAIエージェント「効果おまかせAI」の提供を開始した\n・Meta広告での先行導入を皮切りにMicrosoft広告やTikTok広告など対応媒体を順次拡大予定\n・化粧品分野での先行導入実績をもとに段階的に機能拡張し広告運用の効率化を推進する",
+      "score": 9,
+      "reason": "CA社のAI広告運用エージェント発表で実務影響大",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GA4でAI対話分析も可能に！ 2025～2026年の押さえるべき【新機能5選】…えて」 GA4のデータだけでなく、連携した「サーチコンソール」や「Google広告のキャンペーンデータ」、「Googleビジネスプロフィール」もアスク…Web担当者ForumIT総合10/26(月) 15:18",
+      "link": "https://news.yahoo.co.jp/articles/a732019095159f62d0c13a42998e5558604e9252",
+      "summary": "・GA4が2025〜2026年に向けAI対話分析など注目の新機能5つを追加予定と発表\n・サーチコンソールやGoogle広告、Googleビジネスプロフィールとの連携データも分析可能に\n・GA4の「質問して」機能でAIに自然言語で問いかけ複数データソースを横断分析できる",
+      "score": 8,
+      "reason": "GA4新機能5選の解説で広告運用の分析改善に直結",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "Google News",
+      "title": "ソルティドッグのGoogle広告アカウントに不正アクセス、複雑なパスワード・パスキー・セキュリティキーによる2段階認証を突破 - ScanNetSecurity",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOTRKVXlUcjBPcDlVTXBpa29FcFFNVEFkbTVndDVKMjlrR1U3anhRMnZ6cnlkczh4YjRMLTBnc1liZkRDN1NtSWxtUjlyMFlqelBrLVVlWm9Ec1BENy1oM3l2NFBJMTh1cTgwTA?oc=5",
+      "summary": "・ソルティドッグのGoogle広告アカウントが不正アクセスを受けたことが判明した\n・複雑なパスワードやパスキー、セキュリティキーによる2段階認証が突破された\n・高度なセキュリティ対策を講じていても防げなかった事例として業界に警鐘を鳴らしている",
+      "score": 7,
+      "reason": "Google広告アカウント不正アクセス事例で実務上の警戒必須",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "Google News",
+      "title": "博報堂、新聞社・出版社の編集力をAI時代の広告に生かす「Shomei AIO」始動 - Media Innovation",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SX1JzWGItZ0ZYNTkwTkN3OVJ5ZW9lOFZKcUhjWU42WFBRcks5UjZrX3BNLXA5N2UzWkVleF9abzdRMlR0aERWblV6TUlBdlR6MlNrTGp2RnZPemFwczdOek5tS29JaXhxWFE?oc=5",
+      "summary": "・博報堂が新聞社・出版社の編集力をAI時代の広告に活用する新サービス「Shomei AIO」を開始した\n・メディア企業が持つコンテンツ制作力や信頼性を広告領域に掛け合わせる取り組みとなる\n・AI技術と編集ノウハウを融合し、質の高い広告コミュニケーションの実現を目指す",
+      "score": 5,
+      "reason": "博報堂の新広告サービスで業界動向として参考",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "Google News",
+      "title": "当社グループ会社を介したデジタル広告の配信等 - KDDI",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vaEM0bnRJeS1pUmJ0ZHJFM2pmcURSSklBeU9zbVREcEQtYzNDaWZVWTJRUHJGRVRBbjVTdEVvSVdKYnBhMEdUbmtHcU1KYWVmQjFvSlVRN0FGYXZIOTdYQk1yQ0xQVC1HRXRR?oc=5",
+      "summary": "・KDDIがグループ会社を通じたデジタル広告配信に関する情報を公表した\n・通信キャリアとしての顧客基盤を活用した広告事業の展開が示されている\n・記事本文の詳細が不足しており、具体的な施策内容の確認が必要である",
+      "score": 4,
+      "reason": "KDDIグループのデジタル広告配信に関する企業発表",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安田成美、“オーロラ”写真を披露「感動！」ファンからも感嘆の声「神秘的です」「レア」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/27(火) 10:31",
+      "link": "https://news.yahoo.co.jp/articles/0b85c4e7ccaebc650ee6a4534168fdc35524c763",
+      "summary": "・安田成美がオーロラの写真をSNSで公開しファンから「神秘的」「レア」と感嘆の声が寄せられた\n・総務省調査でネットの1日平均利用時間がテレビを上回り10年間で大幅に増加していることが判明\n・デジタル広告市場が急拡大しておりメディア消費の主軸がテレビからネットへ移行している",
+      "score": 2,
+      "reason": "芸能ニュースにデジタル広告市場の話題が混在",
+      "date": "2026-10-27"
     }
   ]
 }
