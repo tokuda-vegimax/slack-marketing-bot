@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VbkNhd0JWcVVkcDA3R2RKbXl6Y2FXbW95SWpvdHp5VjFYR0xNM3ptdlVyZkRia2RXQ2J1QmtHbzNwX2lDWnZpd2FNd3ExQWcwUkhYRXlwS2pWZGZXX2NwNnhrS2FxZzhX?oc=5": "2026-09-30",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnNObFZOM2x0N19GLTZzQUlPY2tOSjlzNXQwZVgzVVN1X1F1VFo3aU5kUmxRZ0hGMkxiZS1lVmNVMngyMnhVN1B3V29IUkFYS3N0dzF5SEt5XzFhSWtqMjgzRkg5V0FobEZlS2dLMVdTY3JwTEJfWjZnSkdzd0pISUJGYlVjZkNoYWNHSURGV1RUSE5KOUplQzlrQk9aYUxxdWtSUzRRTUxXMTg?oc=5": "2026-09-30",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVEdGWmN4UnNqSmhPN05KUGdHcHNfdnI4V3psWDUwMlYzQ2NYNDJBYUJUTnQ4UGlLTEIyUVlfZDZLX1dubE43VWF0VVpBLTFNS3VCV3BKU2hTSm8?oc=5": "2026-09-30",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSlp6Y0lNel9nZnNmaVpJYzAwMTc3bk95R2lCTXdMT3dVeFRPT1pOSDlCZGRzTFAzZTRwckFEeGowYnpYV3haMWRaelN6Q1B0Nk1aUGhpZTRVZkNMcXMyMmczNEtlSURmRDgw?oc=5": "2026-09-30",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCT0dWUjB3eElHOVc1VU1IY0J4b2hOTHNOSVR6NEJHRHZtbjlObUc1LVZHeU84TlE4TkNiM0F6QmVQbUI1bFlCT2JlS0NSYVRXQUluM3BGcDdDcjVPbnFrSDk5VXROUzUweWc?oc=5": "2026-09-30",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMEUyZWRsVWcxOW5rRFJkTHRGZXpMdVFsRUNTdzB6VUdtem1RbWpybFVyejFkd19rOHRta1pXbE5VbmtZQUE?oc=5": "2026-09-30",
-    "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e": "2026-09-30",
-    "https://news.yahoo.co.jp/articles/e916434d84c23dfaee40684a713c7d5c851ebe7b": "2026-09-30",
-    "https://news.yahoo.co.jp/articles/b917d1064b6382cf001eec204729de8ecc6babd0": "2026-09-30",
-    "https://news.yahoo.co.jp/articles/05a602337ba68ee6292952db30bae015b577fa71": "2026-09-30",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/service-information/instream-ad-lydd-cs/?list=23496": "2026-10-01",
     "https://www.lycbiz.com/jp/column/line-mini-app/technique/line-mini-app-development/": "2026-10-01",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sOGJ3NUdqUjJ3WHExd1VnQmJIVzdDMzY1MVV0dkpGUWtBQ0pZa1p6XzVxLWVMdmNSMnVvZ3JONVZFLVpGNkx5ckhLV3U2UTlKclVnekdYVl9QRmM0dGJ5NFp2amNfUQ?oc=5": "2026-10-01",
@@ -299,49 +289,19 @@
     "https://news.yahoo.co.jp/articles/31c4b83c2cd838c1404fc122dd8acaa02d15159c": "2026-10-30",
     "https://news.yahoo.co.jp/articles/3f57a0fafccef17aef61fc80f72f839c95b2087b": "2026-10-30",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdHpyVU04eU9vQnNHRDQtUDJBYzhlLWxoQ2lZSGd2RGVfY0V5VjFMVTBBWEZwWWRFZmMxWnptMk43eEs0cWdJRzJySTJhS0s2ZGwxaTUwOUhZdW5LX2U0V29ldVBqTzNUS0dsZXNCVno0dzZkQVEyQ2pOZldDems?oc=5": "2026-10-30",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zS2xRWmxySDhYS1piS1lZTl9NVzZ2eC16OWNZWW9RM0dCamNQUTN3ZXpUSjJhMlk3OU0zV3JmMEtKSkRmV0htaVl2Rl9mOHJzaGxSTnZkZHVXSXZicUczeWg5S21ZWVljTThvMWFHTzlaX1loNlE?oc=5": "2026-10-30"
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zS2xRWmxySDhYS1piS1lZTl9NVzZ2eC16OWNZWW9RM0dCamNQUTN3ZXpUSjJhMlk3OU0zV3JmMEtKSkRmV0htaVl2Rl9mOHJzaGxSTnZkZHVXSXZicUczeWg5S21ZWVljTThvMWFHTzlaX1loNlE?oc=5": "2026-10-30",
+    "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/lyda_start_30days/?list=23496": "2026-10-31",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZUEc5cFA1a0duOEU4UHV2T2ttemRpUnh5emhGblg1bXc5cDBnSGNRMVJiZjZFQzE3a2ItX1gxRDhiS1daSm9LblJYeVBMZnhMeFg3YmtfRDBScHhCVkN4SHhDM2h5ZFpRYnBFcA?oc=5": "2026-10-31",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YaUY1QzhsM3BkbHE4Q0Y0MGtaVUJtMnBvR2Q5YWt6bTZVRkpiR3l1c1RZM0g4LXNFZHQySjU4YUZGZng2eTFyYkl0Smx2WHo3ZWdnZmlOcw?oc=5": "2026-10-31",
+    "https://news.yahoo.co.jp/articles/9599069be2f9bef43f164edd482333aac398bf76": "2026-10-31",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNVloeUhBQkFSRE42czB5TElSVzRxUDUtam5YTEVMdnhaNDl6NDV1SXdDMzJMVVRwSGJjc1BRbVpRVTdXSW80S2RWUGFXc2RYcjRmVEc1YlQweVVkWEZLVTlDd0hOQmxwdmc?oc=5": "2026-10-31",
+    "https://news.yahoo.co.jp/articles/9071c7b103a2563e538b42a6652b5d9770cfd398": "2026-10-31",
+    "https://news.yahoo.co.jp/articles/07fff3a56bbc4888c192fe704d3bec8ad382b7a0": "2026-10-31",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUC05d1NNcEJCeVMwMGlFZEJGaEtLQldMc29JNnVQUHNSNFBtcXotOFo2NHJGWXBtRV9haGRWYjFmb1l2WnNZdWRDaWR4cGU1Ml81RVhVOG9tQVMxeWFjd09NUlVmM0FDb2ZmNDZtWGxKcU5EaWhsSWs2dlVabGc?oc=5": "2026-10-31",
+    "https://news.yahoo.co.jp/articles/895cd57c568355a9d32105576629d5dc3175a5b7": "2026-10-31",
+    "https://news.yahoo.co.jp/articles/8af1dae596a03a7fc255338a38ed9c76c77106d0": "2026-10-31"
   },
   "titles": [
-    {
-      "title": "Google広告「配信制限」による機会損失を未然に防ぐ。広告文とリンク先のポリシー要件を自動照合する新機能を『AXer - news.nicovideo.jp",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "AIアプリ作成「Base44」で「Google広告」キャンペーンの作成から配信まで可能な機能を提供（Web担当者Forum） - ｄメニューニュース",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "ID連携不要で実績レポートから広告媒体横断分析を可能とする バーチャルパネル化技術を開発、実証実験を実施 - 株式会社ビデオリサーチ",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "博報堂DYHDは、広告会社からどう変わるのか。“情報の格差”から“知恵の格差”へ。“コスト”だった広告費が“投資”へ - GOETHE[ゲーテ]",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "「TikTok Ad Awards 2026 Japan」グランプリおよび全5部門の受賞作品を発表 - PR TIMES",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "TikTok Ad Awards 2026、日清食品がグランプリ受賞 - Koubo",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "“脳梗塞”休養中のサンド伊達、近況ショットにファン安心の声「ホッとしました」「笑顔が見れて安心」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/30(水) 6:31",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "160万円で“副業サポート”…借金勧められ 「一円も稼げなかった」被害急増、目立つ若年層…のの、返金されたのは7万円。借金が残り、家族が立て替えたという。 消費者庁などによると、20年以降、「副業サポート」などの情報商材を売る名目で、借…西日本新聞me社会9/29(火) 12:54",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "GU、3COINS！プチプラだってヘアアレンジが楽しくなる！20代OLが愛用するシュシュ♡…ュシュが増えそうな予感です。 （By Oggiコアブレーン・角野妃理／広告代理店業） ◆Oggiコアブレーンとは：働く女性の等身大の視点や言葉でお気に…Oggi.jpエンタメ総合9/30(水) 11:31",
-      "date": "2026-09-30"
-    },
     {
       "title": "認知広告は「網を張る」から「的確に届ける」へ。「LINEヤフー インストリーム広告」の真価",
       "date": "2026-10-01"
@@ -1517,99 +1477,49 @@
     {
       "title": "株式会社エージェント、自治体向けデジタルマーケティング支援を本格展開 - STRAIGHT PRESS",
       "date": "2026-10-30"
+    },
+    {
+      "title": "ディスプレイ広告 配信開始後30日間の運用ガイド | 何を見てどう判断する？",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Google、広告事業の分割回避 独禁訴訟で米司法省の売却案却下 - 日本経済新聞",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "emole株式会社と電通デジタルが「TikTokショートドラマ広告ソリューション」を共同開発し提供開始 - コマースピック",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "電通が共創プロジェクト「Attention Frontier」発足、「注目」知見の日本市場向け活用方法を検討…携して、電通グループが国内外で蓄積した知見と、参画各社が持つテレビ・デジタル広告のデータや計測・分析の専門性を組み合わせ、日本市場に適した活用方法を検討する。Web担当者ForumIT総合10/30(金) 15:04",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "JagProject、広告代理店向け「レポート工程設計」の相談受付を開始 - PR TIMES",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "生配信1回で50万円売れる店がある一方で…TikTok Shopで｢売れても儲からない店｣が続出するワケ 同時に、EC事業を支援するマーケティング会社、コンサルタント会社、広告代理店などが、こぞってTikTok Shopのセミナーやライバーの教育事業な…プレジデントオンライン経済総合10/31(土) 10:15",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "【短期集中連載②】「世界は広い、冒険しろ」。海外で日本人起業家300人を成功に導いたコンサル・土居正英が明かす成功への\"棚卸し\"＜諸橋穂乃佳氏のケース＞…な信頼を得ていきました。 彼女が次のステップとして取り組んだのが、Meta広告やGoogle広告などの運用です。広告を単に出稿するのではなく、いかな…週プレNEWS経済総合9/24(木) 15:04",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "3Dスキャナーも体験 デジタル広告や看板の最新技術展示【新潟】（UX新潟テレビ21） - Yahoo!ニュース",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "黒柳徹子、“かつら”を外した姿を披露…おでこを見せた貴重ショットに「かなり貴重」反響続々…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/31(土) 7:40",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "「無料相談」で勧誘、業務停止命令 留学手続き代行会社 消費者庁 留学の「無料相談」と広告して目的を告げずに勧誘するなどしたとして、消費者庁は28日、特定商取引法違反（不実の告知など）で、留学手続きの代行会社「J…時事通信社会10/28(水) 20:41",
+      "date": "2026-10-31"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "Google広告「配信制限」による機会損失を未然に防ぐ。広告文とリンク先のポリシー要件を自動照合する新機能を『AXer - news.nicovideo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VbkNhd0JWcVVkcDA3R2RKbXl6Y2FXbW95SWpvdHp5VjFYR0xNM3ptdlVyZkRia2RXQ2J1QmtHbzNwX2lDWnZpd2FNd3ExQWcwUkhYRXlwS2pWZGZXX2NwNnhrS2FxZzhX?oc=5",
-      "summary": "・Google広告の配信制限による機会損失を未然に防ぐための新機能がAXerに搭載された\n・広告文とリンク先ページのポリシー要件を自動で照合しリスクを事前検知する仕組み\n・ポリシー違反による突然の配信停止を防ぎ広告運用の安定性と効率向上を支援する",
-      "score": 8,
-      "reason": "Google広告ポリシー違反の自動検知ツール新機能",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Google News",
-      "title": "AIアプリ作成「Base44」で「Google広告」キャンペーンの作成から配信まで可能な機能を提供（Web担当者Forum） - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnNObFZOM2x0N19GLTZzQUlPY2tOSjlzNXQwZVgzVVN1X1F1VFo3aU5kUmxRZ0hGMkxiZS1lVmNVMngyMnhVN1B3V29IUkFYS3N0dzF5SEt5XzFhSWtqMjgzRkg5V0FobEZlS2dLMVdTY3JwTEJfWjZnSkdzd0pISUJGYlVjZkNoYWNHSURGV1RUSE5KOUplQzlrQk9aYUxxdWtSUzRRTUxXMTg?oc=5",
-      "summary": "・AIアプリ作成プラットフォーム「Base44」がGoogle広告との連携機能を新たに提供開始した\n・同機能によりBase44上でGoogle広告キャンペーンの作成から配信までを一貫して行える\n・AI活用により広告運用の効率化と専門知識がなくても広告出稿できる環境を実現する",
-      "score": 7,
-      "reason": "AIでGoogle広告キャンペーン作成の実践的新機能",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Google News",
-      "title": "ID連携不要で実績レポートから広告媒体横断分析を可能とする バーチャルパネル化技術を開発、実証実験を実施 - 株式会社ビデオリサーチ",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVEdGWmN4UnNqSmhPN05KUGdHcHNfdnI4V3psWDUwMlYzQ2NYNDJBYUJUTnQ4UGlLTEIyUVlfZDZLX1dubE43VWF0VVpBLTFNS3VCV3BKU2hTSm8?oc=5",
-      "summary": "・ビデオリサーチがID連携なしで広告媒体横断分析を実現するバーチャルパネル化技術を開発した\n・実績レポートデータから仮想的なパネルを構築し複数媒体の統合的な分析を可能にする技術である\n・個人情報連携の課題を回避しつつクロスメディア効果測定を行える点が特徴で実証実験も実施した",
-      "score": 6,
-      "reason": "媒体横断分析の新技術で業界動向として有用",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Google News",
-      "title": "博報堂DYHDは、広告会社からどう変わるのか。“情報の格差”から“知恵の格差”へ。“コスト”だった広告費が“投資”へ - GOETHE[ゲーテ]",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSlp6Y0lNel9nZnNmaVpJYzAwMTc3bk95R2lCTXdMT3dVeFRPT1pOSDlCZGRzTFAzZTRwckFEeGowYnpYV3haMWRaelN6Q1B0Nk1aUGhpZTRVZkNMcXMyMmczNEtlSURmRDgw?oc=5",
-      "summary": "・博報堂DYHDは従来の広告会社から脱却し、新たなビジネスモデルへの転換を推進している\n・競争優位の源泉が\"情報の格差\"から\"知恵の格差\"へと変化する時代認識を示した\n・広告費を単なる\"コスト\"ではなく企業成長に寄与する\"投資\"として再定義する方針を掲げた",
-      "score": 4,
-      "reason": "博報堂の経営方針記事で実務への直接影響薄い",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Google News",
-      "title": "「TikTok Ad Awards 2026 Japan」グランプリおよび全5部門の受賞作品を発表 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCT0dWUjB3eElHOVc1VU1IY0J4b2hOTHNOSVR6NEJHRHZtbjlObUc1LVZHeU84TlE4TkNiM0F6QmVQbUI1bFlCT2JlS0NSYVRXQUluM3BGcDdDcjVPbnFrSDk5VXROUzUweWc?oc=5",
-      "summary": "・TikTok Ad Awards 2026 Japanの受賞結果が発表されグランプリが決定した\n・全5部門についてそれぞれの受賞作品が選出され公式に公開された\n・PR TIMESを通じて各受賞作品の詳細情報が広く発信されている",
-      "score": 4,
-      "reason": "TikTok広告の受賞発表で事例参考程度",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok Ad Awards 2026、日清食品がグランプリ受賞 - Koubo",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMEUyZWRsVWcxOW5rRFJkTHRGZXpMdVFsRUNTdzB6VUdtem1RbWpybFVyejFkd19rOHRta1pXbE5VbmtZQUE?oc=5",
-      "summary": "・TikTok Ad Awards 2026で日清食品がグランプリを受賞し最高評価を獲得した\n・TikTokの広告クリエイティブにおける優れた成果が審査で高く評価された\n・受賞情報は広告・公募情報メディアKouboにて報じられている",
-      "score": 4,
-      "reason": "TikTok広告の受賞報告で事例参考程度",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "TikTokは人気ユーチューバーの次の世代の担い手になれるか…始めているようですし、2019年はTikTok広告元年だという記事もあります。参考：乗り遅れるな！TikTok広告を早くも活用する企業たちの全貌。20…徳力基彦IT総合2019/2/6(水) 22:53",
-      "link": "https://news.yahoo.co.jp/expert/articles/2a7ac38d914e1e9497b1e91203e50e744eff338e",
-      "summary": "・TikTokが次世代YouTuberの育成プラットフォームとして台頭し始めている\n・2019年が「TikTok広告元年」と位置づけられ企業の広告活用が本格化している\n・徳力基彦氏がTikTok広告を早期活用する企業事例を紹介し注目を促している",
-      "score": 2,
-      "reason": "2019年の古い記事でTikTok広告の初期考察",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "“脳梗塞”休養中のサンド伊達、近況ショットにファン安心の声「ホッとしました」「笑顔が見れて安心」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合9/30(水) 6:31",
-      "link": "https://news.yahoo.co.jp/articles/e916434d84c23dfaee40684a713c7d5c851ebe7b",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・インターネット利用時間は過去10年間で大幅に増加しメディア接触構造が変化している\n・生活者のデジタルシフトに伴いデジタル広告市場が急拡大し注目度が高まっている",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "160万円で“副業サポート”…借金勧められ 「一円も稼げなかった」被害急増、目立つ若年層…のの、返金されたのは7万円。借金が残り、家族が立て替えたという。 消費者庁などによると、20年以降、「副業サポート」などの情報商材を売る名目で、借…西日本新聞me社会9/29(火) 12:54",
-      "link": "https://news.yahoo.co.jp/articles/b917d1064b6382cf001eec204729de8ecc6babd0",
-      "summary": "・副業サポートと称し160万円の情報商材を販売、借金まで勧める悪質商法の被害が急増している\n・被害者は「一円も稼げなかった」と訴え、返金はわずか7万円で残りの借金を家族が立て替えた\n・消費者庁によると2020年以降この種の被害相談が増加し、特に若年層の被害が目立っている",
-      "score": 1,
-      "reason": "副業詐欺の社会ニュースで広告運用と無関係",
-      "date": "2026-09-30"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "GU、3COINS！プチプラだってヘアアレンジが楽しくなる！20代OLが愛用するシュシュ♡…ュシュが増えそうな予感です。 （By Oggiコアブレーン・角野妃理／広告代理店業） ◆Oggiコアブレーンとは：働く女性の等身大の視点や言葉でお気に…Oggi.jpエンタメ総合9/30(水) 11:31",
-      "link": "https://news.yahoo.co.jp/articles/05a602337ba68ee6292952db30bae015b577fa71",
-      "summary": "・GUや3COINSのプチプラシュシュを20代OLが愛用しコスパ良くヘアアレンジを楽しんでいる\n・広告代理店勤務のOggiコアブレーンがお気に入りアイテムとして紹介している\n・手頃な価格帯でもおしゃれを楽しめるプチプラヘアアクセの需要が高まっている",
-      "score": 1,
-      "reason": "ファッション記事で広告運用と無関係",
-      "date": "2026-09-30"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "認知広告は「網を張る」から「的確に届ける」へ。「LINEヤフー インストリーム広告」の真価",
@@ -4255,6 +4165,96 @@
       "score": 3,
       "reason": "自治体向け支援の企業プレスリリース",
       "date": "2026-10-30"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "ディスプレイ広告 配信開始後30日間の運用ガイド | 何を見てどう判断する？",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/lyda_start_30days/?list=23496",
+      "summary": "・LINEヤフーがディスプレイ広告の配信開始後30日間の運用ガイドを公開した\n・配信初期に確認すべき指標や判断基準を体系的にまとめた実践的な内容である\n・法人向けに広告運用の最新ノウハウや活用方法を提供し効果改善を支援する",
+      "score": 8,
+      "reason": "Yahoo!広告の実践的な運用ノウハウ記事",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Google News",
+      "title": "Google、広告事業の分割回避 独禁訴訟で米司法省の売却案却下 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZUEc5cFA1a0duOEU4UHV2T2ttemRpUnh5emhGblg1bXc5cDBnSGNRMVJiZjZFQzE3a2ItX1gxRDhiS1daSm9LblJYeVBMZnhMeFg3YmtfRDBScHhCVkN4SHhDM2h5ZFpRYnBFcA?oc=5",
+      "summary": "・米司法省がGoogleの広告技術事業の売却を求めた独禁訴訟で、裁判所が分割案を却下した\n・Googleはデジタル広告市場での支配的地位を維持し、事業分割という最悪のシナリオを回避した\n・判決は大手テック企業の独占問題に対する司法の姿勢を示す重要な先例となる可能性がある",
+      "score": 7,
+      "reason": "Google広告事業の独禁法判決で業界構造に影響大",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Google News",
+      "title": "emole株式会社と電通デジタルが「TikTokショートドラマ広告ソリューション」を共同開発し提供開始 - コマースピック",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YaUY1QzhsM3BkbHE4Q0Y0MGtaVUJtMnBvR2Q5YWt6bTZVRkpiR3l1c1RZM0g4LXNFZHQySjU4YUZGZng2eTFyYkl0Smx2WHo3ZWdnZmlOcw?oc=5",
+      "summary": "・emole株式会社と電通デジタルがTikTok向けショートドラマ広告ソリューションを共同開発し提供を開始した\n・TikTokのショートドラマ形式を活用し、視聴者の興味を引く広告体験で高いエンゲージメントを狙う\n・emoleのショートドラマ制作力と電通デジタルの広告運用知見を掛け合わせた統合ソリューションとなる",
+      "score": 6,
+      "reason": "TikTokショートドラマ広告の新ソリューション紹介",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電通が共創プロジェクト「Attention Frontier」発足、「注目」知見の日本市場向け活用方法を検討…携して、電通グループが国内外で蓄積した知見と、参画各社が持つテレビ・デジタル広告のデータや計測・分析の専門性を組み合わせ、日本市場に適した活用方法を検討する。Web担当者ForumIT総合10/30(金) 15:04",
+      "link": "https://news.yahoo.co.jp/articles/9599069be2f9bef43f164edd482333aac398bf76",
+      "summary": "・電通が「Attention Frontier」プロジェクトを発足し広告における「注目」の知見活用を推進する\n・電通グループの国内外の知見と参画企業のTV・デジタル広告データや分析力を融合させる\n・テレビとデジタル広告の計測・分析を組み合わせ日本市場に最適な活用方法を共創で検討する",
+      "score": 6,
+      "reason": "広告アテンション指標の業界動向として参考になる",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Google News",
+      "title": "JagProject、広告代理店向け「レポート工程設計」の相談受付を開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNVloeUhBQkFSRE42czB5TElSVzRxUDUtam5YTEVMdnhaNDl6NDV1SXdDMzJMVVRwSGJjc1BRbVpRVTdXSW80S2RWUGFXc2RYcjRmVEc1YlQweVVkWEZLVTlDd0hOQmxwdmc?oc=5",
+      "summary": "・JagProjectが広告代理店向けに「レポート工程設計」の相談受付を新たに開始した\n・広告運用レポート作成の業務フローを最適化し、代理店の工数削減を支援する狙い\n・PR TIMESを通じて発表され、代理店業務の効率化ニーズに応えるサービスとなる",
+      "score": 5,
+      "reason": "広告レポート業務効率化サービスで実務に一定関連",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生配信1回で50万円売れる店がある一方で…TikTok Shopで｢売れても儲からない店｣が続出するワケ 同時に、EC事業を支援するマーケティング会社、コンサルタント会社、広告代理店などが、こぞってTikTok Shopのセミナーやライバーの教育事業な…プレジデントオンライン経済総合10/31(土) 10:15",
+      "link": "https://news.yahoo.co.jp/articles/9071c7b103a2563e538b42a6652b5d9770cfd398",
+      "summary": "・TikTok Shopで生配信1回50万円売上の成功店がある一方、利益が出ない店舗が続出している\n・EC支援会社や広告代理店がTikTok Shopセミナーやライバー教育事業に相次ぎ参入している\n・手数料やライバー費用など販売コストがかさみ「売れても儲からない」構造が課題となっている",
+      "score": 5,
+      "reason": "TikTok Shop収益構造の業界知見として参考",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "【短期集中連載②】「世界は広い、冒険しろ」。海外で日本人起業家300人を成功に導いたコンサル・土居正英が明かす成功への\"棚卸し\"＜諸橋穂乃佳氏のケース＞…な信頼を得ていきました。 彼女が次のステップとして取り組んだのが、Meta広告やGoogle広告などの運用です。広告を単に出稿するのではなく、いかな…週プレNEWS経済総合9/24(木) 15:04",
+      "link": "https://news.yahoo.co.jp/articles/07fff3a56bbc4888c192fe704d3bec8ad382b7a0",
+      "summary": "・海外で日本人起業家300人を支援したコンサル土居正英氏の連載第2回が公開された\n・諸橋穂乃佳氏の事例を通じ、信頼構築から事業成長への道筋を具体的に紹介している\n・Meta広告やGoogle広告の運用を戦略的に活用し次のステップへ進んだ過程が語られた",
+      "score": 3,
+      "reason": "Meta/Google広告に触れるが実務Tips乏しい",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Google News",
+      "title": "3Dスキャナーも体験 デジタル広告や看板の最新技術展示【新潟】（UX新潟テレビ21） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUC05d1NNcEJCeVMwMGlFZEJGaEtLQldMc29JNnVQUHNSNFBtcXotOFo2NHJGWXBtRV9haGRWYjFmb1l2WnNZdWRDaWR4cGU1Ml81RVhVOG9tQVMxeWFjd09NUlVmM0FDb2ZmNDZtWGxKcU5EaWhsSWs2dlVabGc?oc=5",
+      "summary": "・新潟でデジタル広告や看板に関する最新技術の展示イベントが開催された\n・来場者が3Dスキャナーなど先端技術を実際に体験できる内容で注目を集めた\n・広告・サイン業界のデジタル化推進を目的とした技術紹介の場として機能した",
+      "score": 2,
+      "reason": "地方の看板・3D技術展示で運用型広告と無関係",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "黒柳徹子、“かつら”を外した姿を披露…おでこを見せた貴重ショットに「かなり貴重」反響続々…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/31(土) 7:40",
+      "link": "https://news.yahoo.co.jp/articles/895cd57c568355a9d32105576629d5dc3175a5b7",
+      "summary": "・黒柳徹子がかつらを外した素顔を公開しおでこを見せた貴重ショットが大きな反響を呼んでいる\n・総務省調査でネットの1日平均利用時間がテレビを上回り10年間で大幅に増加したことが判明\n・メディア消費の変化に伴いデジタル広告市場が急拡大しておりネットシフトが加速している",
+      "score": 2,
+      "reason": "芸能ニュース中心で広告運用と無関係",
+      "date": "2026-10-31"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「無料相談」で勧誘、業務停止命令 留学手続き代行会社 消費者庁 留学の「無料相談」と広告して目的を告げずに勧誘するなどしたとして、消費者庁は28日、特定商取引法違反（不実の告知など）で、留学手続きの代行会社「J…時事通信社会10/28(水) 20:41",
+      "link": "https://news.yahoo.co.jp/articles/8af1dae596a03a7fc255338a38ed9c76c77106d0",
+      "summary": "・消費者庁が留学手続き代行会社に特定商取引法違反で業務停止命令を出した\n・「無料相談」と広告しながら目的を告げずに勧誘する手法が問題視された\n・不実の告知など複数の違反行為が認定され行政処分に至った",
+      "score": 2,
+      "reason": "広告表現の法規制事例として僅かに参考程度",
+      "date": "2026-10-31"
     }
   ]
 }
