@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vV09QamhIdFR1Ym01bnEwd3FmcHVHZzQtaUZManNwb0pNUDBIWk5zX2MxdFdmWmJQOG1sLS1SUTY5clZuemlVUDdNbUZuNWtORDZaM0NOZ0ZNZzNid1M4cDhzU3NQaFpzUGExaHU5b05IN0RzWWJ5TTZn?oc=5": "2026-10-04",
-    "https://news.yahoo.co.jp/articles/ed1c6dc13c9dcf78dae77c832180a72b279abe5c": "2026-10-04",
-    "https://news.yahoo.co.jp/articles/a72ce19d864e947ed3359ef722159dd0675ea061": "2026-10-04",
-    "https://news.yahoo.co.jp/articles/6b73b3b4f7564ab220b4bf270265d4bc03796ade": "2026-10-04",
-    "https://news.yahoo.co.jp/articles/b273393a62c4d660cdf122589a23d0bf62a425e4": "2026-10-04",
     "https://dentsudigital.co.jp/news/release/services/2026-1005-000352": "2026-10-05",
     "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/": "2026-10-05",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HLVNHRm1LWFBkbmVQN194TjhmNDMtNFg5QUxDNWtCSnhiUlFyWVJ5aWVSY0M5ZkJVS2xoMElLd0lybVMtc0oxc0UzRnFob09LSEFZaUIyckw2MjJtdnFBdnZ1dlkzQ0FfRTB3NjVuSWdFTUxJX3A4?oc=5": "2026-10-05",
@@ -296,29 +291,19 @@
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WQi1RVHU2LVcwWUxDOFFwVnJmb0RLY3BYbEdJd1NTcHFjcFl5RFd3ejgtbHI5NGdqRTgwQWk0MUhoUWNrRzV5RmVQbVVzbThUV09ZMVJGTzMyOU0wR25n?oc=5": "2026-11-03",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfYlZJOUhoLWtrZzMzMkFYYzdpU0RTUHhLaXZfTXA2M3J5bXlqR2xZdUpLYnJoaURjd1dqSVdjNFBUTVFsd3pHMUlsLVJWRG80WTl2aXVFYmplbGNkMkZTNnVxbnhzUXAxQndfNnlWVzRsTHVpTFBDXzdLYw?oc=5": "2026-11-03",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGaXhSMHNMMm4zMWxWN2ZNRXNHUEFuVWhVaW5DeTFlSEwxVDRUVklyTGwwcG1DZFRQZFRMZ01zdFZlVzFtR21WaWFIb2xacTdHWDlHRjZOWmM3amR1V18tOEt5dHM1YUxSbU0xNXA3czdXdXlYN1E?oc=5": "2026-11-03",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMXJ1aU5MZ2Z4NmwzdG9maFp1V2xJM0daN1R1VDZ3cDdqVlMwYUcyTjRseHVWZGZZLWZxTHpwR1l3MHlyZTAtNTZRRHF3Rl9GUlVyQmFad1Q4QQ?oc=5": "2026-11-03"
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMXJ1aU5MZ2Z4NmwzdG9maFp1V2xJM0daN1R1VDZ3cDdqVlMwYUcyTjRseHVWZGZZLWZxTHpwR1l3MHlyZTAtNTZRRHF3Rl9GUlVyQmFad1Q4QQ?oc=5": "2026-11-03",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/christmas-search-ad-planning/?list=23496": "2026-11-04",
+    "https://dentsudigital.co.jp/news/release/management/2026-1104-000359": "2026-11-04",
+    "https://dentsudigital.co.jp/news/release/services/2026-1002-000351": "2026-11-04",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QRlRveGhEeTVhcVVsaVk2RkhFU2FkQ1h0QXRGUWU2dDBtN3hJbGdGN2xESGItT1lOZnJBSFUxTXZvU0RKUEUwUmptMWc4SWkwM1E2VHplLVI5OTlRTGdjTzJQTkl5N1BxTWhBcGl5QlNkSFNWcG9kSw?oc=5": "2026-11-04",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5ZnBTMUdZZHphUGJkNW51aTZELXl3SXFVTjRHSHBqZmVMT0JvXzduM1NpYWpaMTFkR2ppZE81WUZTWE1pR0ZnUjhONGdUYVR5eXJKejhQc1RKa2hxRFY5UXFKOGhSQQ?oc=5": "2026-11-04",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tNS1yVEFyS2R1al8yM0pPVWZXc3pVUWhaLVU5ZFE2aFBiZU1zR25xLTRpRHpmcS1wM19aRnAxZnBPNmRzWDR5cnFjcXFYRUg4MENqRjZpcHY1WDkyc0xkQk5CR011WHlRR19BbWI2VGVqNGpt?oc=5": "2026-11-04",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4cUtIbFB4ZTBUUFVGa2U4akEyM1RDdGk4bG52Z0d5SnYzTDBnZ1k1V3NFLU1UTFZFRFlCVlFwUEtHdFU1LUVYVjlVQ3k?oc=5": "2026-11-04",
+    "https://news.yahoo.co.jp/articles/7acee723b9ecca0dbab82c36363d8d6ff4e15955": "2026-11-04",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnY1NmhpTFRmcVJVN1dVRk5sMHcwVGNiYUpwRUxCSDFGNGZnd3ZINnNKc3lFM1BnXzQtNUJ1Zk5rRzVtSExBOTVBcHJrYjhaVkN4cVoyZ0RUUFhBVTZxYXBfNnh3Zmh5anVyWjZxMkpENFRtOEFyY0xlZHh0bGJxT0xLNmVnR1Znd09zVFNodjFMNnRjTEU4RTVn?oc=5": "2026-11-04",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZ2NRcVE1M0FiTDQzZ1h1UzRSUmtLVEoxU1ZNZE93bGhKallqcGNKWTYwZjBuUGdmcm5FZTFQRUd1SzBrWERTU0prZUd1WHRpYjdtZ3JENmF2NWFBbGdiS1p1ZWhrUQ?oc=5": "2026-11-04"
   },
   "titles": [
-    {
-      "title": "景品表示法啓発講座：トラブルに遭う前に知っておきたいネット広告の罠～実例から広告を見抜こう～ - pref.saitama.lg.jp",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "70歳・郷ひろみが私服のデニムコーデを披露「とても素敵」とファン歓喜の秋スタイル…しょうか。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/3(土) 15:10",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "「ZABOONください」名前で指名買いされるほど有名になったネーミングはどう付いた？…業部門など洗濯機に関わるメンバー全員でアイデア出しをしています。時には広告代理店やコピーライターさんにも協力をいただくこともあり、毎回、100個以上の…GetNavi web産業10/4(日) 12:00",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "「自分はただ東大生なだけ」東大→外銀で年収1100万円→わずか9か月で退職して“刺しゅう屋”になった27歳男性が語る、学生時代の“コンプレックス”…に気が付いて。だから「ちゃんと仕事について勉強しよう」と思い、2社目の広告代理店に入りました。 そこでマーケティングの面白さに気付いて、3社目の小…文春オンライン経済総合10/4(日) 10:12",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "「誰が歌っているんだ」ジュディ・オングが語ったヒット曲「魅せられて」制作秘話 “覆面歌手”を受け入れた理由…ディレクターにお話が来て、酒井さんはすぐにジュディが合うと思ったけど、広告代理店としては名無しの人がよかった。だから酒井さんは『誰が歌ってるか分からな…スポーツ報知エンタメ総合10/4(日) 10:00",
-      "date": "2026-10-04"
-    },
     {
       "title": "Metaと協業し、企業のThreads活用を支援する「Threadsアカウント運用サービス」を提供開始",
       "date": "2026-10-05"
@@ -1502,54 +1487,49 @@
     {
       "title": "広告代理店に必要なのは「新たなAIツール」ではない。優れた「レバレッジ」だ - Forbes JAPAN",
       "date": "2026-11-03"
+    },
+    {
+      "title": "クリスマス商戦に向けて、どんな広告を準備する？検索データで読み解くニーズと訴求のヒント",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "電通デジタルの子会社、電通デジタルアンカーがGYOKUのクリエイティブ制作事業等の事業譲渡契約を締結",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "生成AI時代の情報戦略は「量」に加え「注力テーマとブランドの一貫した紐づけ」へ",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "デマンド ジェネレーション キャンペーン 実践講座 〜AI を​活用した​運用 Tips と​レポーティング〜 - Google Business Profile",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "ChatGPT広告の運用で見えた活用法 バイセル、マネフォに学ぶ最適解 - 日経クロストレンド",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Meta、AI対話型広告を検討か 検索・SNSの予算配分が再編の恐れ - BigGo ファイナンス",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "TikTok、新たなブランドセーフティーセンターを発表 ブランド保護への取り組みを推進 - ECのミカタ",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "セール頼みの成長から脱却するためには？ 確実性を積み上げる「ボトムアッププランニング」のポイント…ペーン・媒体予算は、事前に見通しと感覚を持ち入力する D2Cでは定石の運用型広告やコンテンツ制作だけでなく、繁忙期のキャンペーン予算についても、プラン…ネットショップ担当者フォーラムIT総合9/28(月) 16:01",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Perplexity ComputerがShopifyの売上データをMetaおよびKlaviyoのキャンペーンに連携 - Unite.AI",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略 - キーマンズネット",
+      "date": "2026-11-04"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "景品表示法啓発講座：トラブルに遭う前に知っておきたいネット広告の罠～実例から広告を見抜こう～ - pref.saitama.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vV09QamhIdFR1Ym01bnEwd3FmcHVHZzQtaUZManNwb0pNUDBIWk5zX2MxdFdmWmJQOG1sLS1SUTY5clZuemlVUDdNbUZuNWtORDZaM0NOZ0ZNZzNid1M4cDhzU3NQaFpzUGExaHU5b05IN0RzWWJ5TTZn?oc=5",
-      "summary": "・埼玉県がネット広告の虚偽・誇大表示を見抜くための景品表示法啓発講座を開催\n・実例を用いて消費者が陥りやすいネット広告トラブルの手口や注意点を解説する内容\n・消費者保護の観点から不当表示の知識を広め、被害未然防止を目的とした取り組み",
-      "score": 4,
-      "reason": "景品表示法の知識は有用だが消費者向け啓発",
-      "date": "2026-10-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "70歳・郷ひろみが私服のデニムコーデを披露「とても素敵」とファン歓喜の秋スタイル…しょうか。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/3(土) 15:10",
-      "link": "https://news.yahoo.co.jp/articles/ed1c6dc13c9dcf78dae77c832180a72b279abe5c",
-      "summary": "・総務省調査でネット利用時間がテレビ視聴時間を上回り、10年間で大幅に増加している\n・デジタル広告市場がネット利用時間の拡大に伴い急成長を続けている状況が報告された\n・メディア消費の構造変化により広告予算のデジタルシフトが加速していることが示唆される",
-      "score": 3,
-      "reason": "デジタル広告市場動向の言及あるが内容薄い",
-      "date": "2026-10-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「ZABOONください」名前で指名買いされるほど有名になったネーミングはどう付いた？…業部門など洗濯機に関わるメンバー全員でアイデア出しをしています。時には広告代理店やコピーライターさんにも協力をいただくこともあり、毎回、100個以上の…GetNavi web産業10/4(日) 12:00",
-      "link": "https://news.yahoo.co.jp/articles/a72ce19d864e947ed3359ef722159dd0675ea061",
-      "summary": "・東芝の洗濯機「ZABOON」は指名買いされるほどブランド名が浸透した成功事例である\n・ネーミングは事業部門など洗濯機関連メンバー全員で毎回100個以上のアイデアを出し検討している\n・広告代理店やコピーライターも協力し、多角的な視点から最適な名称を選定している",
-      "score": 1,
-      "reason": "洗濯機のネーミング話で広告運用と無関係",
-      "date": "2026-10-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「自分はただ東大生なだけ」東大→外銀で年収1100万円→わずか9か月で退職して“刺しゅう屋”になった27歳男性が語る、学生時代の“コンプレックス”…に気が付いて。だから「ちゃんと仕事について勉強しよう」と思い、2社目の広告代理店に入りました。 そこでマーケティングの面白さに気付いて、3社目の小…文春オンライン経済総合10/4(日) 10:12",
-      "link": "https://news.yahoo.co.jp/articles/6b73b3b4f7564ab220b4bf270265d4bc03796ade",
-      "summary": "・東大卒で外資系銀行に就職し年収1100万円を得るも、わずか9か月で退職した27歳男性の転職経緯を紹介\n・2社目の広告代理店でマーケティングの面白さに目覚め、仕事への向き合い方や自身のコンプレックスを見つめ直した\n・最終的に刺しゅう屋へ転身し、高学歴キャリアに頼らず自分の情熱を軸に働く道を選んだ経緯を語っている",
-      "score": 1,
-      "reason": "個人キャリア記事で広告運用と無関係",
-      "date": "2026-10-04"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「誰が歌っているんだ」ジュディ・オングが語ったヒット曲「魅せられて」制作秘話 “覆面歌手”を受け入れた理由…ディレクターにお話が来て、酒井さんはすぐにジュディが合うと思ったけど、広告代理店としては名無しの人がよかった。だから酒井さんは『誰が歌ってるか分からな…スポーツ報知エンタメ総合10/4(日) 10:00",
-      "link": "https://news.yahoo.co.jp/articles/b273393a62c4d660cdf122589a23d0bf62a425e4",
-      "summary": "・ジュディ・オングのヒット曲「魅せられて」は広告タイアップとして制作された楽曲だった\n・広告代理店側は歌手名を伏せた\"覆面歌手\"での起用を希望しディレクター酒井氏が仲介した\n・酒井氏はジュディの声質が楽曲に最適と判断し名前非公開の条件で起用を実現させた",
-      "score": 1,
-      "reason": "芸能エピソードで広告運用と無関係",
-      "date": "2026-10-04"
-    },
     {
       "source": "電通デジタル",
       "title": "Metaと協業し、企業のThreads活用を支援する「Threadsアカウント運用サービス」を提供開始",
@@ -4213,6 +4193,96 @@
       "score": 5,
       "reason": "広告代理店のAI活用論で業界動向として参考になる",
       "date": "2026-11-03"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "クリスマス商戦に向けて、どんな広告を準備する？検索データで読み解くニーズと訴求のヒント",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/service-information/christmas-search-ad-planning/?list=23496",
+      "summary": "・クリスマス商戦に向け検索データからユーザーニーズを分析し広告戦略のヒントを提示する記事\n・人気キーワードや検索動向を活用し商品特性に合った訴求方法や遷移先ページの準備法を解説\n・LINEヤフー広告の具体的な活用方法を紹介しホリデーシーズンの売上最大化を支援する内容",
+      "score": 7,
+      "reason": "検索データ活用の実践的な広告運用ヒント",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "電通デジタルの子会社、電通デジタルアンカーがGYOKUのクリエイティブ制作事業等の事業譲渡契約を締結",
+      "link": "https://dentsudigital.co.jp/news/release/management/2026-1104-000359",
+      "summary": "・電通デジタルの完全子会社である電通デジタルアンカーが事業譲渡契約を締結した\n・譲受先はGYOKUが展開するクリエイティブ制作事業等の事業領域である\n・本契約により電通デジタルグループのクリエイティブ制作体制の強化が見込まれる",
+      "score": 3,
+      "reason": "企業間の事業譲渡プレスリリース",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "生成AI時代の情報戦略は「量」に加え「注力テーマとブランドの一貫した紐づけ」へ",
+      "link": "https://dentsudigital.co.jp/news/release/services/2026-1002-000351",
+      "summary": "・電通デジタルと電通PRがGEO共同研究でメディア露出と生成AI言及の相関分析結果を発表した\n・生成AI時代の情報戦略では量だけでなく注力テーマとブランドの一貫した紐づけが重要と提言\n・GEO（生成エンジン最適化）の観点からメディア露出がAI回答に与える影響を明らかにした",
+      "score": 5,
+      "reason": "GEO研究は業界動向として有益だが直接的な広告運用知見ではない",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Google News",
+      "title": "デマンド ジェネレーション キャンペーン 実践講座 〜AI を​活用した​運用 Tips と​レポーティング〜 - Google Business Profile",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QRlRveGhEeTVhcVVsaVk2RkhFU2FkQ1h0QXRGUWU2dDBtN3hJbGdGN2xESGItT1lOZnJBSFUxTXZvU0RKUEUwUmptMWc4SWkwM1E2VHplLVI5OTlRTGdjTzJQTkl5N1BxTWhBcGl5QlNkSFNWcG9kSw?oc=5",
+      "summary": "・Google主催のデマンドジェネレーションキャンペーン実践講座が公開された\n・AI活用による広告運用の最適化Tipsとレポーティング手法を解説する内容\n・Google広告の需要創出型キャンペーンの効果的な運用ノウハウを提供している",
+      "score": 9,
+      "reason": "Google公式のDemandGen運用Tips講座で即実務活用",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Google News",
+      "title": "ChatGPT広告の運用で見えた活用法 バイセル、マネフォに学ぶ最適解 - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5ZnBTMUdZZHphUGJkNW51aTZELXl3SXFVTjRHSHBqZmVMT0JvXzduM1NpYWpaMTFkR2ppZE81WUZTWE1pR0ZnUjhONGdUYVR5eXJKejhQc1RKa2hxRFY5UXFKOGhSQQ?oc=5",
+      "summary": "・バイセルとマネーフォワードがChatGPT広告を実際に運用し効果的な活用法を検証した\n・ChatGPT上の広告配信で得られた知見から最適な運用手法や成果指標が明らかになった\n・AI対話型プラットフォームでの広告展開が新たなデジタルマーケティング手法として注目されている",
+      "score": 8,
+      "reason": "ChatGPT広告の実運用事例と活用法の解説",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta、AI対話型広告を検討か 検索・SNSの予算配分が再編の恐れ - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tNS1yVEFyS2R1al8yM0pPVWZXc3pVUWhaLVU5ZFE2aFBiZU1zR25xLTRpRHpmcS1wM19aRnAxZnBPNmRzWDR5cnFjcXFYRUg4MENqRjZpcHY1WDkyc0xkQk5CR011WHlRR19BbWI2VGVqNGpt?oc=5",
+      "summary": "・MetaがAIを活用した対話型広告フォーマットの導入を検討していると報じられた\n・AI対話型広告の登場により検索広告とSNS広告の予算配分が大きく変わる可能性がある\n・広告主は従来のチャネル戦略の見直しを迫られ業界全体の再編につながる恐れがある",
+      "score": 7,
+      "reason": "MetaのAI対話型広告は予算配分に影響しうる",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Google News",
+      "title": "TikTok、新たなブランドセーフティーセンターを発表 ブランド保護への取り組みを推進 - ECのミカタ",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4cUtIbFB4ZTBUUFVGa2U4akEyM1RDdGk4bG52Z0d5SnYzTDBnZ1k1V3NFLU1UTFZFRFlCVlFwUEtHdFU1LUVYVjlVQ3k?oc=5",
+      "summary": "・TikTokがブランドセーフティーセンターを新たに開設し広告主のブランド保護を強化する方針を発表した\n・広告が不適切なコンテンツに隣接表示されるリスクを低減し広告主の信頼獲得を目指す取り組みである\n・ブランド安全性と適合性に関する透明性向上により広告主の安心なTikTok活用を促進する狙いがある",
+      "score": 7,
+      "reason": "TikTokブランドセーフティ新機能で出稿判断に影響",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "セール頼みの成長から脱却するためには？ 確実性を積み上げる「ボトムアッププランニング」のポイント…ペーン・媒体予算は、事前に見通しと感覚を持ち入力する D2Cでは定石の運用型広告やコンテンツ制作だけでなく、繁忙期のキャンペーン予算についても、プラン…ネットショップ担当者フォーラムIT総合9/28(月) 16:01",
+      "link": "https://news.yahoo.co.jp/articles/7acee723b9ecca0dbab82c36363d8d6ff4e15955",
+      "summary": "・D2C企業がセール依存の売上成長から脱却するためのボトムアッププランニング手法を解説\n・運用型広告やコンテンツ制作に加え繁忙期キャンペーン予算も事前に見通しを立て計画すべきと提言\n・媒体予算配分は感覚値と実績データを組み合わせ確実性を積み上げる設計が重要と指摘",
+      "score": 6,
+      "reason": "D2C運用型広告の予算計画手法に関する知見",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Google News",
+      "title": "Perplexity ComputerがShopifyの売上データをMetaおよびKlaviyoのキャンペーンに連携 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnY1NmhpTFRmcVJVN1dVRk5sMHcwVGNiYUpwRUxCSDFGNGZnd3ZINnNKc3lFM1BnXzQtNUJ1Zk5rRzVtSExBOTVBcHJrYjhaVkN4cVoyZ0RUUFhBVTZxYXBfNnh3Zmh5anVyWjZxMkpENFRtOEFyY0xlZHh0bGJxT0xLNmVnR1Znd09zVFNodjFMNnRjTEU4RTVn?oc=5",
+      "summary": "・Perplexity ComputerがShopifyの売上データをMetaやKlaviyoのキャンペーンと自動連携する機能を発表した\n・EC事業者はShopifyの購買データを活用しMeta広告やKlaviyoメール配信の最適化が可能になる\n・AIを活用したデータ統合により広告運用とCRM施策の効率化・売上向上が期待される",
+      "score": 6,
+      "reason": "Meta広告×Shopifyデータ連携の新ツール情報",
+      "date": "2026-11-04"
+    },
+    {
+      "source": "Google News",
+      "title": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略 - キーマンズネット",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZ2NRcVE1M0FiTDQzZ1h1UzRSUmtLVEoxU1ZNZE93bGhKallqcGNKWTYwZjBuUGdmcm5FZTFQRUd1SzBrWERTU0prZUd1WHRpYjdtZ3JENmF2NWFBbGdiS1p1ZWhrUQ?oc=5",
+      "summary": "・広告代理店が全社員を対象にAI活用人材へ育成する独自の人材戦略を展開している\n・従来型の座学研修ではなく実務と連動した実践的アプローチでAI習熟を推進\n・全社員の「AIマスター化」により業務効率と広告領域での競争力向上を図る",
+      "score": 5,
+      "reason": "広告代理店のAI活用人材戦略で業界動向",
+      "date": "2026-11-04"
     }
   ]
 }
