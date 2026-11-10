@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-0907-000344": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbTBua0lnb0tSZ1pNZi1uSjlDbThxM3U4NVREMUhtNkUxaEt1dFkycWVURHRDZUFCaUVaNGk1dXM5NmVhSDR4cEV0Y0hyRUtCYXl0R3ZPMkdKRHJ0SUc4SUEzUU14YVpObS14SS1sVUp4SEc5VVVyTVJxM1BrQQ?oc=5": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zMFpPbG1ONDY4bklpa21rdmZLSUVHX3pCeTVXQi1lbW5LdGFFLUx5eWgyZHc2LWhlamNOZnJLYV9RbUZBWV9r?oc=5": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ua1kzUm9ZenJhWDdPRUpfQlVSUGY4ZkY0WGVLblB0cGdEUUNkUjN5Y2FIazdQVDlQdHJNS3VpQTlqQTNJcnBrRlZhRm5pZnJxSmlubTBRRkw4Nks5YVh3VC11eEp5bUFyY3c?oc=5": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWx1YVdBdGJmUjJGVlZLbkxuOE92b3liRzBLRm1yN3lSQ1RxNEg4aFNkTUplV1hfQnUtdVVyQmtEaXFfbDFEeVlXVlppdXJQWC1GWDlVYTBqeWs3VXN0NHVYUVlVakIxXzZSX0Q3QWNKSkxQWDk2Q2kwVnlBdlJMLXFHdVVfUQ?oc=5": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NV0pZZ2w1U0pZeGh2THBuaFlYTllyMUZwNkxaOWZIU241UlhzU0tCTnBZdVFwT2EwTkJ4OURVYU9TX2l0d0UwWHp4Y1ZZeEJQR0EyOGFSUDhEU3VVZ0tKYkV2eTdIQTNzR1BaeWNOdkRLY2lj?oc=5": "2026-10-10",
-    "https://news.yahoo.co.jp/articles/96f1b38007af40b0c341bf36944c1aa90f2254b2": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PcWgwMndZN212RlRjVDRxX01UM052NThfZExiTnI2ekJnUGc4RHhrUnVjZXRsREdhblktbUs3RU1MT2s4Tk5KMm5pd2plR29VT0I3WUxRRQ?oc=5": "2026-10-10",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX2xzRE5iR3hlT1ZfOENFTHA2TTFyYW8zekMySE1YZnNaeDlQMS1YUl9GaXM1MUU2U3RyRDhmYU1zQ1pqU2toMUdXQ05NLXNwQkFsX2R6d3pkX3c?oc=5": "2026-10-10",
-    "https://news.yahoo.co.jp/expert/articles/08adbb29cab7fef33d46bd27c46613c6e34f091d": "2026-10-10",
     "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202608": "2026-10-11",
     "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_updates_202610/?list=23496": "2026-10-11",
     "https://dentsudigital.co.jp/news/release/services/2026-0908-000345": "2026-10-11",
@@ -301,49 +291,19 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5Q1V6TWh1elpwTVlfWEZyTExXNVBheWtaalI4ZWNqMVNuRVRnVWxhWWppajR4WlJOMWlUM0l5Vjh4QWN6SGZxMmZrZFhHZU9JY1pCQlNn?oc=5": "2026-11-09",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1S09EQ2dxOE5HbkpMQUFBV2tzWl91eWJHTkhScXdRdFlycjBDLTZqcGpEUWthbUJmV2VpU1B3eXB2d2NaWFhKbmtR?oc=5": "2026-11-09",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMVh2d2N5cDRWeWNKcjliYlpxYTV6U1BnSEJGSjQ5TTJjVVZ4eUtmcXhRemNnaVUwX0EtMDdnU1VTUjE5cDRJTkV3NnZRWllFSmFQOWZhSjdoQzNKb2k3Ykd2OWF3MC1GQmtEcmdQbnI5Q2JJcWxZdXdITG9FWFU?oc=5": "2026-11-09",
-    "https://news.yahoo.co.jp/articles/9bcaa80afcbccf164471cb2c32a8d0d1cbdf3992": "2026-11-09"
+    "https://news.yahoo.co.jp/articles/9bcaa80afcbccf164471cb2c32a8d0d1cbdf3992": "2026-11-09",
+    "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/ad-delivery-update/?list=23496": "2026-11-10",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-universal-cart": "2026-11-10",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-1109-000362": "2026-11-10",
+    "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/": "2026-11-10",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzcjIyZXlPOXFKczJobjJzdkZNNHdwOVhFYm5UWFBqeVhFZnB0VXl2RjFoWDJjcDFTOUhiLXdLLXE0bHdGVW00Yl9yNXNfdw?oc=5": "2026-11-10",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PdXlqbUF5eWVSTVE4dDh5eDdmNDU5b1FGTW9MbS1jd0p0WnphS1RRUVJNTjdNN2M3TjRwa3RQVTN2SjR0cXVEc1o4bGlQXzlSRkVUU1hreEZWbWQzZ1E?oc=5": "2026-11-10",
+    "https://news.yahoo.co.jp/articles/3f15ad553b585a4eddfa34f2d27747bec7c003ba": "2026-11-10",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHN6WTc0U2FRNW1mN2UzLU1zdUZxUlBsLWlReThfWTJFVy1Wckc0UC03RVFjVXh6RHVINTFvejlYbGVTVHN1ZlBlV2dndXBtQ0NSR3Qta2IxNnRqTUp2ckdOU1dVZ0ZFQk5UbGJvTVFNdTExSFM4SGlOQ09ZdEd1X3BSZXhoMU3SAYwBQVVfeXFMUC1xbUVfSW12MWtsNW1nRUtkWkhwTTAxa3h5UHBfQTJqekhiY2F3OHJ5ZzRZeW1zM3Y2VXkxYU9EUXFUMEF3Qy1hYS1LWERRdW9NRW1qbE9ZUmE5RHhQS1JRZFBvbFBGR2xTeU1zQjBwU3NIeWZjTklLeExKRFpYbFJlOUR0dzl2S3hESVA?oc=5": "2026-11-10",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZFo1SzNmaGdDdnI2eXJTYmJxVHdrSXU2ei16amhpSGhNOE5kUkdnRzEydGI0MWpzTHBrVTJlaUZTMllnRllibGx5Nk05akR6WmpFa3BRa1dNejA0TEdZMGtUOWhOT0V3UWJUUDZUOXk1MUtTTjFUNHQzTQ?oc=5": "2026-11-10",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTd9IBgwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTdw?oc=5": "2026-11-10"
   },
   "titles": [
-    {
-      "title": "AI活用を前提にCXデザイン業務を再設計する「AI×CX業務リデザイン」を提供開始",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "メタ、自社プラットフォーム上でＴｉｋＴｏｋ広告禁止 日本含め - Reuters",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "TikTok、新広告製品を一挙発表 AIショッピングアシスタントなど | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "【10/29（木）共催ウェビナー開催】Meta広告の成果を爆発させる最新クリエイティブ戦略〜AI最適化とタレント活用の実践ノウハウ〜 - PR TIMES",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "AI との​対話は、​人々の​買い物を​どう​変えているか —— 6 種類の​調査で​見えた​「ハイレゾ消費」 - Google Business Profile",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "Meta社、7カ国でTikTok広告を禁止。 - Vietnam.vn",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "【不正アクセス10月1～9日】焼肉きんぐ1078万件、ローソン215万件、JR東206万件など（発表まとめ）…で、データの漏えいを確認。詳細は調査中 ○ソルティドッグ Google広告代理店の同社が持つ管理アカウントが10月5日に不正アクセスを受け、オンライン…ITmedia ビジネスオンライン経済総合10/10(土) 8:00",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "消費者庁／消費者相談分析を公表／ネット広告起点に価格トラブル（2026年10月8日号） - 日流ウェブ",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "「DocumentOn」、薬機法の広告規制に対応 - 朝日新聞",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "公取委、ビール4社価格カルテル反則調査、民放テレビ、エンタメ、スポーツ業界に「壊滅的打撃」も…争は広告」という構造そのものが揺らぐ。ビール類の広告は、市場の縮小とデジタル広告への移行によってすでに減少傾向にあるが、今回の摘発はその流れを一気に加…郷原信郎社会10/9(金) 17:49",
-      "date": "2026-10-10"
-    },
     {
       "title": "AI検索エンジンのトラフィック推移と動向（2026年8月）",
       "date": "2026-10-11"
@@ -1527,99 +1487,49 @@
     {
       "title": "安田成美 手編みの椅子カバーに「売り物のようにお上手ですね」「なんてステキな椅子カバー」「温もりも感じますね」と称賛の声…いました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/9(月) 7:21",
       "date": "2026-11-09"
+    },
+    {
+      "title": "ディスプレイ広告 広告配信ロジックのアップデート概要と運用の見直しポイント",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Google 、米国でUniversal Cartをリリース",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "「Spotify Hits Japan 2026」において「Future Hitmakers」部門で最優秀賞を受賞",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Holiday 100: Your guide to this year’s top trending gifts",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "サイバーエージェント、広告運用AI「効果おまかせAI」でTikTok広告に対応開始 - RTB SQUARE",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "広告配信運用AIエージェント「効果おまかせAI」、TikTok広告への対応を開始 短尺動画広告の効果向上を支援 - 株式会社サイバーエージェント",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "量産型SEOはもう通用しない！ AI時代のコンテンツ戦略で重要なのは「質と中身」「届け方」を見直すこと…ゼロクリック問題の勃発や、運用型広告のコスト高騰など、従来のマーケティング手法が、急速に効力を失いつつある。広告やSEOで新規の見込み顧客を獲得し、…Web担当者ForumIT総合10/8(木) 15:16",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "マイクロアド---中日新聞と提携し東海エリア特化の企業・自治体向けデジタル広告サービス「中日リーチADS」を共同開発 - ｄメニューニュース",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "中日新聞と提携し、同社の専門メディアデータを活用した企業・自治体向けのデジタル広告サービス「中日リーチADS - ニコニコニュース",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Meta、広告代理店の功績を称える「Meta Agency First Award Japan 2026」を開催し、新カテゴリ「Creative of the Year」を含む各賞の受賞者を発表 - Facebook",
+      "date": "2026-11-10"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "AI活用を前提にCXデザイン業務を再設計する「AI×CX業務リデザイン」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0907-000344",
-      "summary": "・電通デジタルがAI活用を前提にCX業務プロセスを再設計する新サービスを提供開始した\n・企業の顧客体験デザインに関わる一連の業務を対象に組織浸透まで総合的に支援する\n・AIによる業務効率化とCX品質向上を両立させる体制構築を目指すサービスである",
-      "score": 3,
-      "reason": "企業の新サービス発表で広告運用実務と直接関連薄い",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "メタ、自社プラットフォーム上でＴｉｋＴｏｋ広告禁止 日本含め - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbTBua0lnb0tSZ1pNZi1uSjlDbThxM3U4NVREMUhtNkUxaEt1dFkycWVURHRDZUFCaUVaNGk1dXM5NmVhSDR4cEV0Y0hyRUtCYXl0R3ZPMkdKRHJ0SUc4SUEzUU14YVpObS14SS1sVUp4SEc5VVVyTVJxM1BrQQ?oc=5",
-      "summary": "・メタがFacebookやInstagram等の自社プラットフォーム上でTikTokの広告掲載を禁止した\n・この広告禁止措置は日本を含む複数の国・地域が対象となっている\n・競合プラットフォーム間の対立激化を示す動きとして注目されている",
-      "score": 9,
-      "reason": "Meta上TikTok広告禁止は出稿戦略に即影響",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "TikTok、新広告製品を一挙発表 AIショッピングアシスタントなど | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zMFpPbG1ONDY4bklpa21rdmZLSUVHX3pCeTVXQi1lbW5LdGFFLUx5eWgyZHc2LWhlamNOZnJLYV9RbUZBWV9r?oc=5",
-      "summary": "・TikTokがAIショッピングアシスタントを含む複数の新広告製品を一挙に発表した\n・AI技術を活用し広告主の購買促進やユーザーの買い物体験向上を図る狙いがある\n・TikTokは広告プラットフォームとしての機能強化を加速しEC領域の拡大を推進している",
-      "score": 9,
-      "reason": "TikTok新広告プロダクト発表は実務直結",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "【10/29（木）共催ウェビナー開催】Meta広告の成果を爆発させる最新クリエイティブ戦略〜AI最適化とタレント活用の実践ノウハウ〜 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ua1kzUm9ZenJhWDdPRUpfQlVSUGY4ZkY0WGVLblB0cGdEUUNkUjN5Y2FIazdQVDlQdHJNS3VpQTlqQTNJcnBrRlZhRm5pZnJxSmlubTBRRkw4Nks5YVh3VC11eEp5bUFyY3c?oc=5",
-      "summary": "・10月29日にMeta広告の成果向上をテーマとした共催ウェビナーが開催される\n・AI最適化とタレント活用を組み合わせた最新クリエイティブ戦略を解説予定\n・実践的なノウハウを提供しMeta広告運用の効果最大化を目指す内容となる",
-      "score": 7,
-      "reason": "Meta広告クリエイティブ戦略の実践ウェビナー案内",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "AI との​対話は、​人々の​買い物を​どう​変えているか —— 6 種類の​調査で​見えた​「ハイレゾ消費」 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWx1YVdBdGJmUjJGVlZLbkxuOE92b3liRzBLRm1yN3lSQ1RxNEg4aFNkTUplV1hfQnUtdVVyQmtEaXFfbDFEeVlXVlppdXJQWC1GWDlVYTBqeWs3VXN0NHVYUVlVakIxXzZSX0Q3QWNKSkxQWDk2Q2kwVnlBdlJMLXFHdVVfUQ?oc=5",
-      "summary": "・GoogleがAIとの対話が消費行動に与える影響を6種類の調査で分析した\n・AIを活用し詳細な情報を得て購買判断する「ハイレゾ消費」の傾向が明らかに\n・対話型AIが商品理解を深め、より精緻で納得感のある購買体験を促進している",
-      "score": 7,
-      "reason": "Google発AI×消費行動調査で広告戦略に示唆",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta社、7カ国でTikTok広告を禁止。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NV0pZZ2w1U0pZeGh2THBuaFlYTllyMUZwNkxaOWZIU241UlhzU0tCTnBZdVFwT2EwTkJ4OURVYU9TX2l0d0UwWHp4Y1ZZeEJQR0EyOGFSUDhEU3VVZ0tKYkV2eTdIQTNzR1BaeWNOdkRLY2lj?oc=5",
-      "summary": "・Meta社がFacebookやInstagram上でのTikTok広告掲載を7カ国で禁止する措置を講じた\n・競合プラットフォームであるTikTokのユーザー獲得を自社媒体上で支援しない方針を明確化\n・対象国の詳細は限定的だが、Meta対TikTokの競争激化を象徴する動きとして注目される",
-      "score": 7,
-      "reason": "id14と同件だが海外ソースで補足的情報",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【不正アクセス10月1～9日】焼肉きんぐ1078万件、ローソン215万件、JR東206万件など（発表まとめ）…で、データの漏えいを確認。詳細は調査中 ○ソルティドッグ Google広告代理店の同社が持つ管理アカウントが10月5日に不正アクセスを受け、オンライン…ITmedia ビジネスオンライン経済総合10/10(土) 8:00",
-      "link": "https://news.yahoo.co.jp/articles/96f1b38007af40b0c341bf36944c1aa90f2254b2",
-      "summary": "・焼肉きんぐ1078万件、ローソン215万件、JR東206万件など大規模な不正アクセス被害が相次いで発表された\n・Google広告代理店ソルティドッグでも管理アカウントが10月5日に不正アクセスを受けたことが判明した\n・各社ともデータ漏えいの可能性を認めており、被害の全容や原因について現在も調査が続いている",
-      "score": 6,
-      "reason": "Google広告管理アカウント不正アクセス事例は注意喚起",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "消費者庁／消費者相談分析を公表／ネット広告起点に価格トラブル（2026年10月8日号） - 日流ウェブ",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PcWgwMndZN212RlRjVDRxX01UM052NThfZExiTnI2ekJnUGc4RHhrUnVjZXRsREdhblktbUs3RU1MT2s4Tk5KMm5pd2plR29VT0I3WUxRRQ?oc=5",
-      "summary": "・消費者庁がネット広告に関連する消費者相談の分析結果を公表した\n・ネット広告を起点とした価格に関するトラブルが多発していることが判明\n・消費者被害の実態把握を通じ今後の広告規制強化や注意喚起につなげる方針",
-      "score": 5,
-      "reason": "ネット広告規制動向として参考になる",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Google News",
-      "title": "「DocumentOn」、薬機法の広告規制に対応 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX2xzRE5iR3hlT1ZfOENFTHA2TTFyYW8zekMySE1YZnNaeDlQMS1YUl9GaXM1MUU2U3RyRDhmYU1zQ1pqU2toMUdXQ05NLXNwQkFsX2R6d3pkX3c?oc=5",
-      "summary": "・文書管理サービス「DocumentOn」が薬機法の広告規制に対応する新機能を導入した\n・医薬品や化粧品等の広告表現における法令違反リスクの軽減を支援する狙いがある\n・広告審査業務の効率化により企業のコンプライアンス強化に貢献する見込みである",
-      "score": 5,
-      "reason": "薬機法広告規制対応は出稿時の参考になる",
-      "date": "2026-10-10"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "公取委、ビール4社価格カルテル反則調査、民放テレビ、エンタメ、スポーツ業界に「壊滅的打撃」も…争は広告」という構造そのものが揺らぐ。ビール類の広告は、市場の縮小とデジタル広告への移行によってすでに減少傾向にあるが、今回の摘発はその流れを一気に加…郷原信郎社会10/9(金) 17:49",
-      "link": "https://news.yahoo.co.jp/expert/articles/08adbb29cab7fef33d46bd27c46613c6e34f091d",
-      "summary": "・公正取引委員会がビール大手4社に対し価格カルテルの疑いで立入検査を実施した\n・ビール各社の広告費削減が民放テレビやスポーツ・エンタメ業界に深刻な影響を及ぼす懸念\n・市場縮小とデジタル広告移行に加え今回の摘発が広告出稿減少を加速させる可能性がある",
-      "score": 4,
-      "reason": "ビール業界カルテルの広告費影響は間接的",
-      "date": "2026-10-10"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "AI検索エンジンのトラフィック推移と動向（2026年8月）",
@@ -4283,6 +4193,96 @@
       "score": 2,
       "reason": "芸能ニュースとメディア利用統計の混在記事",
       "date": "2026-11-09"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "ディスプレイ広告 広告配信ロジックのアップデート概要と運用の見直しポイント",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/ad-delivery-update/?list=23496",
+      "summary": "・LINEヤフーがディスプレイ広告の配信ロジックを大幅にアップデートした\n・法人向けに最新の活用方法やノウハウなど運用見直しのポイントを紹介\n・広告運用者はロジック変更に合わせた配信設定の最適化対応が求められる",
+      "score": 9,
+      "reason": "Yahoo!広告の配信ロジック変更は即実務対応が必要",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、米国でUniversal Cartをリリース",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-universal-cart",
+      "summary": "・Google検索やGeminiアプリで複数小売店の買い物を一元管理できるUniversal Cartが米国で提供開始された\n・商品・割引・販売店情報を横断的に把握でき、買い物体験の利便性を大幅に向上させる\n・購入手続きはGoogle開発のエージェント向けプロトコルUniversal Commerce Protocolを基盤とする",
+      "score": 5,
+      "reason": "米国限定の新機能だが今後日本展開の可能性あり",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "「Spotify Hits Japan 2026」において「Future Hitmakers」部門で最優秀賞を受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-1109-000362",
+      "summary": "・電通デジタルがSpotify広告賞「Spotify Hits Japan 2026」で最優秀賞を受賞した\n・受賞部門は革新的なアイデアを評価する「Future Hitmakers」部門である\n・社員有志チームが自主的に提案した企画案が最優秀賞として高く評価された",
+      "score": 3,
+      "reason": "広告賞受賞の社内報告で実務への直接的示唆は薄い",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Google広告",
+      "title": "Holiday 100: Your guide to this year’s top trending gifts",
+      "link": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+      "summary": "・Googleが「Holiday 100」を公開し、今年のホリデーシーズンに最も人気のギフト100選を紹介している\n・Google検索のトレンドデータを基に、消費者が最も注目している商品をランキング形式で提示している\n・検索トレンドの裏付けにより、今年のギフト選びに役立つ購買ガイドとして活用できる内容となっている",
+      "score": 2,
+      "reason": "米国向け消費者向けギフトガイドで実務に無関係",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Google News",
+      "title": "サイバーエージェント、広告運用AI「効果おまかせAI」でTikTok広告に対応開始 - RTB SQUARE",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzcjIyZXlPOXFKczJobjJzdkZNNHdwOVhFYm5UWFBqeVhFZnB0VXl2RjFoWDJjcDFTOUhiLXdLLXE0bHdGVW00Yl9yNXNfdw?oc=5",
+      "summary": "・サイバーエージェントが広告運用AI「効果おまかせAI」のTikTok広告対応を開始した\n・同AIは広告運用の自動最適化を行い、運用効率と広告効果の向上を目指すツールである\n・TikTok対応により短尺動画広告領域でもAI活用の運用自動化が可能となる",
+      "score": 8,
+      "reason": "TikTok広告AI運用ツール新対応で実務影響大",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Google News",
+      "title": "広告配信運用AIエージェント「効果おまかせAI」、TikTok広告への対応を開始 短尺動画広告の効果向上を支援 - 株式会社サイバーエージェント",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PdXlqbUF5eWVSTVE4dDh5eDdmNDU5b1FGTW9MbS1jd0p0WnphS1RRUVJNTjdNN2M3TjRwa3RQVTN2SjR0cXVEc1o4bGlQXzlSRkVUU1hreEZWbWQzZ1E?oc=5",
+      "summary": "・サイバーエージェントの広告配信運用AIエージェント「効果おまかせAI」がTikTok広告に新たに対応開始\n・短尺動画広告の効果向上を支援し、TikTok特有のフォーマットに最適化した運用を実現\n・AIエージェントが広告配信の運用業務を自動化し、広告効果の最大化を目指す取り組みを拡大",
+      "score": 8,
+      "reason": "TikTok広告AI運用ツール新対応で実務影響大",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "量産型SEOはもう通用しない！ AI時代のコンテンツ戦略で重要なのは「質と中身」「届け方」を見直すこと…ゼロクリック問題の勃発や、運用型広告のコスト高騰など、従来のマーケティング手法が、急速に効力を失いつつある。広告やSEOで新規の見込み顧客を獲得し、…Web担当者ForumIT総合10/8(木) 15:16",
+      "link": "https://news.yahoo.co.jp/articles/3f15ad553b585a4eddfa34f2d27747bec7c003ba",
+      "summary": "・AI普及によるゼロクリック問題や広告コスト高騰で従来のSEO・広告手法が急速に効力を失いつつある\n・量産型SEOコンテンツは通用せず、AI時代には「質と中身」を重視した戦略転換が求められている\n・新規見込み顧客の獲得にはコンテンツの届け方自体を見直し、マーケティング手法の再構築が必要",
+      "score": 6,
+      "reason": "運用型広告コスト高騰やSEO戦略の業界動向",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Google News",
+      "title": "マイクロアド---中日新聞と提携し東海エリア特化の企業・自治体向けデジタル広告サービス「中日リーチADS」を共同開発 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHN6WTc0U2FRNW1mN2UzLU1zdUZxUlBsLWlReThfWTJFVy1Wckc0UC03RVFjVXh6RHVINTFvejlYbGVTVHN1ZlBlV2dndXBtQ0NSR3Qta2IxNnRqTUp2ckdOU1dVZ0ZFQk5UbGJvTVFNdTExSFM4SGlOQ09ZdEd1X3BSZXhoMU3SAYwBQVVfeXFMUC1xbUVfSW12MWtsNW1nRUtkWkhwTTAxa3h5UHBfQTJqekhiY2F3OHJ5ZzRZeW1zM3Y2VXkxYU9EUXFUMEF3Qy1hYS1LWERRdW9NRW1qbE9ZUmE5RHhQS1JRZFBvbFBGR2xTeU1zQjBwU3NIeWZjTklLeExKRFpYbFJlOUR0dzl2S3hESVA?oc=5",
+      "summary": "・マイクロアドが中日新聞と提携し東海エリア特化のデジタル広告サービスを共同開発した\n・新サービス「中日リーチADS」は地元企業や自治体向けに提供されるデジタル広告である\n・中日新聞の地域メディア力とマイクロアドのアドテク技術を掛け合わせた地域密着型施策となる",
+      "score": 4,
+      "reason": "地域特化広告サービスのプレスリリース",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Google News",
+      "title": "中日新聞と提携し、同社の専門メディアデータを活用した企業・自治体向けのデジタル広告サービス「中日リーチADS - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZFo1SzNmaGdDdnI2eXJTYmJxVHdrSXU2ei16amhpSGhNOE5kUkdnRzEydGI0MWpzTHBrVTJlaUZTMllnRllibGx5Nk05akR6WmpFa3BRa1dNejA0TEdZMGtUOWhOT0V3UWJUUDZUOXk1MUtTTjFUNHQzTQ?oc=5",
+      "summary": "・中日新聞と提携し専門メディアデータを活用したデジタル広告サービス「中日リーチADS」を開始\n・企業や自治体向けに中日新聞の保有するデータを活かしたターゲティング配信が可能となる\n・地方メディアのデータ資産を広告領域で活用する新たなデジタル広告モデルとして注目される",
+      "score": 4,
+      "reason": "id:0と同内容の重複プレスリリース",
+      "date": "2026-11-10"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta、広告代理店の功績を称える「Meta Agency First Award Japan 2026」を開催し、新カテゴリ「Creative of the Year」を含む各賞の受賞者を発表 - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTd9IBgwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTdw?oc=5",
+      "summary": "・Metaが広告代理店の功績を表彰する「Meta Agency First Award Japan 2026」を開催した\n・新カテゴリ「Creative of the Year」を新設し、クリエイティブ領域の評価を強化した\n・各賞の受賞代理店が発表されMeta広告における優れたパートナーが公式に認定された",
+      "score": 4,
+      "reason": "Meta代理店アワード発表で業界動向程度",
+      "date": "2026-11-10"
     }
   ]
 }
