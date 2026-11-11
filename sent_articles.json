@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202608": "2026-10-11",
-    "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_updates_202610/?list=23496": "2026-10-11",
-    "https://dentsudigital.co.jp/news/release/services/2026-0908-000345": "2026-10-11",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdXQwajFocHgzcU5qalVKbnRIb1QxcTl4bENCV0pYV1l1UkRQY2FiWUY2dTI5c2hyZ24yUXFjdkNuaFJPNi1ISkJ5SVFMWV81cGF0X29abWpHUzJvTzRyOHRHcjNjUnIyYkx1OFk2S1Y1Ql92ZVhF?oc=5": "2026-10-11",
-    "https://news.yahoo.co.jp/articles/4351abdcc15fbdd92a070915ec4804c0a28c42a6": "2026-10-11",
-    "https://news.yahoo.co.jp/articles/ddf8031177eae19b1572ae037b2c0503181ce591": "2026-10-11",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QRlRETmRadWhYVXU0cHVCMnQzQ1hBaGJUR2NhMlpoWldwZFZHc1cxSVhJSlFWUVNhOTgwM0llS08zdXdKbUNOMl93?oc=5": "2026-10-11",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SDdjcnZ4ek84YWRLd2pRSG1IMHZjSXVaNm1ub25iQW1qcGljdVdWNTVxM3o2TGt2SnNKQlhoLXVOMVhydFAxTjlSOFBEZlk?oc=5": "2026-10-11",
-    "https://news.yahoo.co.jp/articles/67d2722c8a6bd362fc0a578d70dbe49669a0f612": "2026-10-11",
-    "https://news.yahoo.co.jp/articles/efb302846c98070f721b6e487d1a7434994f0a29": "2026-10-11",
     "https://www.lycbiz.com/jp/column/ly-ads/guideline/ad-guidelines-rejection-reasons/?list=23496": "2026-10-12",
     "https://www.lycbiz.com/jp/column/ly-ads/technique/silverweek_ad_strategy/?list=23496": "2026-10-12",
     "https://dentsudigital.co.jp/news/release/prizes/2026-0909-000347": "2026-10-12",
@@ -301,49 +291,19 @@
     "https://news.yahoo.co.jp/articles/3f15ad553b585a4eddfa34f2d27747bec7c003ba": "2026-11-10",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHN6WTc0U2FRNW1mN2UzLU1zdUZxUlBsLWlReThfWTJFVy1Wckc0UC03RVFjVXh6RHVINTFvejlYbGVTVHN1ZlBlV2dndXBtQ0NSR3Qta2IxNnRqTUp2ckdOU1dVZ0ZFQk5UbGJvTVFNdTExSFM4SGlOQ09ZdEd1X3BSZXhoMU3SAYwBQVVfeXFMUC1xbUVfSW12MWtsNW1nRUtkWkhwTTAxa3h5UHBfQTJqekhiY2F3OHJ5ZzRZeW1zM3Y2VXkxYU9EUXFUMEF3Qy1hYS1LWERRdW9NRW1qbE9ZUmE5RHhQS1JRZFBvbFBGR2xTeU1zQjBwU3NIeWZjTklLeExKRFpYbFJlOUR0dzl2S3hESVA?oc=5": "2026-11-10",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZFo1SzNmaGdDdnI2eXJTYmJxVHdrSXU2ei16amhpSGhNOE5kUkdnRzEydGI0MWpzTHBrVTJlaUZTMllnRllibGx5Nk05akR6WmpFa3BRa1dNejA0TEdZMGtUOWhOT0V3UWJUUDZUOXk1MUtTTjFUNHQzTQ?oc=5": "2026-11-10",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTd9IBgwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTdw?oc=5": "2026-11-10"
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTd9IBgwFBVV95cUxPOGpPRjBMR1AydklFclVvclRTQ1NlOERLQ3h3ajZMNjZGWTk1SkR0eXQwSXZYdUxBeHEtLUl1NzgyUnd3VWxORTBuV1pibW9rUEUzMjl4SlZ4TENXMjZyVGlXcGRWX0hRRFpyejVMaUVvSHRpWGxRS1IyWnJoNlI0ZkZTdw?oc=5": "2026-11-10",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-1110-000363": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UaWlQYWJ5cG5XQ21QYUNYSnF5SXVWTjlYQWRtaUVkYmRZNGswc2VpLU9QNW0zVTZiWXJxZktnaC1rM0ZOUWtudjZ1cU1EODdyZWtBbDFtRUo3d0hsUmNUX2MwbnlTRlZ3TzludVNTUE9PYTk4RF9MeW9kd0MzcGc?oc=5": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWFPa1hxNk1LYTYxcEJpb0RLSzFyWUw5T0NyWFBOOHBid0VKU1dDVDkxa0QwUzNJMUtjRjFnRURqYWFudE1PVDdhdGdOLTNHQU5mTU5qZmp2TXBoWThmamlBMTRLalhoUHhreFhFUTJGWElURVlKajNEcFE2djRPVk4yZnZvTkVBdzhBemtwbml4X09ZVWRhZkNMZGVzVC1lVXZVaEtHUG13ODhjY3pRNkdR?oc=5": "2026-11-11",
+    "https://news.yahoo.co.jp/articles/f670f496ae881094e3758756d4d0d269e989eca7": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hYlF6TUtjTjhBS3AycTBkaG9vVUdxM2pNS0VxcUN2UlVCTzRKUjkzMDl1aVVVQk92ZUZaYU1rcUM5LVEwN0xVZlF5bE9oWU5FYlJpYlJrSTk5aURvcFE5UjMwX2p6dnQ3SVA0MWRqSU1KWkU?oc=5": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZYm53bWI4QUZHYTBHU1htcjJTejV5REFBWVI5UzZGSUg5UjFzSU1Da1hzVVN1d3JiWjFmczNSSWVNbGQweml3VXdNYlo2cG10WUxTVjVUS2xrODB6bmNOLW5JVFg3QkhJVlBQQU9pcFhvdmNGRUx1VQ?oc=5": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sZG45VUNVYjR3ZDhhTGJjZjFWVUdieDd4ZUdpcy01bUhZbnBYOU9ZeUdsMXlmZGhaWjl0V2VzaHYxMzRnN0VHZVM0T2g1eWNrRkFrVTJiSVB5eGlQcjRUMHJXbHBNdGtVLU1sc3BFRUdpcFV1VTFTeWpfTQ?oc=5": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IV1UyQ1BNTS1OLW5HMENvbXBtWjFEUEo4Qm9mZkdtWFZ1cUYxYkdKd09NMkpyRHJydTVhSHBUSWotTE1Xd0VjTDl4WDZ4WXVLSHAyMWxILVNYMUJDLXhXLUM0SzFselhHQ21lZHdLaVpOY2R3VnBrRnVn?oc=5": "2026-11-11",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZEotZEswWjR2dm5RYnhOcnNwenJsUVJzQmhMRl9IRGZLN0liWmRaM1FrQTRXVm45clI1bGMzbVF3UzFFMjlPS1hnZmczZmJDSHJWM1gxd1V0ajFPQjlz?oc=5": "2026-11-11",
+    "https://news.yahoo.co.jp/articles/61bc52ec18b0ff32fdd34232d03ad46e24316ba1": "2026-11-11"
   },
   "titles": [
-    {
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年8月）",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "【2026年7月～9月】LINEヤフー広告アップデートまとめ",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "Meta、米国における自社プラットフォームでのTikTok広告を禁止 - TradingView",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "インフルエンサーが勧めても「クルマ」は全然売れない？ 信頼度わずか「17%」という現実！ 最終検討層が頼る「意外な情報源」とは 背景には、ステルスマーケティングに対する消費者の強い警戒がある。2023年10月に景品表示法上のステマ規制が始まって以降、利害関係が見えにくいSNS上のレビューや…Merkmal経済総合10/10(土) 20:51",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "多様化する“ポイ活”アプリの最新事情 歩くだけでポイント、レシート買取に“おぢさん”育成も…だ。 消費者庁が2021年3月に公表した資料「ポイントサイトの動向整理」を参考にすると、このサービスを支えているのは広告を出稿している広告主。ユーザ…リアルサウンドエンタメ総合10/9(金) 18:00",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "アジア太平洋デジタル広告医薬品市場の成長を牽引するものは何か？2026年から2033年に - pando.life",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "【名城大学】兵庫の悪ガキ、広告業界の頂点に立つ 愛知から世界におもろいを発信する - アットプレス",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "武井壮、亡き母の再婚相手との2ショット披露「幸せな時間でした」ネット感動の声相次ぐ「素敵なご報告」「こちらまで心が温かくなります」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 7:20",
-      "date": "2026-10-11"
-    },
-    {
-      "title": "中川翔子 手作りケーキで双子1歳誕生日を祝福！「イケメン双子」「ずっと見ていきたい幸せ家族」の声…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/9(金) 13:10",
-      "date": "2026-10-11"
-    },
     {
       "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
       "date": "2026-10-12"
@@ -1527,99 +1487,49 @@
     {
       "title": "Meta、広告代理店の功績を称える「Meta Agency First Award Japan 2026」を開催し、新カテゴリ「Creative of the Year」を含む各賞の受賞者を発表 - Facebook",
       "date": "2026-11-10"
+    },
+    {
+      "title": "Meta主催「Meta Agency First Awards 2026」において「Best Brand Award」を2年連続で受賞",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "広告主7割「AIで十分」 1,098人調査で浮いた本音（FINDERS） - Yahoo!ニュース",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "AI導入でも利益率が上がらない広告代理店。急ぐ若手採用と育成の仕組み化 - DIGIDAY［日本版］",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "広告主7割「AIで十分」 1,098人調査で浮いた本音…広告主の7割が代理店のレポートを「AIで十分」と感じていた広告代理店から届くレポートを前に、「これならAIでも作れるのではないか」と感じたことがある…FINDERS経済総合11/11(水) 7:03",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "天気で広告が変わる「ダイナミックDOOH」、SEデジタルが「eye weather」第三弾として提供開始 - ニコニコニュース",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "インバウンド広告のグローバル・デイリー、JICDAQの2分野で品質認証を取得 - RBB TODAY",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "オプト、Meta主催の「Meta Agency First Awards Japan 2026」にて最優秀賞「Agency of the Year」を受賞 - ニコニコニュース",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "株式会社ピアラ Metaが主催する「Meta Agency First Awards 2026」にて「Best SMB Partner」を3年連続受賞 - イザ！",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "名古屋の広告代理店エル・エス・アイ、破産開始決定 負債2億9400万円：ニュース - 中日BIZナビ",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Mr.Children桜井和寿、“ピンク色コーデ”でのライブ歌唱ショットに「相変わらずピンクが良くお似合い」「圧巻のライブでした」ファンから反響続々…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/9(月) 15:21",
+      "date": "2026-11-11"
     }
   ],
   "articles": [
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "AI検索エンジンのトラフィック推移と動向（2026年8月）",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/ai-search-engine-202608",
-      "summary": "・AI検索エンジン国内シェアでChatGPTが約72.44%を獲得し前月比6.04pt増と大幅に拡大した\n・ChatGPT以外の主要AI検索エンジン3サービスはいずれもシェアを落とす結果となった\n・ChatGPTの一強体制が強まりAI検索市場における競合との差がさらに広がっている",
-      "score": 6,
-      "reason": "AI検索シェア動向は広告戦略の参考になる業界データ",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "【2026年7月～9月】LINEヤフー広告アップデートまとめ",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/service-information/ly-ads_updates_202610/?list=23496",
-      "summary": "・2026年7月～9月のLINEヤフー広告における主要アップデートをまとめた総括記事\n・検索広告における新機能や仕様変更など最新のアップデート内容を網羅的に解説\n・ディスプレイ広告の機能追加・変更点も含め四半期の動向を一括で把握できる内容",
-      "score": 9,
-      "reason": "LINEヤフー広告の主要アップデートまとめで実務に直結",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "デジタル制作物のレビューをAIで自動化・支援するソリューション「DeGA」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-0908-000345",
-      "summary": "・電通デジタルがAIエージェント活用の制作物レビュー支援ソリューション「DeGA」を提供開始した\n・企業のデザインガイドラインやブランドルールに基づきデジタル制作物のレビューを自動化する\n・DeGAは「Design Governance Agent」の略称で、制作現場の品質管理効率化を目指す",
-      "score": 4,
-      "reason": "制作レビュー自動化ツールで広告運用との直接関連は薄い",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Google News",
-      "title": "Meta、米国における自社プラットフォームでのTikTok広告を禁止 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdXQwajFocHgzcU5qalVKbnRIb1QxcTl4bENCV0pYV1l1UkRQY2FiWUY2dTI5c2hyZ24yUXFjdkNuaFJPNi1ISkJ5SVFMWV81cGF0X29abWpHUzJvTzRyOHRHcjNjUnIyYkx1OFk2S1Y1Ql92ZVhF?oc=5",
-      "summary": "・MetaがFacebookやInstagramなど自社プラットフォーム上でのTikTok広告掲載を米国で禁止した\n・競合排除の狙いがあるとみられ、TikTokの米国内でのユーザー獲得戦略に影響を及ぼす可能性がある\n・SNS大手間の広告プラットフォーム競争が激化し、今後の業界動向が注目される",
-      "score": 7,
-      "reason": "MetaがTikTok広告禁止は主要媒体の重要動向",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "インフルエンサーが勧めても「クルマ」は全然売れない？ 信頼度わずか「17%」という現実！ 最終検討層が頼る「意外な情報源」とは 背景には、ステルスマーケティングに対する消費者の強い警戒がある。2023年10月に景品表示法上のステマ規制が始まって以降、利害関係が見えにくいSNS上のレビューや…Merkmal経済総合10/10(土) 20:51",
-      "link": "https://news.yahoo.co.jp/articles/4351abdcc15fbdd92a070915ec4804c0a28c42a6",
-      "summary": "・自動車購入検討者のインフルエンサーへの信頼度はわずか17%にとどまり、SNS経由の販促効果が極めて低い現状が判明した\n・2023年10月のステマ規制強化以降、利害関係が不透明なSNSレビューへの消費者の警戒感が一層高まっている\n・最終検討層はインフルエンサーよりもディーラー担当者や既存オーナーの口コミなど実体験に基づく情報源を重視する傾向にある",
-      "score": 5,
-      "reason": "インフルエンサー施策の効果に関する知見",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "多様化する“ポイ活”アプリの最新事情 歩くだけでポイント、レシート買取に“おぢさん”育成も…だ。 消費者庁が2021年3月に公表した資料「ポイントサイトの動向整理」を参考にすると、このサービスを支えているのは広告を出稿している広告主。ユーザ…リアルサウンドエンタメ総合10/9(金) 18:00",
-      "link": "https://news.yahoo.co.jp/articles/ddf8031177eae19b1572ae037b2c0503181ce591",
-      "summary": "・歩数計測やレシート買取、育成ゲームなどポイ活アプリのジャンルが多様化し利用者層が拡大している\n・消費者庁の資料によるとポイントサイトの収益構造は広告主の出稿費用によって支えられている\n・日常行動をポイントに変換する手軽さが人気を集め各社が独自性のあるアプリ開発を競っている",
-      "score": 4,
-      "reason": "ポイ活の広告モデル解説だが運用実務と距離あり",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Google News",
-      "title": "アジア太平洋デジタル広告医薬品市場の成長を牽引するものは何か？2026年から2033年に - pando.life",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QRlRETmRadWhYVXU0cHVCMnQzQ1hBaGJUR2NhMlpoWldwZFZHc1cxSVhJSlFWUVNhOTgwM0llS08zdXdKbUNOMl93?oc=5",
-      "summary": "・アジア太平洋地域の医薬品デジタル広告市場が2026年から2033年にかけて大幅な成長を見込んでいる\n・デジタル化の加速やスマートフォン普及率の向上が市場拡大の主要な牽引要因となっている\n・製薬企業によるオンライン広告投資の増加と規制環境の変化が成長を後押しする見通しである",
-      "score": 3,
-      "reason": "医薬品市場レポートで実務への直接的影響薄い",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Google News",
-      "title": "【名城大学】兵庫の悪ガキ、広告業界の頂点に立つ 愛知から世界におもろいを発信する - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SDdjcnZ4ek84YWRLd2pRSG1IMHZjSXVaNm1ub25iQW1qcGljdVdWNTVxM3o2TGt2SnNKQlhoLXVOMVhydFAxTjlSOFBEZlk?oc=5",
-      "summary": "・名城大学関係者で兵庫県出身の人物が広告業界のトップに上り詰めた経歴が紹介されている\n・愛知県を拠点に世界へ向けて「おもろい」広告クリエイティブを発信し続けている\n・地方発でも独自の感性と実力で広告業界の頂点に立てることを体現した事例として注目される",
-      "score": 2,
-      "reason": "大学プレスリリースで運用実務と無関係",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "武井壮、亡き母の再婚相手との2ショット披露「幸せな時間でした」ネット感動の声相次ぐ「素敵なご報告」「こちらまで心が温かくなります」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/11(日) 7:20",
-      "link": "https://news.yahoo.co.jp/articles/67d2722c8a6bd362fc0a578d70dbe49669a0f612",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急増しメディア接触の構造変化が加速している\n・生活者のデジタルシフトに伴いデジタル広告市場が急拡大し広告費配分の見直しが進む",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-10-11"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "中川翔子 手作りケーキで双子1歳誕生日を祝福！「イケメン双子」「ずっと見ていきたい幸せ家族」の声…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/9(金) 13:10",
-      "link": "https://news.yahoo.co.jp/articles/efb302846c98070f721b6e487d1a7434994f0a29",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り、10年間で大幅に増加した\n・メディア接触の主軸がテレビからデジタルへ移行し、デジタル広告市場が急速に拡大している\n・広告主はネット利用時間の増加に合わせデジタル広告への予算配分見直しが求められている",
-      "score": 1,
-      "reason": "芸能ニュースで広告運用と無関係",
-      "date": "2026-10-11"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "問い合わせから見えた、LINEヤフー広告の審査で注意したい3つの表現",
@@ -4283,6 +4193,96 @@
       "score": 4,
       "reason": "Meta代理店アワード発表で業界動向程度",
       "date": "2026-11-10"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "Meta主催「Meta Agency First Awards 2026」において「Best Brand Award」を2年連続で受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-1110-000363",
+      "summary": "・電通デジタルがMeta主催「Meta Agency First Awards 2026」で受賞を発表した\n・受賞カテゴリは広告代理店を対象とした「Best Brand Award」である\n・同アワードでのBest Brand Award受賞は2年連続の快挙となった",
+      "score": 3,
+      "reason": "企業の受賞報告であり実務的な知見は少ない",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "広告主7割「AIで十分」 1,098人調査で浮いた本音（FINDERS） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UaWlQYWJ5cG5XQ21QYUNYSnF5SXVWTjlYQWRtaUVkYmRZNGswc2VpLU9QNW0zVTZiWXJxZktnaC1rM0ZOUWtudjZ1cU1EODdyZWtBbDFtRUo3d0hsUmNUX2MwbnlTRlZ3TzludVNTUE9PYTk4RF9MeW9kd0MzcGc?oc=5",
+      "summary": "・広告主1,098人を対象とした調査で約7割がAIによる広告制作で十分と回答した\n・人間のクリエイターによる制作よりもAIの効率性やコスト面を評価する傾向が判明\n・広告業界においてAI活用が加速する中、クリエイター の役割再定義が急務となっている",
+      "score": 7,
+      "reason": "広告主のAI意識調査で代理店業務への示唆が大きい",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "AI導入でも利益率が上がらない広告代理店。急ぐ若手採用と育成の仕組み化 - DIGIDAY［日本版］",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWFPa1hxNk1LYTYxcEJpb0RLSzFyWUw5T0NyWFBOOHBid0VKU1dDVDkxa0QwUzNJMUtjRjFnRURqYWFudE1PVDdhdGdOLTNHQU5mTU5qZmp2TXBoWThmamlBMTRLalhoUHhreFhFUTJGWElURVlKajNEcFE2djRPVk4yZnZvTkVBdzhBemtwbml4X09ZVWRhZkNMZGVzVC1lVXZVaEtHUG13ODhjY3pRNkdR?oc=5",
+      "summary": "・広告代理店がAIを導入しても業務効率化が利益率向上に直結しない現状が課題となっている\n・人材不足が深刻化する中、若手人材の採用強化が代理店の競争力維持に不可欠となっている\n・属人的な育成から脱却し、体系的な人材育成の仕組み化が業界全体で急務とされている",
+      "score": 7,
+      "reason": "代理店のAI活用と収益構造の課題で実務的示唆あり",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広告主7割「AIで十分」 1,098人調査で浮いた本音…広告主の7割が代理店のレポートを「AIで十分」と感じていた広告代理店から届くレポートを前に、「これならAIでも作れるのではないか」と感じたことがある…FINDERS経済総合11/11(水) 7:03",
+      "link": "https://news.yahoo.co.jp/articles/f670f496ae881094e3758756d4d0d269e989eca7",
+      "summary": "・1,098人対象の調査で広告主の7割が代理店レポートは「AIで十分」と回答した\n・広告代理店から届くレポートに対し「AIでも作れる」と感じた経験が多数を占める\n・代理店には数値報告以上の戦略的価値や人的知見の提供が求められる時代に突入した",
+      "score": 7,
+      "reason": "id6と同内容、代理店レポートのAI代替議論で有用",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "天気で広告が変わる「ダイナミックDOOH」、SEデジタルが「eye weather」第三弾として提供開始 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hYlF6TUtjTjhBS3AycTBkaG9vVUdxM2pNS0VxcUN2UlVCTzRKUjkzMDl1aVVVQk92ZUZaYU1rcUM5LVEwN0xVZlF5bE9oWU5FYlJpYlJrSTk5aURvcFE5UjMwX2p6dnQ3SVA0MWRqSU1KWkU?oc=5",
+      "summary": "・SEデジタルが天候に連動して広告内容を自動切替する「ダイナミックDOOH」の提供を開始した\n・同社の気象データ活用サービス「eye weather」シリーズの第三弾として展開される\n・天気や気温などの条件に応じた最適な広告配信により訴求効果の向上を目指す",
+      "score": 5,
+      "reason": "DOOH新サービスで広告手法の参考になるが運用型とは異なる",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "インバウンド広告のグローバル・デイリー、JICDAQの2分野で品質認証を取得 - RBB TODAY",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZYm53bWI4QUZHYTBHU1htcjJTejV5REFBWVI5UzZGSUg5UjFzSU1Da1hzVVN1d3JiWjFmczNSSWVNbGQweml3VXdNYlo2cG10WUxTVjVUS2xrODB6bmNOLW5JVFg3QkhJVlBQQU9pcFhvdmNGRUx1VQ?oc=5",
+      "summary": "・インバウンド広告を手がけるグローバル・デイリーがJICDAQの品質認証を取得した\n・認証はブランドセーフティとアドフラウド対策の2分野で取得している\n・デジタル広告の品質と信頼性向上に向けた取り組みとして注目される",
+      "score": 4,
+      "reason": "JICDAQ認証取得は業界動向だが実務影響は限定的",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "オプト、Meta主催の「Meta Agency First Awards Japan 2026」にて最優秀賞「Agency of the Year」を受賞 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sZG45VUNVYjR3ZDhhTGJjZjFWVUdieDd4ZUdpcy01bUhZbnBYOU9ZeUdsMXlmZGhaWjl0V2VzaHYxMzRnN0VHZVM0T2g1eWNrRkFrVTJiSVB5eGlQcjRUMHJXbHBNdGtVLU1sc3BFRUdpcFV1VTFTeWpfTQ?oc=5",
+      "summary": "・オプトがMeta主催「Meta Agency First Awards Japan 2026」で最優秀賞を受賞した\n・受賞タイトルは最高位にあたる「Agency of the Year」で業界最高評価を獲得\n・MetaのFacebook・Instagram広告運用における卓越した実績が評価された形となる",
+      "score": 4,
+      "reason": "オプトの受賞報告でMeta運用の参考程度",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "株式会社ピアラ Metaが主催する「Meta Agency First Awards 2026」にて「Best SMB Partner」を3年連続受賞 - イザ！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IV1UyQ1BNTS1OLW5HMENvbXBtWjFEUEo4Qm9mZkdtWFZ1cUYxYkdKd09NMkpyRHJydTVhSHBUSWotTE1Xd0VjTDl4WDZ4WXVLSHAyMWxILVNYMUJDLXhXLUM0SzFselhHQ21lZHdLaVpOY2R3VnBrRnVn?oc=5",
+      "summary": "・ピアラがMeta主催「Meta Agency First Awards 2026」でBest SMB Partnerを受賞した\n・同賞の受賞は3年連続となり、中小企業向け広告支援での高い実績が評価された\n・MetaプラットフォームにおけるSMB領域の広告運用パートナーとしての地位を確立している",
+      "score": 4,
+      "reason": "ピアラの受賞報告でMeta SMB運用の参考程度",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Google News",
+      "title": "名古屋の広告代理店エル・エス・アイ、破産開始決定 負債2億9400万円：ニュース - 中日BIZナビ",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZEotZEswWjR2dm5RYnhOcnNwenJsUVJzQmhMRl9IRGZLN0liWmRaM1FrQTRXVm45clI1bGMzbVF3UzFFMjlPS1hnZmczZmJDSHJWM1gxd1V0ajFPQjlz?oc=5",
+      "summary": "・名古屋の広告代理店エル・エス・アイが破産開始決定を受けたことが明らかになった\n・負債総額は約2億9400万円と報じられており、事業継続が困難な状況に陥った\n・中日BIZナビが報道し、地域広告業界への影響が注目されている",
+      "score": 3,
+      "reason": "広告代理店の破産ニュースで業界情報だが実務無関係",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Mr.Children桜井和寿、“ピンク色コーデ”でのライブ歌唱ショットに「相変わらずピンクが良くお似合い」「圧巻のライブでした」ファンから反響続々…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/9(月) 15:21",
+      "link": "https://news.yahoo.co.jp/articles/61bc52ec18b0ff32fdd34232d03ad46e24316ba1",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回ったことが明らかになった\n・過去10年間でインターネット利用時間は急増しメディア接触の構造が大きく変化している\n・デジタル広告市場はネット利用拡大を背景に急成長を続け広告費の主戦場が移行している",
+      "score": 2,
+      "reason": "芸能ニュース中心で広告運用との関連が薄い",
+      "date": "2026-11-11"
     }
   ]
 }
