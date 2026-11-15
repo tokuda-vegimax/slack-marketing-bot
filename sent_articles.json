@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fRVZXMVNFdnBGbWwyOEt1a2FYZFVYN3liM0s0UmJHbllxQXBBdEJ6ZXI2cGFVcEZER2FSN2RzRXFYX0dRbTVrNlJwMkxoa0F1YTlEUkM4X19pWVMxRkp0WS0tcURBTktJeE9hNThZZEVjVFlicXRRekJzWmM?oc=5": "2026-10-15",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSR2xhRm5OT011OUdhOElCbTZyZVdqYjVNSnZhaHpaRUlYWER2M0ktM0stNlpHS1h4a0FTalVWdkcweFM2Y2s1bTBmNDU2MzlTSDhGcDlFbVI1UUVRczFURHBUYzZZZGUz?oc=5": "2026-10-15",
-    "https://news.yahoo.co.jp/articles/aad0d271293434ad14602ca31e51db585286d9a5": "2026-10-15",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZU3pRN0x1WXRVMTB3dVcyMWdnbV8xZWE1cjQ1bU9OYTU0eVViZ2Iyc05RWnRteW9mYWdSRUxySEh1anNjekdxY0lZZ18wNGNJRkFTUDhWMGRTRWppNGY5SHV2bkpZajhTcWdBUkJQbEQ0N2VnX1d3eHhKUHRhUmc?oc=5": "2026-10-15",
-    "https://news.yahoo.co.jp/articles/67bef725b162c4fea37c33fcafdac31765af09c5": "2026-10-15",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CZGxkZTRfODZDdmQ2ZnJFa0xtclZjVERvNkR1NnQ4RS1TRl9FWE93VXJ6SFI5SlZiWHJLWngwbWFSc0lNNmw5enpkcXBVVEM3VXlZUW9XS2xCWU4zR2xVczlqR1I3bG5lRHRCMV9LbWQ4bGJWMlNyTEIzMA?oc=5": "2026-10-15",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nNlFBWGVlRGZOX0ZBc1ZWbW1wRGpUMlhuVFdmMlBkX0lYbzlKOWlMa0lIMjE1RjAtQnpDeExRNWtPVlF4VFkwalhidjA4Y3J4NHc?oc=5": "2026-10-15",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVWhOazV3UkpiQS1xWFkzV0YzLWpLalFxanJUYmdCNzQzVm9lRFNzQWoxOEhBOVJPdExBTmNjN21DUThkZHh4ZHNQRHdYU2pnQ2pjMDhqTjUzODN5b2hsSk16aC14OWxIYWFOLWlsV3lrWENFUXA5ZnZwR3VETG8?oc=5": "2026-10-15",
-    "https://news.yahoo.co.jp/articles/e6df4d2a300c852ce294e1d93db32c8bd7f3d40c": "2026-10-15",
     "https://oneder.hakuhodody-one.co.jp/blog/google-search-console-multimodal": "2026-10-16",
     "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/": "2026-10-16",
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1uaWpidzJ3M1I1VGV5Yk1kOWJVSjNfQVdOOGFBWnpVTV9VdnFOYmJOajM1cHNNczNCSTBzSWs0VDY2TFZWemJj?oc=5": "2026-10-16",
@@ -300,49 +291,19 @@
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2OWtpM1FTU2hPZ1hzNFBoazlHX1B4a0tzNEJXYy1EOEhvVG5PaWhZVWJCNXpsRElMcGRQd3dET1ZUVGVoSFZQUHpNbjlFeFQ1VVNYOXh0VzJ0V2F3SldF?oc=5": "2026-11-14",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmoxYmxld21lMGphTGhkZEpJZjFxRk1CTnNmWWh5ZkZfeVJtX1Z3YW5ibk5LUGlrNkJYbmg0Wi0zN0FlQk9wRXhHSl9BeC1pc3h6S3JteG1KcXFDSUtNVVFuSGpPcjZpem5VdWN0aXM4Si1DbzJQM3NLWU5aV2RWX0w5Ny10NWlwVzgxTUhRWjY4QkU2bFEzeHF6aWk2N1lKVDRudHF1S2s0bzJ3Mi1Ya0FwNUpsSC1KMC0yczZBaVQwNlY3?oc=5": "2026-11-14",
     "https://news.yahoo.co.jp/articles/ea946e321d39688220e050d5ed841e7fd615de45": "2026-11-14",
-    "https://news.yahoo.co.jp/articles/349a213a3db2440323f835819f85ae79149f8c0c": "2026-11-14"
+    "https://news.yahoo.co.jp/articles/349a213a3db2440323f835819f85ae79149f8c0c": "2026-11-14",
+    "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/": "2026-11-15",
+    "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/": "2026-11-15",
+    "https://news.yahoo.co.jp/articles/5c4a52d1d6d4ffd38eb04b66b55b48113efce9ac": "2026-11-15",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HbFJzOW44OC1PY0NmTUJkakc4N0Q4bXBBMUE1bFpYTUxYbmFnZ1VUQ1RpZkJtZGN0Zjlucms1RWwxVUN1NkphcWVBWDdCdk9DellvZjlYQUY0UFZvd0gyTDFyeV8zOEJYeFdnOHlGdnNFVWJUMEF5aWRmLWdDb3c?oc=5": "2026-11-15",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MmpZT0pJZXc5MExrQmczZmgteHFsUXltN2NtVzBwMDdzOGoxb1V6M3ZYbTAxdmthTzJJSndkSDJzdnBJV04zbkFJWXhHR1NOVlM2aXZJTUtwMmxHZ1diZWpwb1lYYWU5dUxCWlpQaHg5Qjk3MWVKSTNKc2kwV1U?oc=5": "2026-11-15",
+    "https://news.yahoo.co.jp/articles/1eee8cdb37f5e03b2c148914e19bbf2df5553c41": "2026-11-15",
+    "https://news.yahoo.co.jp/articles/d9e6b8186e44c69ec9c2aec9482c85f8c13e098c": "2026-11-15",
+    "https://news.yahoo.co.jp/articles/424bc7b5de85672a5996610fffec4ff54e28e24c": "2026-11-15",
+    "https://news.yahoo.co.jp/articles/9b2fbbe6b32a0796f57d70420e76aa1b4266d663": "2026-11-15",
+    "https://news.yahoo.co.jp/articles/6a12544a55fc2cb3109f11adb1802edc6cf38b6c": "2026-11-15"
   },
   "titles": [
-    {
-      "title": "AI 時代の Google 広告運用。​AI に​学習させ、​成果を​上げる​ための 5 つの​要素 - Google Business Profile",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "CyberACE、Meta広告の運用自動化に関する無料オンラインセミナー開催へ - Dellows News",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "企業に頼まれた商品紹介。「広告」と示さないと違反になるのは依頼した側…るのか」。返事をする前に、消費者庁の案内を読んでみることにしました。 企業が内容に関わる投稿は広告として扱われる 消費者庁は、令和5年10月1日から、…マネーの達人ライフ総合10/14(水) 13:00",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "企業に頼まれた商品紹介。「広告」と示さないと違反になるのは依頼した側（マネーの達人） - Yahoo!ニュース",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "企業に頼まれた商品紹介。「広告」と示さないと違反になるのは依頼した側…った投稿なのに広告だと分からないものは、景品表示法で規制されています。ただし、規制を受けるのは依頼した企業の側です。引き受ける前に、広告であることの示…マネーの達人ライフ総合10/14(水) 13:00",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "【2億円超の損害賠償を請求】あおいの給食室とハーベストのミールキット訴訟、判決は2027年明けにも…ンフルエンサーにＰＲなどの仕事を依頼するのは決して珍しいことではない。広告代理店やインフルエンサーのキャスティング会社を介して依頼することがほとんどとされる。日本ネット経済新聞経済総合10/15(木) 10:15",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "トレンダーズ、TikTokの認定パートナープログラム「TikTok Marketing Partners」にて「Agency Partners」バッジを取得 - ニコニコニュース",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "エリートが｢新卒プレミアム｣をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の\"人気業界\" - 東洋経済オンライン",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "エリートが「新卒プレミアム」をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の“人気業界” - Yahoo!ニュース",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "エリートが「新卒プレミアム」をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の“人気業界” ワンキャリア調べ(28卒春期速報)の東大京大の就活人気企業ランキングでは、上位10社のうち6社をコンサルティングファームが占めた。かつてバブル期に…東洋経済オンライン経済総合10/15(木) 9:30",
-      "date": "2026-10-15"
-    },
     {
       "title": "Google 、Search Consoleにマルチモーダル検索のレポートを導入",
       "date": "2026-10-16"
@@ -1526,99 +1487,49 @@
     {
       "title": "57歳 有働由美子 マツコ・デラックスとの2ショットを公開「5時に夢中」の代打MCで共演 変顔のマツコと笑顔でピースする姿に「お二人ともいい顔してますね」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/14(土) 10:50",
       "date": "2026-11-14"
+    },
+    {
+      "title": "Expanding our defenses against financial scam ads",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "Data-backed secrets to smarter holiday shopping",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "アフィリエイトASP「メディパートナー」、5媒体に対応したCV連携機能を提供開始（株式会社オプティマイザー）…・Yahoo!広告 ・Meta広告 ・TikTok広告 ・ChatGPT広告 Google広告、Yahoo!広告、Meta広告、TikTok広告につい…Yahoo!ニュース PR［PR］IT総合10/14(水) 10:00",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "「え、これ無許可?」ピザーラが人気アニメとのコラボで謝罪、“設定ミス”で勝手に広告が出てしまう怖さ（女子SPA！） - Yahoo!ニュース",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "前澤友作氏、偽広告訴訟で敗訴──権利侵害は認めたのに、なぜMetaの責任を問えない？ 裁判所が認めた「対策」は十分といえるのか - Yahoo!ニュース",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "ロッチ・コカド、古着への自作ペイントを公開「めちゃオシャレで可愛い」「本当に素敵です」SNSで絶賛相次ぐ…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/14(土) 9:40",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "和田アキ子、脳梗塞から復帰したサンド伊達と“久々の再会ショット”「本当に涙が出るほど嬉しかったです」狩野英孝も一緒の写真に「元気な姿見られて安心しました」の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/13(金) 16:40",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "疲れたら休む。失敗したら挽回できる。「ピンチをチャンスに変える」2つの法則…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合11/14(土) 21:31",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "世界のスターを彩る「ヴィヴィアーノ」 東京でのショーを見送った決断とパリへの挑戦…ックスでしたね。 大学ではグラフィックデザインを学び、卒業後はLAの広告代理店で1年ほど働きましたが、仕事を好きになれなくて。「行ったことのない国へ…WWDJAPAN.comライフ総合11/14(土) 21:00",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "戸塚祥太×紺野彩夏W主演『極道上司に愛されたら season2』に藤井直樹、高田里穂ら出演へ…の前に、蓮の過去や新たな抗争の気配が立ちはだかる。 物語の舞台となる広告代理店アドライザ営業部では、真琴が新入社員・朝比奈湊の教育係を任される。朝比…リアルサウンドエンタメ総合11/14(土) 18:02",
+      "date": "2026-11-15"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "AI 時代の Google 広告運用。​AI に​学習させ、​成果を​上げる​ための 5 つの​要素 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fRVZXMVNFdnBGbWwyOEt1a2FYZFVYN3liM0s0UmJHbllxQXBBdEJ6ZXI2cGFVcEZER2FSN2RzRXFYX0dRbTVrNlJwMkxoa0F1YTlEUkM4X19pWVMxRkp0WS0tcURBTktJeE9hNThZZEVjVFlicXRRekJzWmM?oc=5",
-      "summary": "・Google広告においてAIの学習精度を高めることが成果向上の鍵となると提唱している\n・AIに適切なデータを学習させるために必要な5つの要素を体系的に解説している\n・Google公式が推奨するAI活用型の広告運用フレームワークとして実践的な指針を提示",
-      "score": 9,
-      "reason": "Google広告AI運用の公式ガイド、即実務活用可",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Google News",
-      "title": "CyberACE、Meta広告の運用自動化に関する無料オンラインセミナー開催へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSR2xhRm5OT011OUdhOElCbTZyZVdqYjVNSnZhaHpaRUlYWER2M0ktM0stNlpHS1h4a0FTalVWdkcweFM2Y2s1bTBmNDU2MzlTSDhGcDlFbVI1UUVRczFURHBUYzZZZGUz?oc=5",
-      "summary": "・CyberACEがMeta広告の運用自動化をテーマにした無料オンラインセミナーを開催予定\n・Meta広告における自動化手法や効率的な運用ノウハウを解説する内容とみられる\n・デジタル広告運用の効率化を目指す広告主やマーケター向けのセミナーとなる",
-      "score": 7,
-      "reason": "Meta広告の運用自動化セミナー、実務に直結",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "企業に頼まれた商品紹介。「広告」と示さないと違反になるのは依頼した側…るのか」。返事をする前に、消費者庁の案内を読んでみることにしました。 企業が内容に関わる投稿は広告として扱われる 消費者庁は、令和5年10月1日から、…マネーの達人ライフ総合10/14(水) 13:00",
-      "link": "https://news.yahoo.co.jp/articles/aad0d271293434ad14602ca31e51db585286d9a5",
-      "summary": "・企業依頼のSNS商品紹介で「広告」表記を怠るとステマ規制違反になる可能性がある\n・2023年10月から消費者庁がステマを不当表示として規制し企業側が処分対象となる\n・投稿者だけでなく依頼した企業側も規制内容を正しく理解し対応する必要がある",
-      "score": 5,
-      "reason": "ステマ規制の解説で広告関連知識として有用",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Google News",
-      "title": "企業に頼まれた商品紹介。「広告」と示さないと違反になるのは依頼した側（マネーの達人） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZU3pRN0x1WXRVMTB3dVcyMWdnbV8xZWE1cjQ1bU9OYTU0eVViZ2Iyc05RWnRteW9mYWdSRUxySEh1anNjekdxY0lZZ18wNGNJRkFTUDhWMGRTRWppNGY5SHV2bkpZajhTcWdBUkJQbEQ0N2VnX1d3eHhKUHRhUmc?oc=5",
-      "summary": "・企業がインフルエンサー等に商品紹介を依頼する際、広告表記がないとステマ規制違反となる\n・違反の責任を負うのは投稿者ではなく広告を依頼した企業側であることが明確化されている\n・企業はPR表記の徹底など適切な広告管理を行わないと景品表示法違反のリスクがある",
-      "score": 5,
-      "reason": "id3と同一記事、ステマ規制の解説",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "企業に頼まれた商品紹介。「広告」と示さないと違反になるのは依頼した側…った投稿なのに広告だと分からないものは、景品表示法で規制されています。ただし、規制を受けるのは依頼した企業の側です。引き受ける前に、広告であることの示…マネーの達人ライフ総合10/14(水) 13:00",
-      "link": "https://news.yahoo.co.jp/articles/aad0d271293434ad14602ca31e51db585286d9a5",
-      "summary": "・企業依頼の商品紹介で広告表示を怠るステマは景品表示法違反の対象となる\n・規制対象は投稿者ではなく依頼した企業側であり罰則も企業に科される\n・投稿を引き受ける際は広告である旨の明示を事前に確認すべきと注意喚起",
-      "score": 5,
-      "reason": "id3と同一記事、ステマ規制の解説",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【2億円超の損害賠償を請求】あおいの給食室とハーベストのミールキット訴訟、判決は2027年明けにも…ンフルエンサーにＰＲなどの仕事を依頼するのは決して珍しいことではない。広告代理店やインフルエンサーのキャスティング会社を介して依頼することがほとんどとされる。日本ネット経済新聞経済総合10/15(木) 10:15",
-      "link": "https://news.yahoo.co.jp/articles/67bef725b162c4fea37c33fcafdac31765af09c5",
-      "summary": "・あおいの給食室とハーベスト間でミールキットに関する訴訟が進行中で損害賠償額は2億円超に上る\n・判決は2027年明けにも出される見通しでインフルエンサー活用における契約問題が争点となっている\n・インフルエンサーへのPR依頼は広告代理店やキャスティング会社経由が主流で契約管理の重要性が浮き彫りに",
-      "score": 4,
-      "reason": "インフルエンサー訴訟事例、PR依頼の参考程度",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Google News",
-      "title": "トレンダーズ、TikTokの認定パートナープログラム「TikTok Marketing Partners」にて「Agency Partners」バッジを取得 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CZGxkZTRfODZDdmQ2ZnJFa0xtclZjVERvNkR1NnQ4RS1TRl9FWE93VXJ6SFI5SlZiWHJLWngwbWFSc0lNNmw5enpkcXBVVEM3VXlZUW9XS2xCWU4zR2xVczlqR1I3bG5lRHRCMV9LbWQ4bGJWMlNyTEIzMA?oc=5",
-      "summary": "・トレンダーズがTikTok公式認定プログラム「TikTok Marketing Partners」に参加したと発表\n・同プログラムにおいて広告代理店向けの「Agency Partners」バッジを正式に取得した\n・TikTok広告運用における専門性と実績が公式に認められた形となる",
-      "score": 4,
-      "reason": "TikTokパートナー取得の企業プレスリリース",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Google News",
-      "title": "エリートが｢新卒プレミアム｣をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の\"人気業界\" - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nNlFBWGVlRGZOX0ZBc1ZWbW1wRGpUMlhuVFdmMlBkX0lYbzlKOWlMa0lIMjE1RjAtQnpDeExRNWtPVlF4VFkwalhidjA4Y3J4NHc?oc=5",
-      "summary": "・東大・早慶など高学歴層がコンサル業界に新卒で殺到する流れに変化の兆しが見え始めている\n・かつての銀行や広告代理店のように、コンサル人気もピークを過ぎつつあるとの分析が示された\n・次世代の人気業界としてスタートアップやテック企業など新たな選択肢に注目が集まっている",
-      "score": 2,
-      "reason": "就活人気業界の話題で運用実務と無関係",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Google News",
-      "title": "エリートが「新卒プレミアム」をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の“人気業界” - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVWhOazV3UkpiQS1xWFkzV0YzLWpLalFxanJUYmdCNzQzVm9lRFNzQWoxOEhBOVJPdExBTmNjN21DUThkZHh4ZHNQRHdYU2pnQ2pjMDhqTjUzODN5b2hsSk16aC14OWxIYWFOLWlsV3lrWENFUXA5ZnZwR3VETG8?oc=5",
-      "summary": "・東大・早慶などエリート層の新卒就職先としてコンサル人気が続いたが、その潮流に変化の兆しが見え始めている\n・銀行や広告代理店でもない新興業界がエリート学生の関心を集め、次世代の人気就職先として台頭しつつある\n・「新卒プレミアム」の使い方を再考する動きが広がり、キャリア選択の価値観が多様化している状況が指摘されている",
-      "score": 2,
-      "reason": "id6と同一記事、就活業界動向",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "エリートが「新卒プレミアム」をコンサルに捧げる時代が終わるワケ――銀行でも広告代理店でもない次世代の“人気業界” ワンキャリア調べ(28卒春期速報)の東大京大の就活人気企業ランキングでは、上位10社のうち6社をコンサルティングファームが占めた。かつてバブル期に…東洋経済オンライン経済総合10/15(木) 9:30",
-      "link": "https://news.yahoo.co.jp/articles/e6df4d2a300c852ce294e1d93db32c8bd7f3d40c",
-      "summary": "・ワンキャリア調査で東大京大の就活人気上位10社中6社をコンサル企業が占める結果となった\n・かつての銀行や広告代理店に代わりコンサルが新卒エリート層の主要な就職先となっている\n・コンサル一強時代にも変化の兆しがあり次世代の人気業界が台頭しつつあると指摘されている",
-      "score": 2,
-      "reason": "id6と同一記事、就活業界動向",
-      "date": "2026-10-15"
-    },
     {
       "source": "アイレップ (ONEDER)",
       "title": "Google 、Search Consoleにマルチモーダル検索のレポートを導入",
@@ -4282,6 +4193,96 @@
       "score": 1,
       "reason": "芸能ニュースで広告運用と無関係",
       "date": "2026-11-14"
+    },
+    {
+      "source": "Google広告",
+      "title": "Expanding our defenses against financial scam ads",
+      "link": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+      "summary": "・2027年初頭に米国とカナダで金融詐欺広告への新たな防御策を導入すると発表した\n・金融詐欺から利用者を守ることを目的とした安全対策が強化される予定である\n・デジタル広告における詐欺被害の拡大を受け防御体制の拡充に踏み切った形だ",
+      "score": 4,
+      "reason": "米加向け詐欺広告対策で日本実務への直接影響は限定的",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Google広告",
+      "title": "Data-backed secrets to smarter holiday shopping",
+      "link": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+      "summary": "・Googleが検索データと割引データを活用した「When to Buy Guide」を新たに公開した\n・ホリデーシーズンの買い物で最もお得に購入できる最適なタイミングを提示する内容である\n・データに基づいた購買時期の可視化により消費者のスマートな購買判断を支援する狙いがある",
+      "score": 3,
+      "reason": "消費者向け買い物ガイドで広告運用実務との関連薄い",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アフィリエイトASP「メディパートナー」、5媒体に対応したCV連携機能を提供開始（株式会社オプティマイザー）…・Yahoo!広告 ・Meta広告 ・TikTok広告 ・ChatGPT広告 Google広告、Yahoo!広告、Meta広告、TikTok広告につい…Yahoo!ニュース PR［PR］IT総合10/14(水) 10:00",
+      "link": "https://news.yahoo.co.jp/articles/5c4a52d1d6d4ffd38eb04b66b55b48113efce9ac",
+      "summary": "・オプティマイザーのASP「メディパートナー」が5媒体対応のCV連携機能を新たに提供開始した\n・対応媒体はGoogle広告・Yahoo!広告・Meta広告・TikTok広告・ChatGPT広告の5つである\n・広告媒体にアフィリエイトのCV数据を連携し広告運用の最適化を支援する機能となる",
+      "score": 7,
+      "reason": "主要広告媒体のCV連携機能は運用実務に直結する",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Google News",
+      "title": "「え、これ無許可?」ピザーラが人気アニメとのコラボで謝罪、“設定ミス”で勝手に広告が出てしまう怖さ（女子SPA！） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HbFJzOW44OC1PY0NmTUJkakc4N0Q4bXBBMUE1bFpYTUxYbmFnZ1VUQ1RpZkJtZGN0Zjlucms1RWwxVUN1NkphcWVBWDdCdk9DellvZjlYQUY0UFZvd0gyTDFyeV8zOEJYeFdnOHlGdnNFVWJUMEF5aWRmLWdDb3c?oc=5",
+      "summary": "・ピザーラが人気アニメとのコラボ広告において無許可配信が発覚し公式に謝罪する事態となった\n・原因は広告配信システムの\"設定ミス\"で、意図せず許可のない広告が表示されてしまったとされる\n・デジタル広告の自動配信における設定管理の重要性とリスクを浮き彫りにした事例として注目される",
+      "score": 7,
+      "reason": "広告設定ミスの実例で運用上のリスク管理に有用",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Google News",
+      "title": "前澤友作氏、偽広告訴訟で敗訴──権利侵害は認めたのに、なぜMetaの責任を問えない？ 裁判所が認めた「対策」は十分といえるのか - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MmpZT0pJZXc5MExrQmczZmgteHFsUXltN2NtVzBwMDdzOGoxb1V6M3ZYbTAxdmthTzJJSndkSDJzdnBJV04zbkFJWXhHR1NOVlM2aXZJTUtwMmxHZ1diZWpwb1lYYWU5dUxCWlpQaHg5Qjk3MWVKSTNKc2kwV1U?oc=5",
+      "summary": "・前澤友作氏がMeta社を相手取った偽広告訴訟で敗訴し、プラットフォーム責任の追及が退けられた\n・裁判所は前澤氏の肖像権など権利侵害の存在自体は認めたがMeta社の法的責任は否定した\n・Meta社が講じた偽広告対策を裁判所は一定程度評価したが、その十分性に疑問の声が上がっている",
+      "score": 5,
+      "reason": "Meta偽広告訴訟は広告業界の法的動向として参考になる",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッチ・コカド、古着への自作ペイントを公開「めちゃオシャレで可愛い」「本当に素敵です」SNSで絶賛相次ぐ…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/14(土) 9:40",
+      "link": "https://news.yahoo.co.jp/articles/1eee8cdb37f5e03b2c148914e19bbf2df5553c41",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・ネット利用時間は過去10年間で大幅に増加しデジタル広告市場も急拡大が続いている\n・メディア接触の構造変化に伴い広告予算のデジタルシフトが一層加速する見通しである",
+      "score": 2,
+      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "和田アキ子、脳梗塞から復帰したサンド伊達と“久々の再会ショット”「本当に涙が出るほど嬉しかったです」狩野英孝も一緒の写真に「元気な姿見られて安心しました」の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/13(金) 16:40",
+      "link": "https://news.yahoo.co.jp/articles/d9e6b8186e44c69ec9c2aec9482c85f8c13e098c",
+      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急増しメディア接触の構造変化が加速している\n・生活者のデジタルシフトに伴いデジタル広告市場が急拡大し広告費配分の見直しが進む",
+      "score": 2,
+      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "疲れたら休む。失敗したら挽回できる。「ピンチをチャンスに変える」2つの法則…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合11/14(土) 21:31",
+      "link": "https://news.yahoo.co.jp/articles/424bc7b5de85672a5996610fffec4ff54e28e24c",
+      "summary": "・元広告代理店勤務の作家・印南敦史氏がピンチをチャンスに変える2つの法則を紹介\n・疲れたら休み失敗しても挽回できるという前向きな姿勢が重要だと提唱している\n・ライフハッカー・ジャパンに掲載されたビジネスパーソン向けの自己啓発的な記事",
+      "score": 1,
+      "reason": "自己啓発記事で広告運用と無関係",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世界のスターを彩る「ヴィヴィアーノ」 東京でのショーを見送った決断とパリへの挑戦…ックスでしたね。 大学ではグラフィックデザインを学び、卒業後はLAの広告代理店で1年ほど働きましたが、仕事を好きになれなくて。「行ったことのない国へ…WWDJAPAN.comライフ総合11/14(土) 21:00",
+      "link": "https://news.yahoo.co.jp/articles/9b2fbbe6b32a0796f57d70420e76aa1b4266d663",
+      "summary": "・デザイナーブランド「ヴィヴィアーノ」が東京でのショーを見送りパリ進出に挑戦する決断を下した\n・創設者は大学でグラフィックデザインを学びLA広告代理店勤務を経てファッション業界に転身した\n・世界のスターを顧客に持つブランドが国際舞台での存在感拡大を目指し新たな展開を図っている",
+      "score": 1,
+      "reason": "ファッション業界の人物記事で広告運用と無関係",
+      "date": "2026-11-15"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戸塚祥太×紺野彩夏W主演『極道上司に愛されたら season2』に藤井直樹、高田里穂ら出演へ…の前に、蓮の過去や新たな抗争の気配が立ちはだかる。 物語の舞台となる広告代理店アドライザ営業部では、真琴が新入社員・朝比奈湊の教育係を任される。朝比…リアルサウンドエンタメ総合11/14(土) 18:02",
+      "link": "https://news.yahoo.co.jp/articles/6a12544a55fc2cb3109f11adb1802edc6cf38b6c",
+      "summary": "・戸塚祥太と紺野彩夏がW主演するドラマ『極道上司に愛されたら season2』に藤井直樹や高田里穂らが新たに出演決定\n・物語の舞台は広告代理店アドライザ営業部で、主人公・真琴が新入社員・朝比奈湊の教育係を担当する展開に\n・蓮の過去や新たな抗争の気配など、シーズン2では人間関係の緊張感が増す新展開が示唆されている",
+      "score": 1,
+      "reason": "ドラマ紹介記事で広告運用と無関係",
+      "date": "2026-11-15"
     }
   ]
 }
