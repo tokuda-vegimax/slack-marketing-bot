@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.facebook.com/business/news/agency-awards-2026": "2026-10-24",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MVlZzbnoxbG1ueVZzaWxZQmUzUEZObldZTVVTYzExaXR0VkxtYWt0Qy1ZRzhaaHZWSHRrblgtOXV3ZmRxUEZyUl9CUkJ0eTFabUZ1cE44Rkc1NXMxMl82aEtuenJ1dTA?oc=5": "2026-10-24",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGUwRWdodTFodWJibTllcllSa3MzMFVfVUJUQk13Ym1wTnp0UkZZSGhxaTdCUGhaSElRRHNLQlBQa1QwMmh1U1BHSEZjZDV5UFBub3hxWS16UU41dm1lZ1RXUHZZWWVXeUc3YmdFWUdOQjdySVpCcTVJb2FNY3dHRDJaUkVsVGV0SktXYk5jQnNjdDhCdGVaVi1STHNMeVU0ZVd0ZklZRXZuYkRUZndjcUY0TDl0Vm50bFA3dC05RDU?oc=5": "2026-10-24",
-    "https://news.yahoo.co.jp/articles/ddfcf9ddddae1a773701d886b1d0d0c8fb202512": "2026-10-24",
-    "https://news.yahoo.co.jp/articles/d45dfe8a4cb2904c0f68ae7228888c1a3aec11e9": "2026-10-24",
-    "https://news.yahoo.co.jp/articles/904bc42e0887e8253210a6ba917747f389808ab9": "2026-10-24",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pZG5GcWZKNzhQOVI0dzF1VGlscS1qc2diTzlIbHZkdU5ZNHZzYVVkMUo2Y2x6dFl6dDVKc2NhWG95TGNRQ1kxcTZzRmFmSmloeElkbGlUaw?oc=5": "2026-10-24",
-    "https://news.yahoo.co.jp/articles/0a035a71528c79e58c5a67abadba644fbb30dcba": "2026-10-24",
-    "https://news.yahoo.co.jp/articles/e8a16f20652dd7e723dbaf77def0b83403adc215": "2026-10-24",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UjNVRFhiNURJWGU1Yk9VYlROem1UMWVNVHp2UlVCVlRwUFdfNC00M2p4TnItUnRFbzVKc2NSN3VndWZjRVVxelhFVDgyWjVTcFk0MTlEZzFJQnRHcDVQWkVMZGlXNjUzYlE?oc=5": "2026-10-25",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5GdTNEbFdIMkxRWm5jbXVvdlp3U21sZmhNejg2Q255TWxWMjNHM3VBcENBQm1FX2xic0NxekhEc0doWmw0Zk9zT3dBRUl0MVIyMmJyMk5jQjRBc2tNYWFzNjdEZGxhc3ZJNkJuaVVnUEJ0dw?oc=5": "2026-10-25",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWhfU1R0LTRhRTMwRXFoTHFtTWxETUtjQ09LMV9Rdm9wSS03d29nTkZhR3lFZTFPRjM4RC1lTmVqSGFxU1dQWC1pTFdabVZzam03R0drcThFYUY0MHdIbGRWaHZJZks1YllaT0Y2XzJMZ2p2cG96X1RQcENBMEY5RlRORXNvY2dxMGdnWkNueW43N2xqMkF3VkhaMVhEdHBUNmk4?oc=5": "2026-10-25",
@@ -293,49 +284,19 @@
     "https://news.yahoo.co.jp/articles/b811563bbe9688d75a3c2b072c83e33569be5fa1": "2026-11-22",
     "https://news.yahoo.co.jp/articles/267c5dfa11fbdebeddca96c9d05716cda2d3216e": "2026-11-23",
     "https://news.yahoo.co.jp/expert/articles/29e42f5e30a5c220791131a0c3b21d78c6220a89": "2026-11-23",
-    "https://news.yahoo.co.jp/articles/ed86ece4d8b2544aef2a2c969c2b8f3079ffda16": "2026-11-23"
+    "https://news.yahoo.co.jp/articles/ed86ece4d8b2544aef2a2c969c2b8f3079ffda16": "2026-11-23",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-ugc-spam-guide": "2026-11-24",
+    "https://oneder.hakuhodody-one.co.jp/blog/video-ad-basics": "2026-11-24",
+    "https://www.facebook.com/business/news/you-dont-beat-the-auction-you-brief-it": "2026-11-24",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5": "2026-11-24",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcUhuMDdfMVp3bnNMZHlmeVpLaUtYR0I4X2o4N0IybVBJS2ROUEdjTmxiaVlKWk05VTZvTjYtaHJQM2p6VmZ3UFZHZm5mc19mYm1JbjN6dmFtdVZhcjQ5OFd5S1JKXzJKeTJfR2I0ckJ6MW1KQS1JUkpXQmFkUDg?oc=5": "2026-11-24",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55elo0eHVEcUJ1NndoTjlEODgtNktTUVhWSHUwUkJGVmJtNURxV25LWVJtTWZCWHRsZXpLTWRuZ3Y1dXdnSnR6QV94UDhEb0hSeDhBdHVGMW1YQWRwSWVlS3I1T1dadFU?oc=5": "2026-11-24",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTNFZE9lMFNmNXV5aTY0aDNzMy1Sd1N3bHI0NmF2V1ZkaGEyV3htZU5PUGVQY29icy1BZy11RUFaZGxnNXp6eHNxTzV2cThGVGhuNEJwaHltT3JCak01M2hab2h5aUtxS0FFb0lYUmo3RXgyQTZ4aklRNThkay1GM05sNmdMQ2hxRlRkRkF2Si11ZWxGejlMVnNiQ1NRUzEwZWxxRXRR?oc=5": "2026-11-24",
+    "https://news.yahoo.co.jp/articles/578225b8d0d33913cb8f79ad280389a84826797d": "2026-11-24",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jWHFiTFhhRWNYTWxoaUkwdDVaY2JFOFQyLWV1X2hyb1RFTlIwQVJZbjBfTjhYZnJqbElKaWkxeUF3dElwNG01TV92YTZuSEFlbmczc01PdUVkUms0X2VodlR6R3BTSDFvUXpF?oc=5": "2026-11-24",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY1QzRTREMWZPZ0VlRHJCWDh4RzFTdjNPWEpWMUdma05jel9BRWh1T3ZTNUdrVUo1czlnZGxfVlRzZnVBZW1FZUwtWndWaW54MzNRZ3B2amlNeXJqZFhJSVJPOFpqaXZQc0E?oc=5": "2026-11-24"
   },
   "titles": [
-    {
-      "title": "Meet the 2026 Meta Agency Award Winners",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "Picsart、グーグル広告の作成・テスト・運用において企業を支援する「マーケティング・スタジオ」をリリース - Business Wire",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "AI で企画期間を6週間から6日以下に短縮 ふたりの広告代理店が実践する新しい経営モデル - DIGIDAY［日本版］",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "なぜ私たちは「街なかのアドトラック」をつい目で追ってしまうのか？ 広告を覚えた人の47%が検索！ 思わずスマホで調べたくなる理由とは…行動を追い、費用対効果（ROI）を測ることが長年の課題となってきた。デジタル広告のように、クリック数から効果を把握することが難しいためだ。しかし近年、…Merkmal経済総合10/23(金) 11:51",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "「オリパ」購入者ら「高額カード当たらない」と業者を集団提訴…「広告の表示信じて歯止め利かなくなった」…針を明らかにした。 「ルール作りを」 誇大広告などの法令違反に対しては、景表法や特商法を所管する消費者庁が行政処分などを行うが、オリパ販売に関する直…読売新聞オンライン社会10/23(金) 15:00",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "「オリパ」購入者ら「高額カード当たらない」と業者を集団提訴…「広告の表示信じて歯止め利かなくなった」…が出る」など実態と異なる過剰な宣伝を実施し、特定商取引法（誇大広告の禁止）や景品表示法に違反したなどと主張している。 原告代理人を務める西川研一弁…読売新聞オンライン社会10/23(金) 15:00",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "ロッチ・コカド、素晴らしいクオリティ…自作の「キルティングベスト」に「もはや既製品なみ」「売って欲しい」ファンから絶賛…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/22(木) 6:01",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "ソフトバンク子会社広告代理店の元常務（52）を横領容疑で再逮捕 調査報告書は4億6000万円の横領を指摘 大半をFX投資に使用か 警視庁 - TBS NEWS DIG",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "【特集】新潟市長選 「にいがた2Ｋｍ」めぐり論戦 三つどもえの戦いは終盤戦へ…限られた資源を集中する」 コンサルタントで新人の早武淳さんです。 大手広告代理店「電通」におよそ30年勤務。 現在は新潟市内で経営や人事のコンサルタン…TeNYテレビ新潟新潟10/23(金) 20:05",
-      "date": "2026-10-24"
-    },
-    {
-      "title": "今どき「オーバーリップ」が簡単！ルイ・ヴィトン新作【LV クレヨン】が頼れる｜CLASSY.…島津由佳さん（29歳／化粧品会社） CLASSY.リーダーズ 三上瑠里さん（26歳／広告代理店） CLASSY.リーダーズ 早見聖奈さん（29歳／コンサル） カメ…magacolライフ総合10/23(金) 19:30",
-      "date": "2026-10-24"
-    },
     {
       "title": "Metaの広告MCPサーバーがDatabricksに登場：顧客インテリジェンスを広告キャンペーンに活用 - Databricks",
       "date": "2026-10-25"
@@ -1491,99 +1452,49 @@
     {
       "title": "クリスマス、上品でシンプルな針葉樹のリース 前田有紀さん流で色や質感の変化も楽しむ…わけではありませんでした。テレビ局に受かるとも思っていなかったです。 広告代理店や商社、航空会社など、「国際的な視点を生かせるように、様々な業界の大手…THE NIKKEI MAGAZINEライフ総合11/23(月) 10:00",
       "date": "2026-11-23"
+    },
+    {
+      "title": "Google 、ユーザー生成スパム防止ガイドを作成",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "動画広告とは？種類と配信の仕組みを基礎から解説",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Peak Season 2026 - You Don’t Beat The Auction. You Brief It.",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine（マーケジン）",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "ピザーラ騒動は序章…「作った覚えのない広告」が勝手に流れる、AI任せの怖すぎる現実（ビジネス＋IT） - Yahoo!ニュース",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "AI時代に生活者に選ばれる広告とは ― クリエイティブの質が一層重要 - Infoseek",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "広告業界で 生成AI の使い過ぎが深刻化 中身のない提案書が現場の時間を奪う - DIGIDAY［日本版］",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "「広告」。―その先に、文化は残るのか ~ ATS TOKYO 2026より…しかし昨今の「非難」はその比ではない。 なぜこうなってしまったのか。デジタル広告の進化とともに、私たちが「当てに行く」こと、つまり短期的な効率と最適化…note社会11/24(火) 14:05",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "pixivに運用型広告を簡単に出稿できる「pixiv Ads」がサービス開始から4周年！ゲーム・電子書籍業界を中心に導入企業は400社を突破 - 時事ドットコム",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "マテリアルリンクス、TikTok GO活用の観光クリエイター投稿サービスをstudio15と提供開始 - Media Innovation",
+      "date": "2026-11-24"
     }
   ],
   "articles": [
-    {
-      "source": "Meta for Business",
-      "title": "Meet the 2026 Meta Agency Award Winners",
-      "link": "https://www.facebook.com/business/news/agency-awards-2026",
-      "summary": "・Meta2026年エージェンシーアワードでCode3やHavas Media Networkなど5社が受賞した\n・受賞各社はAIを活用した革新的な広告キャンペーンが高く評価された\n・Ovative Group、Net Conversion、elk Marketingも優れた成果で選出された",
-      "score": 4,
-      "reason": "Meta代理店受賞報告で実務への直接的影響は限定的",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Google News",
-      "title": "Picsart、グーグル広告の作成・テスト・運用において企業を支援する「マーケティング・スタジオ」をリリース - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MVlZzbnoxbG1ueVZzaWxZQmUzUEZObldZTVVTYzExaXR0VkxtYWt0Qy1ZRzhaaHZWSHRrblgtOXV3ZmRxUEZyUl9CUkJ0eTFabUZ1cE44Rkc1NXMxMl82aEtuenJ1dTA?oc=5",
-      "summary": "・PicsartがGoogle広告の作成・テスト・運用を一元支援する新ツール「マーケティング・スタジオ」を正式リリースした\n・企業が広告クリエイティブの制作から効果検証・最適化までを効率的に行える統合プラットフォームとして設計されている\n・デジタル広告運用の工数削減とパフォーマンス向上を目指し、特にGoogle広告との連携機能を強化している",
-      "score": 7,
-      "reason": "Google広告のクリエイティブ制作・運用支援ツール新発表",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Google News",
-      "title": "AI で企画期間を6週間から6日以下に短縮 ふたりの広告代理店が実践する新しい経営モデル - DIGIDAY［日本版］",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGUwRWdodTFodWJibTllcllSa3MzMFVfVUJUQk13Ym1wTnp0UkZZSGhxaTdCUGhaSElRRHNLQlBQa1QwMmh1U1BHSEZjZDV5UFBub3hxWS16UU41dm1lZ1RXUHZZWWVXeUc3YmdFWUdOQjdySVpCcTVJb2FNY3dHRDJaUkVsVGV0SktXYk5jQnNjdDhCdGVaVi1STHNMeVU0ZVd0ZklZRXZuYkRUZndjcUY0TDl0Vm50bFA3dC05RDU?oc=5",
-      "summary": "・AIを活用し広告企画期間を従来の6週間から6日以下へ大幅に短縮した事例が紹介されている\n・わずか2人体制の広告代理店がAIツールを駆使し少人数でも高効率な運営モデルを実現している\n・従来の大規模チーム体制に依存しないAI時代の新しい広告代理店経営の可能性を示している",
-      "score": 6,
-      "reason": "AI活用による広告業務効率化事例で業界動向として参考",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "なぜ私たちは「街なかのアドトラック」をつい目で追ってしまうのか？ 広告を覚えた人の47%が検索！ 思わずスマホで調べたくなる理由とは…行動を追い、費用対効果（ROI）を測ることが長年の課題となってきた。デジタル広告のように、クリック数から効果を把握することが難しいためだ。しかし近年、…Merkmal経済総合10/23(金) 11:51",
-      "link": "https://news.yahoo.co.jp/articles/ddfcf9ddddae1a773701d886b1d0d0c8fb202512",
-      "summary": "・街中を走るアドトラック広告は視認性が高く、つい目で追ってしまう特性を持つOOH広告の一種である\n・広告を記憶した人の47%がスマホで検索行動を起こしており、高い行動喚起力が示されている\n・従来はクリック計測が困難でROI測定が課題だったが、近年デジタル技術で効果可視化が進んでいる",
-      "score": 4,
-      "reason": "アドトラックのROI測定の話題で運用型広告とは間接的",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「オリパ」購入者ら「高額カード当たらない」と業者を集団提訴…「広告の表示信じて歯止め利かなくなった」…針を明らかにした。 「ルール作りを」 誇大広告などの法令違反に対しては、景表法や特商法を所管する消費者庁が行政処分などを行うが、オリパ販売に関する直…読売新聞オンライン社会10/23(金) 15:00",
-      "link": "https://news.yahoo.co.jp/articles/d45dfe8a4cb2904c0f68ae7228888c1a3aec11e9",
-      "summary": "・オンラインオリパ購入者らが「高額カードが当たらない」として販売業者を相手に集団訴訟を提起した\n・原告側は広告表示を信じて購入を繰り返し歯止めが利かなくなったと主張し誇大広告の問題を指摘\n・景表法や特商法の適用についてルール整備を求める声が上がり消費者庁の対応が注目されている",
-      "score": 3,
-      "reason": "景表法・誇大広告の法規制話題で実務への直接影響は薄い",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「オリパ」購入者ら「高額カード当たらない」と業者を集団提訴…「広告の表示信じて歯止め利かなくなった」…が出る」など実態と異なる過剰な宣伝を実施し、特定商取引法（誇大広告の禁止）や景品表示法に違反したなどと主張している。 原告代理人を務める西川研一弁…読売新聞オンライン社会10/23(金) 15:00",
-      "link": "https://news.yahoo.co.jp/articles/d45dfe8a4cb2904c0f68ae7228888c1a3aec11e9",
-      "summary": "・トレカのオリパ購入者らが「高額カードが当たらない」として販売業者を集団提訴した\n・広告表示を信じて購入を続け歯止めが利かなくなったと原告側が被害を訴えている\n・実態と異なる過剰宣伝が特定商取引法や景品表示法に違反すると主張している",
-      "score": 3,
-      "reason": "id=2と同一事案の重複記事で広告運用との関連は低い",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "ロッチ・コカド、素晴らしいクオリティ…自作の「キルティングベスト」に「もはや既製品なみ」「売って欲しい」ファンから絶賛…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/22(木) 6:01",
-      "link": "https://news.yahoo.co.jp/articles/904bc42e0887e8253210a6ba917747f389808ab9",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明に\n・インターネット利用時間は過去10年間で大幅に増加しデジタルシフトが加速している\n・利用時間の変化に伴いデジタル広告市場が急拡大し広告費の構造転換が進行中",
-      "score": 2,
-      "reason": "芸能ニュースが主でデジタル広告市場の言及は付随的",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Google News",
-      "title": "ソフトバンク子会社広告代理店の元常務（52）を横領容疑で再逮捕 調査報告書は4億6000万円の横領を指摘 大半をFX投資に使用か 警視庁 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pZG5GcWZKNzhQOVI0dzF1VGlscS1qc2diTzlIbHZkdU5ZNHZzYVVkMUo2Y2x6dFl6dDVKc2NhWG95TGNRQ1kxcTZzRmFmSmloeElkbGlUaw?oc=5",
-      "summary": "・ソフトバンク子会社の広告代理店元常務（52）が業務上横領容疑で警視庁に再逮捕された\n・調査報告書により約4億6000万円にのぼる横領行為が指摘されている\n・横領した資金の大半をFX投資に充てていたとみられ捜査が進められている",
-      "score": 2,
-      "reason": "広告代理店の横領事件ニュースで運用実務と無関係",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "【特集】新潟市長選 「にいがた2Ｋｍ」めぐり論戦 三つどもえの戦いは終盤戦へ…限られた資源を集中する」 コンサルタントで新人の早武淳さんです。 大手広告代理店「電通」におよそ30年勤務。 現在は新潟市内で経営や人事のコンサルタン…TeNYテレビ新潟新潟10/23(金) 20:05",
-      "link": "https://news.yahoo.co.jp/articles/0a035a71528c79e58c5a67abadba644fbb30dcba",
-      "summary": "・新潟市長選が終盤戦に突入し、都心再開発構想「にいがた2Km」を争点に三つどもえの論戦が展開\n・新人候補の早武淳氏は電通に約30年勤務した経歴を持つ経営・人事コンサルタントである\n・早武氏は「限られた資源を集中する」との方針を掲げ、",
-      "score": 1,
-      "reason": "地方選挙報道で広告運用と無関係",
-      "date": "2026-10-24"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "今どき「オーバーリップ」が簡単！ルイ・ヴィトン新作【LV クレヨン】が頼れる｜CLASSY.…島津由佳さん（29歳／化粧品会社） CLASSY.リーダーズ 三上瑠里さん（26歳／広告代理店） CLASSY.リーダーズ 早見聖奈さん（29歳／コンサル） カメ…magacolライフ総合10/23(金) 19:30",
-      "link": "https://news.yahoo.co.jp/articles/e8a16f20652dd7e723dbaf77def0b83403adc215",
-      "summary": "・ルイ・ヴィトンの新作リップ「LVクレヨン」がオーバーリップを簡単に実現できると紹介\n・CLASSY.リーダーズの20代後半女性3名が実際に試用しレビューを展開\n・化粧品会社・広告代理店・コンサル勤務の読者モデルが各視点から使用感を評価",
-      "score": 1,
-      "reason": "コスメ紹介記事で広告運用と完全に無関係",
-      "date": "2026-10-24"
-    },
     {
       "source": "Google News",
       "title": "Metaの広告MCPサーバーがDatabricksに登場：顧客インテリジェンスを広告キャンペーンに活用 - Databricks",
@@ -4184,6 +4095,96 @@
       "score": 1,
       "reason": "ライフスタイル記事で運用と無関係",
       "date": "2026-11-23"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、ユーザー生成スパム防止ガイドを作成",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-ugc-spam-guide",
+      "summary": "・Googleがユーザー生成スパムを防止するための新たなガイドを公開した\n・検索結果への表示を意図しないユーザー作成ページをインデックスから除外する内容\n・プラットフォーム側で対策を講じることでスパムを水際で防ぐ狙いがある",
+      "score": 4,
+      "reason": "SEO寄りのスパム対策情報で広告運用への直接影響は小さい",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "動画広告とは？種類と配信の仕組みを基礎から解説",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/video-ad-basics",
+      "summary": "・動画広告は映像・音声・文字を組み合わせ商品やサービスの特徴を効果的に伝えるデジタル広告である\n・認知向上や購買促進が主な目的だが成果は配信先・素材・ターゲット設定により大きく左右される\n・配信先はYouTube・SNS・ニュースサイト・アプリ・コネクテッドTVなど多岐にわたる",
+      "score": 3,
+      "reason": "動画広告の超基礎解説で実務担当者には新規性が乏しい",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Meta for Business",
+      "title": "Peak Season 2026 - You Don’t Beat The Auction. You Brief It.",
+      "link": "https://www.facebook.com/business/news/you-dont-beat-the-auction-you-brief-it",
+      "summary": "・2026年ピークシーズンに向けたMeta広告キャンペーンの事前準備戦略を解説する内容\n・最適化目標・入札戦略・アトリビューション設定の明確化がオークション攻略の鍵と提唱\n・アカウント変更を最小限に抑え、機械学習の安定稼働を維持する運用方針を推奨している",
+      "score": 7,
+      "reason": "Meta広告のピーク期運用設定の実践的ガイド",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Google News",
+      "title": "Meta広告のトップランナー集結！Planner of the Year受賞者に活用ノウハウを聞く (1/3) - MarkeZine（マーケジン）",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZVRDQ05jb2g1QklJczA3TFFoWDZPcHlydTdaRWw5X0UxWURHc3lFTnJ5M3cyUlNJQ3g4Z1ZJM2JZWHg4cmdEWTF6WDUyenB3S05F?oc=5",
+      "summary": "・Meta広告の優秀プランナーを表彰するPlanner of the Year受賞者が一堂に集結した\n・受賞者たちがMeta広告プラットフォームの具体的な活用ノウハウや成功事例を共有している\n・トップランナーの知見を通じてMeta広告運用の最新トレンドと実践的手法が紹介されている",
+      "score": 8,
+      "reason": "Meta広告トップ運用者のノウハウで実務直結",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Google News",
+      "title": "ピザーラ騒動は序章…「作った覚えのない広告」が勝手に流れる、AI任せの怖すぎる現実（ビジネス＋IT） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcUhuMDdfMVp3bnNMZHlmeVpLaUtYR0I4X2o4N0IybVBJS2ROUEdjTmxiaVlKWk05VTZvTjYtaHJQM2p6VmZ3UFZHZm5mc19mYm1JbjN6dmFtdVZhcjQ5OFd5S1JKXzJKeTJfR2I0ckJ6MW1KQS1JUkpXQmFkUDg?oc=5",
+      "summary": "・ピザーラの広告騒動を発端に、AIが自動生成した意図しない広告が配信されるリスクが注目されている\n・Google等の広告プラットフォームではAIが広告文や画像を自動生成し、広告主が把握しないまま掲載される事例が増加\n・広告運用のAI依存が進む中、ブランド毀損を防ぐため人間による監視・管理体制の強化が急務となっている",
+      "score": 7,
+      "reason": "AI自動生成広告のリスク事例で運用管理に重要",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Google News",
+      "title": "AI時代に生活者に選ばれる広告とは ― クリエイティブの質が一層重要 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55elo0eHVEcUJ1NndoTjlEODgtNktTUVhWSHUwUkJGVmJtNURxV25LWVJtTWZCWHRsZXpLTWRuZ3Y1dXdnSnR6QV94UDhEb0hSeDhBdHVGMW1YQWRwSWVlS3I1T1dadFU?oc=5",
+      "summary": "・AI技術の普及により広告の選別が進み、生活者に届く広告の条件が変化している\n・クリエイティブの質が広告効果を左右する最重要要素として一層注目されている\n・AI時代では独自性や共感を生む表現力が生活者に選ばれる広告の鍵となる",
+      "score": 6,
+      "reason": "AI時代の広告クリエイティブ論で運用示唆あり",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Google News",
+      "title": "広告業界で 生成AI の使い過ぎが深刻化 中身のない提案書が現場の時間を奪う - DIGIDAY［日本版］",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTNFZE9lMFNmNXV5aTY0aDNzMy1Sd1N3bHI0NmF2V1ZkaGEyV3htZU5PUGVQY29icy1BZy11RUFaZGxnNXp6eHNxTzV2cThGVGhuNEJwaHltT3JCak01M2hab2h5aUtxS0FFb0lYUmo3RXgyQTZ4aklRNThkay1GM05sNmdMQ2hxRlRkRkF2Si11ZWxGejlMVnNiQ1NRUzEwZWxxRXRR?oc=5",
+      "summary": "・広告業界で生成AIを多用した中身の薄い提案書が急増し、深刻な問題となっている\n・AI生成の表面的な資料が増え、現場担当者の確認・精査に膨大な時間が奪われている\n・生成AIの安易な利用が提案の質低下を招き、業界全体の生産性を損なう懸念が広がる",
+      "score": 6,
+      "reason": "広告業界のAI活用課題で実務上の注意喚起になる",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「広告」。―その先に、文化は残るのか ~ ATS TOKYO 2026より…しかし昨今の「非難」はその比ではない。 なぜこうなってしまったのか。デジタル広告の進化とともに、私たちが「当てに行く」こと、つまり短期的な効率と最適化…note社会11/24(火) 14:05",
+      "link": "https://news.yahoo.co.jp/articles/578225b8d0d33913cb8f79ad280389a84826797d",
+      "summary": "・ATS TOKYO 2026で広告業界への非難の高まりとその背景について議論が展開された\n・デジタル広告が短期的な効率や最適化を追求しすぎた結果、社会的信頼を損ねている現状を指摘\n・広告が本来持つ文化的価値の喪失に警鐘を鳴らし、業界の方向転換の必要性を提起した",
+      "score": 5,
+      "reason": "デジタル広告の在り方への問題提起で業界動向として参考",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Google News",
+      "title": "pixivに運用型広告を簡単に出稿できる「pixiv Ads」がサービス開始から4周年！ゲーム・電子書籍業界を中心に導入企業は400社を突破 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jWHFiTFhhRWNYTWxoaUkwdDVaY2JFOFQyLWV1X2hyb1RFTlIwQVJZbjBfTjhYZnJqbElKaWkxeUF3dElwNG01TV92YTZuSEFlbmczc01PdUVkUms0X2VodlR6R3BTSDFvUXpF?oc=5",
+      "summary": "・pixivへの運用型広告出稿サービス「pixiv Ads」が提供開始から4周年を迎えた\n・ゲームや電子書籍業界を中心に導入企業数が400社を突破し順調に拡大している\n・セルフサーブ型で手軽に広告出稿できる点がクリエイター向け市場で支持を集めている",
+      "score": 5,
+      "reason": "pixiv Ads周年報告、出稿先検討の参考になる",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Google News",
+      "title": "マテリアルリンクス、TikTok GO活用の観光クリエイター投稿サービスをstudio15と提供開始 - Media Innovation",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY1QzRTREMWZPZ0VlRHJCWDh4RzFTdjNPWEpWMUdma05jel9BRWh1T3ZTNUdrVUo1czlnZGxfVlRzZnVBZW1FZUwtWndWaW54MzNRZ3B2amlNeXJqZFhJSVJPOFpqaXZQc0E?oc=5",
+      "summary": "・マテリアルリンクスがstudio15と連携しTikTok GOを活用した観光向けクリエイター投稿サービスを開始した\n・TikTok GOの機能を活かし観光地の魅力をクリエイターが発信することで集客や認知拡大を狙う\n・両社の強みを掛け合わせ自治体や観光事業者向けにSNSを活用した効果的なプロモーションを提供する",
+      "score": 5,
+      "reason": "TikTok施策の新サービスで出稿検討の参考になる",
+      "date": "2026-11-24"
     }
   ]
 }
