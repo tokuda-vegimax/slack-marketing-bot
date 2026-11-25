@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UjNVRFhiNURJWGU1Yk9VYlROem1UMWVNVHp2UlVCVlRwUFdfNC00M2p4TnItUnRFbzVKc2NSN3VndWZjRVVxelhFVDgyWjVTcFk0MTlEZzFJQnRHcDVQWkVMZGlXNjUzYlE?oc=5": "2026-10-25",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5GdTNEbFdIMkxRWm5jbXVvdlp3U21sZmhNejg2Q255TWxWMjNHM3VBcENBQm1FX2xic0NxekhEc0doWmw0Zk9zT3dBRUl0MVIyMmJyMk5jQjRBc2tNYWFzNjdEZGxhc3ZJNkJuaVVnUEJ0dw?oc=5": "2026-10-25",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWhfU1R0LTRhRTMwRXFoTHFtTWxETUtjQ09LMV9Rdm9wSS03d29nTkZhR3lFZTFPRjM4RC1lTmVqSGFxU1dQWC1pTFdabVZzam03R0drcThFYUY0MHdIbGRWaHZJZks1YllaT0Y2XzJMZ2p2cG96X1RQcENBMEY5RlRORXNvY2dxMGdnWkNueW43N2xqMkF3VkhaMVhEdHBUNmk4?oc=5": "2026-10-25",
-    "https://news.yahoo.co.jp/articles/92b489df65a7d7dace678b648b016b09d0a00299": "2026-10-25",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbHdIOUFOOFpNbl9TTzFhS1owaGo5WXd1NlJQc3pNcWVmVTRLYXY3ZVdYQUZKdnRreVI3YkhhbEI1SnZOYldEeTBHMm9DOUtWU1ltNg?oc=5": "2026-10-25",
-    "https://news.yahoo.co.jp/articles/043161147ae2e558f725bdd2d08ab887851de871": "2026-10-25",
-    "https://news.yahoo.co.jp/articles/f255e3ab39c7dcad4983e6d46cc7d37892c359c2": "2026-10-25",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVHpZY3Ewa1YtRG11eVJJbER6ZVNEYWZ3cklNZ2ZLOXVOb2dQazFIQm9QUWdCcVNiS3dNQ2ZLei1wdDJzMFlPMUE2M1BRTXQ0Z2lUYmNEY2lnR05lSVBVQXczRV96dVg5RXFiZXhHOEpkdHJaRkZrajFpVlNNdDg?oc=5": "2026-10-25",
-    "https://news.yahoo.co.jp/articles/f8fe1f760fadbf8cd0e63d997a8faccf5c2e7350": "2026-10-25",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE43c1gxelVjVG9EcFVvei1aZ2ZKZEtJUlFHazI0REEwSXZNOUM3QlV0SmlhNUlEYmtveVZsb3U5cmR6TWIxeFJBMWdsbWhyUWNIZVZ5cG5wQXEzZGdFbS1CTlRyT0Jod1hYTWFCa2RBSXBIQQ?oc=5": "2026-10-25",
     "https://dentsudigital.co.jp/news/release/services/2026-1026-000357": "2026-10-26",
     "https://news.yahoo.co.jp/articles/8a8c99e2c983b29f063153115dd5951684212713": "2026-10-26",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-10-26",
@@ -294,49 +284,19 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTNFZE9lMFNmNXV5aTY0aDNzMy1Sd1N3bHI0NmF2V1ZkaGEyV3htZU5PUGVQY29icy1BZy11RUFaZGxnNXp6eHNxTzV2cThGVGhuNEJwaHltT3JCak01M2hab2h5aUtxS0FFb0lYUmo3RXgyQTZ4aklRNThkay1GM05sNmdMQ2hxRlRkRkF2Si11ZWxGejlMVnNiQ1NRUzEwZWxxRXRR?oc=5": "2026-11-24",
     "https://news.yahoo.co.jp/articles/578225b8d0d33913cb8f79ad280389a84826797d": "2026-11-24",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jWHFiTFhhRWNYTWxoaUkwdDVaY2JFOFQyLWV1X2hyb1RFTlIwQVJZbjBfTjhYZnJqbElKaWkxeUF3dElwNG01TV92YTZuSEFlbmczc01PdUVkUms0X2VodlR6R3BTSDFvUXpF?oc=5": "2026-11-24",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY1QzRTREMWZPZ0VlRHJCWDh4RzFTdjNPWEpWMUdma05jel9BRWh1T3ZTNUdrVUo1czlnZGxfVlRzZnVBZW1FZUwtWndWaW54MzNRZ3B2amlNeXJqZFhJSVJPOFpqaXZQc0E?oc=5": "2026-11-24"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY1QzRTREMWZPZ0VlRHJCWDh4RzFTdjNPWEpWMUdma05jel9BRWh1T3ZTNUdrVUo1czlnZGxfVlRzZnVBZW1FZUwtWndWaW54MzNRZ3B2amlNeXJqZFhJSVJPOFpqaXZQc0E?oc=5": "2026-11-24",
+    "https://oneder.hakuhodody-one.co.jp/blog/youtube-bls-baseline": "2026-11-25",
+    "https://oneder.hakuhodody-one.co.jp/blog/google-ai-training-control": "2026-11-25",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0x2UENzazUtNlZ4b1FHd0JNUEszdl9zRE40UDlhQW5IR3l1UUJIWVZBcUlNLUREZVBXNURmTnJHOUlXblFISG1wNTNrYjJETU5pRzFUWVFaRWtpVVhV?oc=5": "2026-11-25",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UaWYxNEU2YTRiS0g4STNhUnVqZzN0LWh1eXFCWVZyM2xOZm9HN2xFdTFKV08wVWhoa1VjMjFiNUdxUk1XWFZxTmI0UnVmVmMwcEtkQVZvbUh1MTkyUExjZVgxckFrLURrXzd3?oc=5": "2026-11-25",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oWlhDcGQ5UWc2UWpsUzJyeThRVmthcjRULVBLVjBvUkYzT2FPVmJjMWdrVHZRcExBckJOa182UE9LYUhpeEE5Tm0wMmgwZjdmSHA4?oc=5": "2026-11-25",
+    "https://news.yahoo.co.jp/articles/255d0979a0e3848a5e757ac888f8700b4fe7fee0": "2026-11-25",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lazdsNDNhVm1XMUt4OXZ3UENyQ0tSWmVJb29IZ3F6Ylhka3ViRzNnOHhJU0tLdEpDaS1ibUZQWVFxTFAwd2gzcnRhb1pCUEtCRE5tZEt6SGc0MjdzQlpYRGJ3czMxZlFEWkE?oc=5": "2026-11-25",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvY2prYnpJb05fbm1OdThjUkdhcUxsTGVuaXlaRVZyMjluY2RKZVZjelBkRmxuQXJjQXd4MmwxRjl0d0I1YUtwV1NZRVVGOG1BdlRUdXlB?oc=5": "2026-11-25",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TeXY1WUFwY2tXMUtfQjhXWm9semczNC1NNE15UlhKVVlydlZySjREakJabG9HcEpNRldQRlNFLTNxWkN0SHRqdUZWa0s3V0hpbGc?oc=5": "2026-11-25",
+    "https://news.yahoo.co.jp/articles/fed09a82505d257d650c8e9c8ea2780beac8dde1": "2026-11-25"
   },
   "titles": [
-    {
-      "title": "Metaの広告MCPサーバーがDatabricksに登場：顧客インテリジェンスを広告キャンペーンに活用 - Databricks",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "【DYM×A8.net】AI時代の運用型広告とアフィリエイト戦略を解説する無料ウェビナーを10月27日（火）に共催｜Infoseekニュース - Infoseek",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "Google が目指す “ 最高の広告 ” は「答えそのもの」—— 理想を追求した Google 広告の 25 年間 - Google Business Profile",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "「AIインフルエンサー」に消費者37％が否定的…人間によるAI活用には好意的…して制作したコンテンツには、比較的好意的な反応が見られた。 世界的なデジタル広告検証企業ダブルベリファイが21日に公表した「2026グローバルインサイ…KOREA WAVE韓国・北朝鮮10/24(土) 11:33",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "タイ、SNS広告の本人確認義務化まで1週間、Metaも対応準備を表明 - タイランドハイパーリンクス",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "市川團十郎、 長女・麗禾の“京都”ショットを披露「私も幸せ」ファンから反響相次ぐ「お父さん冥利に尽きる自慢の娘さん」…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/25(日) 7:10",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "研ナオコ、愛犬の誕生日をお祝い「お誕生日おめでとう」SNSでも祝福の声「あまりの可愛さにメロメロ」…象的です。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/24(土) 16:10",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "法人税と消費税約1億8500万円を脱税した罪で大阪府吹田市の広告代理店社長を在宅起訴 東京地検特捜部 - Yahoo!ニュース",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "変わる“高市流”情報発信 内閣広報予算の概算要求額“10倍”に 政府広報と“プロパガンダ”の境界線は?【報道特集】…しっかりと伝わる広報をしていくことは極めて重要であります」 かつて大手広告代理店で、政府の広報も手掛けた経験を持つ桜美林大学の西山准教授は、金額そのも…TBS NEWS DIG Powered by JNN政治10/24(土) 20:02",
-      "date": "2026-10-25"
-    },
-    {
-      "title": "広告代理店、問屋・卸売業者、流通・小売業者に向け企業記念品やノベルティ 企業広告グッズ オリジナル印刷 手提げ袋 クリアバッグ 2026年秋冬新作 11月11日まで早割販売10％0FF ブランド｜Infoseekニュース - Infoseek",
-      "date": "2026-10-25"
-    },
     {
       "title": "電通デジタルと電通、AIを活用し、購買起点で市場理解から仮説探索・実行・検証をつなぐ「購買市場OneIDマーケティング」を提供開始",
       "date": "2026-10-26"
@@ -1492,99 +1452,49 @@
     {
       "title": "マテリアルリンクス、TikTok GO活用の観光クリエイター投稿サービスをstudio15と提供開始 - Media Innovation",
       "date": "2026-11-24"
+    },
+    {
+      "title": "YouTube広告でブランドリフト調査（BLS）を正しく評価するには？ベースラインと商材特性から読み解く",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Google 、robots.txtでAI学習を拒否できる仕組みを導入予定と発表",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "Google・Meta広告の飽和をどう突破する？ 1年半で広告投資を270倍に拡大、SHIFT AIの顧客獲得戦略 - DIGIDAY［日本版］",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "【事例】Google広告のCV数が前月比約45％増加。「東邦ガス光」が取り組んだインフルエンサー×SNS広告活用｜SNSコラム - 株式会社ホットリンク",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "ChatGPT 広告の仕組み・配信エリア・広告設計のポイントを解説 『海外施策でも活用できるChatGPT 広告 入門ガイド』を無料公開_【i CROSS BORDER J - ZDNET Japan",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "TWICE・サナの「韓国美容液」投稿にステマ疑惑、ブランド運営会社は“黒×黒の《#PR》文字隠し”にゼロ回答…景に近づけて可読性が損なわれていたりすると、消費者に広告である旨が十分に伝わらないため、景品表示法に抵触する可能性があります」（一般紙社会部記者） …週刊女性PRIMEエンタメ総合11/24(火) 21:00",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "AI検索時代に集客成果を伸ばす最新Webマーケ術 〜Google広告運用 × AIO対策の実践知〜【12月9日開催】 - PR TIMES",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "メタバース生活者たちと共にデジタル世界のこれからを考える vol.8 ～「メタバース生活者とインゲーム広告」コンテンツ化する広告が持つ価値とは～｜The H Magazine - www.hakuhodo.co.jp",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "写真加工アプリ「SNOW」の運営に措置命令 消費者庁 - 山陽新聞",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "フリマで何度も売るなら知っておきたい。個人でも「販売業者」になり表示が要る場合…ます。消費者庁が示す判断の目安と、当たったときに表示する事項を紹介します。 営利の意思と繰り返しで決まる販売業者 特定商取引法ガイド（消費者庁）が令和…マネーの達人ライフ総合11/24(火) 15:00",
+      "date": "2026-11-25"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "Metaの広告MCPサーバーがDatabricksに登場：顧客インテリジェンスを広告キャンペーンに活用 - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UjNVRFhiNURJWGU1Yk9VYlROem1UMWVNVHp2UlVCVlRwUFdfNC00M2p4TnItUnRFbzVKc2NSN3VndWZjRVVxelhFVDgyWjVTcFk0MTlEZzFJQnRHcDVQWkVMZGlXNjUzYlE?oc=5",
-      "summary": "・MetaがDatabricks上で広告MCP（モデルコンテキストプロトコル）サーバーを提供開始した\n・Databricksに蓄積された顧客データやインテリジェンスをMeta広告キャンペーンに直接活用可能になる\n・データ基盤と広告配信の連携を強化し、よりデータ駆動型の広告運用を実現する統合である",
-      "score": 8,
-      "reason": "Meta広告MCPサーバー連携は実務に直結する新機能",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Google News",
-      "title": "【DYM×A8.net】AI時代の運用型広告とアフィリエイト戦略を解説する無料ウェビナーを10月27日（火）に共催｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GdTNEbFdIMkxRWm5jbXVvdlp3U21sZmhNejg2Q255TWxWMjNHM3VBcENBQm1FX2xic0NxekhEc0doWmw0Zk9zT3dBRUl0MVIyMmJyMk5jQjRBc2tNYWFzNjdEZGxhc3ZJNkJuaVVnUEJ0dw?oc=5",
-      "summary": "・DYMとA8.netが10月27日にAI時代の運用型広告とアフィリエイト戦略を解説する無料ウェビナーを共催する\n・運用型広告とアフィリエイトの両面からデジタルマーケティング戦略を学べる内容となっている\n・AI活用が進む広告運用の最新トレンドや実践的ノウハウを無料で提供する企画である",
-      "score": 7,
-      "reason": "AI時代の運用型広告戦略ウェビナーで実務に直結",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Google News",
-      "title": "Google が目指す “ 最高の広告 ” は「答えそのもの」—— 理想を追求した Google 広告の 25 年間 - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWhfU1R0LTRhRTMwRXFoTHFtTWxETUtjQ09LMV9Rdm9wSS03d29nTkZhR3lFZTFPRjM4RC1lTmVqSGFxU1dQWC1pTFdabVZzam03R0drcThFYUY0MHdIbGRWaHZJZks1YllaT0Y2XzJMZ2p2cG96X1RQcENBMEY5RlRORXNvY2dxMGdnWkNueW43N2xqMkF3VkhaMVhEdHBUNmk4?oc=5",
-      "summary": "・Google広告は25年間「最高の広告は答えそのもの」という理念を一貫して追求してきた\n・ユーザーの検索意図に直接応える情報提供こそが広告の理想形だと位置づけている\n・Google Business Profileを通じてGoogle広告の進化と哲学の歴史を振り返る内容である",
-      "score": 6,
-      "reason": "Google広告25年の思想整理で業界理解に有用",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「AIインフルエンサー」に消費者37％が否定的…人間によるAI活用には好意的…して制作したコンテンツには、比較的好意的な反応が見られた。 世界的なデジタル広告検証企業ダブルベリファイが21日に公表した「2026グローバルインサイ…KOREA WAVE韓国・北朝鮮10/24(土) 11:33",
-      "link": "https://news.yahoo.co.jp/articles/92b489df65a7d7dace678b648b016b09d0a00299",
-      "summary": "・ダブルベリファイの調査で消費者の37％がAIインフルエンサーに否定的な反応を示した\n・一方で人間がAIを活用して制作したコンテンツには比較的好意的な反応が確認された\n・同社は「2026グローバルインサイト」レポートでAI広告への消費者意識を分析・公表した",
-      "score": 5,
-      "reason": "AIインフルエンサーへの消費者反応は広告戦略の参考になる",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Google News",
-      "title": "タイ、SNS広告の本人確認義務化まで1週間、Metaも対応準備を表明 - タイランドハイパーリンクス",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbHdIOUFOOFpNbl9TTzFhS1owaGo5WXd1NlJQc3pNcWVmVTRLYXY3ZVdYQUZKdnRreVI3YkhhbEI1SnZOYldEeTBHMm9DOUtWU1ltNg?oc=5",
-      "summary": "・タイ政府がSNS広告出稿者に対する本人確認の義務化を施行間近と発表した\n・MetaはFacebookやInstagram上の広告主向けに対応準備を進めていると表明\n・詐欺広告や虚偽広告の防止を目的とし、広告の透明性向上が期待されている",
-      "score": 5,
-      "reason": "海外事例だがSNS広告規制動向として参考になる",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "市川團十郎、 長女・麗禾の“京都”ショットを披露「私も幸せ」ファンから反響相次ぐ「お父さん冥利に尽きる自慢の娘さん」…しました。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/25(日) 7:10",
-      "link": "https://news.yahoo.co.jp/articles/043161147ae2e558f725bdd2d08ab887851de871",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は大幅に増加しデジタルシフトが加速している\n・利用時間の増加に伴いデジタル広告市場も急拡大し広告費の構造変化が進んでいる",
-      "score": 2,
-      "reason": "芸能ニュースが主体で広告運用と無関係",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "研ナオコ、愛犬の誕生日をお祝い「お誕生日おめでとう」SNSでも祝福の声「あまりの可愛さにメロメロ」…象的です。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/24(土) 16:10",
-      "link": "https://news.yahoo.co.jp/articles/f255e3ab39c7dcad4983e6d46cc7d37892c359c2",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回り逆転が鮮明になった\n・過去10年間でインターネット利用時間は急速に拡大しメディア接触構造が大きく変化した\n・生活者のデジタルシフトに伴いデジタル広告市場も急拡大を続けている状況である",
-      "score": 2,
-      "reason": "芸能ニュースが主体で広告運用と無関係",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Google News",
-      "title": "法人税と消費税約1億8500万円を脱税した罪で大阪府吹田市の広告代理店社長を在宅起訴 東京地検特捜部 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVHpZY3Ewa1YtRG11eVJJbER6ZVNEYWZ3cklNZ2ZLOXVOb2dQazFIQm9QUWdCcVNiS3dNQ2ZLei1wdDJzMFlPMUE2M1BRTXQ0Z2lUYmNEY2lnR05lSVBVQXczRV96dVg5RXFiZXhHOEpkdHJaRkZrajFpVlNNdDg?oc=5",
-      "summary": "・大阪府吹田市の広告代理店社長が法人税と消費税の脱税容疑で東京地検特捜部に在宅起訴された\n・脱税額は約1億8500万円にのぼり、悪質な所得隠しが行われていたとみられる\n・広告代理店業界における税務コンプライアンスの重要性が改めて問われる事案となった",
-      "score": 2,
-      "reason": "広告代理店の脱税事件で運用実務と無関係",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "変わる“高市流”情報発信 内閣広報予算の概算要求額“10倍”に 政府広報と“プロパガンダ”の境界線は?【報道特集】…しっかりと伝わる広報をしていくことは極めて重要であります」 かつて大手広告代理店で、政府の広報も手掛けた経験を持つ桜美林大学の西山准教授は、金額そのも…TBS NEWS DIG Powered by JNN政治10/24(土) 20:02",
-      "link": "https://news.yahoo.co.jp/articles/f8fe1f760fadbf8cd0e63d997a8faccf5c2e7350",
-      "summary": "・高市首相が内閣広報予算の概算要求額を前年比約10倍に増額する方針を示した\n・政府広報の強化と\"プロパガンダ\"との境界線について専門家から懸念の声が上がる\n・元大手広告代理店出身の桜美林大学西山准教授が政府広報のあり方について見解を示した",
-      "score": 2,
-      "reason": "政府広報予算の話題で運用型広告と無関係",
-      "date": "2026-10-25"
-    },
-    {
-      "source": "Google News",
-      "title": "広告代理店、問屋・卸売業者、流通・小売業者に向け企業記念品やノベルティ 企業広告グッズ オリジナル印刷 手提げ袋 クリアバッグ 2026年秋冬新作 11月11日まで早割販売10％0FF ブランド｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43c1gxelVjVG9EcFVvei1aZ2ZKZEtJUlFHazI0REEwSXZNOUM3QlV0SmlhNUlEYmtveVZsb3U5cmR6TWIxeFJBMWdsbWhyUWNIZVZ5cG5wQXEzZGdFbS1CTlRyT0Jod1hYTWFCa2RBSXBIQQ?oc=5",
-      "summary": "・広告代理店や問屋・小売業者向けに企業記念品・ノベルティグッズの新作が発表された\n・2026年秋冬新作として手提げ袋やクリアバッグなどオリジナル印刷対応商品を展開する\n・11月11日までの早割販売で10％OFFの割引キャンペーンを実施中である",
-      "score": 1,
-      "reason": "ノベルティグッズ販売で広告運用と無関係",
-      "date": "2026-10-25"
-    },
     {
       "source": "電通デジタル",
       "title": "電通デジタルと電通、AIを活用し、購買起点で市場理解から仮説探索・実行・検証をつなぐ「購買市場OneIDマーケティング」を提供開始",
@@ -4185,6 +4095,96 @@
       "score": 5,
       "reason": "TikTok施策の新サービスで出稿検討の参考になる",
       "date": "2026-11-24"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "YouTube広告でブランドリフト調査（BLS）を正しく評価するには？ベースラインと商材特性から読み解く",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/youtube-bls-baseline",
+      "summary": "・YouTube広告のBLSではベースライン（広告非接触群の肯定回答率）が評価の基準点となる\n・ベースラインはブランドの現在地を示し認知度等の「伸びしろ」を把握する指標である\n・認知10%と90%ではリフト余地が大きく異なり商材特性に応じた評価が不可欠となる",
+      "score": 7,
+      "reason": "YouTube広告BLS評価の実践的な分析手法",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "Google 、robots.txtでAI学習を拒否できる仕組みを導入予定と発表",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/google-ai-training-control",
+      "summary": "・Googleがrobots.txtで複数AIプロバイダへの学習利用可否を一括制御できる仕組みの導入計画を発表した\n・共通トークンにより各AI事業者へ個別対応せず一度に学習拒否の意思表示が可能になる見込み\n・提案はAnthropic所属者がIETFに個人提出したドラフト段階で正式採用には至っていない",
+      "score": 3,
+      "reason": "広告運用ではなくAI学習制御の技術提案",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Google News",
+      "title": "Google・Meta広告の飽和をどう突破する？ 1年半で広告投資を270倍に拡大、SHIFT AIの顧客獲得戦略 - DIGIDAY［日本版］",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0x2UENzazUtNlZ4b1FHd0JNUEszdl9zRE40UDlhQW5IR3l1UUJIWVZBcUlNLUREZVBXNURmTnJHOUlXblFISG1wNTNrYjJETU5pRzFUWVFaRWtpVVhV?oc=5",
+      "summary": "・SHIFT AIはGoogle・Meta広告の飽和市場で独自の顧客獲得戦略を展開している\n・わずか1年半で広告投資を270倍に拡大し急成長を遂げた実績を持つ\n・飽和状態のデジタル広告市場を突破する具体的な手法が注目されている",
+      "score": 8,
+      "reason": "Google・Meta広告の飽和突破と投資拡大の実践戦略",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Google News",
+      "title": "【事例】Google広告のCV数が前月比約45％増加。「東邦ガス光」が取り組んだインフルエンサー×SNS広告活用｜SNSコラム - 株式会社ホットリンク",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UaWYxNEU2YTRiS0g4STNhUnVqZzN0LWh1eXFCWVZyM2xOZm9HN2xFdTFKV08wVWhoa1VjMjFiNUdxUk1XWFZxTmI0UnVmVmMwcEtkQVZvbUh1MTkyUExjZVgxckFrLURrXzd3?oc=5",
+      "summary": "・東邦ガス光がインフルエンサー施策とSNS広告を組み合わせた結果、Google広告のCV数が前月比約45％増加した\n・ホットリンク支援のもとSNS上での認知拡大とリスティング広告の相乗効果を狙った戦略を展開した\n・インフルエンサー活用がSNS外の検索行動にも波及し、広告全体の成果底上げにつながった事例である",
+      "score": 8,
+      "reason": "Google広告CV45%増の具体事例でSNS連携施策",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Google News",
+      "title": "ChatGPT 広告の仕組み・配信エリア・広告設計のポイントを解説 『海外施策でも活用できるChatGPT 広告 入門ガイド』を無料公開_【i CROSS BORDER J - ZDNET Japan",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oWlhDcGQ5UWc2UWpsUzJyeThRVmthcjRULVBLVjBvUkYzT2FPVmJjMWdrVHZRcExBckJOa182UE9LYUhpeEE5Tm0wMmgwZjdmSHA4?oc=5",
+      "summary": "・i CROSS BORDER JがChatGPT広告の入門ガイドを無料公開した\n・広告の仕組みや配信エリア、広告設計のポイントを体系的に解説している\n・海外マーケティング施策にも活用できる内容で実務担当者向けの資料となっている",
+      "score": 7,
+      "reason": "ChatGPT広告の仕組み・設計解説で新媒体の実務知見",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TWICE・サナの「韓国美容液」投稿にステマ疑惑、ブランド運営会社は“黒×黒の《#PR》文字隠し”にゼロ回答…景に近づけて可読性が損なわれていたりすると、消費者に広告である旨が十分に伝わらないため、景品表示法に抵触する可能性があります」（一般紙社会部記者） …週刊女性PRIMEエンタメ総合11/24(火) 21:00",
+      "link": "https://news.yahoo.co.jp/articles/255d0979a0e3848a5e757ac888f8700b4fe7fee0",
+      "summary": "・TWICEサナがSNSで韓国美容液を紹介した投稿にステマ疑惑が浮上し話題となっている\n・ブランド運営会社は#PR表記を黒背景に黒文字で記載し視認性を意図的に低下させた疑いがある\n・背景色と文字色を近づける手法は景品表示法のステマ規制に抵触する可能性が指摘されている",
+      "score": 5,
+      "reason": "ステマ規制・景表法事例として広告表記の参考になる",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Google News",
+      "title": "AI検索時代に集客成果を伸ばす最新Webマーケ術 〜Google広告運用 × AIO対策の実践知〜【12月9日開催】 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lazdsNDNhVm1XMUt4OXZ3UENyQ0tSWmVJb29IZ3F6Ylhka3ViRzNnOHhJU0tLdEpDaS1ibUZQWVFxTFAwd2gzcnRhb1pCUEtCRE5tZEt6SGc0MjdzQlpYRGJ3czMxZlFEWkE?oc=5",
+      "summary": "・12月9日にAI検索時代のWebマーケティング手法を解説するオンラインセミナーが開催される\n・Google広告運用とAIO（AI Overview）対策を組み合わせた実践的な集客ノウハウを紹介\n・AI検索の普及に伴う検索行動の変化に対応し集客成果を伸ばす最新戦略が学べる内容",
+      "score": 5,
+      "reason": "Google広告×AIO対策セミナー告知で内容は未公開",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Google News",
+      "title": "メタバース生活者たちと共にデジタル世界のこれからを考える vol.8 ～「メタバース生活者とインゲーム広告」コンテンツ化する広告が持つ価値とは～｜The H Magazine - www.hakuhodo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvY2prYnpJb05fbm1OdThjUkdhcUxsTGVuaXlaRVZyMjluY2RKZVZjelBkRmxuQXJjQXd4MmwxRjl0d0I1YUtwV1NZRVVGOG1BdlRUdXlB?oc=5",
+      "summary": "・メタバース生活者の視点からインゲーム広告の受容性や価値について博報堂が考察する連載第8回の記事\n・ゲーム内広告が単なる宣伝ではなくコンテンツとして機能することで生活者に受け入れられる可能性を探る\n・デジタル空間における広告体験の在り方や今後のメタバースマーケティングの方向性を議論している",
+      "score": 4,
+      "reason": "メタバース広告の考察記事で実務直結度は低い",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Google News",
+      "title": "写真加工アプリ「SNOW」の運営に措置命令 消費者庁 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TeXY1WUFwY2tXMUtfQjhXWm9semczNC1NNE15UlhKVVlydlZySjREakJabG9HcEpNRldQRlNFLTNxWkN0SHRqdUZWa0s3V0hpbGc?oc=5",
+      "summary": "・消費者庁が写真加工アプリ「SNOW」の運営会社に対し措置命令を出した\n・有料サブスクリプション機能の広告表示に景品表示法違反の疑いがあるとされた\n・無料を強調しつつ実際には課金が必要となる表示が問題視された模様",
+      "score": 3,
+      "reason": "アプリ措置命令で広告運用との直接関連薄い",
+      "date": "2026-11-25"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フリマで何度も売るなら知っておきたい。個人でも「販売業者」になり表示が要る場合…ます。消費者庁が示す判断の目安と、当たったときに表示する事項を紹介します。 営利の意思と繰り返しで決まる販売業者 特定商取引法ガイド（消費者庁）が令和…マネーの達人ライフ総合11/24(火) 15:00",
+      "link": "https://news.yahoo.co.jp/articles/fed09a82505d257d650c8e9c8ea2780beac8dde1",
+      "summary": "・フリマアプリで継続的に販売する個人が特定商取引法上の「販売業者」に該当する場合がある\n・消費者庁は営利目的の意思と反復継続性を販売業者かどうかの主な判断基準として提示している\n・販売業者に該当した場合は氏名や住所など特定商取引法に基づく表示義務が発生する",
+      "score": 3,
+      "reason": "特商法の表示義務解説で広告運用とは間接的",
+      "date": "2026-11-25"
     }
   ]
 }
