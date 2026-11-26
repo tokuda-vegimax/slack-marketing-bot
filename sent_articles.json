@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://dentsudigital.co.jp/news/release/services/2026-1026-000357": "2026-10-26",
-    "https://news.yahoo.co.jp/articles/8a8c99e2c983b29f063153115dd5951684212713": "2026-10-26",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5": "2026-10-26",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yb1A0SjBSMWJ3cVFWWjlHRVNIS1EzTW5TRDQ5RmU4Q3pZY1FrdVZ4RFBXV0NTU3NTVFdmZzhad0VSZVlaR0lMTzZmSFY1SDFFbExrS3NoeWZkZGZEOXdUTmE5R1ZoLXdYS19fSU9xNEROdkR3VDRQaXhwNlhBaUU?oc=5": "2026-10-26",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZnBtMFV4ckZ4ZHU3ZGJxTk5SZ05lY0NVenUxdGthLTQ4N0oxWVl2dUxXV2ZnYVROcVE4dlV4Wm0tYl9nc2FJNXBmOGdZZ1htbXppRzdlVlFJZw?oc=5": "2026-10-26",
-    "https://news.yahoo.co.jp/articles/689c7c518e18d7bfb4062bb0e1550d411d06c47e": "2026-10-26",
-    "https://news.yahoo.co.jp/articles/171354007bb85de471e51519ba2573dac6636dcb": "2026-10-26",
-    "https://news.yahoo.co.jp/articles/ca9063c13418d0ca229121d63b599f8b98a07a7f": "2026-10-26",
-    "https://news.yahoo.co.jp/articles/c2f34c6b4fb4c4b70768fdc952890ab9069f9ea0": "2026-10-26",
     "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496": "2026-10-27",
     "https://oneder.hakuhodody-one.co.jp/blog/platform-update-insights": "2026-10-27",
     "https://dentsudigital.co.jp/news/release/services/2026-1027-000358": "2026-10-27",
@@ -294,45 +285,19 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lazdsNDNhVm1XMUt4OXZ3UENyQ0tSWmVJb29IZ3F6Ylhka3ViRzNnOHhJU0tLdEpDaS1ibUZQWVFxTFAwd2gzcnRhb1pCUEtCRE5tZEt6SGc0MjdzQlpYRGJ3czMxZlFEWkE?oc=5": "2026-11-25",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvY2prYnpJb05fbm1OdThjUkdhcUxsTGVuaXlaRVZyMjluY2RKZVZjelBkRmxuQXJjQXd4MmwxRjl0d0I1YUtwV1NZRVVGOG1BdlRUdXlB?oc=5": "2026-11-25",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TeXY1WUFwY2tXMUtfQjhXWm9semczNC1NNE15UlhKVVlydlZySjREakJabG9HcEpNRldQRlNFLTNxWkN0SHRqdUZWa0s3V0hpbGc?oc=5": "2026-11-25",
-    "https://news.yahoo.co.jp/articles/fed09a82505d257d650c8e9c8ea2780beac8dde1": "2026-11-25"
+    "https://news.yahoo.co.jp/articles/fed09a82505d257d650c8e9c8ea2780beac8dde1": "2026-11-25",
+    "https://oneder.hakuhodody-one.co.jp/blog/digital-audio-advertising": "2026-11-26",
+    "https://www.lycbiz.com/jp/column/line-official-account/crm/service-information/mobile-support/": "2026-11-26",
+    "https://dentsudigital.co.jp/news/release/prizes/2026-1126-000369": "2026-11-26",
+    "https://news.yahoo.co.jp/articles/851853aaaaff9b52b980ce83efcf79d3398a20fc": "2026-11-26",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE91OTJKbW1STVdrcjZtVjRQaXVSeWU1cGkwZ0VpcEMzZGxHVWtMR3o4aGRsSzZUeFVhS2VhSHJ2YVJ3ZXE4VEx0RkY0dXh4T3M3dnMtajhvWUdaRjFCNUFhQWdoNUpBSURRM2c?oc=5": "2026-11-26",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tWXZzN1N1eUR4TXphNG8zUF9tZ0h0TUJLNFpQZ1NBUVRJc0dIemZhYy13VTBvTC1qS2xXZjBsSnFUcHU0SHpXZmpncGlFTlVuTEtnSWxB?oc=5": "2026-11-26",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITm9uTHVjT1g1dFVxeWdCZVpvZjJ1X291ZFdqV25lellPSHJoZm80U0JDTHJpZTE4azRRRkhDbHlKUXBqdWdBNzJMeTMxWVdQTl9pRTVkaHJwY0RsV0Z6TmhxOEFLOEtf?oc=5": "2026-11-26",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSkNhd1Z5b0piaV9ybHFZbmN6ZW95Z3YySWVwaEtlc0RpcFFuenkyQmd5TlQ2WVlrVHgxOVBjSkw1djFRMVBVTmdsa2ctaDJMUDl3?oc=5": "2026-11-26",
+    "https://news.yahoo.co.jp/articles/25d233b18c3650f7753fde7407087b653b871c26": "2026-11-26",
+    "https://news.yahoo.co.jp/articles/3344ec0267913e71ff0f37f7e1424c8a8d6bade3": "2026-11-26"
   },
   "titles": [
-    {
-      "title": "電通デジタルと電通、AIを活用し、購買起点で市場理解から仮説探索・実行・検証をつなぐ「購買市場OneIDマーケティング」を提供開始",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "AI台本1920本を調査 3割がTikTokで1万再生超え…ョンの量産、長尺動画からの要約・転用、企画の壁打ち相手、そして薬機法・景品表示法などに触れそうな表現のチェックである。特に構成案を複数出させてから人が…FINDERS経済総合10/26(月) 7:03",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "Google、「Gmail」などの内容を広告に利用できると明記 本人の同意前提で規約変更 - Yahoo!ニュース",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "チャーリー・クラーク氏のLiinks、1ドル値上げとGoogle広告で月間経常収益3万1,500ドルに到達—増員なし - BigGo ファイナンス",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "三田寛子「10年ぶりの再演」“中村座”での家族ショット披露「盛況ですね」「素晴らしいです」SNSでファンから反響…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/26(月) 6:21",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "レギュラー番組2本を持っていた元モデルの女性、出産で引退したが… 約30年後…→現在の”まさかの姿”に「美人親子」の声…っかけは、あるコンテストで準グランプリを獲得したことでした。 その後、広告代理店などから声がかかるようになり、そのままモデル事務所へ入ることになったそ…ほ・とせなNEWSライフ総合10/26(月) 9:30",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "「1分の使い方」を意識すると、いつもの仕事が劇的に変わる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合10/26(月) 8:01",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "「娘のバレエもやめさせました」ヤクザ引退→会社立ち上げ→最初は順調だったけど…バブル崩壊で「借金まみれ」になった男が選んだ【あまりに哀しい選択】…たが、僕自身は悔しさがありました。 組織に戻った僕は、ワイズ社という広告代理店を立ち上げました。 当時、よく飲みに行くなど、付き合いのあったスナッ…文春オンライン社会10/26(月) 7:00",
-      "date": "2026-10-26"
-    },
     {
       "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
       "date": "2026-10-27"
@@ -1492,90 +1457,49 @@
     {
       "title": "フリマで何度も売るなら知っておきたい。個人でも「販売業者」になり表示が要る場合…ます。消費者庁が示す判断の目安と、当たったときに表示する事項を紹介します。 営利の意思と繰り返しで決まる販売業者 特定商取引法ガイド（消費者庁）が令和…マネーの達人ライフ総合11/24(火) 15:00",
       "date": "2026-11-25"
+    },
+    {
+      "title": "デジタルオーディオ広告を使いこなす。生活者のモーメントにアプローチするためのポイントを解説",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "CRMオプションがスマホ・タブレットに対応！いつでもどこでも顧客管理をもっと手軽に",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "LGBTQ+などに関する取り組みの評価指標「PRIDE指標2026」で最高評価「ゴールド」を5年連続受賞",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "「Shirofune」に「Adobe Analytics」連携機能を追加、複数媒体の横断評価と予算最適化を自動化…独自のコンバージョン計測技術を発展させる中、「Google広告」や「Meta広告」など複数媒体を共通基準で評価して予算配分や入札を最適化する重要性が高…Web担当者ForumIT総合11/25(水) 15:04",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "【11/30無料ウェビナー】下がらないMeta広告のCPAを、インフルエンサー動画で立て直す - PR TIMES",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "グーグルなど4社に「なりすまし広告」への対応強化求める…経産省 - 通販通信ECMO",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "広告素材とランディングページを送るだけ。Facebook・Instagram広告の無料診断を、セルフプラスが受付 - ニコニコニュース",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "pixivに運用型広告を簡単に出稿できる「pixiv Ads」がサービス開始から4周年！ゲーム・電子書籍業界を中心に導入企業は400社を突破～1st party dataを活用し、月間約4000万人へリーチが可能～ - ピクシブ株式会社",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "海外・訪日客向けマーケティングの相談、最多はSNS運用・インフルエンサーで4割強（株式会社IGNITE）…います。同じ企業・団体から別の時期に相談があった場合も1社として数え、広告代理店を通した相談は実際の広告主で数えています。AI検索に触れた相談は、相談…Yahoo!ニュース PR［PR］経済総合11/26(木) 10:03",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "57歳 有働由美子 オルセー美術館展の音声ガイドを担当…香取慎吾と偶然会えた2ショットに「大好きな御二人嬉しいです」の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/26(木) 11:30",
+      "date": "2026-11-26"
     }
   ],
   "articles": [
-    {
-      "source": "電通デジタル",
-      "title": "電通デジタルと電通、AIを活用し、購買起点で市場理解から仮説探索・実行・検証をつなぐ「購買市場OneIDマーケティング」を提供開始",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-1026-000357",
-      "summary": "・電通デジタルと電通が「購買市場OneIDマーケティング」を開発し提供開始した\n・購買データを起点に市場理解から仮説探索・実行・検証・学習を循環させる仕組みである\n・既存の「OneIDマーケティング」をAI活用で進化させ成長機会の発見を支援する",
-      "score": 4,
-      "reason": "電通グループの新サービス発表プレスリリース",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "AI台本1920本を調査 3割がTikTokで1万再生超え…ョンの量産、長尺動画からの要約・転用、企画の壁打ち相手、そして薬機法・景品表示法などに触れそうな表現のチェックである。特に構成案を複数出させてから人が…FINDERS経済総合10/26(月) 7:03",
-      "link": "https://news.yahoo.co.jp/articles/8a8c99e2c983b29f063153115dd5951684212713",
-      "summary": "・AI生成台本1920本を調査した結果、約3割がTikTokで1万再生を超える成果を記録した\n・活用法はバリエーション量産、長尺動画の要約転用、企画の壁打ち相手など多岐にわたる\n・薬機法や景品表示法に抵触しうる表現チェックにもAIを活用し人が最終判断する運用が有効",
-      "score": 7,
-      "reason": "AI台本×TikTok再生数の実践的知見が有用",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Google News",
-      "title": "政府、不実証広告規制を見直し 景表法運用で消費者庁と事業者の対話強化へ - ウェルネスデイリーニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wXzh5THFIcWJEbHRxcFFlcjhPWmlFQ3NHZnpqWTdDYU9zdWRhb3hSSnNIYms4OHJ0SFp5VF9GYmxaa1RDWDRaVkRkUW5jQzQ1UWhQRFd3?oc=5",
-      "summary": "・政府が景品表示法における不実証広告規制の見直しに着手する方針を示した\n・消費者庁と事業者間の対話を強化し、広告表示の適正化を目指す取り組みへ\n・ウェルネス業界など健康関連広告の規制運用が今後大きく変わる可能性がある",
-      "score": 6,
-      "reason": "不実証広告規制見直しは広告表現の実務に影響",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Google News",
-      "title": "Google、「Gmail」などの内容を広告に利用できると明記 本人の同意前提で規約変更 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yb1A0SjBSMWJ3cVFWWjlHRVNIS1EzTW5TRDQ5RmU4Q3pZY1FrdVZ4RFBXV0NTU3NTVFdmZzhad0VSZVlaR0lMTzZmSFY1SDFFbExrS3NoeWZkZGZEOXdUTmE5R1ZoLXdYS19fSU9xNEROdkR3VDRQaXhwNlhBaUU?oc=5",
-      "summary": "・Googleが利用規約を変更しGmailなどのコンテンツを広告目的で利用可能と明記した\n・広告へのデータ活用にはユーザー本人の同意が前提条件として求められる\n・個人データの広告利用範囲が明確化されプライバシー面で議論を呼ぶ可能性がある",
-      "score": 6,
-      "reason": "Googleの広告データ活用方針変更で業界動向",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Google News",
-      "title": "チャーリー・クラーク氏のLiinks、1ドル値上げとGoogle広告で月間経常収益3万1,500ドルに到達—増員なし - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZnBtMFV4ckZ4ZHU3ZGJxTk5SZ05lY0NVenUxdGthLTQ4N0oxWVl2dUxXV2ZnYVROcVE4dlV4Wm0tYl9nc2FJNXBmOGdZZ1htbXppRzdlVlFJZw?oc=5",
-      "summary": "・チャーリー・クラーク氏が運営するリンクまとめサービスLiinksが月間経常収益3万1,500ドルを達成した\n・成長の主な要因はサブスク料金の1ドル値上げとGoogle広告の活用という二つのシンプルな施策である\n・追加の人員採用を行わずソロ運営のまま収益拡大を実現し効率的な成長モデルを示した",
-      "score": 4,
-      "reason": "Google広告活用の小規模事例だが汎用的",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "三田寛子「10年ぶりの再演」“中村座”での家族ショット披露「盛況ですね」「素晴らしいです」SNSでファンから反響…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/26(月) 6:21",
-      "link": "https://news.yahoo.co.jp/articles/689c7c518e18d7bfb4062bb0e1550d411d06c47e",
-      "summary": "・総務省調査でネットの1日平均利用時間がテレビ視聴時間を上回ったことが判明した\n・インターネット利用時間はこの10年間で大幅に増加しデジタルシフトが加速している\n・デジタル広告市場はメディア接触時間の変化を背景に急速な拡大を続けている",
-      "score": 2,
-      "reason": "芸能ニュースが主で広告運用との関連薄い",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "レギュラー番組2本を持っていた元モデルの女性、出産で引退したが… 約30年後…→現在の”まさかの姿”に「美人親子」の声…っかけは、あるコンテストで準グランプリを獲得したことでした。 その後、広告代理店などから声がかかるようになり、そのままモデル事務所へ入ることになったそ…ほ・とせなNEWSライフ総合10/26(月) 9:30",
-      "link": "https://news.yahoo.co.jp/articles/171354007bb85de471e51519ba2573dac6636dcb",
-      "summary": "・元モデルの女性がコンテスト準グランプリをきっかけに広告代理店経由でモデル事務所に所属した\n・レギュラー番組2本を抱える活躍ぶりだったが出産を機に芸能界を引退した\n・約30年後の現在の姿が話題となり「美人親子」と称賛する声が寄せられている",
-      "score": 1,
-      "reason": "元モデルの人生記事で広告運用と無関係",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「1分の使い方」を意識すると、いつもの仕事が劇的に変わる…を体験！ 作家、書評家、音楽評論家 印南敦史 1962年東京都生まれ。広告代理店勤務時代に音楽ライターとなり、音楽雑誌の編集長を経て独立。「ライフハッ…ライフハッカー・ジャパン経済総合10/26(月) 8:01",
-      "link": "https://news.yahoo.co.jp/articles/ca9063c13418d0ca229121d63b599f8b98a07a7f",
-      "summary": "・印南敦史氏が「1分の使い方」を意識することで仕事効率が劇的に向上する体験を紹介\n・広告代理店出身の作家が日常業務における時間管理の重要性を具体的に解説している\n・ライフハッカー・ジャパン掲載のコラムで短時間活用のライフハック術を提唱している",
-      "score": 1,
-      "reason": "時間術の書評記事で広告運用と無関係",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "「娘のバレエもやめさせました」ヤクザ引退→会社立ち上げ→最初は順調だったけど…バブル崩壊で「借金まみれ」になった男が選んだ【あまりに哀しい選択】…たが、僕自身は悔しさがありました。 組織に戻った僕は、ワイズ社という広告代理店を立ち上げました。 当時、よく飲みに行くなど、付き合いのあったスナッ…文春オンライン社会10/26(月) 7:00",
-      "link": "https://news.yahoo.co.jp/articles/c2f34c6b4fb4c4b70768fdc952890ab9069f9ea0",
-      "summary": "・元ヤクザの男が組織復帰後に広告代理店「ワイズ社」を立ち上げ事業を開始した\n・バブル崩壊により経営が悪化し多額の借金を抱え娘のバレエもやめさせる事態に陥った\n・経済的困窮の中で家族を犠牲にする哀しい選択を迫られた半生が描かれている",
-      "score": 1,
-      "reason": "ヤクザ引退体験談で広告運用と無関係",
-      "date": "2026-10-26"
-    },
     {
       "source": "Yahoo!広告 (LYCBiz)",
       "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
@@ -4185,6 +4109,96 @@
       "score": 3,
       "reason": "特商法の表示義務解説で広告運用とは間接的",
       "date": "2026-11-25"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "デジタルオーディオ広告を使いこなす。生活者のモーメントにアプローチするためのポイントを解説",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/digital-audio-advertising",
+      "summary": "・デジタルオーディオ広告は音声メディア内に掲載し音声で生活者にメッセージを届ける広告手法\n・2025年の米国デジタルオーディオ広告収益は前年比110.2%と市場は成長を継続している\n・生活者の日常モーメントに音声で自然にアプローチできる点が大きな強みとなっている",
+      "score": 7,
+      "reason": "デジタル音声広告の実践的活用ポイント解説で運用知見あり",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "LINE for Business (LYCBiz)",
+      "title": "CRMオプションがスマホ・タブレットに対応！いつでもどこでも顧客管理をもっと手軽に",
+      "link": "https://www.lycbiz.com/jp/column/line-official-account/crm/service-information/mobile-support/",
+      "summary": "・LINEヤフーのCRMオプションがスマホ・タブレット端末に新たに対応開始した\n・外出先や移動中でも顧客管理が可能になり業務効率の向上が期待される\n・法人向けサービスとして活用方法やノウハウも併せて公式から提供されている",
+      "score": 4,
+      "reason": "LINE法人向けCRM機能更新で広告運用への直接影響は限定的",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "LGBTQ+などに関する取り組みの評価指標「PRIDE指標2026」で最高評価「ゴールド」を5年連続受賞",
+      "link": "https://dentsudigital.co.jp/news/release/prizes/2026-1126-000369",
+      "summary": "・電通デジタルがLGBTQ+関連の職場取り組みを評価する「PRIDE指標2026」を受賞した\n・同指標で最高ランクの「ゴールド」評価を獲得し、高い取り組み水準が認められた\n・ゴールド受賞は5年連続となり、継続的なダイバーシティ推進の姿勢が評価された",
+      "score": 2,
+      "reason": "企業のCSR受賞報告で広告運用とほぼ無関係",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「Shirofune」に「Adobe Analytics」連携機能を追加、複数媒体の横断評価と予算最適化を自動化…独自のコンバージョン計測技術を発展させる中、「Google広告」や「Meta広告」など複数媒体を共通基準で評価して予算配分や入札を最適化する重要性が高…Web担当者ForumIT総合11/25(水) 15:04",
+      "link": "https://news.yahoo.co.jp/articles/851853aaaaff9b52b980ce83efcf79d3398a20fc",
+      "summary": "・ShirofuneがAdobe Analytics連携機能を追加し複数広告媒体の横断評価と予算最適化を自動化\n・Google広告やMeta広告など複数媒体を共通基準で評価し予算配分や入札の最適化が可能に\n・独自コンバージョン計測技術を発展させ媒体横断での統一的な広告効果測定を実現",
+      "score": 8,
+      "reason": "Shirofune×Adobe連携で複数媒体予算最適化に直結",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Google News",
+      "title": "【11/30無料ウェビナー】下がらないMeta広告のCPAを、インフルエンサー動画で立て直す - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91OTJKbW1STVdrcjZtVjRQaXVSeWU1cGkwZ0VpcEMzZGxHVWtMR3o4aGRsSzZUeFVhS2VhSHJ2YVJ3ZXE4VEx0RkY0dXh4T3M3dnMtajhvWUdaRjFCNUFhQWdoNUpBSURRM2c?oc=5",
+      "summary": "・11月30日にMeta広告のCPA改善をテーマにした無料ウェビナーが開催される\n・インフルエンサー動画を活用してMeta広告の獲得効率を立て直す手法を解説\n・CPAが下がらず伸び悩む広告運用者向けに具体的な改善策を提示する内容",
+      "score": 7,
+      "reason": "Meta広告CPA改善の実践的ウェビナー告知",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Google News",
+      "title": "グーグルなど4社に「なりすまし広告」への対応強化求める…経産省 - 通販通信ECMO",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tWXZzN1N1eUR4TXphNG8zUF9tZ0h0TUJLNFpQZ1NBUVRJc0dIemZhYy13VTBvTC1qS2xXZjBsSnFUcHU0SHpXZmpncGlFTlVuTEtnSWxB?oc=5",
+      "summary": "・経産省がグーグルなど大手プラットフォーム4社に対しなりすまし広告への対策強化を要請した\n・著名人や企業を騙る偽広告が横行し消費者被害が拡大していることが背景にある\n・広告審査の厳格化や悪質広告の迅速な排除など具体的な対応が求められている",
+      "score": 6,
+      "reason": "なりすまし広告規制は広告審査・ポリシーに影響しうる",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Google News",
+      "title": "広告素材とランディングページを送るだけ。Facebook・Instagram広告の無料診断を、セルフプラスが受付 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITm9uTHVjT1g1dFVxeWdCZVpvZjJ1X291ZFdqV25lellPSHJoZm80U0JDTHJpZTE4azRRRkhDbHlKUXBqdWdBNzJMeTMxWVdQTl9pRTVkaHJwY0RsV0Z6TmhxOEFLOEtf?oc=5",
+      "summary": "・セルフプラスがFacebook・Instagram広告の無料診断サービスの受付を開始した\n・広告素材とランディングページを送るだけで専門家による診断が受けられる仕組み\n・広告運用の改善点を手軽に把握できるため中小企業や個人事業主に有用なサービスといえる",
+      "score": 6,
+      "reason": "Meta広告診断サービスで運用改善のヒントあり",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Google News",
+      "title": "pixivに運用型広告を簡単に出稿できる「pixiv Ads」がサービス開始から4周年！ゲーム・電子書籍業界を中心に導入企業は400社を突破～1st party dataを活用し、月間約4000万人へリーチが可能～ - ピクシブ株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSkNhd1Z5b0piaV9ybHFZbmN6ZW95Z3YySWVwaEtlc0RpcFFuenkyQmd5TlQ2WVlrVHgxOVBjSkw1djFRMVBVTmdsa2ctaDJMUDl3?oc=5",
+      "summary": "・pixivの運用型広告「pixiv Ads」がサービス開始から4周年を迎えたことを発表した\n・ゲーム・電子書籍業界を中心に導入企業数は400社を突破し順調に拡大している\n・1st partyデータを活用し月間約4000万人のユーザーへのリーチが可能となっている",
+      "score": 5,
+      "reason": "pixiv Ads紹介だが出稿先検討の参考になりうる",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海外・訪日客向けマーケティングの相談、最多はSNS運用・インフルエンサーで4割強（株式会社IGNITE）…います。同じ企業・団体から別の時期に相談があった場合も1社として数え、広告代理店を通した相談は実際の広告主で数えています。AI検索に触れた相談は、相談…Yahoo!ニュース PR［PR］経済総合11/26(木) 10:03",
+      "link": "https://news.yahoo.co.jp/articles/25d233b18c3650f7753fde7407087b653b871c26",
+      "summary": "・IGNITE社が海外・訪日客向けマーケティング相談内容を調査し結果を公表した\n・相談内容で最多はSNS運用・インフルエンサー活用で全体の4割強を占めた\n・AI検索への対応に関する相談も寄せられており新たな関心領域として注目される",
+      "score": 5,
+      "reason": "訪日マーケSNS運用相談動向で業界知見あり",
+      "date": "2026-11-26"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "57歳 有働由美子 オルセー美術館展の音声ガイドを担当…香取慎吾と偶然会えた2ショットに「大好きな御二人嬉しいです」の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/26(木) 11:30",
+      "link": "https://news.yahoo.co.jp/articles/3344ec0267913e71ff0f37f7e1424c8a8d6bade3",
+      "summary": "・有働由美子（57歳）がオルセー美術館展の音声ガイドを担当し話題を集めている\n・会場で香取慎吾と偶然再会した2ショットにファンから喜びの声が多数寄せられた\n・総務省調査でネット利用時間がテレビを超過しデジタル広告市場が急拡大している",
+      "score": 2,
+      "reason": "エンタメ記事でデジタル広告市場言及は付随的",
+      "date": "2026-11-26"
     }
   ]
 }
