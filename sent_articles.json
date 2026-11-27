@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496": "2026-10-27",
-    "https://oneder.hakuhodody-one.co.jp/blog/platform-update-insights": "2026-10-27",
-    "https://dentsudigital.co.jp/news/release/services/2026-1027-000358": "2026-10-27",
-    "https://oneder.hakuhodody-one.co.jp/blog/amazon-basic-term": "2026-10-27",
-    "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d": "2026-10-27",
-    "https://news.yahoo.co.jp/articles/a732019095159f62d0c13a42998e5558604e9252": "2026-10-27",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOTRKVXlUcjBPcDlVTXBpa29FcFFNVEFkbTVndDVKMjlrR1U3anhRMnZ6cnlkczh4YjRMLTBnc1liZkRDN1NtSWxtUjlyMFlqelBrLVVlWm9Ec1BENy1oM3l2NFBJMTh1cTgwTA?oc=5": "2026-10-27",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SX1JzWGItZ0ZYNTkwTkN3OVJ5ZW9lOFZKcUhjWU42WFBRcks5UjZrX3BNLXA5N2UzWkVleF9abzdRMlR0aERWblV6TUlBdlR6MlNrTGp2RnZPemFwczdOek5tS29JaXhxWFE?oc=5": "2026-10-27",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vaEM0bnRJeS1pUmJ0ZHJFM2pmcURSSklBeU9zbVREcEQtYzNDaWZVWTJRUHJGRVRBbjVTdEVvSVdKYnBhMEdUbmtHcU1KYWVmQjFvSlVRN0FGYXZIOTdYQk1yQ0xQVC1HRXRR?oc=5": "2026-10-27",
-    "https://news.yahoo.co.jp/articles/0b85c4e7ccaebc650ee6a4534168fdc35524c763": "2026-10-27",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Oc29sc0hQNm5EZEZuRDJIdFRob2dqX3pRa29xY3JqbDJhRnBvOUowaHZIcU91enotUzA3WFhvOURxMzlCYmo5VDZDWXhCR2d4blg4?oc=5": "2026-10-28",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-10-28",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STW5qeWVuMFNROEJWbFlMa2M1b1FGSlFDOF9SX1pOUWM5UjJDbGFGSzZqZzlHU0ZqLTZyZFRtNWRFT2ltcHAwTlFSaUhIX243LTFrbFVCbC1qbWo4bVd3Z1BrUmxjRU1Kbm1TMlZoTDZsQlg4SmhDMHhaTWJYbVU?oc=5": "2026-10-28",
@@ -295,49 +285,18 @@
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITm9uTHVjT1g1dFVxeWdCZVpvZjJ1X291ZFdqV25lellPSHJoZm80U0JDTHJpZTE4azRRRkhDbHlKUXBqdWdBNzJMeTMxWVdQTl9pRTVkaHJwY0RsV0Z6TmhxOEFLOEtf?oc=5": "2026-11-26",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oSkNhd1Z5b0piaV9ybHFZbmN6ZW95Z3YySWVwaEtlc0RpcFFuenkyQmd5TlQ2WVlrVHgxOVBjSkw1djFRMVBVTmdsa2ctaDJMUDl3?oc=5": "2026-11-26",
     "https://news.yahoo.co.jp/articles/25d233b18c3650f7753fde7407087b653b871c26": "2026-11-26",
-    "https://news.yahoo.co.jp/articles/3344ec0267913e71ff0f37f7e1424c8a8d6bade3": "2026-11-26"
+    "https://news.yahoo.co.jp/articles/3344ec0267913e71ff0f37f7e1424c8a8d6bade3": "2026-11-26",
+    "https://oneder.hakuhodody-one.co.jp/blog/webtan-contextual-video-ads": "2026-11-27",
+    "https://dentsudigital.co.jp/index%2ephp/news/release/prizes/2026-1126-000370": "2026-11-27",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmJ0STZBdS12VVIzZjVxd2ZWRk9hZ1J6d0pxT3IzbTIyM05zd1lidFZPUTJYeEptMTF1ZVphOXVjOTJPbDhfUVJfQmZOa2h2Ui11cVNzMlJQemtJYTZoV3FwbnF0elBrV1FUOGhDWkRhYnRzV3BXWUhDcmtfTnQwZDd6TzFoM05VYUgtMkpEUmN0R205R1VBakFqTjBFYWh2aHNn?oc=5": "2026-11-27",
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XbHAwdnVjQTBCRkVzbUhELWxMWFlNdDNSYmZsdmlUQm1HOEtUX2x3Zzg1SzdFX0szTTc3YzBsbkxzbXQ1dWc?oc=5": "2026-11-27",
+    "https://news.yahoo.co.jp/articles/ebd16584a3f8adf5994f15db8efa545e26bedf3d": "2026-11-27",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SNG9PRGRpQWJGQ2NyS09qUnp4R1MzMWZiVTd5bHh6TW1FRFJ4R1BDTVBDdnUxaWZaekZmWl9JbEFpamxodVpOSmlmOS01bXEzZGtJZE8xTVpxRUs5ZklkT0VFVUpZNWdkSlZDang5OUg0WWJvNXVF0gF8QVVfeXFMUGNkR2xqSWFCWlJ2Nkpxa1U2R29uTm5yTjFFb1BBYkRVVmx2MFR2VTBWVHBnQnppUnhQNl82dUppV0pIdTR2WWgxMkpkaG5MVXg5Z3FwcGcwRmhJeXlGT3N2Y2ZxcGp3VlZmNEVsa1h2R2VkNU03MmJPNHNhbg?oc=5": "2026-11-27",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFd2azF2X25aUnJGdkV3TFNONExMazJjb1pUT3FBRGNhdk1JVEJFdlZFUndJZnlnejFtSzc5anFkVHZrSE1WT0RhTTZXd3ZoN0VvRzF2Vnk4MnJlOGlESUtMamM1SkJXcHRaQTliSHVzYTNudUd5dHN3dUpkTXRKYW5ETTBraUdYT3NjREJJRDRMUlpMcWV2OHF1cmF0UWZKMVlWZzZzTmJxUHZRMEpIcFVFeEt4VFpn?oc=5": "2026-11-27",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14b1NiME40QXk4X1F3WUxpa3NPX2FJYWpUNThsdVJucDYwWlJEYVZGNTl0MUNFSkxQcUZ3YnpmeW4yakk1ZVhHcGRNTlN2cHRFQW9vdklB?oc=5": "2026-11-27",
+    "https://news.yahoo.co.jp/articles/3e4c58de67e27e0f155990d21c5a40970c6ace6d": "2026-11-27"
   },
   "titles": [
-    {
-      "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "媒体アップデートのキャッチアップが、広告運用の『解像度』を変える理由 ～仕様変更を見落とさない運用分析のポイント ～",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "生活者の購買行動の調査を実施　節約志向が強まる中、利便性・情報活用・安全性も意識した「買い方の最適化」が進み、AI利用は全世代へ",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "【Amazon基本編】EC担当になったら最初に知っておきたいAmazon基本用語6選",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "GA4でAI対話分析も可能に！ 2025～2026年の押さえるべき【新機能5選】…えて」 GA4のデータだけでなく、連携した「サーチコンソール」や「Google広告のキャンペーンデータ」、「Googleビジネスプロフィール」もアスク…Web担当者ForumIT総合10/26(月) 15:18",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "ソルティドッグのGoogle広告アカウントに不正アクセス、複雑なパスワード・パスキー・セキュリティキーによる2段階認証を突破 - ScanNetSecurity",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "博報堂、新聞社・出版社の編集力をAI時代の広告に生かす「Shomei AIO」始動 - Media Innovation",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "当社グループ会社を介したデジタル広告の配信等 - KDDI",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "安田成美、“オーロラ”写真を披露「感動！」ファンからも感嘆の声「神秘的です」「レア」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/27(火) 10:31",
-      "date": "2026-10-27"
-    },
     {
       "title": "CTR2.8倍・CPA10%減の事例も！TikTok Symphonyが変える動画広告の「量と質」 (1/3) - MarkeZine（マーケジン）",
       "date": "2026-10-28"
@@ -1497,99 +1456,49 @@
     {
       "title": "57歳 有働由美子 オルセー美術館展の音声ガイドを担当…香取慎吾と偶然会えた2ショットに「大好きな御二人嬉しいです」の声…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/26(木) 11:30",
       "date": "2026-11-26"
+    },
+    {
+      "title": "「文脈に合ったクリエイティブ」で動画広告の成果が大きく変わる!? ROIを最大化させるAI活用術",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "「Japan/Korea Agency of the Year Awards 2026」において初の金賞受賞",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "ネット広告を見ているのは人間、それともAI？ 博報堂DYグループなど3社が挑む「人間認証型広告」の可能性 - ハフポスト",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "動画広告だけで1兆円超！それを上回るインターネット広告とは？【2025年ランキングTOP5】 - DXマガジン",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解…しでも違いがあれば、直ちに景品表示法違反になるわけではありません。 消費者庁も「著しく」とは、誇張の程度が社会一般に許容される程度を超えて、一般消費…ITmedia NEWSIT総合11/27(金) 10:27",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解 - Infoseek",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "外食・ECでAI生成商品画像拡大 誇大表示巡り法的論点 - 디지털투데이",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解…術評論社）を刊行。 景品表示法が禁止する「優良誤認表示」とは まず、景品表示法の基本的なルールを確認しましょう。 景品表示法は、商品やサービスの品…ITmedia NEWSIT総合11/27(金) 10:27",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "食品表示、年末一斉取締り 健康食品の誇大広告も監視対象に - ウェルネスデイリーニュース",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "年間被害は最大3.2兆円と推計、ダークパターン対策協会がNDD認定などの取り組みを発表…目印になると説明した。 ■ 注文後の条件変更や解約妨害に消費者庁の検討会が対策案 消費者庁の加来芳郎氏（取引対策課長）は、同庁の「デジタル取引・特定…INTERNET WatchIT総合11/27(金) 6:30",
+      "date": "2026-11-27"
     }
   ],
   "articles": [
-    {
-      "source": "Yahoo!広告 (LYCBiz)",
-      "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
-      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496",
-      "summary": "・LINEヤフーの検索連動型ショッピング広告は商品画像や価格を検索結果に表示できる広告形式である\n・掲載面はYahoo!検索やAgent iなど複数あり視認性の高い位置に配信される\n・商品情報を直接訴求できるためCVR向上が期待でき配信開始までの流れも解説されている",
-      "score": 8,
-      "reason": "主要媒体の広告プロダクト解説で実務直結",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "媒体アップデートのキャッチアップが、広告運用の『解像度』を変える理由 ～仕様変更を見落とさない運用分析のポイント ～",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/platform-update-insights",
-      "summary": "・Google検索結果ページ下部の広告関連性向上を目的に掲載仕様が変更された\n・同一広告主が2枠掲載された場合にCTRが30〜40%低下する事象が発生した\n・ユーザーが下部閲覧後に上部へ戻る行動データに基づき関連性改善が図られた",
-      "score": 8,
-      "reason": "Google検索広告の仕様変更と影響分析で実践的",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "電通デジタル",
-      "title": "生活者の購買行動の調査を実施　節約志向が強まる中、利便性・情報活用・安全性も意識した「買い方の最適化」が進み、AI利用は全世代へ",
-      "link": "https://dentsudigital.co.jp/news/release/services/2026-1027-000358",
-      "summary": "・電通デジタルが第5回「EC・店頭をまたぐ購買行動実態調査2026」を実施しオンラインとオフラインを横断した生活者の購買行動を分析した\n・節約志向が強まる中でも利便性・情報活用・安全性を重視した「買い方の最適化」が生活者の間で進行している\n・購買行動におけるAI活用が特定世代に限らず全世代へと広がりを見せていることが明らかになった",
-      "score": 5,
-      "reason": "購買行動調査でマーケ全般の業界動向情報",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "アイレップ (ONEDER)",
-      "title": "【Amazon基本編】EC担当になったら最初に知っておきたいAmazon基本用語6選",
-      "link": "https://oneder.hakuhodody-one.co.jp/blog/amazon-basic-term",
-      "summary": "・Amazon EC担当者向けにまず覚えるべき基本用語6選を解説する入門記事\n・Amazonは主に4種類のページ構造で構成されておりその理解が用語習得の前提となる\n・EC運用初心者がAmazonの仕組みを体系的に学ぶための基礎知識を整理している",
-      "score": 4,
-      "reason": "EC基礎用語解説で広告運用との直接関連薄い",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "サイバーエージェントが広告配信運用AIエージェント「効果おまかせAI」を提供開始…に始めるが、段階的に機能を拡張しながら「Microsoft広告」「TikTok広告」などへ対応範囲を順次拡大する。 Meta広告で先行導入した化粧品…Web担当者ForumIT総合4/7(火) 7:01",
-      "link": "https://news.yahoo.co.jp/articles/d3c6459a38bf94cc3ee284e9df3e57a5aa9ee65d",
-      "summary": "・サイバーエージェントが広告配信運用を自動化するAIエージェント「効果おまかせAI」の提供を開始した\n・Meta広告での先行導入を皮切りにMicrosoft広告やTikTok広告など対応媒体を順次拡大予定\n・化粧品分野での先行導入実績をもとに段階的に機能拡張し広告運用の効率化を推進する",
-      "score": 9,
-      "reason": "CA社のAI広告運用エージェント発表で実務影響大",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "GA4でAI対話分析も可能に！ 2025～2026年の押さえるべき【新機能5選】…えて」 GA4のデータだけでなく、連携した「サーチコンソール」や「Google広告のキャンペーンデータ」、「Googleビジネスプロフィール」もアスク…Web担当者ForumIT総合10/26(月) 15:18",
-      "link": "https://news.yahoo.co.jp/articles/a732019095159f62d0c13a42998e5558604e9252",
-      "summary": "・GA4が2025〜2026年に向けAI対話分析など注目の新機能5つを追加予定と発表\n・サーチコンソールやGoogle広告、Googleビジネスプロフィールとの連携データも分析可能に\n・GA4の「質問して」機能でAIに自然言語で問いかけ複数データソースを横断分析できる",
-      "score": 8,
-      "reason": "GA4新機能5選の解説で広告運用の分析改善に直結",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "Google News",
-      "title": "ソルティドッグのGoogle広告アカウントに不正アクセス、複雑なパスワード・パスキー・セキュリティキーによる2段階認証を突破 - ScanNetSecurity",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOTRKVXlUcjBPcDlVTXBpa29FcFFNVEFkbTVndDVKMjlrR1U3anhRMnZ6cnlkczh4YjRMLTBnc1liZkRDN1NtSWxtUjlyMFlqelBrLVVlWm9Ec1BENy1oM3l2NFBJMTh1cTgwTA?oc=5",
-      "summary": "・ソルティドッグのGoogle広告アカウントが不正アクセスを受けたことが判明した\n・複雑なパスワードやパスキー、セキュリティキーによる2段階認証が突破された\n・高度なセキュリティ対策を講じていても防げなかった事例として業界に警鐘を鳴らしている",
-      "score": 7,
-      "reason": "Google広告アカウント不正アクセス事例で実務上の警戒必須",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "Google News",
-      "title": "博報堂、新聞社・出版社の編集力をAI時代の広告に生かす「Shomei AIO」始動 - Media Innovation",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SX1JzWGItZ0ZYNTkwTkN3OVJ5ZW9lOFZKcUhjWU42WFBRcks5UjZrX3BNLXA5N2UzWkVleF9abzdRMlR0aERWblV6TUlBdlR6MlNrTGp2RnZPemFwczdOek5tS29JaXhxWFE?oc=5",
-      "summary": "・博報堂が新聞社・出版社の編集力をAI時代の広告に活用する新サービス「Shomei AIO」を開始した\n・メディア企業が持つコンテンツ制作力や信頼性を広告領域に掛け合わせる取り組みとなる\n・AI技術と編集ノウハウを融合し、質の高い広告コミュニケーションの実現を目指す",
-      "score": 5,
-      "reason": "博報堂の新広告サービスで業界動向として参考",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "Google News",
-      "title": "当社グループ会社を介したデジタル広告の配信等 - KDDI",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vaEM0bnRJeS1pUmJ0ZHJFM2pmcURSSklBeU9zbVREcEQtYzNDaWZVWTJRUHJGRVRBbjVTdEVvSVdKYnBhMEdUbmtHcU1KYWVmQjFvSlVRN0FGYXZIOTdYQk1yQ0xQVC1HRXRR?oc=5",
-      "summary": "・KDDIがグループ会社を通じたデジタル広告配信に関する情報を公表した\n・通信キャリアとしての顧客基盤を活用した広告事業の展開が示されている\n・記事本文の詳細が不足しており、具体的な施策内容の確認が必要である",
-      "score": 4,
-      "reason": "KDDIグループのデジタル広告配信に関する企業発表",
-      "date": "2026-10-27"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "安田成美、“オーロラ”写真を披露「感動！」ファンからも感嘆の声「神秘的です」「レア」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合10/27(火) 10:31",
-      "link": "https://news.yahoo.co.jp/articles/0b85c4e7ccaebc650ee6a4534168fdc35524c763",
-      "summary": "・安田成美がオーロラの写真をSNSで公開しファンから「神秘的」「レア」と感嘆の声が寄せられた\n・総務省調査でネットの1日平均利用時間がテレビを上回り10年間で大幅に増加していることが判明\n・デジタル広告市場が急拡大しておりメディア消費の主軸がテレビからネットへ移行している",
-      "score": 2,
-      "reason": "芸能ニュースにデジタル広告市場の話題が混在",
-      "date": "2026-10-27"
-    },
     {
       "source": "Google News",
       "title": "CTR2.8倍・CPA10%減の事例も！TikTok Symphonyが変える動画広告の「量と質」 (1/3) - MarkeZine（マーケジン）",
@@ -4199,6 +4108,96 @@
       "score": 2,
       "reason": "エンタメ記事でデジタル広告市場言及は付随的",
       "date": "2026-11-26"
+    },
+    {
+      "source": "アイレップ (ONEDER)",
+      "title": "「文脈に合ったクリエイティブ」で動画広告の成果が大きく変わる!? ROIを最大化させるAI活用術",
+      "link": "https://oneder.hakuhodody-one.co.jp/blog/webtan-contextual-video-ads",
+      "summary": "・デジタルメディアがSNSや動画等で生活者の限られた可処分時間を奪い合う状況が激化している\n・広告は多様なコンテンツと接触機会を競合しており成果が上がりにくい市場環境にある\n・広告運用者はこの前提を理解した上で文脈に合ったクリエイティブやAI活用でROI最大化を図るべきだ",
+      "score": 7,
+      "reason": "動画広告のクリエイティブ最適化とAI活用の実践知見",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "電通デジタル",
+      "title": "「Japan/Korea Agency of the Year Awards 2026」において初の金賞受賞",
+      "link": "https://dentsudigital.co.jp/index%2ephp/news/release/prizes/2026-1126-000370",
+      "summary": "・電通デジタルが「Japan/Korea Agency of the Year Awards 2026」で初の金賞を受賞した\n・金賞は「Japan/Korea Agency AI Excellence of the Year」部門での受賞となった\n・加えて他2部門でも銀賞を獲得し、合計3件の受賞を達成した",
+      "score": 3,
+      "reason": "代理店の受賞報告であり実務への直接的影響なし",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Google News",
+      "title": "ネット広告を見ているのは人間、それともAI？ 博報堂DYグループなど3社が挑む「人間認証型広告」の可能性 - ハフポスト",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmJ0STZBdS12VVIzZjVxd2ZWRk9hZ1J6d0pxT3IzbTIyM05zd1lidFZPUTJYeEptMTF1ZVphOXVjOTJPbDhfUVJfQmZOa2h2Ui11cVNzMlJQemtJYTZoV3FwbnF0elBrV1FUOGhDWkRhYnRzV3BXWUhDcmtfTnQwZDd6TzFoM05VYUgtMkpEUmN0R205R1VBakFqTjBFYWh2aHNn?oc=5",
+      "summary": "・博報堂DYグループなど3社がAIではなく人間が閲覧していることを確認する「人間認証型広告」の開発に取り組んでいる\n・AIボットによる広告閲覧が増加し、広告効果の信頼性が揺らぐ中、人間の視認を保証する仕組みが求められている\n・広告主にとって本当に人間に届く広告配信を実現し、デジタル広告市場の透明性と信頼性向上を目指す取り組みである",
+      "score": 5,
+      "reason": "人間認証型広告は業界動向として参考になる",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Google News",
+      "title": "動画広告だけで1兆円超！それを上回るインターネット広告とは？【2025年ランキングTOP5】 - DXマガジン",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XbHAwdnVjQTBCRkVzbUhELWxMWFlNdDNSYmZsdmlUQm1HOEtUX2x3Zzg1SzdFX0szTTc3YzBsbkxzbXQ1dWc?oc=5",
+      "summary": "・2025年のインターネット広告費ランキングTOP5を発表し動画広告が1兆円を突破した\n・動画広告を上回る広告種別として検索連動型広告が最大規模で首位を維持している\n・インターネット広告市場は種",
+      "score": 5,
+      "reason": "広告市場規模の動向把握に参考になる",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解…しでも違いがあれば、直ちに景品表示法違反になるわけではありません。 消費者庁も「著しく」とは、誇張の程度が社会一般に許容される程度を超えて、一般消費…ITmedia NEWSIT総合11/27(金) 10:27",
+      "link": "https://news.yahoo.co.jp/articles/ebd16584a3f8adf5994f15db8efa545e26bedf3d",
+      "summary": "・飲食店がAI生成画像をメニューや広告に使用する行為が景品表示法に抵触するか弁護士が解説\n・実物と多少の違いがあっても「著しい」誇張でなければ直ちに景品表示法違反にはならない\n・消費者庁は社会一般に許容される程度を超えた誇張表現を規制対象としている",
+      "score": 5,
+      "reason": "AI画像と景表法は広告クリエイティブ制作の注意点",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Google News",
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SNG9PRGRpQWJGQ2NyS09qUnp4R1MzMWZiVTd5bHh6TW1FRFJ4R1BDTVBDdnUxaWZaekZmWl9JbEFpamxodVpOSmlmOS01bXEzZGtJZE8xTVpxRUs5ZklkT0VFVUpZNWdkSlZDang5OUg0WWJvNXVF0gF8QVVfeXFMUGNkR2xqSWFCWlJ2Nkpxa1U2R29uTm5yTjFFb1BBYkRVVmx2MFR2VTBWVHBnQnppUnhQNl82dUppV0pIdTR2WWgxMkpkaG5MVXg5Z3FwcGcwRmhJeXlGT3N2Y2ZxcGp3VlZmNEVsa1h2R2VkNU03MmJPNHNhbg?oc=5",
+      "summary": "・飲食店がAI生成画像をメニューや広告に使用する事例が増え法的リスクが議論されている\n・実物と大きく異なるAI画像は景品表示法の優良誤認表示に該当する可能性があると弁護士が指摘\n・消費者の合理的判断を誤らせる過度な美化表現は違反リスクが高く適切な運用が求められる",
+      "score": 5,
+      "reason": "AI画像と景表法は広告表現の法的留意点",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Google News",
+      "title": "外食・ECでAI生成商品画像拡大 誇大表示巡り法的論点 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFd2azF2X25aUnJGdkV3TFNONExMazJjb1pUT3FBRGNhdk1JVEJFdlZFUndJZnlnejFtSzc5anFkVHZrSE1WT0RhTTZXd3ZoN0VvRzF2Vnk4MnJlOGlESUtMamM1SkJXcHRaQTliSHVzYTNudUd5dHN3dUpkTXRKYW5ETTBraUdYT3NjREJJRDRMUlpMcWV2OHF1cmF0UWZKMVlWZzZzTmJxUHZRMEpIcFVFeEt4VFpn?oc=5",
+      "summary": "・外食産業やEC業界でAI生成による商品画像の活用が急速に拡大している\n・実物と乖離したAI画像が誇大表示や優良誤認に該当する可能性が法的論点に浮上\n・消費者保護と技術活用の両立に向けたガイドライン整備の必要性が議論されている",
+      "score": 5,
+      "reason": "EC向けAI画像の法的論点は広告制作に関連",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解…術評論社）を刊行。 景品表示法が禁止する「優良誤認表示」とは まず、景品表示法の基本的なルールを確認しましょう。 景品表示法は、商品やサービスの品…ITmedia NEWSIT総合11/27(金) 10:27",
+      "link": "https://news.yahoo.co.jp/articles/ebd16584a3f8adf5994f15db8efa545e26bedf3d",
+      "summary": "・飲食店がAI生成画像をメニューや広告に使用する行為が景品表示法上問題になるか弁護士が解説\n・景品表示法は実際より著しく優良と誤認させる「優良誤認表示」を禁止しており基準が焦点となる\n・AI画像が実物と大きく乖離し消費者の合理的な選択を妨げる場合は違反リスクがあると指摘",
+      "score": 5,
+      "reason": "景表法の優良誤認解説は広告審査に有用",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Google News",
+      "title": "食品表示、年末一斉取締り 健康食品の誇大広告も監視対象に - ウェルネスデイリーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14b1NiME40QXk4X1F3WUxpa3NPX2FJYWpUNThsdVJucDYwWlJEYVZGNTl0MUNFSkxQcUZ3YnpmeW4yakk1ZVhHcGRNTlN2cHRFQW9vdklB?oc=5",
+      "summary": "・年末に向け食品表示の一斉取締りが実施され、違反事例の摘発が強化される方針\n・健康食品における誇大広告や不当表示も重点的な監視対象として含まれている\n・消費者保護の観点から関係機関が連携し、適正な食品表示の徹底を図る取り組み",
+      "score": 4,
+      "reason": "誇大広告規制は広告審査に間接的に関連",
+      "date": "2026-11-27"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "年間被害は最大3.2兆円と推計、ダークパターン対策協会がNDD認定などの取り組みを発表…目印になると説明した。 ■ 注文後の条件変更や解約妨害に消費者庁の検討会が対策案 消費者庁の加来芳郎氏（取引対策課長）は、同庁の「デジタル取引・特定…INTERNET WatchIT総合11/27(金) 6:30",
+      "link": "https://news.yahoo.co.jp/articles/3e4c58de67e27e0f155990d21c5a40970c6ace6d",
+      "summary": "・ダークパターンによる消費者被害は年間最大3.2兆円規模と推計され深刻さが浮き彫りに\n・ダークパターン対策協会がNDD認定制度を発表し安全なサイトの目印として活用を推進\n・消費者庁検討会が注文後の条件変更や解約妨害など悪質手法への具体的対策案を提示",
+      "score": 4,
+      "reason": "ダークパターン規制はLP設計時の参考になる",
+      "date": "2026-11-27"
     }
   ]
 }
