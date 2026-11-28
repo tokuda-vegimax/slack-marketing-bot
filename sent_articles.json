@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Oc29sc0hQNm5EZEZuRDJIdFRob2dqX3pRa29xY3JqbDJhRnBvOUowaHZIcU91enotUzA3WFhvOURxMzlCYmo5VDZDWXhCR2d4blg4?oc=5": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STW5qeWVuMFNROEJWbFlMa2M1b1FGSlFDOF9SX1pOUWM5UjJDbGFGSzZqZzlHU0ZqLTZyZFRtNWRFT2ltcHAwTlFSaUhIX243LTFrbFVCbC1qbWo4bVd3Z1BrUmxjRU1Kbm1TMlZoTDZsQlg4SmhDMHhaTWJYbVU?oc=5": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE53dE1HMDVuQ3M2X1NMRmpKNF9MSWtNNzdJaUk1YVJsV0RYaGItaHVvUXl5eWpxS2tLNTdSREF5U2xkNkk?oc=5": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1MDAtdVh2RkRNV2RNTEVoT0tOa01Ga3FaME1xQUx4R3puVS1nSWxmN1dES1lhelN6RkpRaTYtY1I4cWV3MGZHcnhrdGp1cDdROHJESkdwcVA0UUZFSGdIN2xYdVplNXAtTkxj?oc=5": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZWsySGZvRGhCYTNOelliNnJWcTViZVU3MUhqeFNqaE5lbGVKdEQzRlJIamZWeVRiamZOejZCQkxBQW5jYWsxSnNpc0wzOGNDbHcwSmJIUEkyU3JHOHJ1Q01uMDg3eElqcFNKT3E4eWtiX3RBZGpGN3cydHBBelk?oc=5": "2026-10-28",
-    "https://news.yahoo.co.jp/articles/8a11ce591bab95fc2d2ba91a9d6aff458b4ba082": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUktnNnNqUDZIUGMzOFhsaUhJSDBEY1Zlejcxc0R0R1M0aTUtUmZtdkJCMjNDdkVBYVc1am5TOFRyM0JCQ3JwQkw1N3M1cVl6NjBGVHlESV9wcDJaNTFPRFdkcTJzQ1l6LUNlcURwUE1xT19xQjNrMC13?oc=5": "2026-10-28",
-    "https://news.yahoo.co.jp/articles/0129a89491a0a60371d3a2a86ded8110c75927ff": "2026-10-28",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xSnp1TERLOHdXdnZJR1dycXZDcXZLajBYQ29wREdRQzhudXl6bjI0QjFnY0hwaVF5YXFfSmhWQUdFaVIwbzIyM3VGZ2VHZE9WUTdZWGJHd2s3UlhFTUdfRVE0Qmg3UQ?oc=5": "2026-10-28",
     "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/": "2026-10-29",
     "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/": "2026-10-29",
     "https://www.lycbiz.com/jp/column/ly-ads/displayads-auc/technique/line-placement-case-study/": "2026-10-29",
@@ -294,49 +284,19 @@
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SNG9PRGRpQWJGQ2NyS09qUnp4R1MzMWZiVTd5bHh6TW1FRFJ4R1BDTVBDdnUxaWZaekZmWl9JbEFpamxodVpOSmlmOS01bXEzZGtJZE8xTVpxRUs5ZklkT0VFVUpZNWdkSlZDang5OUg0WWJvNXVF0gF8QVVfeXFMUGNkR2xqSWFCWlJ2Nkpxa1U2R29uTm5yTjFFb1BBYkRVVmx2MFR2VTBWVHBnQnppUnhQNl82dUppV0pIdTR2WWgxMkpkaG5MVXg5Z3FwcGcwRmhJeXlGT3N2Y2ZxcGp3VlZmNEVsa1h2R2VkNU03MmJPNHNhbg?oc=5": "2026-11-27",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFd2azF2X25aUnJGdkV3TFNONExMazJjb1pUT3FBRGNhdk1JVEJFdlZFUndJZnlnejFtSzc5anFkVHZrSE1WT0RhTTZXd3ZoN0VvRzF2Vnk4MnJlOGlESUtMamM1SkJXcHRaQTliSHVzYTNudUd5dHN3dUpkTXRKYW5ETTBraUdYT3NjREJJRDRMUlpMcWV2OHF1cmF0UWZKMVlWZzZzTmJxUHZRMEpIcFVFeEt4VFpn?oc=5": "2026-11-27",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14b1NiME40QXk4X1F3WUxpa3NPX2FJYWpUNThsdVJucDYwWlJEYVZGNTl0MUNFSkxQcUZ3YnpmeW4yakk1ZVhHcGRNTlN2cHRFQW9vdklB?oc=5": "2026-11-27",
-    "https://news.yahoo.co.jp/articles/3e4c58de67e27e0f155990d21c5a40970c6ace6d": "2026-11-27"
+    "https://news.yahoo.co.jp/articles/3e4c58de67e27e0f155990d21c5a40970c6ace6d": "2026-11-27",
+    "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496": "2026-11-28",
+    "https://news.yahoo.co.jp/articles/2f2acfe3a328bde9735a97e130fa14bdbc78670f": "2026-11-28",
+    "https://news.yahoo.co.jp/articles/0804d1b01f2b187c5658c5ad76d97ec0399bc47a": "2026-11-28",
+    "https://news.yahoo.co.jp/articles/852962b7400f5316d31e87fe062704e029117619": "2026-11-28",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uQ0ZGMHcxdnlta0Utck9kSWw3em1uMi1DRnBOaFBrQml2NnMzdTl2Ri00bXlXLVpKR0w5OE12djlaTUxzUFRoVWt0eTBTQm9hWTBzNGpqQQ?oc=5": "2026-11-28",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rd3RSM1ZGTVRmS1BQTVhwaVhreWs2X29TUm9rR2lmX3VNQlJkWVFDNnpkVEVteE9jVFdVbU5Ib0x6WHRhVVNOYmljcHRuWFNzaU9jMzZMa2VWeVBwQ0VZcVM0Q0xLdHM5XzRoUGd1eTdFc284VURRd0Rsb3FkN0k?oc=5": "2026-11-28",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FREtVY3JQdEJlaDBWWmlsZTRDRVBGZjB5QlVBbWN0NEdDV0VMNUJxRXFLSktabFltZk5IMEszUTMwWkRjVWNGNDZsMFhwbFhPa0pPbzRnblpiN0hhR3hqN3hGQQ?oc=5": "2026-11-28",
+    "https://news.yahoo.co.jp/articles/c5f60631afd9540262d34c5c6103336957e32b91": "2026-11-28",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tNW9yTlNRdG82V0RZY3FoUjMxMWtlc2dMZkNPS3oyVFNWUXFFdFU5VUExeG96eE1Da3R0c0huWmxPd3VMOEtESXphM291U1VMcWVJUlV3blF1QQ?oc=5": "2026-11-28",
+    "https://news.yahoo.co.jp/articles/bd44160662ccb86070497415c35d3f47830ff47e": "2026-11-28"
   },
   "titles": [
-    {
-      "title": "CTR2.8倍・CPA10%減の事例も！TikTok Symphonyが変える動画広告の「量と質」 (1/3) - MarkeZine（マーケジン）",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - 電通ウェブサイト",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "ダークパターン規制強化へ 消費者庁、悪質広告や煩雑な解約（共同通信） - Yahoo!ニュース",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "「DocumentOn」、景品表示法の表示規制AI審査機能をアップデート。 リスクの高さに応じて重要度判定＆類似処分事例・関連ガイドラインも提示。 - 株式会社LegalOn Technologies",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "韓国特化型マーケティング支援「InFluK」のビーウェル、カカオ グローバル広告 公式代理店として「KakaoTalk 日本版広告」の取り扱いを開始 - 時事ドットコム",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "デジタル広告取引、課題と対策を共有 国際ABC連盟の総会を開催（朝日新聞） - Yahoo!ニュース",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "国際ABC連盟の総会、日本で44年ぶり開催 情報の信頼性についてメディア関係者が議論…わした。 IFABCの総会が日本で開かれるのは44年ぶり。講演では、デジタル広告品質認証機構（JICDAQ）の小出誠事務局長が広告効果向上のため掲載広…産経新聞経済総合10/27(火) 18:30",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "電通デジタル、Google主催「Ads Academy Expert 2026 特別研修プログラム」参加企業に選出 - 電通デジタル",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "イスラエルの「スパイ企業」、スターリンクユーザー標的＝関係筋…Discover-Techはスターリンクサービスユーザーに表示されるデジタル広告の大手の１つで、​これらの広告がユーザーの位置情報を特定するために使用…ロイター経済総合10/27(火) 19:34",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "「外国代理人」の影響規制へ法案提出、コンサルや広告代理店など登録・罰則も…来年の通常国会検討 - 読売新聞",
-      "date": "2026-10-28"
-    },
     {
       "title": "Ads in AI Mode expand to new markets.",
       "date": "2026-10-29"
@@ -1496,99 +1456,49 @@
     {
       "title": "年間被害は最大3.2兆円と推計、ダークパターン対策協会がNDD認定などの取り組みを発表…目印になると説明した。 ■ 注文後の条件変更や解約妨害に消費者庁の検討会が対策案 消費者庁の加来芳郎氏（取引対策課長）は、同庁の「デジタル取引・特定…INTERNET WatchIT総合11/27(金) 6:30",
       "date": "2026-11-27"
+    },
+    {
+      "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "AI時代、テレビ報道の信頼性をどう守る NHKやフジテレビで進む映像・広告の来歴証明」…2PAを導入。視聴者が来歴情報を確認できる。さらに、デジタル広告への適用の取り組みも。デジタル広告動画は多様な配信元が提供しており、広告主が誰なのか、…電波タイムズIT総合11/27(金) 14:40",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "アクセス解析の歴史【第2期 2005～2010】Google Analytics登場とユーザーフォーラム全盛の時代…EOのエリック・シュミットはじめGoogleには浸透していました。Google広告を含むサイトのデータ計測領域を、SiteCatalystなど競合に渡…Web担当者ForumIT総合11/26(木) 15:19",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "解約方法「ほんまにわからん」タップ1回で契約できるのに… 解除できない“サブスク”・気づかず「定期購入」 意に反して誘導“ダークパターン” 被害額は最大3.2兆円 専門家「今後はAIで巧妙化の恐れも」…看過できない状況になってきている。法規制含めて推進していただければ」 消費者庁によると、その手口は様々です。 商品画面で、最初から定期購入が選択されて…関西テレビ大阪11/27(金) 5:00",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "広告の30年をたどる『インターネット広告創世記 Googleが切り拓いたデジタル広告革命』を3名様にプレゼント - Web担",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "参政、グーグル広告に1億円超 動画製作やライブ配信、各党注力 25年政治資金収支報告書（時事通信） - Yahoo!ニュース",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "参政、グーグル広告に１億円超 動画製作やライブ配信、各党注力―２５年政治資金収支報告書 - 時事ドットコム",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "参政、グーグル広告に1億円超 動画製作やライブ配信、各党注力 25年政治資金収支報告書…）が「ネット広告料」名目で約6700万円支出した。チームみらいも「Google広告費」を約360万円計上した。 立憲民主党や日本維新の会、国民民主党…時事通信政治11/27(金) 20:32",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "札幌市交通局の広告メディアパワー - 札幌市",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "「ママにそっくり」市川團十郎、長女・麗禾の日常ショットが反響「大人っぽくなられましたね」「上品で素敵な雰囲気」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/28(土) 7:40",
+      "date": "2026-11-28"
     }
   ],
   "articles": [
-    {
-      "source": "Google News",
-      "title": "CTR2.8倍・CPA10%減の事例も！TikTok Symphonyが変える動画広告の「量と質」 (1/3) - MarkeZine（マーケジン）",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Oc29sc0hQNm5EZEZuRDJIdFRob2dqX3pRa29xY3JqbDJhRnBvOUowaHZIcU91enotUzA3WFhvOURxMzlCYmo5VDZDWXhCR2d4blg4?oc=5",
-      "summary": "・TikTok SymphonyはAIを活用し動画広告の大量生成と品質向上を両立する新ツールである\n・導入事例ではCTRが2.8倍に向上しCPAが10%削減されるなど具体的な成果が報告されている\n・広告クリエイティブの制作効率化と配信最適化により動画広告運用の変革が進んでいる",
-      "score": 8,
-      "reason": "TikTok Symphony活用の具体事例でCTR・CPA改善に直結",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "「2025年 日本の広告費 インターネット広告媒体費 詳細分析」 - 電通ウェブサイト",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ma1Y3YXFxS2s4YnlYMHJfNHNuV0QzY2JyUEV3OV9fUGxDM01vc0tIYlc0Mkdpc2dqX0dpek1XYXBpSGZabThsNGlZT0tFTjZfSFkxWFI1X1BwVTBGWl9LaDVSenl4S2RqUlNz?oc=5",
-      "summary": "・電通グループが2024年のインターネット広告媒体費の",
-      "score": 7,
-      "reason": "ネット広告費の詳細分析で市場動向把握に有用",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "ダークパターン規制強化へ 消費者庁、悪質広告や煩雑な解約（共同通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STW5qeWVuMFNROEJWbFlMa2M1b1FGSlFDOF9SX1pOUWM5UjJDbGFGSzZqZzlHU0ZqLTZyZFRtNWRFT2ltcHAwTlFSaUhIX243LTFrbFVCbC1qbWo4bVd3Z1BrUmxjRU1Kbm1TMlZoTDZsQlg4SmhDMHhaTWJYbVU?oc=5",
-      "summary": "・消費者庁がダークパターンに対する規制強化の方針を打ち出し、対策を本格化させる動き\n・ユーザーを誤認させる悪質なウェブ広告や意図的に煩雑化された解約手続きが主な対象となる\n・デジタル広告業界は今後、表示や導線設計の透明性・適正化への対応が急務となる見通し",
-      "score": 6,
-      "reason": "ダークパターン規制強化はLP・広告表現に影響しうる",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "「DocumentOn」、景品表示法の表示規制AI審査機能をアップデート。 リスクの高さに応じて重要度判定＆類似処分事例・関連ガイドラインも提示。 - 株式会社LegalOn Technologies",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE53dE1HMDVuQ3M2X1NMRmpKNF9MSWtNNzdJaUk1YVJsV0RYaGItaHVvUXl5eWpxS2tLNTdSREF5U2xkNkk?oc=5",
-      "summary": "・LegalOn TechnologiesがDocumentOnの景品表示法AI審査機能を大幅アップデートした\n・リスクの高さに応じた重要度判定機能を追加し審査の優先順位付けが可能になった\n・類似の行政処分事例や関連ガイドラインも自動提示し法令違反リスクの低減を支援する",
-      "score": 5,
-      "reason": "景表法AI審査ツールで広告表現チェックに間接的に有用",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "韓国特化型マーケティング支援「InFluK」のビーウェル、カカオ グローバル広告 公式代理店として「KakaoTalk 日本版広告」の取り扱いを開始 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1MDAtdVh2RkRNV2RNTEVoT0tOa01Ga3FaME1xQUx4R3puVS1nSWxmN1dES1lhelN6RkpRaTYtY1I4cWV3MGZHcnhrdGp1cDdROHJESkdwcVA0UUZFSGdIN2xYdVplNXAtTkxj?oc=5",
-      "summary": "・ビーウェルが韓国カカオのグローバル広告公式代理店に認定されKakaoTalk日本版広告の取り扱いを開始した\n・同社は韓国特化型マーケティング支援サービス「InFluK」を展開し韓国市場向け支援の実績を持つ\n・日本企業が韓国最大メッセンジャーアプリKakaoTalkを活用した広告出稿が可能になる",
-      "score": 5,
-      "reason": "KakaoTalk広告の新媒体情報で一部担当者に有用",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "デジタル広告取引、課題と対策を共有 国際ABC連盟の総会を開催（朝日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZWsySGZvRGhCYTNOelliNnJWcTViZVU3MUhqeFNqaE5lbGVKdEQzRlJIamZWeVRiamZOejZCQkxBQW5jYWsxSnNpc0wzOGNDbHcwSmJIUEkyU3JHOHJ1Q01uMDg3eElqcFNKT3E4eWtiX3RBZGpGN3cydHBBelk?oc=5",
-      "summary": "・国際ABC連盟の総会が開催されデジタル広告取引の課題と対策が各国間で共有された\n・広告取引の透明性や信頼性確保に向けた国際的な議論が行われた模様である\n・朝日新聞が報じた本件はデジタル広告市場の健全化に向けた国際連携の動きを示す",
-      "score": 4,
-      "reason": "広告取引の業界動向だが実務への直接影響は薄い",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "国際ABC連盟の総会、日本で44年ぶり開催 情報の信頼性についてメディア関係者が議論…わした。 IFABCの総会が日本で開かれるのは44年ぶり。講演では、デジタル広告品質認証機構（JICDAQ）の小出誠事務局長が広告効果向上のため掲載広…産経新聞経済総合10/27(火) 18:30",
-      "link": "https://news.yahoo.co.jp/articles/8a11ce591bab95fc2d2ba91a9d6aff458b4ba082",
-      "summary": "・国際ABC連盟（IFABC）の総会が44年ぶりに日本で開催されメディア関係者が参加した\n・JICDAQの小出誠事務局長がデジタル広告の品質認証や掲載基準について講演を行った\n・情報の信頼性確保と広告効果向上に向けた取り組みが国際的に議論された",
-      "score": 4,
-      "reason": "広告品質認証の業界動向で実務への直接影響は限定的",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "電通デジタル、Google主催「Ads Academy Expert 2026 特別研修プログラム」参加企業に選出 - 電通デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUktnNnNqUDZIUGMzOFhsaUhJSDBEY1Zlejcxc0R0R1M0aTUtUmZtdkJCMjNDdkVBYVc1am5TOFRyM0JCQ3JwQkw1N3M1cVl6NjBGVHlESV9wcDJaNTFPRFdkcTJzQ1l6LUNlcURwUE1xT19xQjNrMC13?oc=5",
-      "summary": "・電通デジタルがGoogle主催「Ads Academy Expert 2026 特別研修プログラム」の参加企業に選出された\n・同プログラムはGoogleが提供する広告領域の専門的な研修で、選抜された企業が参加する形式である\n・電通デジタルはGoogle広告の高度な知見を習得し、広告運用の専門性をさらに強化する方針とみられる",
-      "score": 4,
-      "reason": "電通デジタルの社内研修選出で企業プレスリリース",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "イスラエルの「スパイ企業」、スターリンクユーザー標的＝関係筋…Discover-Techはスターリンクサービスユーザーに表示されるデジタル広告の大手の１つで、​これらの広告がユーザーの位置情報を特定するために使用…ロイター経済総合10/27(火) 19:34",
-      "link": "https://news.yahoo.co.jp/articles/0129a89491a0a60371d3a2a86ded8110c75927ff",
-      "summary": "・イスラエル企業Discover-Techがスターリンク利用者向けデジタル広告を通じて位置情報を特定していると報じられた\n・同社はスターリンクサービス上に表示される広告の大手提供元の一つとして活動している\n・デジタル広告の仕組みを諜報目的に転用しユーザーの所在地追跡に利用している疑いが浮上した",
-      "score": 2,
-      "reason": "イスラエルのスパイ企業の話で広告運用と無関係",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "Google News",
-      "title": "「外国代理人」の影響規制へ法案提出、コンサルや広告代理店など登録・罰則も…来年の通常国会検討 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xSnp1TERLOHdXdnZJR1dycXZDcXZLajBYQ29wREdRQzhudXl6bjI0QjFnY0hwaVF5YXFfSmhWQUdFaVIwbzIyM3VGZ2VHZE9WUTdZWGJHd2s3UlhFTUdfRVE0Qmg3UQ?oc=5",
-      "summary": "・外国政府の代理として活動するコンサルや広告代理店等を対象に登録義務を課す法案が検討されている\n・違反者への罰則規定も盛り込み、外国勢力による国内世論や政策への影響力行使を規制する狙いがある\n・政府は来年の通常国会への法案提出を目指しており、広告業界への影響が注目される",
-      "score": 2,
-      "reason": "外国代理人規制法案で広告運用実務とほぼ無関係",
-      "date": "2026-10-28"
-    },
     {
       "source": "Google広告",
       "title": "Ads in AI Mode expand to new markets.",
@@ -4198,6 +4108,96 @@
       "score": 4,
       "reason": "ダークパターン規制はLP設計時の参考になる",
       "date": "2026-11-27"
+    },
+    {
+      "source": "Yahoo!広告 (LYCBiz)",
+      "title": "LINEヤフー広告 検索連動型ショッピング広告とは？掲載面と活用のメリットを解説",
+      "link": "https://www.lycbiz.com/jp/column/ly-ads/searchads/shopping/service-information/shopping-search-ads/?list=23496",
+      "summary": "・LINEヤフーの検索連動型ショッピング広告は商品画像・価格を検索結果に表示できる広告形式である\n・掲載面はYahoo!検索やAgent iなど複数あり、視覚的訴求で購買意欲の高いユーザーに直接アプローチできる\n・商品データフィードを活用した配信の仕組みや開始手順についても具体的に解説されている",
+      "score": 8,
+      "reason": "主要プラットフォームの広告機能解説で実務に直結",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI時代、テレビ報道の信頼性をどう守る NHKやフジテレビで進む映像・広告の来歴証明」…2PAを導入。視聴者が来歴情報を確認できる。さらに、デジタル広告への適用の取り組みも。デジタル広告動画は多様な配信元が提供しており、広告主が誰なのか、…電波タイムズIT総合11/27(金) 14:40",
+      "link": "https://news.yahoo.co.jp/articles/2f2acfe3a328bde9735a97e130fa14bdbc78670f",
+      "summary": "・NHKやフジテレビがAI時代の映像信頼性確保に向けC2PA規格による来歴証明を導入開始\n・視聴者が映像の出所や編集履歴などの来歴情報をオンラインで確認できる仕組みを整備\n・デジタル広告動画にも来歴証明を適用し広告主の透明性確保や偽広告対策に取り組む方針",
+      "score": 5,
+      "reason": "デジタル広告の来歴証明はブランド安全性に関連",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アクセス解析の歴史【第2期 2005～2010】Google Analytics登場とユーザーフォーラム全盛の時代…EOのエリック・シュミットはじめGoogleには浸透していました。Google広告を含むサイトのデータ計測領域を、SiteCatalystなど競合に渡…Web担当者ForumIT総合11/26(木) 15:19",
+      "link": "https://news.yahoo.co.jp/articles/0804d1b01f2b187c5658c5ad76d97ec0399bc47a",
+      "summary": "・2005〜2010年はGoogle Analytics登場によりアクセス解析が急速に普及した時代である\n・GoogleはEricシュミットの方針のもと広告含むサイト計測領域の支配を戦略的に推進した\n・SiteCatalyst等の競合製品との争いの中でユーザーフォーラムが情報共有の場として全盛を迎えた",
+      "score": 5,
+      "reason": "GA歴史解説で分析基礎知識として一定の参考価値",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "解約方法「ほんまにわからん」タップ1回で契約できるのに… 解除できない“サブスク”・気づかず「定期購入」 意に反して誘導“ダークパターン” 被害額は最大3.2兆円 専門家「今後はAIで巧妙化の恐れも」…看過できない状況になってきている。法規制含めて推進していただければ」 消費者庁によると、その手口は様々です。 商品画面で、最初から定期購入が選択されて…関西テレビ大阪11/27(金) 5:00",
+      "link": "https://news.yahoo.co.jp/articles/852962b7400f5316d31e87fe062704e029117619",
+      "summary": "・サブスク解約手続きが意図的に複雑化され消費者が解除できない「ダークパターン」被害が深刻化している\n・タップ1回で契約可能な一方で解約は困難な設計により被害額は最大3.2兆円規模に達している\n・専門家はAIによる手口の巧妙化を警告し消費者庁や法規制による対策強化の必要性を訴えている",
+      "score": 4,
+      "reason": "ダークパターン規制動向は広告LP設計に間接影響",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Google News",
+      "title": "広告の30年をたどる『インターネット広告創世記 Googleが切り拓いたデジタル広告革命』を3名様にプレゼント - Web担",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uQ0ZGMHcxdnlta0Utck9kSWw3em1uMi1DRnBOaFBrQml2NnMzdTl2Ri00bXlXLVpKR0w5OE12djlaTUxzUFRoVWt0eTBTQm9hWTBzNGpqQQ?oc=5",
+      "summary": "・Googleが牽引したデジタル広告30年の歴史をたどる書籍『インターネット広告創世記』が紹介されている\n・同書はGoogle発の広告技術革命がどのように業界を変えたかを詳述した内容となっている\n・Web担当者Forumの読者プレゼント企画として抽選で3名に同書が贈られる",
+      "score": 3,
+      "reason": "書籍プレゼント企画で実務への直接的影響なし",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Google News",
+      "title": "参政、グーグル広告に1億円超 動画製作やライブ配信、各党注力 25年政治資金収支報告書（時事通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rd3RSM1ZGTVRmS1BQTVhwaVhreWs2X29TUm9rR2lmX3VNQlJkWVFDNnpkVEVteE9jVFdVbU5Ib0x6WHRhVVNOYmljcHRuWFNzaU9jMzZMa2VWeVBwQ0VZcVM0Q0xLdHM5XzRoUGd1eTdFc284VURRd0Rsb3FkN0k?oc=5",
+      "summary": "・参政党が2025年政治資金収支報告書でグーグル広告に1億円超を支出していたことが判明した\n・動画製作やライブ配信など各政党がデジタル広告・ネット発信に注力する傾向が鮮明になった\n・政治資金のデジタルシフトが加速し、各党のネット戦略が選挙活動の重要な柱となっている",
+      "score": 3,
+      "reason": "政治広告の支出報告で運用実務への示唆は薄い",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Google News",
+      "title": "参政、グーグル広告に１億円超 動画製作やライブ配信、各党注力―２５年政治資金収支報告書 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FREtVY3JQdEJlaDBWWmlsZTRDRVBGZjB5QlVBbWN0NEdDV0VMNUJxRXFLSktabFltZk5IMEszUTMwWkRjVWNGNDZsMFhwbFhPa0pPbzRnblpiN0hhR3hqN3hGQQ?oc=5",
+      "summary": "・参政党が2025年政治資金収支報告書でグーグル広告に1億円超を支出していたことが判明した\n・動画製作やライブ配信など各政党がデジタル施策に注力する傾向が鮮明になっている\n・政治活動におけるネット広告費の増大が進み各党の資金配分に変化が表れている",
+      "score": 3,
+      "reason": "id10と同一内容の重複記事",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "参政、グーグル広告に1億円超 動画製作やライブ配信、各党注力 25年政治資金収支報告書…）が「ネット広告料」名目で約6700万円支出した。チームみらいも「Google広告費」を約360万円計上した。 立憲民主党や日本維新の会、国民民主党…時事通信政治11/27(金) 20:32",
+      "link": "https://news.yahoo.co.jp/articles/c5f60631afd9540262d34c5c6103336957e32b91",
+      "summary": "・参政党がグーグル広告に1億円超を支出し、各党中で突出した規模のネット広告投資を行った\n・れいわ新選組はネット広告料名目で約6700万円、チームみらいもGoogle広告費約360万円を計上\n・立憲・維新・国民民主など主要政党もネット広告や動画制作・ライブ配信に注力する傾向が鮮明に",
+      "score": 3,
+      "reason": "id10と同一内容、Google広告費の具体額は参考程度",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Google News",
+      "title": "札幌市交通局の広告メディアパワー - 札幌市",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tNW9yTlNRdG82V0RZY3FoUjMxMWtlc2dMZkNPS3oyVFNWUXFFdFU5VUExeG96eE1Da3R0c0huWmxPd3VMOEtESXphM291U1VMcWVJUlV3blF1QQ?oc=5",
+      "summary": "・札幌市交通局が地下鉄や路面電車を活用した広告媒体の訴求力を紹介している\n・公共交通機関の高い利用者数を背景に広告メディアとしての価値をアピールしている\n・交通広告により札幌市内の幅広い層へ効率的にリーチできる点を強調している",
+      "score": 2,
+      "reason": "交通広告の媒体資料で運用型広告と無関係",
+      "date": "2026-11-28"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ママにそっくり」市川團十郎、長女・麗禾の日常ショットが反響「大人っぽくなられましたね」「上品で素敵な雰囲気」…ています。 【メディア消費】ネット利用時間がテレビを超過！急拡大するデジタル広告市場総務省の調査によるとインターネットの1日平均利用時間は10年間で…LIMOエンタメ総合11/28(土) 7:40",
+      "link": "https://news.yahoo.co.jp/articles/bd44160662ccb86070497415c35d3f47830ff47e",
+      "summary": "・総務省調査でネット1日平均利用時間がテレビを超え、デジタル広告市場が急拡大している\n・市川團十郎の長女・麗禾の日常写真に「大人っぽい」「上品」と反響が集まっている\n・記事はエンタメとメディア消費動向を併せて取り上げたLIMO掲載の複合型ニュースである",
+      "score": 2,
+      "reason": "芸能ニュースが主でデジタル広告は付随情報",
+      "date": "2026-11-28"
     }
   ]
 }
